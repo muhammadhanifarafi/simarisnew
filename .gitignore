@@ -127,3 +127,5 @@
 
 uploads/*
 .env
+writable/
+writable/debugbar
