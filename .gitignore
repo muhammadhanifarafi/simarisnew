@@ -2,127 +2,128 @@
 # Operating Specific Junk Files
 #-------------------------
 
-# OS X
-.DS_Store
-.AppleDouble
-.LSOverride
+# # OS X
+# .DS_Store
+# .AppleDouble
+# .LSOverride
 
-# OS X Thumbnails
-._*
+# # OS X Thumbnails
+# ._*
 
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
-Desktop.ini
+# # Windows image file caches
+# Thumbs.db
+# ehthumbs.db
+# Desktop.ini
 
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
+# # Recycle Bin used on file shares
+# $RECYCLE.BIN/
 
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
+# # Windows Installer files
+# *.cab
+# *.msi
+# *.msm
+# *.msp
 
-# Windows shortcuts
-*.lnk
+# # Windows shortcuts
+# *.lnk
 
-# Linux
-*~
+# # Linux
+# *~
 
-# KDE directory preferences
-.directory
+# # KDE directory preferences
+# .directory
 
-# Linux trash folder which might appear on any partition or disk
-.Trash-*
+# # Linux trash folder which might appear on any partition or disk
+# .Trash-*
 
-#-------------------------
-# Environment Files
-#-------------------------
-# These should never be under version control,
-# as it poses a security risk.
-.env
-.vagrant
-Vagrantfile
+# #-------------------------
+# # Environment Files
+# #-------------------------
+# # These should never be under version control,
+# # as it poses a security risk.
 
-#-------------------------
-# Temporary Files
-#-------------------------
-writable/cache/*
-!writable/cache/index.html
+# .vagrant
+# Vagrantfile
 
-writable/logs/*
-!writable/logs/index.html
+# #-------------------------
+# # Temporary Files
+# #-------------------------
+# writable/cache/*
+# !writable/cache/index.html
 
-writable/session/*
-!writable/session/index.html
+# writable/logs/*
+# !writable/logs/index.html
 
-writable/uploads/*
-!writable/uploads/index.html
+# writable/session/*
+# !writable/session/index.html
 
-writable/debugbar/*
-!writable/debugbar/.gitkeep
+# writable/uploads/*
+# !writable/uploads/index.html
 
-php_errors.log
+# writable/debugbar/*
+# !writable/debugbar/.gitkeep
 
-#-------------------------
-# User Guide Temp Files
-#-------------------------
-user_guide_src/build/*
-user_guide_src/cilexer/build/*
-user_guide_src/cilexer/dist/*
-user_guide_src/cilexer/pycilexer.egg-info/*
+# php_errors.log
 
-#-------------------------
-# Test Files
-#-------------------------
-tests/coverage*
+# #-------------------------
+# # User Guide Temp Files
+# #-------------------------
+# user_guide_src/build/*
+# user_guide_src/cilexer/build/*
+# user_guide_src/cilexer/dist/*
+# user_guide_src/cilexer/pycilexer.egg-info/*
 
-# Don't save phpunit under version control.
-phpunit
+# #-------------------------
+# # Test Files
+# #-------------------------
+# tests/coverage*
 
-#-------------------------
-# Composer
-#-------------------------
-vendor/
+# # Don't save phpunit under version control.
+# phpunit
 
-#-------------------------
-# IDE / Development Files
-#-------------------------
+# #-------------------------
+# # Composer
+# #-------------------------
+# # vendor/
 
-# Modules Testing
-_modules/*
+# #-------------------------
+# # IDE / Development Files
+# #-------------------------
 
-# phpenv local config
-.php-version
+# # Modules Testing
+# _modules/*
 
-# Jetbrains editors (PHPStorm, etc)
-.idea/
-*.iml
+# # phpenv local config
+# .php-version
 
-# Netbeans
-nbproject/
-build/
-nbbuild/
-dist/
-nbdist/
-nbactions.xml
-nb-configuration.xml
-.nb-gradle/
+# # Jetbrains editors (PHPStorm, etc)
+# .idea/
+# *.iml
 
-# Sublime Text
-*.tmlanguage.cache
-*.tmPreferences.cache
-*.stTheme.cache
-*.sublime-workspace
-*.sublime-project
-.phpintel
-/api/
+# # Netbeans
+# nbproject/
+# build/
+# nbbuild/
+# dist/
+# nbdist/
+# nbactions.xml
+# nb-configuration.xml
+# .nb-gradle/
 
-# Visual Studio Code
-.vscode/
+# # Sublime Text
+# *.tmlanguage.cache
+# *.tmPreferences.cache
+# *.stTheme.cache
+# *.sublime-workspace
+# *.sublime-project
+# .phpintel
+# /api/
 
-/results/
-/phpunit*.xml
+# # Visual Studio Code
+# .vscode/
+
+# /results/
+# /phpunit*.xml
 
 uploads/*
+.env
