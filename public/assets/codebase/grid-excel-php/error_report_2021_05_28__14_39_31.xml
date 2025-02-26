@@ -1,0 +1,1341 @@
+<rows profile='color'><head><columns><column  rowspan="4"  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  rowspan="4"  width='120' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[Divisi Bisnis/Cabang]]></column><column  colspan="2"  width='120' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Project]]></column><column  width='230' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='190' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Klien]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[P (7/4)]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[L (9/6)]]></column><column  colspan="2"  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[Jangka Waktu]]></column><column  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Nilai Kontrak]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ RAB]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="3"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Realisasi]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Prosentase Progress 2021]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[  Piutang]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Proforma]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Uang Muka]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ ByDM]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ PPU dan ByDM Detail]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Chart Pendapatan]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Kode]]></column><column rowspan="3" ><![CDATA[Nama]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Awal]]></column><column rowspan="3" ><![CDATA[Akhir]]></column><column><![CDATA[]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Setahun]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Bulan Berjalan]]></column><column><![CDATA[Realisasi Beban Vs RAB Setahun]]></column><column><![CDATA[Realisasi Beban Vs RAB Bulan Berjalan]]></column><column><![CDATA[Progress Fisik]]></column><column><![CDATA[QAQC]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="3" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[s/d Bulan Mei 2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[(1)]]></column><column><![CDATA[(2)]]></column><column><![CDATA[(3)]]></column><column><![CDATA[(4)]]></column><column><![CDATA[(5)]]></column><column><![CDATA[(6)]]></column><column><![CDATA[(7)]]></column><column><![CDATA[(8)]]></column><column><![CDATA[(9)]]></column><column><![CDATA[(7/1)]]></column><column><![CDATA[(7/4)]]></column><column><![CDATA[(8/2)]]></column><column><![CDATA[(8/5)]]></column><column><![CDATA[(15)]]></column><column><![CDATA[(16)]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='9' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[304,722,372,624.0]]></column>
+<column><![CDATA[76,442,320,903.0]]></column>
+<column><![CDATA[57,884,778,652.0]]></column>
+<column><![CDATA[18,557,542,251.0]]></column>
+<column><![CDATA[29,106,391,437.0]]></column>
+<column><![CDATA[26,258,241,118.0]]></column>
+<column><![CDATA[2,848,150,319.0]]></column>
+<column><![CDATA[9,250,623,897.0]]></column>
+<column><![CDATA[11,291,193,998.3]]></column>
+<column><![CDATA[-2,040,570,101.3]]></column>
+<column colspan='6' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[13,069,397,614.0]]></column>
+<column><![CDATA[6,340,482,252.0]]></column>
+<column><![CDATA[978,910,000.0]]></column>
+<column><![CDATA[5,010,862,181.1]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0414030021
+                        
+                         Penjelasan]]></cell><cell><![CDATA[TKDN TANGGUH PROJECT_BP BERAU 2014-2021]]></cell><cell><![CDATA[BP BERAU LTD.]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-10-2014]]></cell><cell><![CDATA[30-09-2021]]></cell><cell><![CDATA[6,850,800,000.0]]></cell><cell><![CDATA[489,342,858.0]]></cell><cell><![CDATA[317,239,200.0]]></cell><cell><![CDATA[172,103,658.0]]></cell><cell><![CDATA[407,785,715.0]]></cell><cell><![CDATA[127,870,500.0]]></cell><cell><![CDATA[279,915,215.0]]></cell><cell><![CDATA[324,417,006.0]]></cell><cell><![CDATA[126,165,457.0]]></cell><cell><![CDATA[198,251,549.0]]></cell><cell><![CDATA[66.3]]></cell><cell><![CDATA[79.56]]></cell><cell><![CDATA[39.8]]></cell><cell><![CDATA[98.7]]></cell><cell><![CDATA[2 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[714,730,772.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[-1,200,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0417030019
+                        
+                         Penjelasan]]></cell><cell><![CDATA[VERIFIKASI TKDN TANGGUH CONTRACTS 4420001603_BP BERAU_2017-2019]]></cell><cell><![CDATA[BP BERAU LTD.]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[01-01-2017]]></cell><cell><![CDATA[15-10-2019]]></cell><cell><![CDATA[3,304,874,129.0]]></cell><cell><![CDATA[556,705,944.0]]></cell><cell><![CDATA[255,082,812.0]]></cell><cell><![CDATA[301,623,132.0]]></cell><cell><![CDATA[69,402,356.0]]></cell><cell><![CDATA[106,284,505.0]]></cell><cell><![CDATA[-36,882,149.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[303,066.0]]></cell><cell><![CDATA[-303,066.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.1]]></cell><cell><![CDATA[0.3]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[96,500,613.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[-20,400,000.0]]></cell><cell><![CDATA[32,494,940.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0418020033
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Provision of Monitoring And Post Audit TKDN Verification]]></cell><cell><![CDATA[PERTAMINA HULU ENERGI (PHE)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[04-09-2018]]></cell><cell><![CDATA[04-12-2021]]></cell><cell><![CDATA[10,757,668,360.0]]></cell><cell><![CDATA[263,595,008.0]]></cell><cell><![CDATA[176,163,876.0]]></cell><cell><![CDATA[87,431,132.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[73,401,615.0]]></cell><cell><![CDATA[-73,401,615.0]]></cell><cell><![CDATA[268,352,834.0]]></cell><cell><![CDATA[56,445,164.0]]></cell><cell><![CDATA[211,907,670.0]]></cell><cell><![CDATA[101.8]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[32.0]]></cell><cell><![CDATA[76.9]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[302,826,928.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[5,220,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0418040026
+                        
+                         Penjelasan]]></cell><cell><![CDATA[PENGADAAN JASA KONSULTAN PENGAWAS INDEPENDEN 
+PALAPA RING PAKET TENGAH, TAHAP OM]]></cell><cell><![CDATA[LEN TELEKOMUNIKASI INDONESIA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-12-2018]]></cell><cell><![CDATA[31-12-2033]]></cell><cell><![CDATA[45,793,930,145.0]]></cell><cell><![CDATA[1,339,194,212.0]]></cell><cell><![CDATA[1,132,329,516.0]]></cell><cell><![CDATA[206,864,696.0]]></cell><cell><![CDATA[334,798,553.0]]></cell><cell><![CDATA[471,803,965.0]]></cell><cell><![CDATA[-137,005,412.0]]></cell><cell><![CDATA[324,549,617.0]]></cell><cell><![CDATA[257,811,387.0]]></cell><cell><![CDATA[66,738,230.0]]></cell><cell><![CDATA[24.23]]></cell><cell><![CDATA[96.94]]></cell><cell><![CDATA[22.8]]></cell><cell><![CDATA[54.6]]></cell><cell><![CDATA[11 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[357,004,578.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[8,710,000.0]]></cell><cell><![CDATA[198,139,478.9]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0418040029
+                        
+                         Penjelasan]]></cell><cell><![CDATA[PELAKSANAAN PEKERJAAN KONSULTAN PENGAWAS INDEPENDEN, TAHAP OPERATION DAN MAINTENANCE]]></cell><cell><![CDATA[PALAPA RING BARAT]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[23-04-2018]]></cell><cell><![CDATA[31-12-2033]]></cell><cell><![CDATA[22,547,657,645.0]]></cell><cell><![CDATA[1,339,194,204.0]]></cell><cell><![CDATA[1,108,632,708.0]]></cell><cell><![CDATA[230,561,496.0]]></cell><cell><![CDATA[557,997,585.0]]></cell><cell><![CDATA[461,930,295.0]]></cell><cell><![CDATA[96,067,290.0]]></cell><cell><![CDATA[227,754,118.0]]></cell><cell><![CDATA[207,124,731.4]]></cell><cell><![CDATA[20,629,386.6]]></cell><cell><![CDATA[17.01]]></cell><cell><![CDATA[40.82]]></cell><cell><![CDATA[18.7]]></cell><cell><![CDATA[44.8]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[250,529,528.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[3,460,000.0]]></cell><cell><![CDATA[116,011,407.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0419020035
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Jasa Penghitungan Implikasi Harga PLTU NTB]]></cell><cell><![CDATA[BARATA INDONESIA (PERSERO)]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[26-08-2019]]></cell><cell><![CDATA[27-01-2020]]></cell><cell><![CDATA[530,255,000.0]]></cell><cell><![CDATA[145,820,125.0]]></cell><cell><![CDATA[77,956,040.0]]></cell><cell><![CDATA[67,864,085.0]]></cell><cell><![CDATA[145,820,125.0]]></cell><cell><![CDATA[77,956,040.0]]></cell><cell><![CDATA[67,864,085.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[422,895,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[42,030,653.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0419040017RKAP
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Local Content TKDN Monitoring & Consultancy]]></cell><cell><![CDATA[MH POWER SYSTEMS INDONESIA]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[01-01-2019]]></cell><cell><![CDATA[31-05-2021]]></cell><cell><![CDATA[872,979,546.0]]></cell><cell><![CDATA[283,545,220.0]]></cell><cell><![CDATA[174,192,684.0]]></cell><cell><![CDATA[109,352,536.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[72,580,285.0]]></cell><cell><![CDATA[-72,580,285.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[4,835,000.0]]></cell><cell><![CDATA[-4,835,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[2.8]]></cell><cell><![CDATA[6.7]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[61,298,884.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0419040029
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Civil and Pipeline Integrity Assessment Services]]></cell><cell><![CDATA[CONOCOPHILLIPS (GRISSIK) LTD]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[08-07-2019]]></cell><cell><![CDATA[08-07-2022]]></cell><cell><![CDATA[21,324,100,000.0]]></cell><cell><![CDATA[6,283,809,000.0]]></cell><cell><![CDATA[5,406,860,160.0]]></cell><cell><![CDATA[876,948,840.0]]></cell><cell><![CDATA[2,094,603,000.0]]></cell><cell><![CDATA[2,252,858,400.0]]></cell><cell><![CDATA[-158,255,400.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[47,290,047.0]]></cell><cell><![CDATA[-47,290,047.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.9]]></cell><cell><![CDATA[2.1]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[466,936,250.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[1,350,000.0]]></cell><cell><![CDATA[12,857,721.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0419040036
+                        
+                         Penjelasan]]></cell><cell><![CDATA[TKDN IPP - Jasa Pemantauan Tingkat Komponen Dalam Negeri]]></cell><cell><![CDATA[BHIMASENA POWER INDONESIA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[12-06-2019]]></cell><cell><![CDATA[31-03-2020]]></cell><cell><![CDATA[750,000,000.0]]></cell><cell><![CDATA[375,000,000.0]]></cell><cell><![CDATA[164,748,723.0]]></cell><cell><![CDATA[210,251,277.0]]></cell><cell><![CDATA[375,000,000.0]]></cell><cell><![CDATA[164,748,723.0]]></cell><cell><![CDATA[210,251,277.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[3,400,000.0]]></cell><cell><![CDATA[-3,400,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[2.1]]></cell><cell><![CDATA[2.1]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[118,356,082.3]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0419040043RKAP
+                        
+                         Penjelasan]]></cell><cell><![CDATA[PROVISION OF LOCAL CONTENT VERIFICATION SERVICES]]></cell><cell><![CDATA[BUT SAKA INDONESIA PANGKAH LTD.]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[15-08-2019]]></cell><cell><![CDATA[15-08-2021]]></cell><cell><![CDATA[1,303,125,000.0]]></cell><cell><![CDATA[412,671,874.0]]></cell><cell><![CDATA[230,876,234.0]]></cell><cell><![CDATA[181,795,640.0]]></cell><cell><![CDATA[206,335,937.0]]></cell><cell><![CDATA[128,264,575.0]]></cell><cell><![CDATA[78,071,362.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[31,493,910.0]]></cell><cell><![CDATA[-31,493,910.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[13.6]]></cell><cell><![CDATA[24.6]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[388,062,867.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[40,291,235.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0419070021RKAP
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Provision of Local Content/TKDN Verification Services for Merakes Development]]></cell><cell><![CDATA[ENI EAST SEPINGGAN LTD]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[14-03-2019]]></cell><cell><![CDATA[13-05-2022]]></cell><cell><![CDATA[8,768,209,645.0]]></cell><cell><![CDATA[559,736,098.0]]></cell><cell><![CDATA[351,229,488.0]]></cell><cell><![CDATA[208,506,610.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[146,345,620.0]]></cell><cell><![CDATA[-146,345,620.0]]></cell><cell><![CDATA[156,505,153.0]]></cell><cell><![CDATA[88,309,752.0]]></cell><cell><![CDATA[68,195,401.0]]></cell><cell><![CDATA[27.96]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[25.1]]></cell><cell><![CDATA[60.3]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[-5,175,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420020008
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Pengadaan Jasa Verifikasi TKDN Proyek Drilling – Monitoring & Post Audit]]></cell><cell><![CDATA[PERTAMINA EP CEPU]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[01-08-2019]]></cell><cell><![CDATA[30-12-2022]]></cell><cell><![CDATA[3,137,054,000.0]]></cell><cell><![CDATA[558,656,022.0]]></cell><cell><![CDATA[430,322,592.0]]></cell><cell><![CDATA[128,333,430.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[179,301,080.0]]></cell><cell><![CDATA[-179,301,080.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[8,394,600.0]]></cell><cell><![CDATA[-8,394,600.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[2.0]]></cell><cell><![CDATA[4.7]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[322,174,547.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420020017
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Verifikasi Tingkat Komponen Dalam Negeri]]></cell><cell><![CDATA[PERTAMINA HULU MAHAKAM]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-06-2020]]></cell><cell><![CDATA[01-06-2021]]></cell><cell><![CDATA[7,437,954,600.0]]></cell><cell><![CDATA[2,683,937,556.0]]></cell><cell><![CDATA[1,767,745,704.0]]></cell><cell><![CDATA[916,191,852.0]]></cell><cell><![CDATA[1,073,575,022.0]]></cell><cell><![CDATA[1,473,121,420.0]]></cell><cell><![CDATA[-399,546,398.0]]></cell><cell><![CDATA[1,253,387,302.0]]></cell><cell><![CDATA[341,871,571.0]]></cell><cell><![CDATA[911,515,731.0]]></cell><cell><![CDATA[46.7]]></cell><cell><![CDATA[116.75]]></cell><cell><![CDATA[19.3]]></cell><cell><![CDATA[23.2]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[248,525,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420020023
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Pekerjaan Konsultan Integrasi Sarana dan Prasarana LRT Jabodebek]]></cell><cell><![CDATA[INDUSTRI KERETA API (PERSERO)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[16-07-2020]]></cell><cell><![CDATA[14-12-2022]]></cell><cell><![CDATA[78,380,150,500.0]]></cell><cell><![CDATA[31,035,372,744.0]]></cell><cell><![CDATA[26,551,555,880.0]]></cell><cell><![CDATA[4,483,816,864.0]]></cell><cell><![CDATA[12,931,405,310.0]]></cell><cell><![CDATA[10,479,814,950.0]]></cell><cell><![CDATA[2,451,590,360.0]]></cell><cell><![CDATA[4,362,283,752.0]]></cell><cell><![CDATA[8,042,917,098.5]]></cell><cell><![CDATA[-3,680,633,346.5]]></cell><cell><![CDATA[14.06]]></cell><cell><![CDATA[33.73]]></cell><cell><![CDATA[30.3]]></cell><cell><![CDATA[76.8]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[6,410,821,166.0]]></cell><cell><![CDATA[4,362,283,752.0]]></cell><cell><![CDATA[129,000,000.0]]></cell><cell><![CDATA[484,467,445.8]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420020032
+                        
+                         Penjelasan]]></cell><cell><![CDATA[JASA VERIFIKASI TKDN (SURVEYOR INDONESIA)]]></cell><cell><![CDATA[PERTAMINA HULU SANGA SANGA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[03-09-2020]]></cell><cell><![CDATA[03-09-2022]]></cell><cell><![CDATA[4,980,917,360.0]]></cell><cell><![CDATA[2,392,629,504.0]]></cell><cell><![CDATA[1,318,454,130.0]]></cell><cell><![CDATA[1,074,175,374.0]]></cell><cell><![CDATA[717,788,851.0]]></cell><cell><![CDATA[529,017,818.0]]></cell><cell><![CDATA[188,771,033.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[115,903,603.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420020033
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Pekerjaan Verifikasi Capaian TKDN Proyek EPC Lawe-Lawe of Facalities RDMP RU V Balikpapan]]></cell><cell><![CDATA[KILANG PERTAMINA BALIKPAPAN]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[05-08-2020]]></cell><cell><![CDATA[07-02-2022]]></cell><cell><![CDATA[1,175,000,000.0]]></cell><cell><![CDATA[691,944,000.0]]></cell><cell><![CDATA[295,497,032.0]]></cell><cell><![CDATA[396,446,968.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[165,862,352.0]]></cell><cell><![CDATA[-165,862,352.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[6,430,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[17]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420020042
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Jasa Konsultan Audit Struktur dan M/E Bangunan Gedung Agro Plaza Jakarta (SPPH 15397)]]></cell><cell><![CDATA[BUKIT ASAM (PERSERO) TBK]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[28-09-2020]]></cell><cell><![CDATA[05-11-2020]]></cell><cell><![CDATA[478,362,500.0]]></cell><cell><![CDATA[50,000,000.0]]></cell><cell><![CDATA[50,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[50,000,000.0]]></cell><cell><![CDATA[50,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[50,000,000.0]]></cell><cell><![CDATA[41,000,000.0]]></cell><cell><![CDATA[9,000,000.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[82.0]]></cell><cell><![CDATA[82.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[55,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[18]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040006
+                        
+                         Penjelasan]]></cell><cell><![CDATA[LOCAL CONTENT AND SUPPORT VERIFICATION SERVICES]]></cell><cell><![CDATA[OPHIR INDONESIA (MADURA OFFSHORE) PTY LTD]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[23-12-2019]]></cell><cell><![CDATA[23-12-2020]]></cell><cell><![CDATA[2,003,590,000.0]]></cell><cell><![CDATA[704,416,000.0]]></cell><cell><![CDATA[321,030,708.0]]></cell><cell><![CDATA[383,385,292.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[133,762,795.0]]></cell><cell><![CDATA[-133,762,795.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[709,980,816.0]]></cell><cell><![CDATA[48,580,500.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[31,176,812.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[19]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040007
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Jasa Verifikasi Tingkat Komponen Dalam Negeri (TKDN) Paket 2]]></cell><cell><![CDATA[PERTAMINA HULU KALIMANTAN TIMUR]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[05-12-2019]]></cell><cell><![CDATA[04-12-2022]]></cell><cell><![CDATA[4,240,264,333.0]]></cell><cell><![CDATA[728,995,700.0]]></cell><cell><![CDATA[390,112,864.0]]></cell><cell><![CDATA[338,882,836.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[243,820,540.0]]></cell><cell><![CDATA[-243,820,540.0]]></cell><cell><![CDATA[2.0]]></cell><cell><![CDATA[8,575,653.0]]></cell><cell><![CDATA[-8,575,651.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[2.2]]></cell><cell><![CDATA[3.5]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[195,382,697.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[132,894,861.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[20]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040009
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Provision Of TKDN Verification Services]]></cell><cell><![CDATA[TALISMAN SAKAKEMANG]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-12-2020]]></cell><cell><![CDATA[30-11-2020]]></cell><cell><![CDATA[2,611,073,000.0]]></cell><cell><![CDATA[735,218,000.0]]></cell><cell><![CDATA[366,852,176.0]]></cell><cell><![CDATA[368,365,824.0]]></cell><cell><![CDATA[145,193,000.0]]></cell><cell><![CDATA[151,316,625.0]]></cell><cell><![CDATA[-6,123,625.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[49,393,079.0]]></cell><cell><![CDATA[-49,393,079.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[13.5]]></cell><cell><![CDATA[32.6]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[2,122,597,400.0]]></cell><cell><![CDATA[1,929,618,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[41,467,280.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[21]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040018RKAP
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Jasa Monitoring Tingkat Komponen Dalam Negeri (TKDN) 1 x 1000 MW Lokasi Cirebon]]></cell><cell><![CDATA[CIREBON ENERGI PRASARANA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[17-02-2020]]></cell><cell><![CDATA[28-02-2022]]></cell><cell><![CDATA[1,920,000,000.0]]></cell><cell><![CDATA[872,727,272.0]]></cell><cell><![CDATA[583,287,732.0]]></cell><cell><![CDATA[289,439,540.0]]></cell><cell><![CDATA[436,363,636.0]]></cell><cell><![CDATA[243,036,555.0]]></cell><cell><![CDATA[193,327,081.0]]></cell><cell><![CDATA[240,000,000.0]]></cell><cell><![CDATA[179,043,460.0]]></cell><cell><![CDATA[60,956,540.0]]></cell><cell><![CDATA[27.5]]></cell><cell><![CDATA[55]]></cell><cell><![CDATA[30.7]]></cell><cell><![CDATA[73.7]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[264,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[29,600,000.0]]></cell><cell><![CDATA[96,950,308.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[22]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040021
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Provision of Local Content Assessment and Monitoring Services]]></cell><cell><![CDATA[PREMIER OIL NATUNA SEA BV]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[20-07-2020]]></cell><cell><![CDATA[19-07-2023]]></cell><cell><![CDATA[4,580,821,815.0]]></cell><cell><![CDATA[1,319,522,199.0]]></cell><cell><![CDATA[681,572,028.0]]></cell><cell><![CDATA[637,950,171.0]]></cell><cell><![CDATA[439,840,733.0]]></cell><cell><![CDATA[258,988,345.0]]></cell><cell><![CDATA[180,852,388.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[38,367,500.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[23]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040025
+                        
+                         Penjelasan]]></cell><cell><![CDATA[1.	Pengadaan Penyusunan Laporan Tingkat Komponen Dalam Negeri (TKDN) Pada Pembangunan Pembangkit Listrik Tenaga Uap Mulut Tambang Jambi-1 (PLTU MT Jambi-1) Kapasitas 2 X 3000 MW Di Kabupaten Sarolangun Provinsi Jambi (nomor Kontrak: 002.PJ/061/IP/202]]></cell><cell><![CDATA[INDONESIA POWER]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[02-07-2020]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[1,750,000,000.0]]></cell><cell><![CDATA[700,000,000.0]]></cell><cell><![CDATA[487,074,410.0]]></cell><cell><![CDATA[212,925,590.0]]></cell><cell><![CDATA[175,000,000.0]]></cell><cell><![CDATA[72,962,270.0]]></cell><cell><![CDATA[102,037,730.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[47,013,266.0]]></cell><cell><![CDATA[-47,013,266.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[9.7]]></cell><cell><![CDATA[64.4]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[48,787,656.5]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[24]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040026RKAP
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Provision of Domestic Content Verification Services]]></cell><cell><![CDATA[BUT EXXONMOBIL CEPU LTD]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[10-08-2020]]></cell><cell><![CDATA[10-08-2025]]></cell><cell><![CDATA[19,145,541,967.0]]></cell><cell><![CDATA[3,284,674,226.0]]></cell><cell><![CDATA[1,829,727,660.0]]></cell><cell><![CDATA[1,454,946,566.0]]></cell><cell><![CDATA[985,402,268.0]]></cell><cell><![CDATA[737,386,525.0]]></cell><cell><![CDATA[248,015,743.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[25,200,000.0]]></cell><cell><![CDATA[129,045,078.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[25]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040027
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Jasa Verifikasi Tingkat Kandungan Lokal]]></cell><cell><![CDATA[PETROCHINA INTERNATIONAL JABUNG LTD]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-07-2020]]></cell><cell><![CDATA[30-12-2020]]></cell><cell><![CDATA[650,000,000.0]]></cell><cell><![CDATA[100,000,000.0]]></cell><cell><![CDATA[108,000,000.0]]></cell><cell><![CDATA[-8,000,000.0]]></cell><cell><![CDATA[100,000,000.0]]></cell><cell><![CDATA[108,000,000.0]]></cell><cell><![CDATA[-8,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[24,900,000.0]]></cell><cell><![CDATA[15,591,881.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[26]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040038
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Survei Kepuasan Pelanggan PT SBN Tahun 2020]]></cell><cell><![CDATA[SARANA BANDAR NASIONAL]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[26-10-2020]]></cell><cell><![CDATA[25-12-2020]]></cell><cell><![CDATA[225,500,000.0]]></cell><cell><![CDATA[82,000,000.0]]></cell><cell><![CDATA[61,286,146.0]]></cell><cell><![CDATA[20,713,854.0]]></cell><cell><![CDATA[82,000,000.0]]></cell><cell><![CDATA[61,286,146.0]]></cell><cell><![CDATA[20,713,854.0]]></cell><cell><![CDATA[82,000,000.0]]></cell><cell><![CDATA[53,453,887.0]]></cell><cell><![CDATA[28,546,113.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[87.2]]></cell><cell><![CDATA[87.2]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[27]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040041
+                        
+                         Penjelasan]]></cell><cell><![CDATA[KONSULTAN PENGAWAS INDEPENDEN]]></cell><cell><![CDATA[SATELIT NUSANTARA TIGA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[19-10-2020]]></cell><cell><![CDATA[31-12-2025]]></cell><cell><![CDATA[30,674,756,093.0]]></cell><cell><![CDATA[10,658,007,029.0]]></cell><cell><![CDATA[5,645,348,552.0]]></cell><cell><![CDATA[5,012,658,477.0]]></cell><cell><![CDATA[3,691,206,664.0]]></cell><cell><![CDATA[3,703,478,015.0]]></cell><cell><![CDATA[-12,271,351.0]]></cell><cell><![CDATA[1,352,503,205.0]]></cell><cell><![CDATA[1,007,457,367.9]]></cell><cell><![CDATA[345,045,837.1]]></cell><cell><![CDATA[12.69]]></cell><cell><![CDATA[36.64]]></cell><cell><![CDATA[17.9]]></cell><cell><![CDATA[27.2]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[81,445,000.0]]></cell><cell><![CDATA[507,155,274.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[28]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040048
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Pekerjaan Jasa Post Audit Tingkat Komponen Dalam Negeri PLTU 2 x 100 MW Bengkulu]]></cell><cell><![CDATA[TENAGA LISTRIK BENGKULU]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[02-11-2020]]></cell><cell><![CDATA[28-02-2021]]></cell><cell><![CDATA[205,000,000.0]]></cell><cell><![CDATA[100,450,000.0]]></cell><cell><![CDATA[65,079,776.0]]></cell><cell><![CDATA[35,370,224.0]]></cell><cell><![CDATA[100,450,000.0]]></cell><cell><![CDATA[65,079,776.0]]></cell><cell><![CDATA[35,370,224.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[4,450,000.0]]></cell><cell><![CDATA[-4,450,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[6.8]]></cell><cell><![CDATA[6.8]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[36,292,390.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[29]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040052
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Contract Services for Integrated System Environmental Management System, (ISO 14001) and Energy Management System (ISO 50001)]]></cell><cell><![CDATA[PHE ONWJ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[23-11-2020]]></cell><cell><![CDATA[22-11-2022]]></cell><cell><![CDATA[13,335,900,000.0]]></cell><cell><![CDATA[4,419,414,344.0]]></cell><cell><![CDATA[5,029,602,808.0]]></cell><cell><![CDATA[-610,188,464.0]]></cell><cell><![CDATA[2,255,736,080.0]]></cell><cell><![CDATA[2,085,751,170.0]]></cell><cell><![CDATA[169,984,910.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[338,023,500.0]]></cell><cell><![CDATA[-338,023,500.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[6.7]]></cell><cell><![CDATA[16.2]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[416,495,000.0]]></cell><cell><![CDATA[1,700,631,623.6]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[30]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420050011RKAP
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Konsultan Manajemen Konstruksi Pekerjaan Renovasi Kantor PT. Bank DKI periode Maret 2020 s/d Maret 2021]]></cell><cell><![CDATA[BANK DKI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[02-03-2020]]></cell><cell><![CDATA[31-03-2021]]></cell><cell><![CDATA[1,454,340,000.0]]></cell><cell><![CDATA[1,454,340,000.0]]></cell><cell><![CDATA[1,140,721,998.0]]></cell><cell><![CDATA[313,618,002.0]]></cell><cell><![CDATA[605,975,000.0]]></cell><cell><![CDATA[485,428,898.0]]></cell><cell><![CDATA[120,546,102.0]]></cell><cell><![CDATA[484,780,000.0]]></cell><cell><![CDATA[282,522,177.5]]></cell><cell><![CDATA[202,257,822.5]]></cell><cell><![CDATA[33.33]]></cell><cell><![CDATA[80]]></cell><cell><![CDATA[24.8]]></cell><cell><![CDATA[58.2]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[266,629,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[18,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[31]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420050015
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Konsultan Pengawas Pemeliharaan Pekerjaan Renovasi Gedung PT Bank DKI Matraman, jln. Matraman Raya No.138, Jakarta Timur]]></cell><cell><![CDATA[BANK DKI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[24-02-2020]]></cell><cell><![CDATA[24-02-2021]]></cell><cell><![CDATA[496,363,636.0]]></cell><cell><![CDATA[82,727,272.0]]></cell><cell><![CDATA[63,852,815.0]]></cell><cell><![CDATA[18,874,457.0]]></cell><cell><![CDATA[82,727,272.0]]></cell><cell><![CDATA[63,852,815.0]]></cell><cell><![CDATA[18,874,457.0]]></cell><cell><![CDATA[124,090,908.0]]></cell><cell><![CDATA[39,097,664.0]]></cell><cell><![CDATA[84,993,244.0]]></cell><cell><![CDATA[150]]></cell><cell><![CDATA[150]]></cell><cell><![CDATA[61.2]]></cell><cell><![CDATA[61.2]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[45,499,999.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[32]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420050040
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Pengadaan Jasa Konsultansi Kajian Tarif Integrasi dan Kelembagaan Pengelolaan Electronic Fare Collection]]></cell><cell><![CDATA[MRT JAKARTA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[23-09-2020]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[598,783,350.0]]></cell><cell><![CDATA[544,348,500.0]]></cell><cell><![CDATA[447,424,694.0]]></cell><cell><![CDATA[96,923,806.0]]></cell><cell><![CDATA[544,348,500.0]]></cell><cell><![CDATA[447,424,694.0]]></cell><cell><![CDATA[96,923,806.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[391,691,569.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[33]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420050047
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Konsultan Manajemen Konstruksi Pembangunan Gedung Bank DKI Jl. Slamet Riyadi I No.3, Jakarta Timur]]></cell><cell><![CDATA[BANK DKI]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-04-2020]]></cell><cell><![CDATA[01-04-2022]]></cell><cell><![CDATA[2,437,400,000.0]]></cell><cell><![CDATA[1,194,325,992.0]]></cell><cell><![CDATA[854,917,506.0]]></cell><cell><![CDATA[339,408,486.0]]></cell><cell><![CDATA[497,635,830.0]]></cell><cell><![CDATA[435,503,806.0]]></cell><cell><![CDATA[62,132,024.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[24,802,160.0]]></cell><cell><![CDATA[-24,802,160.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[2.9]]></cell><cell><![CDATA[5.7]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[7,350,000.0]]></cell><cell><![CDATA[296,783,951.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row></rows><rows profile='color'><head><columns><column  rowspan="4"  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  rowspan="4"  width='120' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[Divisi Bisnis/Cabang]]></column><column  colspan="2"  width='120' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Project]]></column><column  width='230' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='190' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Klien]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[P (7/4)]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[L (9/6)]]></column><column  colspan="2"  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[Jangka Waktu]]></column><column  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Nilai Kontrak]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ RAB]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="3"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Realisasi]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Prosentase Progress 2021]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[  Piutang]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Proforma]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Uang Muka]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ ByDM]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ PPU dan ByDM Detail]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Chart Pendapatan]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Kode]]></column><column rowspan="3" ><![CDATA[Nama]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Awal]]></column><column rowspan="3" ><![CDATA[Akhir]]></column><column><![CDATA[]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Setahun]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Bulan Berjalan]]></column><column><![CDATA[Realisasi Beban Vs RAB Setahun]]></column><column><![CDATA[Realisasi Beban Vs RAB Bulan Berjalan]]></column><column><![CDATA[Progress Fisik]]></column><column><![CDATA[QAQC]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="3" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[s/d Bulan Mei 2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[(1)]]></column><column><![CDATA[(2)]]></column><column><![CDATA[(3)]]></column><column><![CDATA[(4)]]></column><column><![CDATA[(5)]]></column><column><![CDATA[(6)]]></column><column><![CDATA[(7)]]></column><column><![CDATA[(8)]]></column><column><![CDATA[(9)]]></column><column><![CDATA[(7/1)]]></column><column><![CDATA[(7/4)]]></column><column><![CDATA[(8/2)]]></column><column><![CDATA[(8/5)]]></column><column><![CDATA[(15)]]></column><column><![CDATA[(16)]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='9' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[304,722,372,624.0]]></column>
+<column><![CDATA[76,442,320,903.0]]></column>
+<column><![CDATA[57,884,778,652.0]]></column>
+<column><![CDATA[18,557,542,251.0]]></column>
+<column><![CDATA[29,106,391,437.0]]></column>
+<column><![CDATA[26,258,241,118.0]]></column>
+<column><![CDATA[2,848,150,319.0]]></column>
+<column><![CDATA[9,250,623,897.0]]></column>
+<column><![CDATA[11,291,193,998.3]]></column>
+<column><![CDATA[-2,040,570,101.3]]></column>
+<column colspan='6' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[13,069,397,614.0]]></column>
+<column><![CDATA[6,340,482,252.0]]></column>
+<column><![CDATA[978,910,000.0]]></column>
+<column><![CDATA[5,010,862,181.1]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0414030021
+                        
+                         Penjelasan]]></cell><cell><![CDATA[TKDN TANGGUH PROJECT_BP BERAU 2014-2021]]></cell><cell><![CDATA[BP BERAU LTD.]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-10-2014]]></cell><cell><![CDATA[30-09-2021]]></cell><cell><![CDATA[6,850,800,000.0]]></cell><cell><![CDATA[489,342,858.0]]></cell><cell><![CDATA[317,239,200.0]]></cell><cell><![CDATA[172,103,658.0]]></cell><cell><![CDATA[407,785,715.0]]></cell><cell><![CDATA[127,870,500.0]]></cell><cell><![CDATA[279,915,215.0]]></cell><cell><![CDATA[324,417,006.0]]></cell><cell><![CDATA[126,165,457.0]]></cell><cell><![CDATA[198,251,549.0]]></cell><cell><![CDATA[66.3]]></cell><cell><![CDATA[79.56]]></cell><cell><![CDATA[39.8]]></cell><cell><![CDATA[98.7]]></cell><cell><![CDATA[2 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[714,730,772.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[-1,200,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0417030019
+                        
+                         Penjelasan]]></cell><cell><![CDATA[VERIFIKASI TKDN TANGGUH CONTRACTS 4420001603_BP BERAU_2017-2019]]></cell><cell><![CDATA[BP BERAU LTD.]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[01-01-2017]]></cell><cell><![CDATA[15-10-2019]]></cell><cell><![CDATA[3,304,874,129.0]]></cell><cell><![CDATA[556,705,944.0]]></cell><cell><![CDATA[255,082,812.0]]></cell><cell><![CDATA[301,623,132.0]]></cell><cell><![CDATA[69,402,356.0]]></cell><cell><![CDATA[106,284,505.0]]></cell><cell><![CDATA[-36,882,149.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[303,066.0]]></cell><cell><![CDATA[-303,066.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.1]]></cell><cell><![CDATA[0.3]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[96,500,613.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[-20,400,000.0]]></cell><cell><![CDATA[32,494,940.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0418020033
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Provision of Monitoring And Post Audit TKDN Verification]]></cell><cell><![CDATA[PERTAMINA HULU ENERGI (PHE)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[04-09-2018]]></cell><cell><![CDATA[04-12-2021]]></cell><cell><![CDATA[10,757,668,360.0]]></cell><cell><![CDATA[263,595,008.0]]></cell><cell><![CDATA[176,163,876.0]]></cell><cell><![CDATA[87,431,132.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[73,401,615.0]]></cell><cell><![CDATA[-73,401,615.0]]></cell><cell><![CDATA[268,352,834.0]]></cell><cell><![CDATA[56,445,164.0]]></cell><cell><![CDATA[211,907,670.0]]></cell><cell><![CDATA[101.8]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[32.0]]></cell><cell><![CDATA[76.9]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[302,826,928.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[5,220,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0418040026
+                        
+                         Penjelasan]]></cell><cell><![CDATA[PENGADAAN JASA KONSULTAN PENGAWAS INDEPENDEN 
+PALAPA RING PAKET TENGAH, TAHAP OM]]></cell><cell><![CDATA[LEN TELEKOMUNIKASI INDONESIA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-12-2018]]></cell><cell><![CDATA[31-12-2033]]></cell><cell><![CDATA[45,793,930,145.0]]></cell><cell><![CDATA[1,339,194,212.0]]></cell><cell><![CDATA[1,132,329,516.0]]></cell><cell><![CDATA[206,864,696.0]]></cell><cell><![CDATA[334,798,553.0]]></cell><cell><![CDATA[471,803,965.0]]></cell><cell><![CDATA[-137,005,412.0]]></cell><cell><![CDATA[324,549,617.0]]></cell><cell><![CDATA[257,811,387.0]]></cell><cell><![CDATA[66,738,230.0]]></cell><cell><![CDATA[24.23]]></cell><cell><![CDATA[96.94]]></cell><cell><![CDATA[22.8]]></cell><cell><![CDATA[54.6]]></cell><cell><![CDATA[11 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[357,004,578.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[8,710,000.0]]></cell><cell><![CDATA[198,139,478.9]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0418040029
+                        
+                         Penjelasan]]></cell><cell><![CDATA[PELAKSANAAN PEKERJAAN KONSULTAN PENGAWAS INDEPENDEN, TAHAP OPERATION DAN MAINTENANCE]]></cell><cell><![CDATA[PALAPA RING BARAT]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[23-04-2018]]></cell><cell><![CDATA[31-12-2033]]></cell><cell><![CDATA[22,547,657,645.0]]></cell><cell><![CDATA[1,339,194,204.0]]></cell><cell><![CDATA[1,108,632,708.0]]></cell><cell><![CDATA[230,561,496.0]]></cell><cell><![CDATA[557,997,585.0]]></cell><cell><![CDATA[461,930,295.0]]></cell><cell><![CDATA[96,067,290.0]]></cell><cell><![CDATA[227,754,118.0]]></cell><cell><![CDATA[207,124,731.4]]></cell><cell><![CDATA[20,629,386.6]]></cell><cell><![CDATA[17.01]]></cell><cell><![CDATA[40.82]]></cell><cell><![CDATA[18.7]]></cell><cell><![CDATA[44.8]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[250,529,528.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[3,460,000.0]]></cell><cell><![CDATA[116,011,407.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0419020035
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Jasa Penghitungan Implikasi Harga PLTU NTB]]></cell><cell><![CDATA[BARATA INDONESIA (PERSERO)]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[26-08-2019]]></cell><cell><![CDATA[27-01-2020]]></cell><cell><![CDATA[530,255,000.0]]></cell><cell><![CDATA[145,820,125.0]]></cell><cell><![CDATA[77,956,040.0]]></cell><cell><![CDATA[67,864,085.0]]></cell><cell><![CDATA[145,820,125.0]]></cell><cell><![CDATA[77,956,040.0]]></cell><cell><![CDATA[67,864,085.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[422,895,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[42,030,653.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0419040017RKAP
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Local Content TKDN Monitoring & Consultancy]]></cell><cell><![CDATA[MH POWER SYSTEMS INDONESIA]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[01-01-2019]]></cell><cell><![CDATA[31-05-2021]]></cell><cell><![CDATA[872,979,546.0]]></cell><cell><![CDATA[283,545,220.0]]></cell><cell><![CDATA[174,192,684.0]]></cell><cell><![CDATA[109,352,536.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[72,580,285.0]]></cell><cell><![CDATA[-72,580,285.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[4,835,000.0]]></cell><cell><![CDATA[-4,835,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[2.8]]></cell><cell><![CDATA[6.7]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[61,298,884.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0419040029
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Civil and Pipeline Integrity Assessment Services]]></cell><cell><![CDATA[CONOCOPHILLIPS (GRISSIK) LTD]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[08-07-2019]]></cell><cell><![CDATA[08-07-2022]]></cell><cell><![CDATA[21,324,100,000.0]]></cell><cell><![CDATA[6,283,809,000.0]]></cell><cell><![CDATA[5,406,860,160.0]]></cell><cell><![CDATA[876,948,840.0]]></cell><cell><![CDATA[2,094,603,000.0]]></cell><cell><![CDATA[2,252,858,400.0]]></cell><cell><![CDATA[-158,255,400.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[47,290,047.0]]></cell><cell><![CDATA[-47,290,047.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.9]]></cell><cell><![CDATA[2.1]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[466,936,250.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[1,350,000.0]]></cell><cell><![CDATA[12,857,721.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0419040036
+                        
+                         Penjelasan]]></cell><cell><![CDATA[TKDN IPP - Jasa Pemantauan Tingkat Komponen Dalam Negeri]]></cell><cell><![CDATA[BHIMASENA POWER INDONESIA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[12-06-2019]]></cell><cell><![CDATA[31-03-2020]]></cell><cell><![CDATA[750,000,000.0]]></cell><cell><![CDATA[375,000,000.0]]></cell><cell><![CDATA[164,748,723.0]]></cell><cell><![CDATA[210,251,277.0]]></cell><cell><![CDATA[375,000,000.0]]></cell><cell><![CDATA[164,748,723.0]]></cell><cell><![CDATA[210,251,277.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[3,400,000.0]]></cell><cell><![CDATA[-3,400,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[2.1]]></cell><cell><![CDATA[2.1]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[118,356,082.3]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0419040043RKAP
+                        
+                         Penjelasan]]></cell><cell><![CDATA[PROVISION OF LOCAL CONTENT VERIFICATION SERVICES]]></cell><cell><![CDATA[BUT SAKA INDONESIA PANGKAH LTD.]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[15-08-2019]]></cell><cell><![CDATA[15-08-2021]]></cell><cell><![CDATA[1,303,125,000.0]]></cell><cell><![CDATA[412,671,874.0]]></cell><cell><![CDATA[230,876,234.0]]></cell><cell><![CDATA[181,795,640.0]]></cell><cell><![CDATA[206,335,937.0]]></cell><cell><![CDATA[128,264,575.0]]></cell><cell><![CDATA[78,071,362.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[31,493,910.0]]></cell><cell><![CDATA[-31,493,910.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[13.6]]></cell><cell><![CDATA[24.6]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[388,062,867.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[40,291,235.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0419070021RKAP
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Provision of Local Content/TKDN Verification Services for Merakes Development]]></cell><cell><![CDATA[ENI EAST SEPINGGAN LTD]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[14-03-2019]]></cell><cell><![CDATA[13-05-2022]]></cell><cell><![CDATA[8,768,209,645.0]]></cell><cell><![CDATA[559,736,098.0]]></cell><cell><![CDATA[351,229,488.0]]></cell><cell><![CDATA[208,506,610.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[146,345,620.0]]></cell><cell><![CDATA[-146,345,620.0]]></cell><cell><![CDATA[156,505,153.0]]></cell><cell><![CDATA[88,309,752.0]]></cell><cell><![CDATA[68,195,401.0]]></cell><cell><![CDATA[27.96]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[25.1]]></cell><cell><![CDATA[60.3]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[-5,175,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420020008
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Pengadaan Jasa Verifikasi TKDN Proyek Drilling – Monitoring & Post Audit]]></cell><cell><![CDATA[PERTAMINA EP CEPU]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[01-08-2019]]></cell><cell><![CDATA[30-12-2022]]></cell><cell><![CDATA[3,137,054,000.0]]></cell><cell><![CDATA[558,656,022.0]]></cell><cell><![CDATA[430,322,592.0]]></cell><cell><![CDATA[128,333,430.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[179,301,080.0]]></cell><cell><![CDATA[-179,301,080.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[8,394,600.0]]></cell><cell><![CDATA[-8,394,600.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[2.0]]></cell><cell><![CDATA[4.7]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[322,174,547.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420020017
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Verifikasi Tingkat Komponen Dalam Negeri]]></cell><cell><![CDATA[PERTAMINA HULU MAHAKAM]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-06-2020]]></cell><cell><![CDATA[01-06-2021]]></cell><cell><![CDATA[7,437,954,600.0]]></cell><cell><![CDATA[2,683,937,556.0]]></cell><cell><![CDATA[1,767,745,704.0]]></cell><cell><![CDATA[916,191,852.0]]></cell><cell><![CDATA[1,073,575,022.0]]></cell><cell><![CDATA[1,473,121,420.0]]></cell><cell><![CDATA[-399,546,398.0]]></cell><cell><![CDATA[1,253,387,302.0]]></cell><cell><![CDATA[341,871,571.0]]></cell><cell><![CDATA[911,515,731.0]]></cell><cell><![CDATA[46.7]]></cell><cell><![CDATA[116.75]]></cell><cell><![CDATA[19.3]]></cell><cell><![CDATA[23.2]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[248,525,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420020023
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Pekerjaan Konsultan Integrasi Sarana dan Prasarana LRT Jabodebek]]></cell><cell><![CDATA[INDUSTRI KERETA API (PERSERO)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[16-07-2020]]></cell><cell><![CDATA[14-12-2022]]></cell><cell><![CDATA[78,380,150,500.0]]></cell><cell><![CDATA[31,035,372,744.0]]></cell><cell><![CDATA[26,551,555,880.0]]></cell><cell><![CDATA[4,483,816,864.0]]></cell><cell><![CDATA[12,931,405,310.0]]></cell><cell><![CDATA[10,479,814,950.0]]></cell><cell><![CDATA[2,451,590,360.0]]></cell><cell><![CDATA[4,362,283,752.0]]></cell><cell><![CDATA[8,042,917,098.5]]></cell><cell><![CDATA[-3,680,633,346.5]]></cell><cell><![CDATA[14.06]]></cell><cell><![CDATA[33.73]]></cell><cell><![CDATA[30.3]]></cell><cell><![CDATA[76.8]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[6,410,821,166.0]]></cell><cell><![CDATA[4,362,283,752.0]]></cell><cell><![CDATA[129,000,000.0]]></cell><cell><![CDATA[484,467,445.8]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420020032
+                        
+                         Penjelasan]]></cell><cell><![CDATA[JASA VERIFIKASI TKDN (SURVEYOR INDONESIA)]]></cell><cell><![CDATA[PERTAMINA HULU SANGA SANGA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[03-09-2020]]></cell><cell><![CDATA[03-09-2022]]></cell><cell><![CDATA[4,980,917,360.0]]></cell><cell><![CDATA[2,392,629,504.0]]></cell><cell><![CDATA[1,318,454,130.0]]></cell><cell><![CDATA[1,074,175,374.0]]></cell><cell><![CDATA[717,788,851.0]]></cell><cell><![CDATA[529,017,818.0]]></cell><cell><![CDATA[188,771,033.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[115,903,603.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420020033
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Pekerjaan Verifikasi Capaian TKDN Proyek EPC Lawe-Lawe of Facalities RDMP RU V Balikpapan]]></cell><cell><![CDATA[KILANG PERTAMINA BALIKPAPAN]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[05-08-2020]]></cell><cell><![CDATA[07-02-2022]]></cell><cell><![CDATA[1,175,000,000.0]]></cell><cell><![CDATA[691,944,000.0]]></cell><cell><![CDATA[295,497,032.0]]></cell><cell><![CDATA[396,446,968.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[165,862,352.0]]></cell><cell><![CDATA[-165,862,352.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[6,430,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[17]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420020042
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Jasa Konsultan Audit Struktur dan M/E Bangunan Gedung Agro Plaza Jakarta (SPPH 15397)]]></cell><cell><![CDATA[BUKIT ASAM (PERSERO) TBK]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[28-09-2020]]></cell><cell><![CDATA[05-11-2020]]></cell><cell><![CDATA[478,362,500.0]]></cell><cell><![CDATA[50,000,000.0]]></cell><cell><![CDATA[50,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[50,000,000.0]]></cell><cell><![CDATA[50,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[50,000,000.0]]></cell><cell><![CDATA[41,000,000.0]]></cell><cell><![CDATA[9,000,000.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[82.0]]></cell><cell><![CDATA[82.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[55,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[18]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040006
+                        
+                         Penjelasan]]></cell><cell><![CDATA[LOCAL CONTENT AND SUPPORT VERIFICATION SERVICES]]></cell><cell><![CDATA[OPHIR INDONESIA (MADURA OFFSHORE) PTY LTD]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[23-12-2019]]></cell><cell><![CDATA[23-12-2020]]></cell><cell><![CDATA[2,003,590,000.0]]></cell><cell><![CDATA[704,416,000.0]]></cell><cell><![CDATA[321,030,708.0]]></cell><cell><![CDATA[383,385,292.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[133,762,795.0]]></cell><cell><![CDATA[-133,762,795.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[709,980,816.0]]></cell><cell><![CDATA[48,580,500.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[31,176,812.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[19]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040007
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Jasa Verifikasi Tingkat Komponen Dalam Negeri (TKDN) Paket 2]]></cell><cell><![CDATA[PERTAMINA HULU KALIMANTAN TIMUR]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[05-12-2019]]></cell><cell><![CDATA[04-12-2022]]></cell><cell><![CDATA[4,240,264,333.0]]></cell><cell><![CDATA[728,995,700.0]]></cell><cell><![CDATA[390,112,864.0]]></cell><cell><![CDATA[338,882,836.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[243,820,540.0]]></cell><cell><![CDATA[-243,820,540.0]]></cell><cell><![CDATA[2.0]]></cell><cell><![CDATA[8,575,653.0]]></cell><cell><![CDATA[-8,575,651.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[2.2]]></cell><cell><![CDATA[3.5]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[195,382,697.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[132,894,861.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[20]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040009
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Provision Of TKDN Verification Services]]></cell><cell><![CDATA[TALISMAN SAKAKEMANG]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-12-2020]]></cell><cell><![CDATA[30-11-2020]]></cell><cell><![CDATA[2,611,073,000.0]]></cell><cell><![CDATA[735,218,000.0]]></cell><cell><![CDATA[366,852,176.0]]></cell><cell><![CDATA[368,365,824.0]]></cell><cell><![CDATA[145,193,000.0]]></cell><cell><![CDATA[151,316,625.0]]></cell><cell><![CDATA[-6,123,625.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[49,393,079.0]]></cell><cell><![CDATA[-49,393,079.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[13.5]]></cell><cell><![CDATA[32.6]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[2,122,597,400.0]]></cell><cell><![CDATA[1,929,618,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[41,467,280.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[21]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040018RKAP
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Jasa Monitoring Tingkat Komponen Dalam Negeri (TKDN) 1 x 1000 MW Lokasi Cirebon]]></cell><cell><![CDATA[CIREBON ENERGI PRASARANA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[17-02-2020]]></cell><cell><![CDATA[28-02-2022]]></cell><cell><![CDATA[1,920,000,000.0]]></cell><cell><![CDATA[872,727,272.0]]></cell><cell><![CDATA[583,287,732.0]]></cell><cell><![CDATA[289,439,540.0]]></cell><cell><![CDATA[436,363,636.0]]></cell><cell><![CDATA[243,036,555.0]]></cell><cell><![CDATA[193,327,081.0]]></cell><cell><![CDATA[240,000,000.0]]></cell><cell><![CDATA[179,043,460.0]]></cell><cell><![CDATA[60,956,540.0]]></cell><cell><![CDATA[27.5]]></cell><cell><![CDATA[55]]></cell><cell><![CDATA[30.7]]></cell><cell><![CDATA[73.7]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[264,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[29,600,000.0]]></cell><cell><![CDATA[96,950,308.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[22]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040021
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Provision of Local Content Assessment and Monitoring Services]]></cell><cell><![CDATA[PREMIER OIL NATUNA SEA BV]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[20-07-2020]]></cell><cell><![CDATA[19-07-2023]]></cell><cell><![CDATA[4,580,821,815.0]]></cell><cell><![CDATA[1,319,522,199.0]]></cell><cell><![CDATA[681,572,028.0]]></cell><cell><![CDATA[637,950,171.0]]></cell><cell><![CDATA[439,840,733.0]]></cell><cell><![CDATA[258,988,345.0]]></cell><cell><![CDATA[180,852,388.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[38,367,500.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[23]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040025
+                        
+                         Penjelasan]]></cell><cell><![CDATA[1.	Pengadaan Penyusunan Laporan Tingkat Komponen Dalam Negeri (TKDN) Pada Pembangunan Pembangkit Listrik Tenaga Uap Mulut Tambang Jambi-1 (PLTU MT Jambi-1) Kapasitas 2 X 3000 MW Di Kabupaten Sarolangun Provinsi Jambi (nomor Kontrak: 002.PJ/061/IP/202]]></cell><cell><![CDATA[INDONESIA POWER]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[02-07-2020]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[1,750,000,000.0]]></cell><cell><![CDATA[700,000,000.0]]></cell><cell><![CDATA[487,074,410.0]]></cell><cell><![CDATA[212,925,590.0]]></cell><cell><![CDATA[175,000,000.0]]></cell><cell><![CDATA[72,962,270.0]]></cell><cell><![CDATA[102,037,730.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[47,013,266.0]]></cell><cell><![CDATA[-47,013,266.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[9.7]]></cell><cell><![CDATA[64.4]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[48,787,656.5]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[24]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040026RKAP
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Provision of Domestic Content Verification Services]]></cell><cell><![CDATA[BUT EXXONMOBIL CEPU LTD]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[10-08-2020]]></cell><cell><![CDATA[10-08-2025]]></cell><cell><![CDATA[19,145,541,967.0]]></cell><cell><![CDATA[3,284,674,226.0]]></cell><cell><![CDATA[1,829,727,660.0]]></cell><cell><![CDATA[1,454,946,566.0]]></cell><cell><![CDATA[985,402,268.0]]></cell><cell><![CDATA[737,386,525.0]]></cell><cell><![CDATA[248,015,743.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[25,200,000.0]]></cell><cell><![CDATA[129,045,078.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[25]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040027
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Jasa Verifikasi Tingkat Kandungan Lokal]]></cell><cell><![CDATA[PETROCHINA INTERNATIONAL JABUNG LTD]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-07-2020]]></cell><cell><![CDATA[30-12-2020]]></cell><cell><![CDATA[650,000,000.0]]></cell><cell><![CDATA[100,000,000.0]]></cell><cell><![CDATA[108,000,000.0]]></cell><cell><![CDATA[-8,000,000.0]]></cell><cell><![CDATA[100,000,000.0]]></cell><cell><![CDATA[108,000,000.0]]></cell><cell><![CDATA[-8,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[24,900,000.0]]></cell><cell><![CDATA[15,591,881.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[26]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040038
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Survei Kepuasan Pelanggan PT SBN Tahun 2020]]></cell><cell><![CDATA[SARANA BANDAR NASIONAL]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[26-10-2020]]></cell><cell><![CDATA[25-12-2020]]></cell><cell><![CDATA[225,500,000.0]]></cell><cell><![CDATA[82,000,000.0]]></cell><cell><![CDATA[61,286,146.0]]></cell><cell><![CDATA[20,713,854.0]]></cell><cell><![CDATA[82,000,000.0]]></cell><cell><![CDATA[61,286,146.0]]></cell><cell><![CDATA[20,713,854.0]]></cell><cell><![CDATA[82,000,000.0]]></cell><cell><![CDATA[53,453,887.0]]></cell><cell><![CDATA[28,546,113.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[87.2]]></cell><cell><![CDATA[87.2]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[27]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040041
+                        
+                         Penjelasan]]></cell><cell><![CDATA[KONSULTAN PENGAWAS INDEPENDEN]]></cell><cell><![CDATA[SATELIT NUSANTARA TIGA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[19-10-2020]]></cell><cell><![CDATA[31-12-2025]]></cell><cell><![CDATA[30,674,756,093.0]]></cell><cell><![CDATA[10,658,007,029.0]]></cell><cell><![CDATA[5,645,348,552.0]]></cell><cell><![CDATA[5,012,658,477.0]]></cell><cell><![CDATA[3,691,206,664.0]]></cell><cell><![CDATA[3,703,478,015.0]]></cell><cell><![CDATA[-12,271,351.0]]></cell><cell><![CDATA[1,352,503,205.0]]></cell><cell><![CDATA[1,007,457,367.9]]></cell><cell><![CDATA[345,045,837.1]]></cell><cell><![CDATA[12.69]]></cell><cell><![CDATA[36.64]]></cell><cell><![CDATA[17.9]]></cell><cell><![CDATA[27.2]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[81,445,000.0]]></cell><cell><![CDATA[507,155,274.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[28]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040048
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Pekerjaan Jasa Post Audit Tingkat Komponen Dalam Negeri PLTU 2 x 100 MW Bengkulu]]></cell><cell><![CDATA[TENAGA LISTRIK BENGKULU]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[02-11-2020]]></cell><cell><![CDATA[28-02-2021]]></cell><cell><![CDATA[205,000,000.0]]></cell><cell><![CDATA[100,450,000.0]]></cell><cell><![CDATA[65,079,776.0]]></cell><cell><![CDATA[35,370,224.0]]></cell><cell><![CDATA[100,450,000.0]]></cell><cell><![CDATA[65,079,776.0]]></cell><cell><![CDATA[35,370,224.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[4,450,000.0]]></cell><cell><![CDATA[-4,450,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[6.8]]></cell><cell><![CDATA[6.8]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[36,292,390.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[29]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040052
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Contract Services for Integrated System Environmental Management System, (ISO 14001) and Energy Management System (ISO 50001)]]></cell><cell><![CDATA[PHE ONWJ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[23-11-2020]]></cell><cell><![CDATA[22-11-2022]]></cell><cell><![CDATA[13,335,900,000.0]]></cell><cell><![CDATA[4,419,414,344.0]]></cell><cell><![CDATA[5,029,602,808.0]]></cell><cell><![CDATA[-610,188,464.0]]></cell><cell><![CDATA[2,255,736,080.0]]></cell><cell><![CDATA[2,085,751,170.0]]></cell><cell><![CDATA[169,984,910.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[338,023,500.0]]></cell><cell><![CDATA[-338,023,500.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[6.7]]></cell><cell><![CDATA[16.2]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[416,495,000.0]]></cell><cell><![CDATA[1,700,631,623.6]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[30]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420050011RKAP
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Konsultan Manajemen Konstruksi Pekerjaan Renovasi Kantor PT. Bank DKI periode Maret 2020 s/d Maret 2021]]></cell><cell><![CDATA[BANK DKI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[02-03-2020]]></cell><cell><![CDATA[31-03-2021]]></cell><cell><![CDATA[1,454,340,000.0]]></cell><cell><![CDATA[1,454,340,000.0]]></cell><cell><![CDATA[1,140,721,998.0]]></cell><cell><![CDATA[313,618,002.0]]></cell><cell><![CDATA[605,975,000.0]]></cell><cell><![CDATA[485,428,898.0]]></cell><cell><![CDATA[120,546,102.0]]></cell><cell><![CDATA[484,780,000.0]]></cell><cell><![CDATA[282,522,177.5]]></cell><cell><![CDATA[202,257,822.5]]></cell><cell><![CDATA[33.33]]></cell><cell><![CDATA[80]]></cell><cell><![CDATA[24.8]]></cell><cell><![CDATA[58.2]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[266,629,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[18,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[31]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420050015
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Konsultan Pengawas Pemeliharaan Pekerjaan Renovasi Gedung PT Bank DKI Matraman, jln. Matraman Raya No.138, Jakarta Timur]]></cell><cell><![CDATA[BANK DKI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[24-02-2020]]></cell><cell><![CDATA[24-02-2021]]></cell><cell><![CDATA[496,363,636.0]]></cell><cell><![CDATA[82,727,272.0]]></cell><cell><![CDATA[63,852,815.0]]></cell><cell><![CDATA[18,874,457.0]]></cell><cell><![CDATA[82,727,272.0]]></cell><cell><![CDATA[63,852,815.0]]></cell><cell><![CDATA[18,874,457.0]]></cell><cell><![CDATA[124,090,908.0]]></cell><cell><![CDATA[39,097,664.0]]></cell><cell><![CDATA[84,993,244.0]]></cell><cell><![CDATA[150]]></cell><cell><![CDATA[150]]></cell><cell><![CDATA[61.2]]></cell><cell><![CDATA[61.2]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[45,499,999.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[32]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420050040
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Pengadaan Jasa Konsultansi Kajian Tarif Integrasi dan Kelembagaan Pengelolaan Electronic Fare Collection]]></cell><cell><![CDATA[MRT JAKARTA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[23-09-2020]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[598,783,350.0]]></cell><cell><![CDATA[544,348,500.0]]></cell><cell><![CDATA[447,424,694.0]]></cell><cell><![CDATA[96,923,806.0]]></cell><cell><![CDATA[544,348,500.0]]></cell><cell><![CDATA[447,424,694.0]]></cell><cell><![CDATA[96,923,806.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[391,691,569.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[33]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420050047
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Konsultan Manajemen Konstruksi Pembangunan Gedung Bank DKI Jl. Slamet Riyadi I No.3, Jakarta Timur]]></cell><cell><![CDATA[BANK DKI]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-04-2020]]></cell><cell><![CDATA[01-04-2022]]></cell><cell><![CDATA[2,437,400,000.0]]></cell><cell><![CDATA[1,194,325,992.0]]></cell><cell><![CDATA[854,917,506.0]]></cell><cell><![CDATA[339,408,486.0]]></cell><cell><![CDATA[497,635,830.0]]></cell><cell><![CDATA[435,503,806.0]]></cell><cell><![CDATA[62,132,024.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[24,802,160.0]]></cell><cell><![CDATA[-24,802,160.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[2.9]]></cell><cell><![CDATA[5.7]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[7,350,000.0]]></cell><cell><![CDATA[296,783,951.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row></rows><rows profile='color'><head><columns><column  rowspan="4"  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  rowspan="4"  width='120' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[Divisi Bisnis/Cabang]]></column><column  colspan="2"  width='120' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Project]]></column><column  width='230' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='190' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Klien]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[P (7/4)]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[L (9/6)]]></column><column  colspan="2"  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[Jangka Waktu]]></column><column  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Nilai Kontrak]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ RAB]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="3"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Realisasi]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Prosentase Progress 2021]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[  Piutang]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Proforma]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Uang Muka]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ ByDM]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ PPU dan ByDM Detail]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Chart Pendapatan]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Kode]]></column><column rowspan="3" ><![CDATA[Nama]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Awal]]></column><column rowspan="3" ><![CDATA[Akhir]]></column><column><![CDATA[]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Setahun]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Bulan Berjalan]]></column><column><![CDATA[Realisasi Beban Vs RAB Setahun]]></column><column><![CDATA[Realisasi Beban Vs RAB Bulan Berjalan]]></column><column><![CDATA[Progress Fisik]]></column><column><![CDATA[QAQC]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="3" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[s/d Bulan Mei 2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[(1)]]></column><column><![CDATA[(2)]]></column><column><![CDATA[(3)]]></column><column><![CDATA[(4)]]></column><column><![CDATA[(5)]]></column><column><![CDATA[(6)]]></column><column><![CDATA[(7)]]></column><column><![CDATA[(8)]]></column><column><![CDATA[(9)]]></column><column><![CDATA[(7/1)]]></column><column><![CDATA[(7/4)]]></column><column><![CDATA[(8/2)]]></column><column><![CDATA[(8/5)]]></column><column><![CDATA[(15)]]></column><column><![CDATA[(16)]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='9' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[304,722,372,624.0]]></column>
+<column><![CDATA[76,442,320,903.0]]></column>
+<column><![CDATA[57,884,778,652.0]]></column>
+<column><![CDATA[18,557,542,251.0]]></column>
+<column><![CDATA[29,106,391,437.0]]></column>
+<column><![CDATA[26,258,241,118.0]]></column>
+<column><![CDATA[2,848,150,319.0]]></column>
+<column><![CDATA[9,250,623,897.0]]></column>
+<column><![CDATA[11,291,193,998.3]]></column>
+<column><![CDATA[-2,040,570,101.3]]></column>
+<column colspan='6' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[13,069,397,614.0]]></column>
+<column><![CDATA[6,340,482,252.0]]></column>
+<column><![CDATA[978,910,000.0]]></column>
+<column><![CDATA[5,010,862,181.1]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0414030021
+                        
+                         Penjelasan]]></cell><cell><![CDATA[TKDN TANGGUH PROJECT_BP BERAU 2014-2021]]></cell><cell><![CDATA[BP BERAU LTD.]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-10-2014]]></cell><cell><![CDATA[30-09-2021]]></cell><cell><![CDATA[6,850,800,000.0]]></cell><cell><![CDATA[489,342,858.0]]></cell><cell><![CDATA[317,239,200.0]]></cell><cell><![CDATA[172,103,658.0]]></cell><cell><![CDATA[407,785,715.0]]></cell><cell><![CDATA[127,870,500.0]]></cell><cell><![CDATA[279,915,215.0]]></cell><cell><![CDATA[324,417,006.0]]></cell><cell><![CDATA[126,165,457.0]]></cell><cell><![CDATA[198,251,549.0]]></cell><cell><![CDATA[66.3]]></cell><cell><![CDATA[79.56]]></cell><cell><![CDATA[39.8]]></cell><cell><![CDATA[98.7]]></cell><cell><![CDATA[2 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[714,730,772.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[-1,200,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0417030019
+                        
+                         Penjelasan]]></cell><cell><![CDATA[VERIFIKASI TKDN TANGGUH CONTRACTS 4420001603_BP BERAU_2017-2019]]></cell><cell><![CDATA[BP BERAU LTD.]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[01-01-2017]]></cell><cell><![CDATA[15-10-2019]]></cell><cell><![CDATA[3,304,874,129.0]]></cell><cell><![CDATA[556,705,944.0]]></cell><cell><![CDATA[255,082,812.0]]></cell><cell><![CDATA[301,623,132.0]]></cell><cell><![CDATA[69,402,356.0]]></cell><cell><![CDATA[106,284,505.0]]></cell><cell><![CDATA[-36,882,149.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[303,066.0]]></cell><cell><![CDATA[-303,066.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.1]]></cell><cell><![CDATA[0.3]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[96,500,613.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[-20,400,000.0]]></cell><cell><![CDATA[32,494,940.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0418020033
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Provision of Monitoring And Post Audit TKDN Verification]]></cell><cell><![CDATA[PERTAMINA HULU ENERGI (PHE)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[04-09-2018]]></cell><cell><![CDATA[04-12-2021]]></cell><cell><![CDATA[10,757,668,360.0]]></cell><cell><![CDATA[263,595,008.0]]></cell><cell><![CDATA[176,163,876.0]]></cell><cell><![CDATA[87,431,132.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[73,401,615.0]]></cell><cell><![CDATA[-73,401,615.0]]></cell><cell><![CDATA[268,352,834.0]]></cell><cell><![CDATA[56,445,164.0]]></cell><cell><![CDATA[211,907,670.0]]></cell><cell><![CDATA[101.8]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[32.0]]></cell><cell><![CDATA[76.9]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[302,826,928.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[5,220,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0418040026
+                        
+                         Penjelasan]]></cell><cell><![CDATA[PENGADAAN JASA KONSULTAN PENGAWAS INDEPENDEN 
+PALAPA RING PAKET TENGAH, TAHAP OM]]></cell><cell><![CDATA[LEN TELEKOMUNIKASI INDONESIA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-12-2018]]></cell><cell><![CDATA[31-12-2033]]></cell><cell><![CDATA[45,793,930,145.0]]></cell><cell><![CDATA[1,339,194,212.0]]></cell><cell><![CDATA[1,132,329,516.0]]></cell><cell><![CDATA[206,864,696.0]]></cell><cell><![CDATA[334,798,553.0]]></cell><cell><![CDATA[471,803,965.0]]></cell><cell><![CDATA[-137,005,412.0]]></cell><cell><![CDATA[324,549,617.0]]></cell><cell><![CDATA[257,811,387.0]]></cell><cell><![CDATA[66,738,230.0]]></cell><cell><![CDATA[24.23]]></cell><cell><![CDATA[96.94]]></cell><cell><![CDATA[22.8]]></cell><cell><![CDATA[54.6]]></cell><cell><![CDATA[11 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[357,004,578.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[8,710,000.0]]></cell><cell><![CDATA[198,139,478.9]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0418040029
+                        
+                         Penjelasan]]></cell><cell><![CDATA[PELAKSANAAN PEKERJAAN KONSULTAN PENGAWAS INDEPENDEN, TAHAP OPERATION DAN MAINTENANCE]]></cell><cell><![CDATA[PALAPA RING BARAT]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[23-04-2018]]></cell><cell><![CDATA[31-12-2033]]></cell><cell><![CDATA[22,547,657,645.0]]></cell><cell><![CDATA[1,339,194,204.0]]></cell><cell><![CDATA[1,108,632,708.0]]></cell><cell><![CDATA[230,561,496.0]]></cell><cell><![CDATA[557,997,585.0]]></cell><cell><![CDATA[461,930,295.0]]></cell><cell><![CDATA[96,067,290.0]]></cell><cell><![CDATA[227,754,118.0]]></cell><cell><![CDATA[207,124,731.4]]></cell><cell><![CDATA[20,629,386.6]]></cell><cell><![CDATA[17.01]]></cell><cell><![CDATA[40.82]]></cell><cell><![CDATA[18.7]]></cell><cell><![CDATA[44.8]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[250,529,528.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[3,460,000.0]]></cell><cell><![CDATA[116,011,407.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0419020035
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Jasa Penghitungan Implikasi Harga PLTU NTB]]></cell><cell><![CDATA[BARATA INDONESIA (PERSERO)]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[26-08-2019]]></cell><cell><![CDATA[27-01-2020]]></cell><cell><![CDATA[530,255,000.0]]></cell><cell><![CDATA[145,820,125.0]]></cell><cell><![CDATA[77,956,040.0]]></cell><cell><![CDATA[67,864,085.0]]></cell><cell><![CDATA[145,820,125.0]]></cell><cell><![CDATA[77,956,040.0]]></cell><cell><![CDATA[67,864,085.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[422,895,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[42,030,653.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0419040017RKAP
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Local Content TKDN Monitoring & Consultancy]]></cell><cell><![CDATA[MH POWER SYSTEMS INDONESIA]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[01-01-2019]]></cell><cell><![CDATA[31-05-2021]]></cell><cell><![CDATA[872,979,546.0]]></cell><cell><![CDATA[283,545,220.0]]></cell><cell><![CDATA[174,192,684.0]]></cell><cell><![CDATA[109,352,536.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[72,580,285.0]]></cell><cell><![CDATA[-72,580,285.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[4,835,000.0]]></cell><cell><![CDATA[-4,835,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[2.8]]></cell><cell><![CDATA[6.7]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[61,298,884.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0419040029
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Civil and Pipeline Integrity Assessment Services]]></cell><cell><![CDATA[CONOCOPHILLIPS (GRISSIK) LTD]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[08-07-2019]]></cell><cell><![CDATA[08-07-2022]]></cell><cell><![CDATA[21,324,100,000.0]]></cell><cell><![CDATA[6,283,809,000.0]]></cell><cell><![CDATA[5,406,860,160.0]]></cell><cell><![CDATA[876,948,840.0]]></cell><cell><![CDATA[2,094,603,000.0]]></cell><cell><![CDATA[2,252,858,400.0]]></cell><cell><![CDATA[-158,255,400.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[47,290,047.0]]></cell><cell><![CDATA[-47,290,047.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.9]]></cell><cell><![CDATA[2.1]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[466,936,250.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[1,350,000.0]]></cell><cell><![CDATA[12,857,721.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0419040036
+                        
+                         Penjelasan]]></cell><cell><![CDATA[TKDN IPP - Jasa Pemantauan Tingkat Komponen Dalam Negeri]]></cell><cell><![CDATA[BHIMASENA POWER INDONESIA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[12-06-2019]]></cell><cell><![CDATA[31-03-2020]]></cell><cell><![CDATA[750,000,000.0]]></cell><cell><![CDATA[375,000,000.0]]></cell><cell><![CDATA[164,748,723.0]]></cell><cell><![CDATA[210,251,277.0]]></cell><cell><![CDATA[375,000,000.0]]></cell><cell><![CDATA[164,748,723.0]]></cell><cell><![CDATA[210,251,277.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[3,400,000.0]]></cell><cell><![CDATA[-3,400,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[2.1]]></cell><cell><![CDATA[2.1]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[118,356,082.3]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0419040043RKAP
+                        
+                         Penjelasan]]></cell><cell><![CDATA[PROVISION OF LOCAL CONTENT VERIFICATION SERVICES]]></cell><cell><![CDATA[BUT SAKA INDONESIA PANGKAH LTD.]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[15-08-2019]]></cell><cell><![CDATA[15-08-2021]]></cell><cell><![CDATA[1,303,125,000.0]]></cell><cell><![CDATA[412,671,874.0]]></cell><cell><![CDATA[230,876,234.0]]></cell><cell><![CDATA[181,795,640.0]]></cell><cell><![CDATA[206,335,937.0]]></cell><cell><![CDATA[128,264,575.0]]></cell><cell><![CDATA[78,071,362.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[31,493,910.0]]></cell><cell><![CDATA[-31,493,910.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[13.6]]></cell><cell><![CDATA[24.6]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[388,062,867.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[40,291,235.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0419070021RKAP
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Provision of Local Content/TKDN Verification Services for Merakes Development]]></cell><cell><![CDATA[ENI EAST SEPINGGAN LTD]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[14-03-2019]]></cell><cell><![CDATA[13-05-2022]]></cell><cell><![CDATA[8,768,209,645.0]]></cell><cell><![CDATA[559,736,098.0]]></cell><cell><![CDATA[351,229,488.0]]></cell><cell><![CDATA[208,506,610.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[146,345,620.0]]></cell><cell><![CDATA[-146,345,620.0]]></cell><cell><![CDATA[156,505,153.0]]></cell><cell><![CDATA[88,309,752.0]]></cell><cell><![CDATA[68,195,401.0]]></cell><cell><![CDATA[27.96]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[25.1]]></cell><cell><![CDATA[60.3]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[-5,175,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420020008
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Pengadaan Jasa Verifikasi TKDN Proyek Drilling – Monitoring & Post Audit]]></cell><cell><![CDATA[PERTAMINA EP CEPU]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[01-08-2019]]></cell><cell><![CDATA[30-12-2022]]></cell><cell><![CDATA[3,137,054,000.0]]></cell><cell><![CDATA[558,656,022.0]]></cell><cell><![CDATA[430,322,592.0]]></cell><cell><![CDATA[128,333,430.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[179,301,080.0]]></cell><cell><![CDATA[-179,301,080.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[8,394,600.0]]></cell><cell><![CDATA[-8,394,600.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[2.0]]></cell><cell><![CDATA[4.7]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[322,174,547.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420020017
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Verifikasi Tingkat Komponen Dalam Negeri]]></cell><cell><![CDATA[PERTAMINA HULU MAHAKAM]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-06-2020]]></cell><cell><![CDATA[01-06-2021]]></cell><cell><![CDATA[7,437,954,600.0]]></cell><cell><![CDATA[2,683,937,556.0]]></cell><cell><![CDATA[1,767,745,704.0]]></cell><cell><![CDATA[916,191,852.0]]></cell><cell><![CDATA[1,073,575,022.0]]></cell><cell><![CDATA[1,473,121,420.0]]></cell><cell><![CDATA[-399,546,398.0]]></cell><cell><![CDATA[1,253,387,302.0]]></cell><cell><![CDATA[341,871,571.0]]></cell><cell><![CDATA[911,515,731.0]]></cell><cell><![CDATA[46.7]]></cell><cell><![CDATA[116.75]]></cell><cell><![CDATA[19.3]]></cell><cell><![CDATA[23.2]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[248,525,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420020023
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Pekerjaan Konsultan Integrasi Sarana dan Prasarana LRT Jabodebek]]></cell><cell><![CDATA[INDUSTRI KERETA API (PERSERO)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[16-07-2020]]></cell><cell><![CDATA[14-12-2022]]></cell><cell><![CDATA[78,380,150,500.0]]></cell><cell><![CDATA[31,035,372,744.0]]></cell><cell><![CDATA[26,551,555,880.0]]></cell><cell><![CDATA[4,483,816,864.0]]></cell><cell><![CDATA[12,931,405,310.0]]></cell><cell><![CDATA[10,479,814,950.0]]></cell><cell><![CDATA[2,451,590,360.0]]></cell><cell><![CDATA[4,362,283,752.0]]></cell><cell><![CDATA[8,042,917,098.5]]></cell><cell><![CDATA[-3,680,633,346.5]]></cell><cell><![CDATA[14.06]]></cell><cell><![CDATA[33.73]]></cell><cell><![CDATA[30.3]]></cell><cell><![CDATA[76.8]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[6,410,821,166.0]]></cell><cell><![CDATA[4,362,283,752.0]]></cell><cell><![CDATA[129,000,000.0]]></cell><cell><![CDATA[484,467,445.8]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420020032
+                        
+                         Penjelasan]]></cell><cell><![CDATA[JASA VERIFIKASI TKDN (SURVEYOR INDONESIA)]]></cell><cell><![CDATA[PERTAMINA HULU SANGA SANGA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[03-09-2020]]></cell><cell><![CDATA[03-09-2022]]></cell><cell><![CDATA[4,980,917,360.0]]></cell><cell><![CDATA[2,392,629,504.0]]></cell><cell><![CDATA[1,318,454,130.0]]></cell><cell><![CDATA[1,074,175,374.0]]></cell><cell><![CDATA[717,788,851.0]]></cell><cell><![CDATA[529,017,818.0]]></cell><cell><![CDATA[188,771,033.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[115,903,603.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420020033
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Pekerjaan Verifikasi Capaian TKDN Proyek EPC Lawe-Lawe of Facalities RDMP RU V Balikpapan]]></cell><cell><![CDATA[KILANG PERTAMINA BALIKPAPAN]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[05-08-2020]]></cell><cell><![CDATA[07-02-2022]]></cell><cell><![CDATA[1,175,000,000.0]]></cell><cell><![CDATA[691,944,000.0]]></cell><cell><![CDATA[295,497,032.0]]></cell><cell><![CDATA[396,446,968.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[165,862,352.0]]></cell><cell><![CDATA[-165,862,352.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[6,430,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[17]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420020042
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Jasa Konsultan Audit Struktur dan M/E Bangunan Gedung Agro Plaza Jakarta (SPPH 15397)]]></cell><cell><![CDATA[BUKIT ASAM (PERSERO) TBK]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[28-09-2020]]></cell><cell><![CDATA[05-11-2020]]></cell><cell><![CDATA[478,362,500.0]]></cell><cell><![CDATA[50,000,000.0]]></cell><cell><![CDATA[50,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[50,000,000.0]]></cell><cell><![CDATA[50,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[50,000,000.0]]></cell><cell><![CDATA[41,000,000.0]]></cell><cell><![CDATA[9,000,000.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[82.0]]></cell><cell><![CDATA[82.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[55,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[18]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040006
+                        
+                         Penjelasan]]></cell><cell><![CDATA[LOCAL CONTENT AND SUPPORT VERIFICATION SERVICES]]></cell><cell><![CDATA[OPHIR INDONESIA (MADURA OFFSHORE) PTY LTD]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[23-12-2019]]></cell><cell><![CDATA[23-12-2020]]></cell><cell><![CDATA[2,003,590,000.0]]></cell><cell><![CDATA[704,416,000.0]]></cell><cell><![CDATA[321,030,708.0]]></cell><cell><![CDATA[383,385,292.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[133,762,795.0]]></cell><cell><![CDATA[-133,762,795.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[709,980,816.0]]></cell><cell><![CDATA[48,580,500.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[31,176,812.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[19]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040007
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Jasa Verifikasi Tingkat Komponen Dalam Negeri (TKDN) Paket 2]]></cell><cell><![CDATA[PERTAMINA HULU KALIMANTAN TIMUR]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[05-12-2019]]></cell><cell><![CDATA[04-12-2022]]></cell><cell><![CDATA[4,240,264,333.0]]></cell><cell><![CDATA[728,995,700.0]]></cell><cell><![CDATA[390,112,864.0]]></cell><cell><![CDATA[338,882,836.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[243,820,540.0]]></cell><cell><![CDATA[-243,820,540.0]]></cell><cell><![CDATA[2.0]]></cell><cell><![CDATA[8,575,653.0]]></cell><cell><![CDATA[-8,575,651.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[2.2]]></cell><cell><![CDATA[3.5]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[195,382,697.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[132,894,861.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[20]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040009
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Provision Of TKDN Verification Services]]></cell><cell><![CDATA[TALISMAN SAKAKEMANG]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-12-2020]]></cell><cell><![CDATA[30-11-2020]]></cell><cell><![CDATA[2,611,073,000.0]]></cell><cell><![CDATA[735,218,000.0]]></cell><cell><![CDATA[366,852,176.0]]></cell><cell><![CDATA[368,365,824.0]]></cell><cell><![CDATA[145,193,000.0]]></cell><cell><![CDATA[151,316,625.0]]></cell><cell><![CDATA[-6,123,625.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[49,393,079.0]]></cell><cell><![CDATA[-49,393,079.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[13.5]]></cell><cell><![CDATA[32.6]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[2,122,597,400.0]]></cell><cell><![CDATA[1,929,618,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[41,467,280.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[21]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040018RKAP
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Jasa Monitoring Tingkat Komponen Dalam Negeri (TKDN) 1 x 1000 MW Lokasi Cirebon]]></cell><cell><![CDATA[CIREBON ENERGI PRASARANA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[17-02-2020]]></cell><cell><![CDATA[28-02-2022]]></cell><cell><![CDATA[1,920,000,000.0]]></cell><cell><![CDATA[872,727,272.0]]></cell><cell><![CDATA[583,287,732.0]]></cell><cell><![CDATA[289,439,540.0]]></cell><cell><![CDATA[436,363,636.0]]></cell><cell><![CDATA[243,036,555.0]]></cell><cell><![CDATA[193,327,081.0]]></cell><cell><![CDATA[240,000,000.0]]></cell><cell><![CDATA[179,043,460.0]]></cell><cell><![CDATA[60,956,540.0]]></cell><cell><![CDATA[27.5]]></cell><cell><![CDATA[55]]></cell><cell><![CDATA[30.7]]></cell><cell><![CDATA[73.7]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[264,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[29,600,000.0]]></cell><cell><![CDATA[96,950,308.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[22]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040021
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Provision of Local Content Assessment and Monitoring Services]]></cell><cell><![CDATA[PREMIER OIL NATUNA SEA BV]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[20-07-2020]]></cell><cell><![CDATA[19-07-2023]]></cell><cell><![CDATA[4,580,821,815.0]]></cell><cell><![CDATA[1,319,522,199.0]]></cell><cell><![CDATA[681,572,028.0]]></cell><cell><![CDATA[637,950,171.0]]></cell><cell><![CDATA[439,840,733.0]]></cell><cell><![CDATA[258,988,345.0]]></cell><cell><![CDATA[180,852,388.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[38,367,500.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[23]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040025
+                        
+                         Penjelasan]]></cell><cell><![CDATA[1.	Pengadaan Penyusunan Laporan Tingkat Komponen Dalam Negeri (TKDN) Pada Pembangunan Pembangkit Listrik Tenaga Uap Mulut Tambang Jambi-1 (PLTU MT Jambi-1) Kapasitas 2 X 3000 MW Di Kabupaten Sarolangun Provinsi Jambi (nomor Kontrak: 002.PJ/061/IP/202]]></cell><cell><![CDATA[INDONESIA POWER]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[02-07-2020]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[1,750,000,000.0]]></cell><cell><![CDATA[700,000,000.0]]></cell><cell><![CDATA[487,074,410.0]]></cell><cell><![CDATA[212,925,590.0]]></cell><cell><![CDATA[175,000,000.0]]></cell><cell><![CDATA[72,962,270.0]]></cell><cell><![CDATA[102,037,730.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[47,013,266.0]]></cell><cell><![CDATA[-47,013,266.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[9.7]]></cell><cell><![CDATA[64.4]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[48,787,656.5]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[24]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040026RKAP
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Provision of Domestic Content Verification Services]]></cell><cell><![CDATA[BUT EXXONMOBIL CEPU LTD]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[10-08-2020]]></cell><cell><![CDATA[10-08-2025]]></cell><cell><![CDATA[19,145,541,967.0]]></cell><cell><![CDATA[3,284,674,226.0]]></cell><cell><![CDATA[1,829,727,660.0]]></cell><cell><![CDATA[1,454,946,566.0]]></cell><cell><![CDATA[985,402,268.0]]></cell><cell><![CDATA[737,386,525.0]]></cell><cell><![CDATA[248,015,743.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[25,200,000.0]]></cell><cell><![CDATA[129,045,078.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[25]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040027
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Jasa Verifikasi Tingkat Kandungan Lokal]]></cell><cell><![CDATA[PETROCHINA INTERNATIONAL JABUNG LTD]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-07-2020]]></cell><cell><![CDATA[30-12-2020]]></cell><cell><![CDATA[650,000,000.0]]></cell><cell><![CDATA[100,000,000.0]]></cell><cell><![CDATA[108,000,000.0]]></cell><cell><![CDATA[-8,000,000.0]]></cell><cell><![CDATA[100,000,000.0]]></cell><cell><![CDATA[108,000,000.0]]></cell><cell><![CDATA[-8,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[24,900,000.0]]></cell><cell><![CDATA[15,591,881.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[26]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040038
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Survei Kepuasan Pelanggan PT SBN Tahun 2020]]></cell><cell><![CDATA[SARANA BANDAR NASIONAL]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[26-10-2020]]></cell><cell><![CDATA[25-12-2020]]></cell><cell><![CDATA[225,500,000.0]]></cell><cell><![CDATA[82,000,000.0]]></cell><cell><![CDATA[61,286,146.0]]></cell><cell><![CDATA[20,713,854.0]]></cell><cell><![CDATA[82,000,000.0]]></cell><cell><![CDATA[61,286,146.0]]></cell><cell><![CDATA[20,713,854.0]]></cell><cell><![CDATA[82,000,000.0]]></cell><cell><![CDATA[53,453,887.0]]></cell><cell><![CDATA[28,546,113.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[87.2]]></cell><cell><![CDATA[87.2]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[27]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040041
+                        
+                         Penjelasan]]></cell><cell><![CDATA[KONSULTAN PENGAWAS INDEPENDEN]]></cell><cell><![CDATA[SATELIT NUSANTARA TIGA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[19-10-2020]]></cell><cell><![CDATA[31-12-2025]]></cell><cell><![CDATA[30,674,756,093.0]]></cell><cell><![CDATA[10,658,007,029.0]]></cell><cell><![CDATA[5,645,348,552.0]]></cell><cell><![CDATA[5,012,658,477.0]]></cell><cell><![CDATA[3,691,206,664.0]]></cell><cell><![CDATA[3,703,478,015.0]]></cell><cell><![CDATA[-12,271,351.0]]></cell><cell><![CDATA[1,352,503,205.0]]></cell><cell><![CDATA[1,007,457,367.9]]></cell><cell><![CDATA[345,045,837.1]]></cell><cell><![CDATA[12.69]]></cell><cell><![CDATA[36.64]]></cell><cell><![CDATA[17.9]]></cell><cell><![CDATA[27.2]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[81,445,000.0]]></cell><cell><![CDATA[507,155,274.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[28]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040048
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Pekerjaan Jasa Post Audit Tingkat Komponen Dalam Negeri PLTU 2 x 100 MW Bengkulu]]></cell><cell><![CDATA[TENAGA LISTRIK BENGKULU]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[02-11-2020]]></cell><cell><![CDATA[28-02-2021]]></cell><cell><![CDATA[205,000,000.0]]></cell><cell><![CDATA[100,450,000.0]]></cell><cell><![CDATA[65,079,776.0]]></cell><cell><![CDATA[35,370,224.0]]></cell><cell><![CDATA[100,450,000.0]]></cell><cell><![CDATA[65,079,776.0]]></cell><cell><![CDATA[35,370,224.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[4,450,000.0]]></cell><cell><![CDATA[-4,450,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[6.8]]></cell><cell><![CDATA[6.8]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[36,292,390.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[29]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040052
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Contract Services for Integrated System Environmental Management System, (ISO 14001) and Energy Management System (ISO 50001)]]></cell><cell><![CDATA[PHE ONWJ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[23-11-2020]]></cell><cell><![CDATA[22-11-2022]]></cell><cell><![CDATA[13,335,900,000.0]]></cell><cell><![CDATA[4,419,414,344.0]]></cell><cell><![CDATA[5,029,602,808.0]]></cell><cell><![CDATA[-610,188,464.0]]></cell><cell><![CDATA[2,255,736,080.0]]></cell><cell><![CDATA[2,085,751,170.0]]></cell><cell><![CDATA[169,984,910.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[338,023,500.0]]></cell><cell><![CDATA[-338,023,500.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[6.7]]></cell><cell><![CDATA[16.2]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[416,495,000.0]]></cell><cell><![CDATA[1,700,631,623.6]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[30]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420050011RKAP
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Konsultan Manajemen Konstruksi Pekerjaan Renovasi Kantor PT. Bank DKI periode Maret 2020 s/d Maret 2021]]></cell><cell><![CDATA[BANK DKI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[02-03-2020]]></cell><cell><![CDATA[31-03-2021]]></cell><cell><![CDATA[1,454,340,000.0]]></cell><cell><![CDATA[1,454,340,000.0]]></cell><cell><![CDATA[1,140,721,998.0]]></cell><cell><![CDATA[313,618,002.0]]></cell><cell><![CDATA[605,975,000.0]]></cell><cell><![CDATA[485,428,898.0]]></cell><cell><![CDATA[120,546,102.0]]></cell><cell><![CDATA[484,780,000.0]]></cell><cell><![CDATA[282,522,177.5]]></cell><cell><![CDATA[202,257,822.5]]></cell><cell><![CDATA[33.33]]></cell><cell><![CDATA[80]]></cell><cell><![CDATA[24.8]]></cell><cell><![CDATA[58.2]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[266,629,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[18,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[31]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420050015
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Konsultan Pengawas Pemeliharaan Pekerjaan Renovasi Gedung PT Bank DKI Matraman, jln. Matraman Raya No.138, Jakarta Timur]]></cell><cell><![CDATA[BANK DKI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[24-02-2020]]></cell><cell><![CDATA[24-02-2021]]></cell><cell><![CDATA[496,363,636.0]]></cell><cell><![CDATA[82,727,272.0]]></cell><cell><![CDATA[63,852,815.0]]></cell><cell><![CDATA[18,874,457.0]]></cell><cell><![CDATA[82,727,272.0]]></cell><cell><![CDATA[63,852,815.0]]></cell><cell><![CDATA[18,874,457.0]]></cell><cell><![CDATA[124,090,908.0]]></cell><cell><![CDATA[39,097,664.0]]></cell><cell><![CDATA[84,993,244.0]]></cell><cell><![CDATA[150]]></cell><cell><![CDATA[150]]></cell><cell><![CDATA[61.2]]></cell><cell><![CDATA[61.2]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[45,499,999.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[32]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420050040
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Pengadaan Jasa Konsultansi Kajian Tarif Integrasi dan Kelembagaan Pengelolaan Electronic Fare Collection]]></cell><cell><![CDATA[MRT JAKARTA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[23-09-2020]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[598,783,350.0]]></cell><cell><![CDATA[544,348,500.0]]></cell><cell><![CDATA[447,424,694.0]]></cell><cell><![CDATA[96,923,806.0]]></cell><cell><![CDATA[544,348,500.0]]></cell><cell><![CDATA[447,424,694.0]]></cell><cell><![CDATA[96,923,806.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[391,691,569.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[33]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420050047
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Konsultan Manajemen Konstruksi Pembangunan Gedung Bank DKI Jl. Slamet Riyadi I No.3, Jakarta Timur]]></cell><cell><![CDATA[BANK DKI]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-04-2020]]></cell><cell><![CDATA[01-04-2022]]></cell><cell><![CDATA[2,437,400,000.0]]></cell><cell><![CDATA[1,194,325,992.0]]></cell><cell><![CDATA[854,917,506.0]]></cell><cell><![CDATA[339,408,486.0]]></cell><cell><![CDATA[497,635,830.0]]></cell><cell><![CDATA[435,503,806.0]]></cell><cell><![CDATA[62,132,024.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[24,802,160.0]]></cell><cell><![CDATA[-24,802,160.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[2.9]]></cell><cell><![CDATA[5.7]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[7,350,000.0]]></cell><cell><![CDATA[296,783,951.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row></rows><rows profile='color'><head><columns><column  rowspan="4"  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  rowspan="4"  width='120' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[Divisi Bisnis/Cabang]]></column><column  colspan="2"  width='120' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Project]]></column><column  width='230' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='190' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Klien]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[P (7/4)]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[L (9/6)]]></column><column  colspan="2"  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[Jangka Waktu]]></column><column  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Nilai Kontrak]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ RAB]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="3"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Realisasi]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Prosentase Progress 2021]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[  Piutang]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Proforma]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Uang Muka]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ ByDM]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ PPU dan ByDM Detail]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Chart Pendapatan]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Kode]]></column><column rowspan="3" ><![CDATA[Nama]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Awal]]></column><column rowspan="3" ><![CDATA[Akhir]]></column><column><![CDATA[]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Setahun]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Bulan Berjalan]]></column><column><![CDATA[Realisasi Beban Vs RAB Setahun]]></column><column><![CDATA[Realisasi Beban Vs RAB Bulan Berjalan]]></column><column><![CDATA[Progress Fisik]]></column><column><![CDATA[QAQC]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="3" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[s/d Bulan Mei 2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[(1)]]></column><column><![CDATA[(2)]]></column><column><![CDATA[(3)]]></column><column><![CDATA[(4)]]></column><column><![CDATA[(5)]]></column><column><![CDATA[(6)]]></column><column><![CDATA[(7)]]></column><column><![CDATA[(8)]]></column><column><![CDATA[(9)]]></column><column><![CDATA[(7/1)]]></column><column><![CDATA[(7/4)]]></column><column><![CDATA[(8/2)]]></column><column><![CDATA[(8/5)]]></column><column><![CDATA[(15)]]></column><column><![CDATA[(16)]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='9' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[304,722,372,624.0]]></column>
+<column><![CDATA[76,442,320,903.0]]></column>
+<column><![CDATA[57,884,778,652.0]]></column>
+<column><![CDATA[18,557,542,251.0]]></column>
+<column><![CDATA[29,106,391,437.0]]></column>
+<column><![CDATA[26,258,241,118.0]]></column>
+<column><![CDATA[2,848,150,319.0]]></column>
+<column><![CDATA[9,250,623,897.0]]></column>
+<column><![CDATA[11,291,193,998.3]]></column>
+<column><![CDATA[-2,040,570,101.3]]></column>
+<column colspan='6' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[13,069,397,614.0]]></column>
+<column><![CDATA[6,340,482,252.0]]></column>
+<column><![CDATA[978,910,000.0]]></column>
+<column><![CDATA[5,010,862,181.1]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0414030021
+                        
+                         Penjelasan]]></cell><cell><![CDATA[TKDN TANGGUH PROJECT_BP BERAU 2014-2021]]></cell><cell><![CDATA[BP BERAU LTD.]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-10-2014]]></cell><cell><![CDATA[30-09-2021]]></cell><cell><![CDATA[6,850,800,000.0]]></cell><cell><![CDATA[489,342,858.0]]></cell><cell><![CDATA[317,239,200.0]]></cell><cell><![CDATA[172,103,658.0]]></cell><cell><![CDATA[407,785,715.0]]></cell><cell><![CDATA[127,870,500.0]]></cell><cell><![CDATA[279,915,215.0]]></cell><cell><![CDATA[324,417,006.0]]></cell><cell><![CDATA[126,165,457.0]]></cell><cell><![CDATA[198,251,549.0]]></cell><cell><![CDATA[66.3]]></cell><cell><![CDATA[79.56]]></cell><cell><![CDATA[39.8]]></cell><cell><![CDATA[98.7]]></cell><cell><![CDATA[2 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[714,730,772.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[-1,200,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0417030019
+                        
+                         Penjelasan]]></cell><cell><![CDATA[VERIFIKASI TKDN TANGGUH CONTRACTS 4420001603_BP BERAU_2017-2019]]></cell><cell><![CDATA[BP BERAU LTD.]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[01-01-2017]]></cell><cell><![CDATA[15-10-2019]]></cell><cell><![CDATA[3,304,874,129.0]]></cell><cell><![CDATA[556,705,944.0]]></cell><cell><![CDATA[255,082,812.0]]></cell><cell><![CDATA[301,623,132.0]]></cell><cell><![CDATA[69,402,356.0]]></cell><cell><![CDATA[106,284,505.0]]></cell><cell><![CDATA[-36,882,149.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[303,066.0]]></cell><cell><![CDATA[-303,066.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.1]]></cell><cell><![CDATA[0.3]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[96,500,613.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[-20,400,000.0]]></cell><cell><![CDATA[32,494,940.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0418020033
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Provision of Monitoring And Post Audit TKDN Verification]]></cell><cell><![CDATA[PERTAMINA HULU ENERGI (PHE)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[04-09-2018]]></cell><cell><![CDATA[04-12-2021]]></cell><cell><![CDATA[10,757,668,360.0]]></cell><cell><![CDATA[263,595,008.0]]></cell><cell><![CDATA[176,163,876.0]]></cell><cell><![CDATA[87,431,132.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[73,401,615.0]]></cell><cell><![CDATA[-73,401,615.0]]></cell><cell><![CDATA[268,352,834.0]]></cell><cell><![CDATA[56,445,164.0]]></cell><cell><![CDATA[211,907,670.0]]></cell><cell><![CDATA[101.8]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[32.0]]></cell><cell><![CDATA[76.9]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[302,826,928.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[5,220,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0418040026
+                        
+                         Penjelasan]]></cell><cell><![CDATA[PENGADAAN JASA KONSULTAN PENGAWAS INDEPENDEN 
+PALAPA RING PAKET TENGAH, TAHAP OM]]></cell><cell><![CDATA[LEN TELEKOMUNIKASI INDONESIA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-12-2018]]></cell><cell><![CDATA[31-12-2033]]></cell><cell><![CDATA[45,793,930,145.0]]></cell><cell><![CDATA[1,339,194,212.0]]></cell><cell><![CDATA[1,132,329,516.0]]></cell><cell><![CDATA[206,864,696.0]]></cell><cell><![CDATA[334,798,553.0]]></cell><cell><![CDATA[471,803,965.0]]></cell><cell><![CDATA[-137,005,412.0]]></cell><cell><![CDATA[324,549,617.0]]></cell><cell><![CDATA[257,811,387.0]]></cell><cell><![CDATA[66,738,230.0]]></cell><cell><![CDATA[24.23]]></cell><cell><![CDATA[96.94]]></cell><cell><![CDATA[22.8]]></cell><cell><![CDATA[54.6]]></cell><cell><![CDATA[11 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[357,004,578.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[8,710,000.0]]></cell><cell><![CDATA[198,139,478.9]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0418040029
+                        
+                         Penjelasan]]></cell><cell><![CDATA[PELAKSANAAN PEKERJAAN KONSULTAN PENGAWAS INDEPENDEN, TAHAP OPERATION DAN MAINTENANCE]]></cell><cell><![CDATA[PALAPA RING BARAT]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[23-04-2018]]></cell><cell><![CDATA[31-12-2033]]></cell><cell><![CDATA[22,547,657,645.0]]></cell><cell><![CDATA[1,339,194,204.0]]></cell><cell><![CDATA[1,108,632,708.0]]></cell><cell><![CDATA[230,561,496.0]]></cell><cell><![CDATA[557,997,585.0]]></cell><cell><![CDATA[461,930,295.0]]></cell><cell><![CDATA[96,067,290.0]]></cell><cell><![CDATA[227,754,118.0]]></cell><cell><![CDATA[207,124,731.4]]></cell><cell><![CDATA[20,629,386.6]]></cell><cell><![CDATA[17.01]]></cell><cell><![CDATA[40.82]]></cell><cell><![CDATA[18.7]]></cell><cell><![CDATA[44.8]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[250,529,528.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[3,460,000.0]]></cell><cell><![CDATA[116,011,407.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0419020035
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Jasa Penghitungan Implikasi Harga PLTU NTB]]></cell><cell><![CDATA[BARATA INDONESIA (PERSERO)]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[26-08-2019]]></cell><cell><![CDATA[27-01-2020]]></cell><cell><![CDATA[530,255,000.0]]></cell><cell><![CDATA[145,820,125.0]]></cell><cell><![CDATA[77,956,040.0]]></cell><cell><![CDATA[67,864,085.0]]></cell><cell><![CDATA[145,820,125.0]]></cell><cell><![CDATA[77,956,040.0]]></cell><cell><![CDATA[67,864,085.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[422,895,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[42,030,653.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0419040017RKAP
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Local Content TKDN Monitoring & Consultancy]]></cell><cell><![CDATA[MH POWER SYSTEMS INDONESIA]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[01-01-2019]]></cell><cell><![CDATA[31-05-2021]]></cell><cell><![CDATA[872,979,546.0]]></cell><cell><![CDATA[283,545,220.0]]></cell><cell><![CDATA[174,192,684.0]]></cell><cell><![CDATA[109,352,536.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[72,580,285.0]]></cell><cell><![CDATA[-72,580,285.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[4,835,000.0]]></cell><cell><![CDATA[-4,835,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[2.8]]></cell><cell><![CDATA[6.7]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[61,298,884.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0419040029
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Civil and Pipeline Integrity Assessment Services]]></cell><cell><![CDATA[CONOCOPHILLIPS (GRISSIK) LTD]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[08-07-2019]]></cell><cell><![CDATA[08-07-2022]]></cell><cell><![CDATA[21,324,100,000.0]]></cell><cell><![CDATA[6,283,809,000.0]]></cell><cell><![CDATA[5,406,860,160.0]]></cell><cell><![CDATA[876,948,840.0]]></cell><cell><![CDATA[2,094,603,000.0]]></cell><cell><![CDATA[2,252,858,400.0]]></cell><cell><![CDATA[-158,255,400.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[47,290,047.0]]></cell><cell><![CDATA[-47,290,047.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.9]]></cell><cell><![CDATA[2.1]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[466,936,250.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[1,350,000.0]]></cell><cell><![CDATA[12,857,721.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0419040036
+                        
+                         Penjelasan]]></cell><cell><![CDATA[TKDN IPP - Jasa Pemantauan Tingkat Komponen Dalam Negeri]]></cell><cell><![CDATA[BHIMASENA POWER INDONESIA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[12-06-2019]]></cell><cell><![CDATA[31-03-2020]]></cell><cell><![CDATA[750,000,000.0]]></cell><cell><![CDATA[375,000,000.0]]></cell><cell><![CDATA[164,748,723.0]]></cell><cell><![CDATA[210,251,277.0]]></cell><cell><![CDATA[375,000,000.0]]></cell><cell><![CDATA[164,748,723.0]]></cell><cell><![CDATA[210,251,277.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[3,400,000.0]]></cell><cell><![CDATA[-3,400,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[2.1]]></cell><cell><![CDATA[2.1]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[118,356,082.3]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0419040043RKAP
+                        
+                         Penjelasan]]></cell><cell><![CDATA[PROVISION OF LOCAL CONTENT VERIFICATION SERVICES]]></cell><cell><![CDATA[BUT SAKA INDONESIA PANGKAH LTD.]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[15-08-2019]]></cell><cell><![CDATA[15-08-2021]]></cell><cell><![CDATA[1,303,125,000.0]]></cell><cell><![CDATA[412,671,874.0]]></cell><cell><![CDATA[230,876,234.0]]></cell><cell><![CDATA[181,795,640.0]]></cell><cell><![CDATA[206,335,937.0]]></cell><cell><![CDATA[128,264,575.0]]></cell><cell><![CDATA[78,071,362.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[31,493,910.0]]></cell><cell><![CDATA[-31,493,910.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[13.6]]></cell><cell><![CDATA[24.6]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[388,062,867.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[40,291,235.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0419070021RKAP
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Provision of Local Content/TKDN Verification Services for Merakes Development]]></cell><cell><![CDATA[ENI EAST SEPINGGAN LTD]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[14-03-2019]]></cell><cell><![CDATA[13-05-2022]]></cell><cell><![CDATA[8,768,209,645.0]]></cell><cell><![CDATA[559,736,098.0]]></cell><cell><![CDATA[351,229,488.0]]></cell><cell><![CDATA[208,506,610.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[146,345,620.0]]></cell><cell><![CDATA[-146,345,620.0]]></cell><cell><![CDATA[156,505,153.0]]></cell><cell><![CDATA[88,309,752.0]]></cell><cell><![CDATA[68,195,401.0]]></cell><cell><![CDATA[27.96]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[25.1]]></cell><cell><![CDATA[60.3]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[-5,175,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420020008
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Pengadaan Jasa Verifikasi TKDN Proyek Drilling – Monitoring & Post Audit]]></cell><cell><![CDATA[PERTAMINA EP CEPU]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[01-08-2019]]></cell><cell><![CDATA[30-12-2022]]></cell><cell><![CDATA[3,137,054,000.0]]></cell><cell><![CDATA[558,656,022.0]]></cell><cell><![CDATA[430,322,592.0]]></cell><cell><![CDATA[128,333,430.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[179,301,080.0]]></cell><cell><![CDATA[-179,301,080.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[8,394,600.0]]></cell><cell><![CDATA[-8,394,600.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[2.0]]></cell><cell><![CDATA[4.7]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[322,174,547.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420020017
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Verifikasi Tingkat Komponen Dalam Negeri]]></cell><cell><![CDATA[PERTAMINA HULU MAHAKAM]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-06-2020]]></cell><cell><![CDATA[01-06-2021]]></cell><cell><![CDATA[7,437,954,600.0]]></cell><cell><![CDATA[2,683,937,556.0]]></cell><cell><![CDATA[1,767,745,704.0]]></cell><cell><![CDATA[916,191,852.0]]></cell><cell><![CDATA[1,073,575,022.0]]></cell><cell><![CDATA[1,473,121,420.0]]></cell><cell><![CDATA[-399,546,398.0]]></cell><cell><![CDATA[1,253,387,302.0]]></cell><cell><![CDATA[341,871,571.0]]></cell><cell><![CDATA[911,515,731.0]]></cell><cell><![CDATA[46.7]]></cell><cell><![CDATA[116.75]]></cell><cell><![CDATA[19.3]]></cell><cell><![CDATA[23.2]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[248,525,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420020023
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Pekerjaan Konsultan Integrasi Sarana dan Prasarana LRT Jabodebek]]></cell><cell><![CDATA[INDUSTRI KERETA API (PERSERO)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[16-07-2020]]></cell><cell><![CDATA[14-12-2022]]></cell><cell><![CDATA[78,380,150,500.0]]></cell><cell><![CDATA[31,035,372,744.0]]></cell><cell><![CDATA[26,551,555,880.0]]></cell><cell><![CDATA[4,483,816,864.0]]></cell><cell><![CDATA[12,931,405,310.0]]></cell><cell><![CDATA[10,479,814,950.0]]></cell><cell><![CDATA[2,451,590,360.0]]></cell><cell><![CDATA[4,362,283,752.0]]></cell><cell><![CDATA[8,042,917,098.5]]></cell><cell><![CDATA[-3,680,633,346.5]]></cell><cell><![CDATA[14.06]]></cell><cell><![CDATA[33.73]]></cell><cell><![CDATA[30.3]]></cell><cell><![CDATA[76.8]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[6,410,821,166.0]]></cell><cell><![CDATA[4,362,283,752.0]]></cell><cell><![CDATA[129,000,000.0]]></cell><cell><![CDATA[484,467,445.8]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420020032
+                        
+                         Penjelasan]]></cell><cell><![CDATA[JASA VERIFIKASI TKDN (SURVEYOR INDONESIA)]]></cell><cell><![CDATA[PERTAMINA HULU SANGA SANGA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[03-09-2020]]></cell><cell><![CDATA[03-09-2022]]></cell><cell><![CDATA[4,980,917,360.0]]></cell><cell><![CDATA[2,392,629,504.0]]></cell><cell><![CDATA[1,318,454,130.0]]></cell><cell><![CDATA[1,074,175,374.0]]></cell><cell><![CDATA[717,788,851.0]]></cell><cell><![CDATA[529,017,818.0]]></cell><cell><![CDATA[188,771,033.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[115,903,603.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420020033
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Pekerjaan Verifikasi Capaian TKDN Proyek EPC Lawe-Lawe of Facalities RDMP RU V Balikpapan]]></cell><cell><![CDATA[KILANG PERTAMINA BALIKPAPAN]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[05-08-2020]]></cell><cell><![CDATA[07-02-2022]]></cell><cell><![CDATA[1,175,000,000.0]]></cell><cell><![CDATA[691,944,000.0]]></cell><cell><![CDATA[295,497,032.0]]></cell><cell><![CDATA[396,446,968.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[165,862,352.0]]></cell><cell><![CDATA[-165,862,352.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[6,430,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[17]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420020042
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Jasa Konsultan Audit Struktur dan M/E Bangunan Gedung Agro Plaza Jakarta (SPPH 15397)]]></cell><cell><![CDATA[BUKIT ASAM (PERSERO) TBK]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[28-09-2020]]></cell><cell><![CDATA[05-11-2020]]></cell><cell><![CDATA[478,362,500.0]]></cell><cell><![CDATA[50,000,000.0]]></cell><cell><![CDATA[50,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[50,000,000.0]]></cell><cell><![CDATA[50,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[50,000,000.0]]></cell><cell><![CDATA[41,000,000.0]]></cell><cell><![CDATA[9,000,000.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[82.0]]></cell><cell><![CDATA[82.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[55,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[18]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040006
+                        
+                         Penjelasan]]></cell><cell><![CDATA[LOCAL CONTENT AND SUPPORT VERIFICATION SERVICES]]></cell><cell><![CDATA[OPHIR INDONESIA (MADURA OFFSHORE) PTY LTD]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[23-12-2019]]></cell><cell><![CDATA[23-12-2020]]></cell><cell><![CDATA[2,003,590,000.0]]></cell><cell><![CDATA[704,416,000.0]]></cell><cell><![CDATA[321,030,708.0]]></cell><cell><![CDATA[383,385,292.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[133,762,795.0]]></cell><cell><![CDATA[-133,762,795.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[709,980,816.0]]></cell><cell><![CDATA[48,580,500.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[31,176,812.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[19]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040007
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Jasa Verifikasi Tingkat Komponen Dalam Negeri (TKDN) Paket 2]]></cell><cell><![CDATA[PERTAMINA HULU KALIMANTAN TIMUR]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[05-12-2019]]></cell><cell><![CDATA[04-12-2022]]></cell><cell><![CDATA[4,240,264,333.0]]></cell><cell><![CDATA[728,995,700.0]]></cell><cell><![CDATA[390,112,864.0]]></cell><cell><![CDATA[338,882,836.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[243,820,540.0]]></cell><cell><![CDATA[-243,820,540.0]]></cell><cell><![CDATA[2.0]]></cell><cell><![CDATA[8,575,653.0]]></cell><cell><![CDATA[-8,575,651.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[2.2]]></cell><cell><![CDATA[3.5]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[195,382,697.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[132,894,861.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[20]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040009
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Provision Of TKDN Verification Services]]></cell><cell><![CDATA[TALISMAN SAKAKEMANG]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-12-2020]]></cell><cell><![CDATA[30-11-2020]]></cell><cell><![CDATA[2,611,073,000.0]]></cell><cell><![CDATA[735,218,000.0]]></cell><cell><![CDATA[366,852,176.0]]></cell><cell><![CDATA[368,365,824.0]]></cell><cell><![CDATA[145,193,000.0]]></cell><cell><![CDATA[151,316,625.0]]></cell><cell><![CDATA[-6,123,625.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[49,393,079.0]]></cell><cell><![CDATA[-49,393,079.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[13.5]]></cell><cell><![CDATA[32.6]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[2,122,597,400.0]]></cell><cell><![CDATA[1,929,618,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[41,467,280.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[21]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040018RKAP
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Jasa Monitoring Tingkat Komponen Dalam Negeri (TKDN) 1 x 1000 MW Lokasi Cirebon]]></cell><cell><![CDATA[CIREBON ENERGI PRASARANA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[17-02-2020]]></cell><cell><![CDATA[28-02-2022]]></cell><cell><![CDATA[1,920,000,000.0]]></cell><cell><![CDATA[872,727,272.0]]></cell><cell><![CDATA[583,287,732.0]]></cell><cell><![CDATA[289,439,540.0]]></cell><cell><![CDATA[436,363,636.0]]></cell><cell><![CDATA[243,036,555.0]]></cell><cell><![CDATA[193,327,081.0]]></cell><cell><![CDATA[240,000,000.0]]></cell><cell><![CDATA[179,043,460.0]]></cell><cell><![CDATA[60,956,540.0]]></cell><cell><![CDATA[27.5]]></cell><cell><![CDATA[55]]></cell><cell><![CDATA[30.7]]></cell><cell><![CDATA[73.7]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[264,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[29,600,000.0]]></cell><cell><![CDATA[96,950,308.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[22]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040021
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Provision of Local Content Assessment and Monitoring Services]]></cell><cell><![CDATA[PREMIER OIL NATUNA SEA BV]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[20-07-2020]]></cell><cell><![CDATA[19-07-2023]]></cell><cell><![CDATA[4,580,821,815.0]]></cell><cell><![CDATA[1,319,522,199.0]]></cell><cell><![CDATA[681,572,028.0]]></cell><cell><![CDATA[637,950,171.0]]></cell><cell><![CDATA[439,840,733.0]]></cell><cell><![CDATA[258,988,345.0]]></cell><cell><![CDATA[180,852,388.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[38,367,500.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[23]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040025
+                        
+                         Penjelasan]]></cell><cell><![CDATA[1.	Pengadaan Penyusunan Laporan Tingkat Komponen Dalam Negeri (TKDN) Pada Pembangunan Pembangkit Listrik Tenaga Uap Mulut Tambang Jambi-1 (PLTU MT Jambi-1) Kapasitas 2 X 3000 MW Di Kabupaten Sarolangun Provinsi Jambi (nomor Kontrak: 002.PJ/061/IP/202]]></cell><cell><![CDATA[INDONESIA POWER]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[02-07-2020]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[1,750,000,000.0]]></cell><cell><![CDATA[700,000,000.0]]></cell><cell><![CDATA[487,074,410.0]]></cell><cell><![CDATA[212,925,590.0]]></cell><cell><![CDATA[175,000,000.0]]></cell><cell><![CDATA[72,962,270.0]]></cell><cell><![CDATA[102,037,730.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[47,013,266.0]]></cell><cell><![CDATA[-47,013,266.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[9.7]]></cell><cell><![CDATA[64.4]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[48,787,656.5]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[24]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040026RKAP
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Provision of Domestic Content Verification Services]]></cell><cell><![CDATA[BUT EXXONMOBIL CEPU LTD]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[10-08-2020]]></cell><cell><![CDATA[10-08-2025]]></cell><cell><![CDATA[19,145,541,967.0]]></cell><cell><![CDATA[3,284,674,226.0]]></cell><cell><![CDATA[1,829,727,660.0]]></cell><cell><![CDATA[1,454,946,566.0]]></cell><cell><![CDATA[985,402,268.0]]></cell><cell><![CDATA[737,386,525.0]]></cell><cell><![CDATA[248,015,743.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[25,200,000.0]]></cell><cell><![CDATA[129,045,078.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[25]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040027
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Jasa Verifikasi Tingkat Kandungan Lokal]]></cell><cell><![CDATA[PETROCHINA INTERNATIONAL JABUNG LTD]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-07-2020]]></cell><cell><![CDATA[30-12-2020]]></cell><cell><![CDATA[650,000,000.0]]></cell><cell><![CDATA[100,000,000.0]]></cell><cell><![CDATA[108,000,000.0]]></cell><cell><![CDATA[-8,000,000.0]]></cell><cell><![CDATA[100,000,000.0]]></cell><cell><![CDATA[108,000,000.0]]></cell><cell><![CDATA[-8,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[24,900,000.0]]></cell><cell><![CDATA[15,591,881.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[26]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040038
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Survei Kepuasan Pelanggan PT SBN Tahun 2020]]></cell><cell><![CDATA[SARANA BANDAR NASIONAL]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[26-10-2020]]></cell><cell><![CDATA[25-12-2020]]></cell><cell><![CDATA[225,500,000.0]]></cell><cell><![CDATA[82,000,000.0]]></cell><cell><![CDATA[61,286,146.0]]></cell><cell><![CDATA[20,713,854.0]]></cell><cell><![CDATA[82,000,000.0]]></cell><cell><![CDATA[61,286,146.0]]></cell><cell><![CDATA[20,713,854.0]]></cell><cell><![CDATA[82,000,000.0]]></cell><cell><![CDATA[53,453,887.0]]></cell><cell><![CDATA[28,546,113.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[87.2]]></cell><cell><![CDATA[87.2]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[27]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040041
+                        
+                         Penjelasan]]></cell><cell><![CDATA[KONSULTAN PENGAWAS INDEPENDEN]]></cell><cell><![CDATA[SATELIT NUSANTARA TIGA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[19-10-2020]]></cell><cell><![CDATA[31-12-2025]]></cell><cell><![CDATA[30,674,756,093.0]]></cell><cell><![CDATA[10,658,007,029.0]]></cell><cell><![CDATA[5,645,348,552.0]]></cell><cell><![CDATA[5,012,658,477.0]]></cell><cell><![CDATA[3,691,206,664.0]]></cell><cell><![CDATA[3,703,478,015.0]]></cell><cell><![CDATA[-12,271,351.0]]></cell><cell><![CDATA[1,352,503,205.0]]></cell><cell><![CDATA[1,007,457,367.9]]></cell><cell><![CDATA[345,045,837.1]]></cell><cell><![CDATA[12.69]]></cell><cell><![CDATA[36.64]]></cell><cell><![CDATA[17.9]]></cell><cell><![CDATA[27.2]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[81,445,000.0]]></cell><cell><![CDATA[507,155,274.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[28]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040048
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Pekerjaan Jasa Post Audit Tingkat Komponen Dalam Negeri PLTU 2 x 100 MW Bengkulu]]></cell><cell><![CDATA[TENAGA LISTRIK BENGKULU]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[02-11-2020]]></cell><cell><![CDATA[28-02-2021]]></cell><cell><![CDATA[205,000,000.0]]></cell><cell><![CDATA[100,450,000.0]]></cell><cell><![CDATA[65,079,776.0]]></cell><cell><![CDATA[35,370,224.0]]></cell><cell><![CDATA[100,450,000.0]]></cell><cell><![CDATA[65,079,776.0]]></cell><cell><![CDATA[35,370,224.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[4,450,000.0]]></cell><cell><![CDATA[-4,450,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[6.8]]></cell><cell><![CDATA[6.8]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[36,292,390.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[29]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420040052
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Contract Services for Integrated System Environmental Management System, (ISO 14001) and Energy Management System (ISO 50001)]]></cell><cell><![CDATA[PHE ONWJ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[23-11-2020]]></cell><cell><![CDATA[22-11-2022]]></cell><cell><![CDATA[13,335,900,000.0]]></cell><cell><![CDATA[4,419,414,344.0]]></cell><cell><![CDATA[5,029,602,808.0]]></cell><cell><![CDATA[-610,188,464.0]]></cell><cell><![CDATA[2,255,736,080.0]]></cell><cell><![CDATA[2,085,751,170.0]]></cell><cell><![CDATA[169,984,910.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[338,023,500.0]]></cell><cell><![CDATA[-338,023,500.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[6.7]]></cell><cell><![CDATA[16.2]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[416,495,000.0]]></cell><cell><![CDATA[1,700,631,623.6]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[30]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420050011RKAP
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Konsultan Manajemen Konstruksi Pekerjaan Renovasi Kantor PT. Bank DKI periode Maret 2020 s/d Maret 2021]]></cell><cell><![CDATA[BANK DKI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[02-03-2020]]></cell><cell><![CDATA[31-03-2021]]></cell><cell><![CDATA[1,454,340,000.0]]></cell><cell><![CDATA[1,454,340,000.0]]></cell><cell><![CDATA[1,140,721,998.0]]></cell><cell><![CDATA[313,618,002.0]]></cell><cell><![CDATA[605,975,000.0]]></cell><cell><![CDATA[485,428,898.0]]></cell><cell><![CDATA[120,546,102.0]]></cell><cell><![CDATA[484,780,000.0]]></cell><cell><![CDATA[282,522,177.5]]></cell><cell><![CDATA[202,257,822.5]]></cell><cell><![CDATA[33.33]]></cell><cell><![CDATA[80]]></cell><cell><![CDATA[24.8]]></cell><cell><![CDATA[58.2]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[266,629,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[18,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[31]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420050015
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Konsultan Pengawas Pemeliharaan Pekerjaan Renovasi Gedung PT Bank DKI Matraman, jln. Matraman Raya No.138, Jakarta Timur]]></cell><cell><![CDATA[BANK DKI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[24-02-2020]]></cell><cell><![CDATA[24-02-2021]]></cell><cell><![CDATA[496,363,636.0]]></cell><cell><![CDATA[82,727,272.0]]></cell><cell><![CDATA[63,852,815.0]]></cell><cell><![CDATA[18,874,457.0]]></cell><cell><![CDATA[82,727,272.0]]></cell><cell><![CDATA[63,852,815.0]]></cell><cell><![CDATA[18,874,457.0]]></cell><cell><![CDATA[124,090,908.0]]></cell><cell><![CDATA[39,097,664.0]]></cell><cell><![CDATA[84,993,244.0]]></cell><cell><![CDATA[150]]></cell><cell><![CDATA[150]]></cell><cell><![CDATA[61.2]]></cell><cell><![CDATA[61.2]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[45,499,999.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[32]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420050040
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Pengadaan Jasa Konsultansi Kajian Tarif Integrasi dan Kelembagaan Pengelolaan Electronic Fare Collection]]></cell><cell><![CDATA[MRT JAKARTA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[23-09-2020]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[598,783,350.0]]></cell><cell><![CDATA[544,348,500.0]]></cell><cell><![CDATA[447,424,694.0]]></cell><cell><![CDATA[96,923,806.0]]></cell><cell><![CDATA[544,348,500.0]]></cell><cell><![CDATA[447,424,694.0]]></cell><cell><![CDATA[96,923,806.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[391,691,569.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[33]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[0420050047
+                        
+                         Penjelasan]]></cell><cell><![CDATA[Konsultan Manajemen Konstruksi Pembangunan Gedung Bank DKI Jl. Slamet Riyadi I No.3, Jakarta Timur]]></cell><cell><![CDATA[BANK DKI]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-04-2020]]></cell><cell><![CDATA[01-04-2022]]></cell><cell><![CDATA[2,437,400,000.0]]></cell><cell><![CDATA[1,194,325,992.0]]></cell><cell><![CDATA[854,917,506.0]]></cell><cell><![CDATA[339,408,486.0]]></cell><cell><![CDATA[497,635,830.0]]></cell><cell><![CDATA[435,503,806.0]]></cell><cell><![CDATA[62,132,024.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[24,802,160.0]]></cell><cell><![CDATA[-24,802,160.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[2.9]]></cell><cell><![CDATA[5.7]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[7,350,000.0]]></cell><cell><![CDATA[296,783,951.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row></rows>

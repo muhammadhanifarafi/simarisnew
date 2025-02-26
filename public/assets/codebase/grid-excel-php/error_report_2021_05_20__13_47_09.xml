@@ -1,0 +1,733 @@
+<rows profile='color'><head><columns><column  width='50' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[No.]]></column><column  width='220' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Klien]]></column><column  width='320' align='left' type='ron' hidden='false' sort='int' color=''><![CDATA[ Nama Proyek]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[ Piutang]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='3' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[13,059,699,017]]></column>
+</columns>
+</foot><row><cell><![CDATA[3]]></cell><cell><![CDATA[ASIA PRIMA KIMIA RAYA]]></cell><cell><![CDATA[Radiography Test]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[BINA DAYA BINTARA]]></cell><cell><![CDATA[Audit SMk3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[BINA DAYA BINTARA]]></cell><cell><![CDATA[Audit SMk3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[CHEVRON PACIFIC INDONESIA]]></cell><cell><![CDATA[Predictive Maintenance Services]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[17]]></cell><cell><![CDATA[CHEVRON PACIFIC INDONESIA]]></cell><cell><![CDATA[Predictive Maintenance Services]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[18]]></cell><cell><![CDATA[CHEVRON PACIFIC INDONESIA]]></cell><cell><![CDATA[Land Survey and Asset Protection Services]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[19]]></cell><cell><![CDATA[CHEVRON PACIFIC INDONESIA]]></cell><cell><![CDATA[Contract for Kemenaker/Disnaker and Certification Support Services for Equipment and Facilities  in Sumatera Operation]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[20]]></cell><cell><![CDATA[CHEVRON PACIFIC INDONESIA]]></cell><cell><![CDATA[Contract for Kemenaker/Disnaker and Certification Support Services for Equipment and Facilities  in Sumatera Operation]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[21]]></cell><cell><![CDATA[CHEVRON PACIFIC INDONESIA]]></cell><cell><![CDATA[Jasa-Jasa Pengelolaan Inventori Harga Tetap (Fixed Assets Inventory Management Services)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[22]]></cell><cell><![CDATA[CHEVRON PACIFIC INDONESIA]]></cell><cell><![CDATA[Jasa-Jasa Pengelolaan Inventori Harga Tetap (Fixed Assets Inventory Management Services)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[28]]></cell><cell><![CDATA[GADA JAYA]]></cell><cell><![CDATA[Inspection Welding Join NDT]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[62]]></cell><cell><![CDATA[INDOKARYA BANGUN BERSAMA]]></cell><cell><![CDATA[SVI Vanilla Project Non Destructive Testing Service]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[63]]></cell><cell><![CDATA[INDOKARYA BANGUN BERSAMA]]></cell><cell><![CDATA[SVI Vanilla Project Non Destructive Testing Service]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[64]]></cell><cell><![CDATA[INDOKARYA BANGUN BERSAMA]]></cell><cell><![CDATA[SVI Vanilla Project Non Destructive Testing Service]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[65]]></cell><cell><![CDATA[KAMPARINDO AGRO INDUSTRI]]></cell><cell><![CDATA[Sertifikasi Laik Operasi (SLO)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[71]]></cell><cell><![CDATA[MITRA TANINUSA SEJATI]]></cell><cell><![CDATA[Audit SMk3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[72]]></cell><cell><![CDATA[MITRA TANINUSA SEJATI]]></cell><cell><![CDATA[Audit SMk3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[83]]></cell><cell><![CDATA[PERKEBUNAN NUSANTARA V (PERSERO)]]></cell><cell><![CDATA[Studi Kelayakan Pembangunan Pabrik Kelapa Sawit PTPN V Di Kabupaten Indragiri Hulu atau Pembelian Aset PKS PT Persada Agro Sawita (PAS)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[92]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN TENGAH]]></cell><cell><![CDATA[Jasa Konsultansi Pekerjaan Design Review Transmisi dan Gardu Induk]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[93]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN TENGAH]]></cell><cell><![CDATA[Jasa Pekerjaan Survey dan Soil Investigation Jalur Transmisi T/L 150kV New Garuda Sakti - Perawang]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[94]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN TENGAH]]></cell><cell><![CDATA[Pengadaan Jasa Konsultan Survey Dan Soil Investigation Reroute SUTT 150 KV Perawang -  Siak Sri Indrapura]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[95]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN TENGAH]]></cell><cell><![CDATA[Pengadaan Jasa Konsultan Survey Dan Soil Investigation Reroute SUTT 150 KV Perawang -  Siak Sri Indrapura]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[100]]></cell><cell><![CDATA[PUTI BUNGSU]]></cell><cell><![CDATA[Jasa Inspeksi dan Sertifikasi Disnaker Peralatan]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[101]]></cell><cell><![CDATA[RIAU ANDALAN PULP AND PAPER]]></cell><cell><![CDATA[Draught Survey BG. LOW KIM CHUAN 28]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[102]]></cell><cell><![CDATA[RIMBA LAZUARDI]]></cell><cell><![CDATA[Audit SMk3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[103]]></cell><cell><![CDATA[RIMBA LAZUARDI]]></cell><cell><![CDATA[Audit SMk3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[104]]></cell><cell><![CDATA[RIMBA MUTIARA PERMAI]]></cell><cell><![CDATA[Audit SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[105]]></cell><cell><![CDATA[RIMBA MUTIARA PERMAI]]></cell><cell><![CDATA[Audit SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[106]]></cell><cell><![CDATA[RIMBA PERANAP INDAH]]></cell><cell><![CDATA[Audit SMk3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[107]]></cell><cell><![CDATA[RIMBA PERANAP INDAH]]></cell><cell><![CDATA[Audit SMk3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[116]]></cell><cell><![CDATA[SAIPEM INDONESIA]]></cell><cell><![CDATA[MPS Saipem]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[122]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[147]]></cell><cell><![CDATA[SUMATERA SYLVA LESTARI]]></cell><cell><![CDATA[Audit SMk3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[148]]></cell><cell><![CDATA[SUMATERA SYLVA LESTARI]]></cell><cell><![CDATA[Audit SMk3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[172]]></cell><cell><![CDATA[TRANSPORTASI GAS INDONESIA]]></cell><cell><![CDATA[Lube Oil Sampling Analysis RO1 & RO2]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[176]]></cell><cell><![CDATA[YAYASAN RUMAH SAKIT ISLAM SITI RAHMAH]]></cell><cell><![CDATA[Inspeksi & Sertifikasi Disnaker Lift, Penyalur Petir & Genset]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[127]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[130]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[30]]></cell><cell><![CDATA[GALANGCITRAMITRA MAJUMAPAN]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[339,600]]></cell></row>
+<row><cell><![CDATA[171]]></cell><cell><![CDATA[SURVINDO PUTRA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[510,000]]></cell></row>
+<row><cell><![CDATA[175]]></cell><cell><![CDATA[VISI UTAMA MANDIRI]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[904,545]]></cell></row>
+<row><cell><![CDATA[67]]></cell><cell><![CDATA[KARYA HASIL USAHA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1,000,000]]></cell></row>
+<row><cell><![CDATA[70]]></cell><cell><![CDATA[MIKAFU ELEKTRIKAL]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1,500,000]]></cell></row>
+<row><cell><![CDATA[80]]></cell><cell><![CDATA[PELITA WARGA UTAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1,500,000]]></cell></row>
+<row><cell><![CDATA[140]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[1,524,631]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[ALPA RUCI]]></cell><cell><![CDATA[NDT Alparuci]]></cell><cell><![CDATA[1,540,000]]></cell></row>
+<row><cell><![CDATA[78]]></cell><cell><![CDATA[OSCAR MAS]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[2,000,000]]></cell></row>
+<row><cell><![CDATA[46]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[2,060,559]]></cell></row>
+<row><cell><![CDATA[124]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[2,276,175]]></cell></row>
+<row><cell><![CDATA[68]]></cell><cell><![CDATA[KARYA MANDIRI MAKMUR]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[2,500,000]]></cell></row>
+<row><cell><![CDATA[164]]></cell><cell><![CDATA[SURVINDO PUTRA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[2,670,455]]></cell></row>
+<row><cell><![CDATA[53]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[2,731,548]]></cell></row>
+<row><cell><![CDATA[129]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[2,810,042]]></cell></row>
+<row><cell><![CDATA[141]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[3,034,900]]></cell></row>
+<row><cell><![CDATA[51]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[3,151,054]]></cell></row>
+<row><cell><![CDATA[170]]></cell><cell><![CDATA[SURVINDO PUTRA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[3,162,000]]></cell></row>
+<row><cell><![CDATA[151]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[3,234,599]]></cell></row>
+<row><cell><![CDATA[142]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[3,241,825]]></cell></row>
+<row><cell><![CDATA[120]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[NDT Multi Struktur]]></cell><cell><![CDATA[3,428,885]]></cell></row>
+<row><cell><![CDATA[37]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[3,455,096]]></cell></row>
+<row><cell><![CDATA[40]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[3,514,138]]></cell></row>
+<row><cell><![CDATA[55]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[4,129,533]]></cell></row>
+<row><cell><![CDATA[99]]></cell><cell><![CDATA[PROTEKNIKA JASA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[4,175,000]]></cell></row>
+<row><cell><![CDATA[86]]></cell><cell><![CDATA[PETROWOOD BANGUN MANDIRI]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[4,717,000]]></cell></row>
+<row><cell><![CDATA[134]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[4,857,220]]></cell></row>
+<row><cell><![CDATA[135]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[4,897,225]]></cell></row>
+<row><cell><![CDATA[96]]></cell><cell><![CDATA[PROTEKNIKA JASA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[4,972,000]]></cell></row>
+<row><cell><![CDATA[121]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[NDT Multi Struktur]]></cell><cell><![CDATA[5,096,425]]></cell></row>
+<row><cell><![CDATA[169]]></cell><cell><![CDATA[SURVINDO PUTRA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[5,280,000]]></cell></row>
+<row><cell><![CDATA[154]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[5,316,563]]></cell></row>
+<row><cell><![CDATA[42]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[5,373,842]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[AZZURA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[5,599,999]]></cell></row>
+<row><cell><![CDATA[1]]></cell><cell><![CDATA[ALPA RUCI]]></cell><cell><![CDATA[NDT Alparuci]]></cell><cell><![CDATA[5,879,500]]></cell></row>
+<row><cell><![CDATA[47]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[5,934,333]]></cell></row>
+<row><cell><![CDATA[125]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[6,163,606]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[BEW CONSORTIUM]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[6,286,000]]></cell></row>
+<row><cell><![CDATA[143]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[6,421,848]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[BEW CONSORTIUM]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[6,660,500]]></cell></row>
+<row><cell><![CDATA[43]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[7,064,695]]></cell></row>
+<row><cell><![CDATA[133]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[7,352,873]]></cell></row>
+<row><cell><![CDATA[119]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[NDT Multi Struktur]]></cell><cell><![CDATA[7,464,199]]></cell></row>
+<row><cell><![CDATA[33]]></cell><cell><![CDATA[GEOCHEM FAR EAST PTE LTD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[7,573,317]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[ATVIRA INOVFINTEK]]></cell><cell><![CDATA[NDT Atvira]]></cell><cell><![CDATA[8,494,200]]></cell></row>
+<row><cell><![CDATA[139]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[8,601,045]]></cell></row>
+<row><cell><![CDATA[26]]></cell><cell><![CDATA[EMP MALACCA STRAIT S.A]]></cell><cell><![CDATA[NDT Radiography For Piping Work]]></cell><cell><![CDATA[9,021,100]]></cell></row>
+<row><cell><![CDATA[35]]></cell><cell><![CDATA[GEOCHEM FAR EAST PTE LTD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[9,719,267]]></cell></row>
+<row><cell><![CDATA[132]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[10,639,256]]></cell></row>
+<row><cell><![CDATA[137]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[10,667,949]]></cell></row>
+<row><cell><![CDATA[118]]></cell><cell><![CDATA[SELO KENCANA ENERGI]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[11,000,000]]></cell></row>
+<row><cell><![CDATA[54]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[11,358,527]]></cell></row>
+<row><cell><![CDATA[57]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[12,682,571]]></cell></row>
+<row><cell><![CDATA[163]]></cell><cell><![CDATA[SURVINDO DWI PUTRA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[12,700,779]]></cell></row>
+<row><cell><![CDATA[29]]></cell><cell><![CDATA[GALANGCITRAMITRA MAJUMAPAN]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[13,358,400]]></cell></row>
+<row><cell><![CDATA[56]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[14,158,222]]></cell></row>
+<row><cell><![CDATA[58]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[14,462,816]]></cell></row>
+<row><cell><![CDATA[109]]></cell><cell><![CDATA[SAEM S.P.A]]></cell><cell><![CDATA[MPS Saem SPA]]></cell><cell><![CDATA[14,484,750]]></cell></row>
+<row><cell><![CDATA[97]]></cell><cell><![CDATA[PROTEKNIKA JASA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[14,668,500]]></cell></row>
+<row><cell><![CDATA[160]]></cell><cell><![CDATA[SURVINDO DWI PUTRA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[15,125,000]]></cell></row>
+<row><cell><![CDATA[59]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[15,587,384]]></cell></row>
+<row><cell><![CDATA[126]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[15,721,610]]></cell></row>
+<row><cell><![CDATA[25]]></cell><cell><![CDATA[EMP MALACCA STRAIT S.A]]></cell><cell><![CDATA[NDT Radiography For Piping Work]]></cell><cell><![CDATA[15,809,200]]></cell></row>
+<row><cell><![CDATA[117]]></cell><cell><![CDATA[SELO KENCANA ENERGI]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[16,225,000]]></cell></row>
+<row><cell><![CDATA[34]]></cell><cell><![CDATA[GEOCHEM FAR EAST PTE LTD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[16,274,375]]></cell></row>
+<row><cell><![CDATA[32]]></cell><cell><![CDATA[GALANGCITRAMITRA MAJUMAPAN]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[16,450,000]]></cell></row>
+<row><cell><![CDATA[79]]></cell><cell><![CDATA[PANCASONA JAYA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[16,470,000]]></cell></row>
+<row><cell><![CDATA[36]]></cell><cell><![CDATA[GEOCHEM FAR EAST PTE LTD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[16,576,072]]></cell></row>
+<row><cell><![CDATA[165]]></cell><cell><![CDATA[SURVINDO PUTRA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[16,676,999]]></cell></row>
+<row><cell><![CDATA[52]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[17,275,203]]></cell></row>
+<row><cell><![CDATA[155]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[17,382,232]]></cell></row>
+<row><cell><![CDATA[98]]></cell><cell><![CDATA[PROTEKNIKA JASA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[17,622,000]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[BIRO KLASIFIKASI INDONESIA (PERSERO)]]></cell><cell><![CDATA[Inspeksi dan SLO TM 20Kv BKI]]></cell><cell><![CDATA[19,250,000]]></cell></row>
+<row><cell><![CDATA[76]]></cell><cell><![CDATA[NIRA MURNI KONSTRUKSI ]]></cell><cell><![CDATA[NDT Nira Murni]]></cell><cell><![CDATA[21,870,750]]></cell></row>
+<row><cell><![CDATA[85]]></cell><cell><![CDATA[PETROWOOD BANGUN MANDIRI]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[22,440,000]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[CHEVRON PACIFIC INDONESIA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[23,261,000]]></cell></row>
+<row><cell><![CDATA[77]]></cell><cell><![CDATA[NIRA MURNI KONSTRUKSI ]]></cell><cell><![CDATA[NDT Nira Murni]]></cell><cell><![CDATA[23,867,250]]></cell></row>
+<row><cell><![CDATA[146]]></cell><cell><![CDATA[SINAR BANGUN PERSADA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[24,200,000]]></cell></row>
+<row><cell><![CDATA[112]]></cell><cell><![CDATA[SAEM S.P.A]]></cell><cell><![CDATA[MPS Saem Spa]]></cell><cell><![CDATA[24,379,080]]></cell></row>
+<row><cell><![CDATA[128]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[25,749,885]]></cell></row>
+<row><cell><![CDATA[81]]></cell><cell><![CDATA[PELITA WARGA UTAMA]]></cell><cell><![CDATA[NDT Pelita Warga Utama]]></cell><cell><![CDATA[26,700,000]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[CHEVRON PACIFIC INDONESIA]]></cell><cell><![CDATA[Technical And Visual Inspection Services In Sumatra Operations]]></cell><cell><![CDATA[27,000,000]]></cell></row>
+<row><cell><![CDATA[89]]></cell><cell><![CDATA[PLN (PERSERO) SEKTOR PEMBANGKITAN OMBILIN]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[28,000,000]]></cell></row>
+<row><cell><![CDATA[90]]></cell><cell><![CDATA[PLN (PERSERO) SEKTOR PEMBANGKITAN OMBILIN]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[28,000,000]]></cell></row>
+<row><cell><![CDATA[91]]></cell><cell><![CDATA[PLN (PERSERO) SEKTOR PEMBANGKITAN OMBILIN]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[28,000,000]]></cell></row>
+<row><cell><![CDATA[45]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[28,378,798]]></cell></row>
+<row><cell><![CDATA[166]]></cell><cell><![CDATA[SURVINDO PUTRA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[29,999,999]]></cell></row>
+<row><cell><![CDATA[84]]></cell><cell><![CDATA[PERSADA SAPTA GEMILANG]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[30,000,000]]></cell></row>
+<row><cell><![CDATA[24]]></cell><cell><![CDATA[EMP MALACCA STRAIT S.A]]></cell><cell><![CDATA[NDT Radiography For R. Export Line]]></cell><cell><![CDATA[30,091,600]]></cell></row>
+<row><cell><![CDATA[145]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[31,073,294]]></cell></row>
+<row><cell><![CDATA[61]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[33,046,198]]></cell></row>
+<row><cell><![CDATA[82]]></cell><cell><![CDATA[PELITA WARGA UTAMA]]></cell><cell><![CDATA[NDT Pelita Warga Utama]]></cell><cell><![CDATA[33,550,000]]></cell></row>
+<row><cell><![CDATA[60]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[35,294,783]]></cell></row>
+<row><cell><![CDATA[161]]></cell><cell><![CDATA[SURVINDO DWI PUTRA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[35,695,000]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[BASKO MINANG PLAZA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[35,750,000]]></cell></row>
+<row><cell><![CDATA[23]]></cell><cell><![CDATA[EMP MALACCA STRAIT S.A]]></cell><cell><![CDATA[NDT Radiography For R. Export Line]]></cell><cell><![CDATA[36,506,800]]></cell></row>
+<row><cell><![CDATA[50]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[36,708,081]]></cell></row>
+<row><cell><![CDATA[152]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[37,750,415]]></cell></row>
+<row><cell><![CDATA[173]]></cell><cell><![CDATA[URAWA REKAYASA MANDIRI]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[38,115,000]]></cell></row>
+<row><cell><![CDATA[123]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[38,784,672]]></cell></row>
+<row><cell><![CDATA[27]]></cell><cell><![CDATA[EMP MALACCA STRAIT S.A]]></cell><cell><![CDATA[NDT Radiography For Piping Work]]></cell><cell><![CDATA[38,932,950]]></cell></row>
+<row><cell><![CDATA[48]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[39,055,438]]></cell></row>
+<row><cell><![CDATA[44]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[41,185,938]]></cell></row>
+<row><cell><![CDATA[31]]></cell><cell><![CDATA[GALANGCITRAMITRA MAJUMAPAN]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[42,900,000]]></cell></row>
+<row><cell><![CDATA[39]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[44,155,036]]></cell></row>
+<row><cell><![CDATA[38]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[44,792,089]]></cell></row>
+<row><cell><![CDATA[66]]></cell><cell><![CDATA[KARSA DAYA UTAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[46,124,100]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[ATVIRA INOVFINTEK]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[46,193,700]]></cell></row>
+<row><cell><![CDATA[131]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[46,928,797]]></cell></row>
+<row><cell><![CDATA[168]]></cell><cell><![CDATA[SURVINDO PUTRA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[49,571,061]]></cell></row>
+<row><cell><![CDATA[149]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[54,700,428]]></cell></row>
+<row><cell><![CDATA[156]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[59,541,532]]></cell></row>
+<row><cell><![CDATA[88]]></cell><cell><![CDATA[PLN (PERSERO) SEKTOR PEMBANGKITAN OMBILIN]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[62,045,315]]></cell></row>
+<row><cell><![CDATA[49]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[65,111,986]]></cell></row>
+<row><cell><![CDATA[167]]></cell><cell><![CDATA[SURVINDO PUTRA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[66,124,998]]></cell></row>
+<row><cell><![CDATA[41]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[66,827,946]]></cell></row>
+<row><cell><![CDATA[159]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[82,671,238]]></cell></row>
+<row><cell><![CDATA[87]]></cell><cell><![CDATA[PLN (PERSERO) SEKTOR PEMBANGKITAN OMBILIN]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[86,388,636]]></cell></row>
+<row><cell><![CDATA[153]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[94,008,421]]></cell></row>
+<row><cell><![CDATA[115]]></cell><cell><![CDATA[SAIPEM INDONESIA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[99,225,000]]></cell></row>
+<row><cell><![CDATA[150]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[107,779,128]]></cell></row>
+<row><cell><![CDATA[144]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[112,320,270]]></cell></row>
+<row><cell><![CDATA[157]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[112,699,523]]></cell></row>
+<row><cell><![CDATA[136]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[118,361,100]]></cell></row>
+<row><cell><![CDATA[69]]></cell><cell><![CDATA[KREASINDO ERATEK DINAMIKA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[119,880,200]]></cell></row>
+<row><cell><![CDATA[74]]></cell><cell><![CDATA[MULTI STRUCTURE]]></cell><cell><![CDATA[NDT Multi Struktur]]></cell><cell><![CDATA[121,471,800]]></cell></row>
+<row><cell><![CDATA[158]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[126,519,479]]></cell></row>
+<row><cell><![CDATA[138]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[141,122,850]]></cell></row>
+<row><cell><![CDATA[174]]></cell><cell><![CDATA[URAWA REKAYASA MANDIRI]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[145,695,500]]></cell></row>
+<row><cell><![CDATA[108]]></cell><cell><![CDATA[SAEM S.P.A]]></cell><cell><![CDATA[MPS Saem SPA]]></cell><cell><![CDATA[159,854,252]]></cell></row>
+<row><cell><![CDATA[162]]></cell><cell><![CDATA[SURVINDO DWI PUTRA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[161,222,600]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[BWP MERUAP_ Pte. Ltd]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[184,800,000]]></cell></row>
+<row><cell><![CDATA[75]]></cell><cell><![CDATA[MULTI STRUCTURE]]></cell><cell><![CDATA[NDT Multi Struktur]]></cell><cell><![CDATA[203,012,550]]></cell></row>
+<row><cell><![CDATA[73]]></cell><cell><![CDATA[MULTI STRUCTURE]]></cell><cell><![CDATA[NDT Multi Struktur]]></cell><cell><![CDATA[247,445,000]]></cell></row>
+<row><cell><![CDATA[113]]></cell><cell><![CDATA[SAEM S.P.A]]></cell><cell><![CDATA[MPS Saem Spa]]></cell><cell><![CDATA[1,767,800,634]]></cell></row>
+<row><cell><![CDATA[114]]></cell><cell><![CDATA[SAEM S.P.A]]></cell><cell><![CDATA[MPS Saem Spa]]></cell><cell><![CDATA[1,954,931,157]]></cell></row>
+<row><cell><![CDATA[110]]></cell><cell><![CDATA[SAEM S.P.A]]></cell><cell><![CDATA[MPS Saem Spa]]></cell><cell><![CDATA[2,211,138,999]]></cell></row>
+<row><cell><![CDATA[111]]></cell><cell><![CDATA[SAEM S.P.A]]></cell><cell><![CDATA[MPS Saem Spa]]></cell><cell><![CDATA[2,491,178,570]]></cell></row></rows><rows profile='color'><head><columns><column  width='50' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[No.]]></column><column  width='220' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Klien]]></column><column  width='320' align='left' type='ron' hidden='false' sort='int' color=''><![CDATA[ Nama Proyek]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[ Piutang]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='3' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[13,059,699,017]]></column>
+</columns>
+</foot><row><cell><![CDATA[3]]></cell><cell><![CDATA[ASIA PRIMA KIMIA RAYA]]></cell><cell><![CDATA[Radiography Test]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[BINA DAYA BINTARA]]></cell><cell><![CDATA[Audit SMk3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[BINA DAYA BINTARA]]></cell><cell><![CDATA[Audit SMk3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[CHEVRON PACIFIC INDONESIA]]></cell><cell><![CDATA[Predictive Maintenance Services]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[17]]></cell><cell><![CDATA[CHEVRON PACIFIC INDONESIA]]></cell><cell><![CDATA[Predictive Maintenance Services]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[18]]></cell><cell><![CDATA[CHEVRON PACIFIC INDONESIA]]></cell><cell><![CDATA[Land Survey and Asset Protection Services]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[19]]></cell><cell><![CDATA[CHEVRON PACIFIC INDONESIA]]></cell><cell><![CDATA[Contract for Kemenaker/Disnaker and Certification Support Services for Equipment and Facilities  in Sumatera Operation]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[20]]></cell><cell><![CDATA[CHEVRON PACIFIC INDONESIA]]></cell><cell><![CDATA[Contract for Kemenaker/Disnaker and Certification Support Services for Equipment and Facilities  in Sumatera Operation]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[21]]></cell><cell><![CDATA[CHEVRON PACIFIC INDONESIA]]></cell><cell><![CDATA[Jasa-Jasa Pengelolaan Inventori Harga Tetap (Fixed Assets Inventory Management Services)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[22]]></cell><cell><![CDATA[CHEVRON PACIFIC INDONESIA]]></cell><cell><![CDATA[Jasa-Jasa Pengelolaan Inventori Harga Tetap (Fixed Assets Inventory Management Services)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[28]]></cell><cell><![CDATA[GADA JAYA]]></cell><cell><![CDATA[Inspection Welding Join NDT]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[62]]></cell><cell><![CDATA[INDOKARYA BANGUN BERSAMA]]></cell><cell><![CDATA[SVI Vanilla Project Non Destructive Testing Service]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[63]]></cell><cell><![CDATA[INDOKARYA BANGUN BERSAMA]]></cell><cell><![CDATA[SVI Vanilla Project Non Destructive Testing Service]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[64]]></cell><cell><![CDATA[INDOKARYA BANGUN BERSAMA]]></cell><cell><![CDATA[SVI Vanilla Project Non Destructive Testing Service]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[65]]></cell><cell><![CDATA[KAMPARINDO AGRO INDUSTRI]]></cell><cell><![CDATA[Sertifikasi Laik Operasi (SLO)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[71]]></cell><cell><![CDATA[MITRA TANINUSA SEJATI]]></cell><cell><![CDATA[Audit SMk3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[72]]></cell><cell><![CDATA[MITRA TANINUSA SEJATI]]></cell><cell><![CDATA[Audit SMk3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[83]]></cell><cell><![CDATA[PERKEBUNAN NUSANTARA V (PERSERO)]]></cell><cell><![CDATA[Studi Kelayakan Pembangunan Pabrik Kelapa Sawit PTPN V Di Kabupaten Indragiri Hulu atau Pembelian Aset PKS PT Persada Agro Sawita (PAS)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[92]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN TENGAH]]></cell><cell><![CDATA[Jasa Konsultansi Pekerjaan Design Review Transmisi dan Gardu Induk]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[93]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN TENGAH]]></cell><cell><![CDATA[Jasa Pekerjaan Survey dan Soil Investigation Jalur Transmisi T/L 150kV New Garuda Sakti - Perawang]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[94]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN TENGAH]]></cell><cell><![CDATA[Pengadaan Jasa Konsultan Survey Dan Soil Investigation Reroute SUTT 150 KV Perawang -  Siak Sri Indrapura]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[95]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN TENGAH]]></cell><cell><![CDATA[Pengadaan Jasa Konsultan Survey Dan Soil Investigation Reroute SUTT 150 KV Perawang -  Siak Sri Indrapura]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[100]]></cell><cell><![CDATA[PUTI BUNGSU]]></cell><cell><![CDATA[Jasa Inspeksi dan Sertifikasi Disnaker Peralatan]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[101]]></cell><cell><![CDATA[RIAU ANDALAN PULP AND PAPER]]></cell><cell><![CDATA[Draught Survey BG. LOW KIM CHUAN 28]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[102]]></cell><cell><![CDATA[RIMBA LAZUARDI]]></cell><cell><![CDATA[Audit SMk3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[103]]></cell><cell><![CDATA[RIMBA LAZUARDI]]></cell><cell><![CDATA[Audit SMk3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[104]]></cell><cell><![CDATA[RIMBA MUTIARA PERMAI]]></cell><cell><![CDATA[Audit SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[105]]></cell><cell><![CDATA[RIMBA MUTIARA PERMAI]]></cell><cell><![CDATA[Audit SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[106]]></cell><cell><![CDATA[RIMBA PERANAP INDAH]]></cell><cell><![CDATA[Audit SMk3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[107]]></cell><cell><![CDATA[RIMBA PERANAP INDAH]]></cell><cell><![CDATA[Audit SMk3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[116]]></cell><cell><![CDATA[SAIPEM INDONESIA]]></cell><cell><![CDATA[MPS Saipem]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[122]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[147]]></cell><cell><![CDATA[SUMATERA SYLVA LESTARI]]></cell><cell><![CDATA[Audit SMk3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[148]]></cell><cell><![CDATA[SUMATERA SYLVA LESTARI]]></cell><cell><![CDATA[Audit SMk3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[172]]></cell><cell><![CDATA[TRANSPORTASI GAS INDONESIA]]></cell><cell><![CDATA[Lube Oil Sampling Analysis RO1 & RO2]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[176]]></cell><cell><![CDATA[YAYASAN RUMAH SAKIT ISLAM SITI RAHMAH]]></cell><cell><![CDATA[Inspeksi & Sertifikasi Disnaker Lift, Penyalur Petir & Genset]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[127]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[130]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[30]]></cell><cell><![CDATA[GALANGCITRAMITRA MAJUMAPAN]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[339,600]]></cell></row>
+<row><cell><![CDATA[171]]></cell><cell><![CDATA[SURVINDO PUTRA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[510,000]]></cell></row>
+<row><cell><![CDATA[175]]></cell><cell><![CDATA[VISI UTAMA MANDIRI]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[904,545]]></cell></row>
+<row><cell><![CDATA[67]]></cell><cell><![CDATA[KARYA HASIL USAHA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1,000,000]]></cell></row>
+<row><cell><![CDATA[70]]></cell><cell><![CDATA[MIKAFU ELEKTRIKAL]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1,500,000]]></cell></row>
+<row><cell><![CDATA[80]]></cell><cell><![CDATA[PELITA WARGA UTAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1,500,000]]></cell></row>
+<row><cell><![CDATA[140]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[1,524,631]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[ALPA RUCI]]></cell><cell><![CDATA[NDT Alparuci]]></cell><cell><![CDATA[1,540,000]]></cell></row>
+<row><cell><![CDATA[78]]></cell><cell><![CDATA[OSCAR MAS]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[2,000,000]]></cell></row>
+<row><cell><![CDATA[46]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[2,060,559]]></cell></row>
+<row><cell><![CDATA[124]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[2,276,175]]></cell></row>
+<row><cell><![CDATA[68]]></cell><cell><![CDATA[KARYA MANDIRI MAKMUR]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[2,500,000]]></cell></row>
+<row><cell><![CDATA[164]]></cell><cell><![CDATA[SURVINDO PUTRA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[2,670,455]]></cell></row>
+<row><cell><![CDATA[53]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[2,731,548]]></cell></row>
+<row><cell><![CDATA[129]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[2,810,042]]></cell></row>
+<row><cell><![CDATA[141]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[3,034,900]]></cell></row>
+<row><cell><![CDATA[51]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[3,151,054]]></cell></row>
+<row><cell><![CDATA[170]]></cell><cell><![CDATA[SURVINDO PUTRA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[3,162,000]]></cell></row>
+<row><cell><![CDATA[151]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[3,234,599]]></cell></row>
+<row><cell><![CDATA[142]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[3,241,825]]></cell></row>
+<row><cell><![CDATA[120]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[NDT Multi Struktur]]></cell><cell><![CDATA[3,428,885]]></cell></row>
+<row><cell><![CDATA[37]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[3,455,096]]></cell></row>
+<row><cell><![CDATA[40]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[3,514,138]]></cell></row>
+<row><cell><![CDATA[55]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[4,129,533]]></cell></row>
+<row><cell><![CDATA[99]]></cell><cell><![CDATA[PROTEKNIKA JASA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[4,175,000]]></cell></row>
+<row><cell><![CDATA[86]]></cell><cell><![CDATA[PETROWOOD BANGUN MANDIRI]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[4,717,000]]></cell></row>
+<row><cell><![CDATA[134]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[4,857,220]]></cell></row>
+<row><cell><![CDATA[135]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[4,897,225]]></cell></row>
+<row><cell><![CDATA[96]]></cell><cell><![CDATA[PROTEKNIKA JASA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[4,972,000]]></cell></row>
+<row><cell><![CDATA[121]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[NDT Multi Struktur]]></cell><cell><![CDATA[5,096,425]]></cell></row>
+<row><cell><![CDATA[169]]></cell><cell><![CDATA[SURVINDO PUTRA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[5,280,000]]></cell></row>
+<row><cell><![CDATA[154]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[5,316,563]]></cell></row>
+<row><cell><![CDATA[42]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[5,373,842]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[AZZURA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[5,599,999]]></cell></row>
+<row><cell><![CDATA[1]]></cell><cell><![CDATA[ALPA RUCI]]></cell><cell><![CDATA[NDT Alparuci]]></cell><cell><![CDATA[5,879,500]]></cell></row>
+<row><cell><![CDATA[47]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[5,934,333]]></cell></row>
+<row><cell><![CDATA[125]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[6,163,606]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[BEW CONSORTIUM]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[6,286,000]]></cell></row>
+<row><cell><![CDATA[143]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[6,421,848]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[BEW CONSORTIUM]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[6,660,500]]></cell></row>
+<row><cell><![CDATA[43]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[7,064,695]]></cell></row>
+<row><cell><![CDATA[133]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[7,352,873]]></cell></row>
+<row><cell><![CDATA[119]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[NDT Multi Struktur]]></cell><cell><![CDATA[7,464,199]]></cell></row>
+<row><cell><![CDATA[33]]></cell><cell><![CDATA[GEOCHEM FAR EAST PTE LTD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[7,573,317]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[ATVIRA INOVFINTEK]]></cell><cell><![CDATA[NDT Atvira]]></cell><cell><![CDATA[8,494,200]]></cell></row>
+<row><cell><![CDATA[139]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[8,601,045]]></cell></row>
+<row><cell><![CDATA[26]]></cell><cell><![CDATA[EMP MALACCA STRAIT S.A]]></cell><cell><![CDATA[NDT Radiography For Piping Work]]></cell><cell><![CDATA[9,021,100]]></cell></row>
+<row><cell><![CDATA[35]]></cell><cell><![CDATA[GEOCHEM FAR EAST PTE LTD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[9,719,267]]></cell></row>
+<row><cell><![CDATA[132]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[10,639,256]]></cell></row>
+<row><cell><![CDATA[137]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[10,667,949]]></cell></row>
+<row><cell><![CDATA[118]]></cell><cell><![CDATA[SELO KENCANA ENERGI]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[11,000,000]]></cell></row>
+<row><cell><![CDATA[54]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[11,358,527]]></cell></row>
+<row><cell><![CDATA[57]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[12,682,571]]></cell></row>
+<row><cell><![CDATA[163]]></cell><cell><![CDATA[SURVINDO DWI PUTRA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[12,700,779]]></cell></row>
+<row><cell><![CDATA[29]]></cell><cell><![CDATA[GALANGCITRAMITRA MAJUMAPAN]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[13,358,400]]></cell></row>
+<row><cell><![CDATA[56]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[14,158,222]]></cell></row>
+<row><cell><![CDATA[58]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[14,462,816]]></cell></row>
+<row><cell><![CDATA[109]]></cell><cell><![CDATA[SAEM S.P.A]]></cell><cell><![CDATA[MPS Saem SPA]]></cell><cell><![CDATA[14,484,750]]></cell></row>
+<row><cell><![CDATA[97]]></cell><cell><![CDATA[PROTEKNIKA JASA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[14,668,500]]></cell></row>
+<row><cell><![CDATA[160]]></cell><cell><![CDATA[SURVINDO DWI PUTRA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[15,125,000]]></cell></row>
+<row><cell><![CDATA[59]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[15,587,384]]></cell></row>
+<row><cell><![CDATA[126]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[15,721,610]]></cell></row>
+<row><cell><![CDATA[25]]></cell><cell><![CDATA[EMP MALACCA STRAIT S.A]]></cell><cell><![CDATA[NDT Radiography For Piping Work]]></cell><cell><![CDATA[15,809,200]]></cell></row>
+<row><cell><![CDATA[117]]></cell><cell><![CDATA[SELO KENCANA ENERGI]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[16,225,000]]></cell></row>
+<row><cell><![CDATA[34]]></cell><cell><![CDATA[GEOCHEM FAR EAST PTE LTD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[16,274,375]]></cell></row>
+<row><cell><![CDATA[32]]></cell><cell><![CDATA[GALANGCITRAMITRA MAJUMAPAN]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[16,450,000]]></cell></row>
+<row><cell><![CDATA[79]]></cell><cell><![CDATA[PANCASONA JAYA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[16,470,000]]></cell></row>
+<row><cell><![CDATA[36]]></cell><cell><![CDATA[GEOCHEM FAR EAST PTE LTD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[16,576,072]]></cell></row>
+<row><cell><![CDATA[165]]></cell><cell><![CDATA[SURVINDO PUTRA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[16,676,999]]></cell></row>
+<row><cell><![CDATA[52]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[17,275,203]]></cell></row>
+<row><cell><![CDATA[155]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[17,382,232]]></cell></row>
+<row><cell><![CDATA[98]]></cell><cell><![CDATA[PROTEKNIKA JASA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[17,622,000]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[BIRO KLASIFIKASI INDONESIA (PERSERO)]]></cell><cell><![CDATA[Inspeksi dan SLO TM 20Kv BKI]]></cell><cell><![CDATA[19,250,000]]></cell></row>
+<row><cell><![CDATA[76]]></cell><cell><![CDATA[NIRA MURNI KONSTRUKSI ]]></cell><cell><![CDATA[NDT Nira Murni]]></cell><cell><![CDATA[21,870,750]]></cell></row>
+<row><cell><![CDATA[85]]></cell><cell><![CDATA[PETROWOOD BANGUN MANDIRI]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[22,440,000]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[CHEVRON PACIFIC INDONESIA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[23,261,000]]></cell></row>
+<row><cell><![CDATA[77]]></cell><cell><![CDATA[NIRA MURNI KONSTRUKSI ]]></cell><cell><![CDATA[NDT Nira Murni]]></cell><cell><![CDATA[23,867,250]]></cell></row>
+<row><cell><![CDATA[146]]></cell><cell><![CDATA[SINAR BANGUN PERSADA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[24,200,000]]></cell></row>
+<row><cell><![CDATA[112]]></cell><cell><![CDATA[SAEM S.P.A]]></cell><cell><![CDATA[MPS Saem Spa]]></cell><cell><![CDATA[24,379,080]]></cell></row>
+<row><cell><![CDATA[128]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[25,749,885]]></cell></row>
+<row><cell><![CDATA[81]]></cell><cell><![CDATA[PELITA WARGA UTAMA]]></cell><cell><![CDATA[NDT Pelita Warga Utama]]></cell><cell><![CDATA[26,700,000]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[CHEVRON PACIFIC INDONESIA]]></cell><cell><![CDATA[Technical And Visual Inspection Services In Sumatra Operations]]></cell><cell><![CDATA[27,000,000]]></cell></row>
+<row><cell><![CDATA[89]]></cell><cell><![CDATA[PLN (PERSERO) SEKTOR PEMBANGKITAN OMBILIN]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[28,000,000]]></cell></row>
+<row><cell><![CDATA[90]]></cell><cell><![CDATA[PLN (PERSERO) SEKTOR PEMBANGKITAN OMBILIN]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[28,000,000]]></cell></row>
+<row><cell><![CDATA[91]]></cell><cell><![CDATA[PLN (PERSERO) SEKTOR PEMBANGKITAN OMBILIN]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[28,000,000]]></cell></row>
+<row><cell><![CDATA[45]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[28,378,798]]></cell></row>
+<row><cell><![CDATA[166]]></cell><cell><![CDATA[SURVINDO PUTRA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[29,999,999]]></cell></row>
+<row><cell><![CDATA[84]]></cell><cell><![CDATA[PERSADA SAPTA GEMILANG]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[30,000,000]]></cell></row>
+<row><cell><![CDATA[24]]></cell><cell><![CDATA[EMP MALACCA STRAIT S.A]]></cell><cell><![CDATA[NDT Radiography For R. Export Line]]></cell><cell><![CDATA[30,091,600]]></cell></row>
+<row><cell><![CDATA[145]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[31,073,294]]></cell></row>
+<row><cell><![CDATA[61]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[33,046,198]]></cell></row>
+<row><cell><![CDATA[82]]></cell><cell><![CDATA[PELITA WARGA UTAMA]]></cell><cell><![CDATA[NDT Pelita Warga Utama]]></cell><cell><![CDATA[33,550,000]]></cell></row>
+<row><cell><![CDATA[60]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[35,294,783]]></cell></row>
+<row><cell><![CDATA[161]]></cell><cell><![CDATA[SURVINDO DWI PUTRA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[35,695,000]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[BASKO MINANG PLAZA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[35,750,000]]></cell></row>
+<row><cell><![CDATA[23]]></cell><cell><![CDATA[EMP MALACCA STRAIT S.A]]></cell><cell><![CDATA[NDT Radiography For R. Export Line]]></cell><cell><![CDATA[36,506,800]]></cell></row>
+<row><cell><![CDATA[50]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[36,708,081]]></cell></row>
+<row><cell><![CDATA[152]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[37,750,415]]></cell></row>
+<row><cell><![CDATA[173]]></cell><cell><![CDATA[URAWA REKAYASA MANDIRI]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[38,115,000]]></cell></row>
+<row><cell><![CDATA[123]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[38,784,672]]></cell></row>
+<row><cell><![CDATA[27]]></cell><cell><![CDATA[EMP MALACCA STRAIT S.A]]></cell><cell><![CDATA[NDT Radiography For Piping Work]]></cell><cell><![CDATA[38,932,950]]></cell></row>
+<row><cell><![CDATA[48]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[39,055,438]]></cell></row>
+<row><cell><![CDATA[44]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[41,185,938]]></cell></row>
+<row><cell><![CDATA[31]]></cell><cell><![CDATA[GALANGCITRAMITRA MAJUMAPAN]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[42,900,000]]></cell></row>
+<row><cell><![CDATA[39]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[44,155,036]]></cell></row>
+<row><cell><![CDATA[38]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[44,792,089]]></cell></row>
+<row><cell><![CDATA[66]]></cell><cell><![CDATA[KARSA DAYA UTAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[46,124,100]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[ATVIRA INOVFINTEK]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[46,193,700]]></cell></row>
+<row><cell><![CDATA[131]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[46,928,797]]></cell></row>
+<row><cell><![CDATA[168]]></cell><cell><![CDATA[SURVINDO PUTRA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[49,571,061]]></cell></row>
+<row><cell><![CDATA[149]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[54,700,428]]></cell></row>
+<row><cell><![CDATA[156]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[59,541,532]]></cell></row>
+<row><cell><![CDATA[88]]></cell><cell><![CDATA[PLN (PERSERO) SEKTOR PEMBANGKITAN OMBILIN]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[62,045,315]]></cell></row>
+<row><cell><![CDATA[49]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[65,111,986]]></cell></row>
+<row><cell><![CDATA[167]]></cell><cell><![CDATA[SURVINDO PUTRA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[66,124,998]]></cell></row>
+<row><cell><![CDATA[41]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[66,827,946]]></cell></row>
+<row><cell><![CDATA[159]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[82,671,238]]></cell></row>
+<row><cell><![CDATA[87]]></cell><cell><![CDATA[PLN (PERSERO) SEKTOR PEMBANGKITAN OMBILIN]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[86,388,636]]></cell></row>
+<row><cell><![CDATA[153]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[94,008,421]]></cell></row>
+<row><cell><![CDATA[115]]></cell><cell><![CDATA[SAIPEM INDONESIA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[99,225,000]]></cell></row>
+<row><cell><![CDATA[150]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[107,779,128]]></cell></row>
+<row><cell><![CDATA[144]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[112,320,270]]></cell></row>
+<row><cell><![CDATA[157]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[112,699,523]]></cell></row>
+<row><cell><![CDATA[136]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[118,361,100]]></cell></row>
+<row><cell><![CDATA[69]]></cell><cell><![CDATA[KREASINDO ERATEK DINAMIKA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[119,880,200]]></cell></row>
+<row><cell><![CDATA[74]]></cell><cell><![CDATA[MULTI STRUCTURE]]></cell><cell><![CDATA[NDT Multi Struktur]]></cell><cell><![CDATA[121,471,800]]></cell></row>
+<row><cell><![CDATA[158]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[126,519,479]]></cell></row>
+<row><cell><![CDATA[138]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[141,122,850]]></cell></row>
+<row><cell><![CDATA[174]]></cell><cell><![CDATA[URAWA REKAYASA MANDIRI]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[145,695,500]]></cell></row>
+<row><cell><![CDATA[108]]></cell><cell><![CDATA[SAEM S.P.A]]></cell><cell><![CDATA[MPS Saem SPA]]></cell><cell><![CDATA[159,854,252]]></cell></row>
+<row><cell><![CDATA[162]]></cell><cell><![CDATA[SURVINDO DWI PUTRA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[161,222,600]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[BWP MERUAP_ Pte. Ltd]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[184,800,000]]></cell></row>
+<row><cell><![CDATA[75]]></cell><cell><![CDATA[MULTI STRUCTURE]]></cell><cell><![CDATA[NDT Multi Struktur]]></cell><cell><![CDATA[203,012,550]]></cell></row>
+<row><cell><![CDATA[73]]></cell><cell><![CDATA[MULTI STRUCTURE]]></cell><cell><![CDATA[NDT Multi Struktur]]></cell><cell><![CDATA[247,445,000]]></cell></row>
+<row><cell><![CDATA[113]]></cell><cell><![CDATA[SAEM S.P.A]]></cell><cell><![CDATA[MPS Saem Spa]]></cell><cell><![CDATA[1,767,800,634]]></cell></row>
+<row><cell><![CDATA[114]]></cell><cell><![CDATA[SAEM S.P.A]]></cell><cell><![CDATA[MPS Saem Spa]]></cell><cell><![CDATA[1,954,931,157]]></cell></row>
+<row><cell><![CDATA[110]]></cell><cell><![CDATA[SAEM S.P.A]]></cell><cell><![CDATA[MPS Saem Spa]]></cell><cell><![CDATA[2,211,138,999]]></cell></row>
+<row><cell><![CDATA[111]]></cell><cell><![CDATA[SAEM S.P.A]]></cell><cell><![CDATA[MPS Saem Spa]]></cell><cell><![CDATA[2,491,178,570]]></cell></row></rows><rows profile='color'><head><columns><column  width='50' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[No.]]></column><column  width='220' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Klien]]></column><column  width='320' align='left' type='ron' hidden='false' sort='int' color=''><![CDATA[ Nama Proyek]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[ Piutang]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='3' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[13,059,699,017]]></column>
+</columns>
+</foot><row><cell><![CDATA[3]]></cell><cell><![CDATA[ASIA PRIMA KIMIA RAYA]]></cell><cell><![CDATA[Radiography Test]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[BINA DAYA BINTARA]]></cell><cell><![CDATA[Audit SMk3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[BINA DAYA BINTARA]]></cell><cell><![CDATA[Audit SMk3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[CHEVRON PACIFIC INDONESIA]]></cell><cell><![CDATA[Predictive Maintenance Services]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[17]]></cell><cell><![CDATA[CHEVRON PACIFIC INDONESIA]]></cell><cell><![CDATA[Predictive Maintenance Services]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[18]]></cell><cell><![CDATA[CHEVRON PACIFIC INDONESIA]]></cell><cell><![CDATA[Land Survey and Asset Protection Services]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[19]]></cell><cell><![CDATA[CHEVRON PACIFIC INDONESIA]]></cell><cell><![CDATA[Contract for Kemenaker/Disnaker and Certification Support Services for Equipment and Facilities  in Sumatera Operation]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[20]]></cell><cell><![CDATA[CHEVRON PACIFIC INDONESIA]]></cell><cell><![CDATA[Contract for Kemenaker/Disnaker and Certification Support Services for Equipment and Facilities  in Sumatera Operation]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[21]]></cell><cell><![CDATA[CHEVRON PACIFIC INDONESIA]]></cell><cell><![CDATA[Jasa-Jasa Pengelolaan Inventori Harga Tetap (Fixed Assets Inventory Management Services)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[22]]></cell><cell><![CDATA[CHEVRON PACIFIC INDONESIA]]></cell><cell><![CDATA[Jasa-Jasa Pengelolaan Inventori Harga Tetap (Fixed Assets Inventory Management Services)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[28]]></cell><cell><![CDATA[GADA JAYA]]></cell><cell><![CDATA[Inspection Welding Join NDT]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[62]]></cell><cell><![CDATA[INDOKARYA BANGUN BERSAMA]]></cell><cell><![CDATA[SVI Vanilla Project Non Destructive Testing Service]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[63]]></cell><cell><![CDATA[INDOKARYA BANGUN BERSAMA]]></cell><cell><![CDATA[SVI Vanilla Project Non Destructive Testing Service]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[64]]></cell><cell><![CDATA[INDOKARYA BANGUN BERSAMA]]></cell><cell><![CDATA[SVI Vanilla Project Non Destructive Testing Service]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[65]]></cell><cell><![CDATA[KAMPARINDO AGRO INDUSTRI]]></cell><cell><![CDATA[Sertifikasi Laik Operasi (SLO)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[71]]></cell><cell><![CDATA[MITRA TANINUSA SEJATI]]></cell><cell><![CDATA[Audit SMk3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[72]]></cell><cell><![CDATA[MITRA TANINUSA SEJATI]]></cell><cell><![CDATA[Audit SMk3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[83]]></cell><cell><![CDATA[PERKEBUNAN NUSANTARA V (PERSERO)]]></cell><cell><![CDATA[Studi Kelayakan Pembangunan Pabrik Kelapa Sawit PTPN V Di Kabupaten Indragiri Hulu atau Pembelian Aset PKS PT Persada Agro Sawita (PAS)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[92]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN TENGAH]]></cell><cell><![CDATA[Jasa Konsultansi Pekerjaan Design Review Transmisi dan Gardu Induk]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[93]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN TENGAH]]></cell><cell><![CDATA[Jasa Pekerjaan Survey dan Soil Investigation Jalur Transmisi T/L 150kV New Garuda Sakti - Perawang]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[94]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN TENGAH]]></cell><cell><![CDATA[Pengadaan Jasa Konsultan Survey Dan Soil Investigation Reroute SUTT 150 KV Perawang -  Siak Sri Indrapura]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[95]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN TENGAH]]></cell><cell><![CDATA[Pengadaan Jasa Konsultan Survey Dan Soil Investigation Reroute SUTT 150 KV Perawang -  Siak Sri Indrapura]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[100]]></cell><cell><![CDATA[PUTI BUNGSU]]></cell><cell><![CDATA[Jasa Inspeksi dan Sertifikasi Disnaker Peralatan]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[101]]></cell><cell><![CDATA[RIAU ANDALAN PULP AND PAPER]]></cell><cell><![CDATA[Draught Survey BG. LOW KIM CHUAN 28]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[102]]></cell><cell><![CDATA[RIMBA LAZUARDI]]></cell><cell><![CDATA[Audit SMk3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[103]]></cell><cell><![CDATA[RIMBA LAZUARDI]]></cell><cell><![CDATA[Audit SMk3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[104]]></cell><cell><![CDATA[RIMBA MUTIARA PERMAI]]></cell><cell><![CDATA[Audit SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[105]]></cell><cell><![CDATA[RIMBA MUTIARA PERMAI]]></cell><cell><![CDATA[Audit SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[106]]></cell><cell><![CDATA[RIMBA PERANAP INDAH]]></cell><cell><![CDATA[Audit SMk3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[107]]></cell><cell><![CDATA[RIMBA PERANAP INDAH]]></cell><cell><![CDATA[Audit SMk3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[116]]></cell><cell><![CDATA[SAIPEM INDONESIA]]></cell><cell><![CDATA[MPS Saipem]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[122]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[147]]></cell><cell><![CDATA[SUMATERA SYLVA LESTARI]]></cell><cell><![CDATA[Audit SMk3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[148]]></cell><cell><![CDATA[SUMATERA SYLVA LESTARI]]></cell><cell><![CDATA[Audit SMk3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[172]]></cell><cell><![CDATA[TRANSPORTASI GAS INDONESIA]]></cell><cell><![CDATA[Lube Oil Sampling Analysis RO1 & RO2]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[176]]></cell><cell><![CDATA[YAYASAN RUMAH SAKIT ISLAM SITI RAHMAH]]></cell><cell><![CDATA[Inspeksi & Sertifikasi Disnaker Lift, Penyalur Petir & Genset]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[127]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[130]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[30]]></cell><cell><![CDATA[GALANGCITRAMITRA MAJUMAPAN]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[339,600]]></cell></row>
+<row><cell><![CDATA[171]]></cell><cell><![CDATA[SURVINDO PUTRA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[510,000]]></cell></row>
+<row><cell><![CDATA[175]]></cell><cell><![CDATA[VISI UTAMA MANDIRI]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[904,545]]></cell></row>
+<row><cell><![CDATA[67]]></cell><cell><![CDATA[KARYA HASIL USAHA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1,000,000]]></cell></row>
+<row><cell><![CDATA[70]]></cell><cell><![CDATA[MIKAFU ELEKTRIKAL]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1,500,000]]></cell></row>
+<row><cell><![CDATA[80]]></cell><cell><![CDATA[PELITA WARGA UTAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1,500,000]]></cell></row>
+<row><cell><![CDATA[140]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[1,524,631]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[ALPA RUCI]]></cell><cell><![CDATA[NDT Alparuci]]></cell><cell><![CDATA[1,540,000]]></cell></row>
+<row><cell><![CDATA[78]]></cell><cell><![CDATA[OSCAR MAS]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[2,000,000]]></cell></row>
+<row><cell><![CDATA[46]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[2,060,559]]></cell></row>
+<row><cell><![CDATA[124]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[2,276,175]]></cell></row>
+<row><cell><![CDATA[68]]></cell><cell><![CDATA[KARYA MANDIRI MAKMUR]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[2,500,000]]></cell></row>
+<row><cell><![CDATA[164]]></cell><cell><![CDATA[SURVINDO PUTRA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[2,670,455]]></cell></row>
+<row><cell><![CDATA[53]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[2,731,548]]></cell></row>
+<row><cell><![CDATA[129]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[2,810,042]]></cell></row>
+<row><cell><![CDATA[141]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[3,034,900]]></cell></row>
+<row><cell><![CDATA[51]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[3,151,054]]></cell></row>
+<row><cell><![CDATA[170]]></cell><cell><![CDATA[SURVINDO PUTRA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[3,162,000]]></cell></row>
+<row><cell><![CDATA[151]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[3,234,599]]></cell></row>
+<row><cell><![CDATA[142]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[3,241,825]]></cell></row>
+<row><cell><![CDATA[120]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[NDT Multi Struktur]]></cell><cell><![CDATA[3,428,885]]></cell></row>
+<row><cell><![CDATA[37]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[3,455,096]]></cell></row>
+<row><cell><![CDATA[40]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[3,514,138]]></cell></row>
+<row><cell><![CDATA[55]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[4,129,533]]></cell></row>
+<row><cell><![CDATA[99]]></cell><cell><![CDATA[PROTEKNIKA JASA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[4,175,000]]></cell></row>
+<row><cell><![CDATA[86]]></cell><cell><![CDATA[PETROWOOD BANGUN MANDIRI]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[4,717,000]]></cell></row>
+<row><cell><![CDATA[134]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[4,857,220]]></cell></row>
+<row><cell><![CDATA[135]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[4,897,225]]></cell></row>
+<row><cell><![CDATA[96]]></cell><cell><![CDATA[PROTEKNIKA JASA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[4,972,000]]></cell></row>
+<row><cell><![CDATA[121]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[NDT Multi Struktur]]></cell><cell><![CDATA[5,096,425]]></cell></row>
+<row><cell><![CDATA[169]]></cell><cell><![CDATA[SURVINDO PUTRA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[5,280,000]]></cell></row>
+<row><cell><![CDATA[154]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[5,316,563]]></cell></row>
+<row><cell><![CDATA[42]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[5,373,842]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[AZZURA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[5,599,999]]></cell></row>
+<row><cell><![CDATA[1]]></cell><cell><![CDATA[ALPA RUCI]]></cell><cell><![CDATA[NDT Alparuci]]></cell><cell><![CDATA[5,879,500]]></cell></row>
+<row><cell><![CDATA[47]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[5,934,333]]></cell></row>
+<row><cell><![CDATA[125]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[6,163,606]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[BEW CONSORTIUM]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[6,286,000]]></cell></row>
+<row><cell><![CDATA[143]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[6,421,848]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[BEW CONSORTIUM]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[6,660,500]]></cell></row>
+<row><cell><![CDATA[43]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[7,064,695]]></cell></row>
+<row><cell><![CDATA[133]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[7,352,873]]></cell></row>
+<row><cell><![CDATA[119]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[NDT Multi Struktur]]></cell><cell><![CDATA[7,464,199]]></cell></row>
+<row><cell><![CDATA[33]]></cell><cell><![CDATA[GEOCHEM FAR EAST PTE LTD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[7,573,317]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[ATVIRA INOVFINTEK]]></cell><cell><![CDATA[NDT Atvira]]></cell><cell><![CDATA[8,494,200]]></cell></row>
+<row><cell><![CDATA[139]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[8,601,045]]></cell></row>
+<row><cell><![CDATA[26]]></cell><cell><![CDATA[EMP MALACCA STRAIT S.A]]></cell><cell><![CDATA[NDT Radiography For Piping Work]]></cell><cell><![CDATA[9,021,100]]></cell></row>
+<row><cell><![CDATA[35]]></cell><cell><![CDATA[GEOCHEM FAR EAST PTE LTD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[9,719,267]]></cell></row>
+<row><cell><![CDATA[132]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[10,639,256]]></cell></row>
+<row><cell><![CDATA[137]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[10,667,949]]></cell></row>
+<row><cell><![CDATA[118]]></cell><cell><![CDATA[SELO KENCANA ENERGI]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[11,000,000]]></cell></row>
+<row><cell><![CDATA[54]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[11,358,527]]></cell></row>
+<row><cell><![CDATA[57]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[12,682,571]]></cell></row>
+<row><cell><![CDATA[163]]></cell><cell><![CDATA[SURVINDO DWI PUTRA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[12,700,779]]></cell></row>
+<row><cell><![CDATA[29]]></cell><cell><![CDATA[GALANGCITRAMITRA MAJUMAPAN]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[13,358,400]]></cell></row>
+<row><cell><![CDATA[56]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[14,158,222]]></cell></row>
+<row><cell><![CDATA[58]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[14,462,816]]></cell></row>
+<row><cell><![CDATA[109]]></cell><cell><![CDATA[SAEM S.P.A]]></cell><cell><![CDATA[MPS Saem SPA]]></cell><cell><![CDATA[14,484,750]]></cell></row>
+<row><cell><![CDATA[97]]></cell><cell><![CDATA[PROTEKNIKA JASA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[14,668,500]]></cell></row>
+<row><cell><![CDATA[160]]></cell><cell><![CDATA[SURVINDO DWI PUTRA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[15,125,000]]></cell></row>
+<row><cell><![CDATA[59]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[15,587,384]]></cell></row>
+<row><cell><![CDATA[126]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[15,721,610]]></cell></row>
+<row><cell><![CDATA[25]]></cell><cell><![CDATA[EMP MALACCA STRAIT S.A]]></cell><cell><![CDATA[NDT Radiography For Piping Work]]></cell><cell><![CDATA[15,809,200]]></cell></row>
+<row><cell><![CDATA[117]]></cell><cell><![CDATA[SELO KENCANA ENERGI]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[16,225,000]]></cell></row>
+<row><cell><![CDATA[34]]></cell><cell><![CDATA[GEOCHEM FAR EAST PTE LTD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[16,274,375]]></cell></row>
+<row><cell><![CDATA[32]]></cell><cell><![CDATA[GALANGCITRAMITRA MAJUMAPAN]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[16,450,000]]></cell></row>
+<row><cell><![CDATA[79]]></cell><cell><![CDATA[PANCASONA JAYA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[16,470,000]]></cell></row>
+<row><cell><![CDATA[36]]></cell><cell><![CDATA[GEOCHEM FAR EAST PTE LTD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[16,576,072]]></cell></row>
+<row><cell><![CDATA[165]]></cell><cell><![CDATA[SURVINDO PUTRA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[16,676,999]]></cell></row>
+<row><cell><![CDATA[52]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[17,275,203]]></cell></row>
+<row><cell><![CDATA[155]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[17,382,232]]></cell></row>
+<row><cell><![CDATA[98]]></cell><cell><![CDATA[PROTEKNIKA JASA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[17,622,000]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[BIRO KLASIFIKASI INDONESIA (PERSERO)]]></cell><cell><![CDATA[Inspeksi dan SLO TM 20Kv BKI]]></cell><cell><![CDATA[19,250,000]]></cell></row>
+<row><cell><![CDATA[76]]></cell><cell><![CDATA[NIRA MURNI KONSTRUKSI ]]></cell><cell><![CDATA[NDT Nira Murni]]></cell><cell><![CDATA[21,870,750]]></cell></row>
+<row><cell><![CDATA[85]]></cell><cell><![CDATA[PETROWOOD BANGUN MANDIRI]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[22,440,000]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[CHEVRON PACIFIC INDONESIA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[23,261,000]]></cell></row>
+<row><cell><![CDATA[77]]></cell><cell><![CDATA[NIRA MURNI KONSTRUKSI ]]></cell><cell><![CDATA[NDT Nira Murni]]></cell><cell><![CDATA[23,867,250]]></cell></row>
+<row><cell><![CDATA[146]]></cell><cell><![CDATA[SINAR BANGUN PERSADA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[24,200,000]]></cell></row>
+<row><cell><![CDATA[112]]></cell><cell><![CDATA[SAEM S.P.A]]></cell><cell><![CDATA[MPS Saem Spa]]></cell><cell><![CDATA[24,379,080]]></cell></row>
+<row><cell><![CDATA[128]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[25,749,885]]></cell></row>
+<row><cell><![CDATA[81]]></cell><cell><![CDATA[PELITA WARGA UTAMA]]></cell><cell><![CDATA[NDT Pelita Warga Utama]]></cell><cell><![CDATA[26,700,000]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[CHEVRON PACIFIC INDONESIA]]></cell><cell><![CDATA[Technical And Visual Inspection Services In Sumatra Operations]]></cell><cell><![CDATA[27,000,000]]></cell></row>
+<row><cell><![CDATA[89]]></cell><cell><![CDATA[PLN (PERSERO) SEKTOR PEMBANGKITAN OMBILIN]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[28,000,000]]></cell></row>
+<row><cell><![CDATA[90]]></cell><cell><![CDATA[PLN (PERSERO) SEKTOR PEMBANGKITAN OMBILIN]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[28,000,000]]></cell></row>
+<row><cell><![CDATA[91]]></cell><cell><![CDATA[PLN (PERSERO) SEKTOR PEMBANGKITAN OMBILIN]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[28,000,000]]></cell></row>
+<row><cell><![CDATA[45]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[28,378,798]]></cell></row>
+<row><cell><![CDATA[166]]></cell><cell><![CDATA[SURVINDO PUTRA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[29,999,999]]></cell></row>
+<row><cell><![CDATA[84]]></cell><cell><![CDATA[PERSADA SAPTA GEMILANG]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[30,000,000]]></cell></row>
+<row><cell><![CDATA[24]]></cell><cell><![CDATA[EMP MALACCA STRAIT S.A]]></cell><cell><![CDATA[NDT Radiography For R. Export Line]]></cell><cell><![CDATA[30,091,600]]></cell></row>
+<row><cell><![CDATA[145]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[31,073,294]]></cell></row>
+<row><cell><![CDATA[61]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[33,046,198]]></cell></row>
+<row><cell><![CDATA[82]]></cell><cell><![CDATA[PELITA WARGA UTAMA]]></cell><cell><![CDATA[NDT Pelita Warga Utama]]></cell><cell><![CDATA[33,550,000]]></cell></row>
+<row><cell><![CDATA[60]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[35,294,783]]></cell></row>
+<row><cell><![CDATA[161]]></cell><cell><![CDATA[SURVINDO DWI PUTRA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[35,695,000]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[BASKO MINANG PLAZA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[35,750,000]]></cell></row>
+<row><cell><![CDATA[23]]></cell><cell><![CDATA[EMP MALACCA STRAIT S.A]]></cell><cell><![CDATA[NDT Radiography For R. Export Line]]></cell><cell><![CDATA[36,506,800]]></cell></row>
+<row><cell><![CDATA[50]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[36,708,081]]></cell></row>
+<row><cell><![CDATA[152]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[37,750,415]]></cell></row>
+<row><cell><![CDATA[173]]></cell><cell><![CDATA[URAWA REKAYASA MANDIRI]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[38,115,000]]></cell></row>
+<row><cell><![CDATA[123]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[38,784,672]]></cell></row>
+<row><cell><![CDATA[27]]></cell><cell><![CDATA[EMP MALACCA STRAIT S.A]]></cell><cell><![CDATA[NDT Radiography For Piping Work]]></cell><cell><![CDATA[38,932,950]]></cell></row>
+<row><cell><![CDATA[48]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[39,055,438]]></cell></row>
+<row><cell><![CDATA[44]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[41,185,938]]></cell></row>
+<row><cell><![CDATA[31]]></cell><cell><![CDATA[GALANGCITRAMITRA MAJUMAPAN]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[42,900,000]]></cell></row>
+<row><cell><![CDATA[39]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[44,155,036]]></cell></row>
+<row><cell><![CDATA[38]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[44,792,089]]></cell></row>
+<row><cell><![CDATA[66]]></cell><cell><![CDATA[KARSA DAYA UTAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[46,124,100]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[ATVIRA INOVFINTEK]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[46,193,700]]></cell></row>
+<row><cell><![CDATA[131]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[46,928,797]]></cell></row>
+<row><cell><![CDATA[168]]></cell><cell><![CDATA[SURVINDO PUTRA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[49,571,061]]></cell></row>
+<row><cell><![CDATA[149]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[54,700,428]]></cell></row>
+<row><cell><![CDATA[156]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[59,541,532]]></cell></row>
+<row><cell><![CDATA[88]]></cell><cell><![CDATA[PLN (PERSERO) SEKTOR PEMBANGKITAN OMBILIN]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[62,045,315]]></cell></row>
+<row><cell><![CDATA[49]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[65,111,986]]></cell></row>
+<row><cell><![CDATA[167]]></cell><cell><![CDATA[SURVINDO PUTRA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[66,124,998]]></cell></row>
+<row><cell><![CDATA[41]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[66,827,946]]></cell></row>
+<row><cell><![CDATA[159]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[82,671,238]]></cell></row>
+<row><cell><![CDATA[87]]></cell><cell><![CDATA[PLN (PERSERO) SEKTOR PEMBANGKITAN OMBILIN]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[86,388,636]]></cell></row>
+<row><cell><![CDATA[153]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[94,008,421]]></cell></row>
+<row><cell><![CDATA[115]]></cell><cell><![CDATA[SAIPEM INDONESIA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[99,225,000]]></cell></row>
+<row><cell><![CDATA[150]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[107,779,128]]></cell></row>
+<row><cell><![CDATA[144]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[112,320,270]]></cell></row>
+<row><cell><![CDATA[157]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[112,699,523]]></cell></row>
+<row><cell><![CDATA[136]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[118,361,100]]></cell></row>
+<row><cell><![CDATA[69]]></cell><cell><![CDATA[KREASINDO ERATEK DINAMIKA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[119,880,200]]></cell></row>
+<row><cell><![CDATA[74]]></cell><cell><![CDATA[MULTI STRUCTURE]]></cell><cell><![CDATA[NDT Multi Struktur]]></cell><cell><![CDATA[121,471,800]]></cell></row>
+<row><cell><![CDATA[158]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[126,519,479]]></cell></row>
+<row><cell><![CDATA[138]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[141,122,850]]></cell></row>
+<row><cell><![CDATA[174]]></cell><cell><![CDATA[URAWA REKAYASA MANDIRI]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[145,695,500]]></cell></row>
+<row><cell><![CDATA[108]]></cell><cell><![CDATA[SAEM S.P.A]]></cell><cell><![CDATA[MPS Saem SPA]]></cell><cell><![CDATA[159,854,252]]></cell></row>
+<row><cell><![CDATA[162]]></cell><cell><![CDATA[SURVINDO DWI PUTRA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[161,222,600]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[BWP MERUAP_ Pte. Ltd]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[184,800,000]]></cell></row>
+<row><cell><![CDATA[75]]></cell><cell><![CDATA[MULTI STRUCTURE]]></cell><cell><![CDATA[NDT Multi Struktur]]></cell><cell><![CDATA[203,012,550]]></cell></row>
+<row><cell><![CDATA[73]]></cell><cell><![CDATA[MULTI STRUCTURE]]></cell><cell><![CDATA[NDT Multi Struktur]]></cell><cell><![CDATA[247,445,000]]></cell></row>
+<row><cell><![CDATA[113]]></cell><cell><![CDATA[SAEM S.P.A]]></cell><cell><![CDATA[MPS Saem Spa]]></cell><cell><![CDATA[1,767,800,634]]></cell></row>
+<row><cell><![CDATA[114]]></cell><cell><![CDATA[SAEM S.P.A]]></cell><cell><![CDATA[MPS Saem Spa]]></cell><cell><![CDATA[1,954,931,157]]></cell></row>
+<row><cell><![CDATA[110]]></cell><cell><![CDATA[SAEM S.P.A]]></cell><cell><![CDATA[MPS Saem Spa]]></cell><cell><![CDATA[2,211,138,999]]></cell></row>
+<row><cell><![CDATA[111]]></cell><cell><![CDATA[SAEM S.P.A]]></cell><cell><![CDATA[MPS Saem Spa]]></cell><cell><![CDATA[2,491,178,570]]></cell></row></rows><rows profile='color'><head><columns><column  width='50' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[No.]]></column><column  width='220' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Klien]]></column><column  width='320' align='left' type='ron' hidden='false' sort='int' color=''><![CDATA[ Nama Proyek]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[ Piutang]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='3' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[13,059,699,017]]></column>
+</columns>
+</foot><row><cell><![CDATA[3]]></cell><cell><![CDATA[ASIA PRIMA KIMIA RAYA]]></cell><cell><![CDATA[Radiography Test]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[BINA DAYA BINTARA]]></cell><cell><![CDATA[Audit SMk3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[BINA DAYA BINTARA]]></cell><cell><![CDATA[Audit SMk3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[CHEVRON PACIFIC INDONESIA]]></cell><cell><![CDATA[Predictive Maintenance Services]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[17]]></cell><cell><![CDATA[CHEVRON PACIFIC INDONESIA]]></cell><cell><![CDATA[Predictive Maintenance Services]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[18]]></cell><cell><![CDATA[CHEVRON PACIFIC INDONESIA]]></cell><cell><![CDATA[Land Survey and Asset Protection Services]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[19]]></cell><cell><![CDATA[CHEVRON PACIFIC INDONESIA]]></cell><cell><![CDATA[Contract for Kemenaker/Disnaker and Certification Support Services for Equipment and Facilities  in Sumatera Operation]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[20]]></cell><cell><![CDATA[CHEVRON PACIFIC INDONESIA]]></cell><cell><![CDATA[Contract for Kemenaker/Disnaker and Certification Support Services for Equipment and Facilities  in Sumatera Operation]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[21]]></cell><cell><![CDATA[CHEVRON PACIFIC INDONESIA]]></cell><cell><![CDATA[Jasa-Jasa Pengelolaan Inventori Harga Tetap (Fixed Assets Inventory Management Services)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[22]]></cell><cell><![CDATA[CHEVRON PACIFIC INDONESIA]]></cell><cell><![CDATA[Jasa-Jasa Pengelolaan Inventori Harga Tetap (Fixed Assets Inventory Management Services)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[28]]></cell><cell><![CDATA[GADA JAYA]]></cell><cell><![CDATA[Inspection Welding Join NDT]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[62]]></cell><cell><![CDATA[INDOKARYA BANGUN BERSAMA]]></cell><cell><![CDATA[SVI Vanilla Project Non Destructive Testing Service]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[63]]></cell><cell><![CDATA[INDOKARYA BANGUN BERSAMA]]></cell><cell><![CDATA[SVI Vanilla Project Non Destructive Testing Service]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[64]]></cell><cell><![CDATA[INDOKARYA BANGUN BERSAMA]]></cell><cell><![CDATA[SVI Vanilla Project Non Destructive Testing Service]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[65]]></cell><cell><![CDATA[KAMPARINDO AGRO INDUSTRI]]></cell><cell><![CDATA[Sertifikasi Laik Operasi (SLO)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[71]]></cell><cell><![CDATA[MITRA TANINUSA SEJATI]]></cell><cell><![CDATA[Audit SMk3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[72]]></cell><cell><![CDATA[MITRA TANINUSA SEJATI]]></cell><cell><![CDATA[Audit SMk3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[83]]></cell><cell><![CDATA[PERKEBUNAN NUSANTARA V (PERSERO)]]></cell><cell><![CDATA[Studi Kelayakan Pembangunan Pabrik Kelapa Sawit PTPN V Di Kabupaten Indragiri Hulu atau Pembelian Aset PKS PT Persada Agro Sawita (PAS)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[92]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN TENGAH]]></cell><cell><![CDATA[Jasa Konsultansi Pekerjaan Design Review Transmisi dan Gardu Induk]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[93]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN TENGAH]]></cell><cell><![CDATA[Jasa Pekerjaan Survey dan Soil Investigation Jalur Transmisi T/L 150kV New Garuda Sakti - Perawang]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[94]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN TENGAH]]></cell><cell><![CDATA[Pengadaan Jasa Konsultan Survey Dan Soil Investigation Reroute SUTT 150 KV Perawang -  Siak Sri Indrapura]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[95]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN TENGAH]]></cell><cell><![CDATA[Pengadaan Jasa Konsultan Survey Dan Soil Investigation Reroute SUTT 150 KV Perawang -  Siak Sri Indrapura]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[100]]></cell><cell><![CDATA[PUTI BUNGSU]]></cell><cell><![CDATA[Jasa Inspeksi dan Sertifikasi Disnaker Peralatan]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[101]]></cell><cell><![CDATA[RIAU ANDALAN PULP AND PAPER]]></cell><cell><![CDATA[Draught Survey BG. LOW KIM CHUAN 28]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[102]]></cell><cell><![CDATA[RIMBA LAZUARDI]]></cell><cell><![CDATA[Audit SMk3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[103]]></cell><cell><![CDATA[RIMBA LAZUARDI]]></cell><cell><![CDATA[Audit SMk3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[104]]></cell><cell><![CDATA[RIMBA MUTIARA PERMAI]]></cell><cell><![CDATA[Audit SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[105]]></cell><cell><![CDATA[RIMBA MUTIARA PERMAI]]></cell><cell><![CDATA[Audit SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[106]]></cell><cell><![CDATA[RIMBA PERANAP INDAH]]></cell><cell><![CDATA[Audit SMk3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[107]]></cell><cell><![CDATA[RIMBA PERANAP INDAH]]></cell><cell><![CDATA[Audit SMk3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[116]]></cell><cell><![CDATA[SAIPEM INDONESIA]]></cell><cell><![CDATA[MPS Saipem]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[122]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[147]]></cell><cell><![CDATA[SUMATERA SYLVA LESTARI]]></cell><cell><![CDATA[Audit SMk3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[148]]></cell><cell><![CDATA[SUMATERA SYLVA LESTARI]]></cell><cell><![CDATA[Audit SMk3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[172]]></cell><cell><![CDATA[TRANSPORTASI GAS INDONESIA]]></cell><cell><![CDATA[Lube Oil Sampling Analysis RO1 & RO2]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[176]]></cell><cell><![CDATA[YAYASAN RUMAH SAKIT ISLAM SITI RAHMAH]]></cell><cell><![CDATA[Inspeksi & Sertifikasi Disnaker Lift, Penyalur Petir & Genset]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[127]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[130]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[30]]></cell><cell><![CDATA[GALANGCITRAMITRA MAJUMAPAN]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[339,600]]></cell></row>
+<row><cell><![CDATA[171]]></cell><cell><![CDATA[SURVINDO PUTRA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[510,000]]></cell></row>
+<row><cell><![CDATA[175]]></cell><cell><![CDATA[VISI UTAMA MANDIRI]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[904,545]]></cell></row>
+<row><cell><![CDATA[67]]></cell><cell><![CDATA[KARYA HASIL USAHA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1,000,000]]></cell></row>
+<row><cell><![CDATA[70]]></cell><cell><![CDATA[MIKAFU ELEKTRIKAL]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1,500,000]]></cell></row>
+<row><cell><![CDATA[80]]></cell><cell><![CDATA[PELITA WARGA UTAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1,500,000]]></cell></row>
+<row><cell><![CDATA[140]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[1,524,631]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[ALPA RUCI]]></cell><cell><![CDATA[NDT Alparuci]]></cell><cell><![CDATA[1,540,000]]></cell></row>
+<row><cell><![CDATA[78]]></cell><cell><![CDATA[OSCAR MAS]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[2,000,000]]></cell></row>
+<row><cell><![CDATA[46]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[2,060,559]]></cell></row>
+<row><cell><![CDATA[124]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[2,276,175]]></cell></row>
+<row><cell><![CDATA[68]]></cell><cell><![CDATA[KARYA MANDIRI MAKMUR]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[2,500,000]]></cell></row>
+<row><cell><![CDATA[164]]></cell><cell><![CDATA[SURVINDO PUTRA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[2,670,455]]></cell></row>
+<row><cell><![CDATA[53]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[2,731,548]]></cell></row>
+<row><cell><![CDATA[129]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[2,810,042]]></cell></row>
+<row><cell><![CDATA[141]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[3,034,900]]></cell></row>
+<row><cell><![CDATA[51]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[3,151,054]]></cell></row>
+<row><cell><![CDATA[170]]></cell><cell><![CDATA[SURVINDO PUTRA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[3,162,000]]></cell></row>
+<row><cell><![CDATA[151]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[3,234,599]]></cell></row>
+<row><cell><![CDATA[142]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[3,241,825]]></cell></row>
+<row><cell><![CDATA[120]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[NDT Multi Struktur]]></cell><cell><![CDATA[3,428,885]]></cell></row>
+<row><cell><![CDATA[37]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[3,455,096]]></cell></row>
+<row><cell><![CDATA[40]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[3,514,138]]></cell></row>
+<row><cell><![CDATA[55]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[4,129,533]]></cell></row>
+<row><cell><![CDATA[99]]></cell><cell><![CDATA[PROTEKNIKA JASA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[4,175,000]]></cell></row>
+<row><cell><![CDATA[86]]></cell><cell><![CDATA[PETROWOOD BANGUN MANDIRI]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[4,717,000]]></cell></row>
+<row><cell><![CDATA[134]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[4,857,220]]></cell></row>
+<row><cell><![CDATA[135]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[4,897,225]]></cell></row>
+<row><cell><![CDATA[96]]></cell><cell><![CDATA[PROTEKNIKA JASA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[4,972,000]]></cell></row>
+<row><cell><![CDATA[121]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[NDT Multi Struktur]]></cell><cell><![CDATA[5,096,425]]></cell></row>
+<row><cell><![CDATA[169]]></cell><cell><![CDATA[SURVINDO PUTRA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[5,280,000]]></cell></row>
+<row><cell><![CDATA[154]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[5,316,563]]></cell></row>
+<row><cell><![CDATA[42]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[5,373,842]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[AZZURA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[5,599,999]]></cell></row>
+<row><cell><![CDATA[1]]></cell><cell><![CDATA[ALPA RUCI]]></cell><cell><![CDATA[NDT Alparuci]]></cell><cell><![CDATA[5,879,500]]></cell></row>
+<row><cell><![CDATA[47]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[5,934,333]]></cell></row>
+<row><cell><![CDATA[125]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[6,163,606]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[BEW CONSORTIUM]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[6,286,000]]></cell></row>
+<row><cell><![CDATA[143]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[6,421,848]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[BEW CONSORTIUM]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[6,660,500]]></cell></row>
+<row><cell><![CDATA[43]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[7,064,695]]></cell></row>
+<row><cell><![CDATA[133]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[7,352,873]]></cell></row>
+<row><cell><![CDATA[119]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[NDT Multi Struktur]]></cell><cell><![CDATA[7,464,199]]></cell></row>
+<row><cell><![CDATA[33]]></cell><cell><![CDATA[GEOCHEM FAR EAST PTE LTD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[7,573,317]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[ATVIRA INOVFINTEK]]></cell><cell><![CDATA[NDT Atvira]]></cell><cell><![CDATA[8,494,200]]></cell></row>
+<row><cell><![CDATA[139]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[8,601,045]]></cell></row>
+<row><cell><![CDATA[26]]></cell><cell><![CDATA[EMP MALACCA STRAIT S.A]]></cell><cell><![CDATA[NDT Radiography For Piping Work]]></cell><cell><![CDATA[9,021,100]]></cell></row>
+<row><cell><![CDATA[35]]></cell><cell><![CDATA[GEOCHEM FAR EAST PTE LTD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[9,719,267]]></cell></row>
+<row><cell><![CDATA[132]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[10,639,256]]></cell></row>
+<row><cell><![CDATA[137]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[10,667,949]]></cell></row>
+<row><cell><![CDATA[118]]></cell><cell><![CDATA[SELO KENCANA ENERGI]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[11,000,000]]></cell></row>
+<row><cell><![CDATA[54]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[11,358,527]]></cell></row>
+<row><cell><![CDATA[57]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[12,682,571]]></cell></row>
+<row><cell><![CDATA[163]]></cell><cell><![CDATA[SURVINDO DWI PUTRA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[12,700,779]]></cell></row>
+<row><cell><![CDATA[29]]></cell><cell><![CDATA[GALANGCITRAMITRA MAJUMAPAN]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[13,358,400]]></cell></row>
+<row><cell><![CDATA[56]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[14,158,222]]></cell></row>
+<row><cell><![CDATA[58]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[14,462,816]]></cell></row>
+<row><cell><![CDATA[109]]></cell><cell><![CDATA[SAEM S.P.A]]></cell><cell><![CDATA[MPS Saem SPA]]></cell><cell><![CDATA[14,484,750]]></cell></row>
+<row><cell><![CDATA[97]]></cell><cell><![CDATA[PROTEKNIKA JASA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[14,668,500]]></cell></row>
+<row><cell><![CDATA[160]]></cell><cell><![CDATA[SURVINDO DWI PUTRA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[15,125,000]]></cell></row>
+<row><cell><![CDATA[59]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[15,587,384]]></cell></row>
+<row><cell><![CDATA[126]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[15,721,610]]></cell></row>
+<row><cell><![CDATA[25]]></cell><cell><![CDATA[EMP MALACCA STRAIT S.A]]></cell><cell><![CDATA[NDT Radiography For Piping Work]]></cell><cell><![CDATA[15,809,200]]></cell></row>
+<row><cell><![CDATA[117]]></cell><cell><![CDATA[SELO KENCANA ENERGI]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[16,225,000]]></cell></row>
+<row><cell><![CDATA[34]]></cell><cell><![CDATA[GEOCHEM FAR EAST PTE LTD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[16,274,375]]></cell></row>
+<row><cell><![CDATA[32]]></cell><cell><![CDATA[GALANGCITRAMITRA MAJUMAPAN]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[16,450,000]]></cell></row>
+<row><cell><![CDATA[79]]></cell><cell><![CDATA[PANCASONA JAYA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[16,470,000]]></cell></row>
+<row><cell><![CDATA[36]]></cell><cell><![CDATA[GEOCHEM FAR EAST PTE LTD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[16,576,072]]></cell></row>
+<row><cell><![CDATA[165]]></cell><cell><![CDATA[SURVINDO PUTRA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[16,676,999]]></cell></row>
+<row><cell><![CDATA[52]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[17,275,203]]></cell></row>
+<row><cell><![CDATA[155]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[17,382,232]]></cell></row>
+<row><cell><![CDATA[98]]></cell><cell><![CDATA[PROTEKNIKA JASA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[17,622,000]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[BIRO KLASIFIKASI INDONESIA (PERSERO)]]></cell><cell><![CDATA[Inspeksi dan SLO TM 20Kv BKI]]></cell><cell><![CDATA[19,250,000]]></cell></row>
+<row><cell><![CDATA[76]]></cell><cell><![CDATA[NIRA MURNI KONSTRUKSI ]]></cell><cell><![CDATA[NDT Nira Murni]]></cell><cell><![CDATA[21,870,750]]></cell></row>
+<row><cell><![CDATA[85]]></cell><cell><![CDATA[PETROWOOD BANGUN MANDIRI]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[22,440,000]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[CHEVRON PACIFIC INDONESIA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[23,261,000]]></cell></row>
+<row><cell><![CDATA[77]]></cell><cell><![CDATA[NIRA MURNI KONSTRUKSI ]]></cell><cell><![CDATA[NDT Nira Murni]]></cell><cell><![CDATA[23,867,250]]></cell></row>
+<row><cell><![CDATA[146]]></cell><cell><![CDATA[SINAR BANGUN PERSADA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[24,200,000]]></cell></row>
+<row><cell><![CDATA[112]]></cell><cell><![CDATA[SAEM S.P.A]]></cell><cell><![CDATA[MPS Saem Spa]]></cell><cell><![CDATA[24,379,080]]></cell></row>
+<row><cell><![CDATA[128]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[25,749,885]]></cell></row>
+<row><cell><![CDATA[81]]></cell><cell><![CDATA[PELITA WARGA UTAMA]]></cell><cell><![CDATA[NDT Pelita Warga Utama]]></cell><cell><![CDATA[26,700,000]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[CHEVRON PACIFIC INDONESIA]]></cell><cell><![CDATA[Technical And Visual Inspection Services In Sumatra Operations]]></cell><cell><![CDATA[27,000,000]]></cell></row>
+<row><cell><![CDATA[89]]></cell><cell><![CDATA[PLN (PERSERO) SEKTOR PEMBANGKITAN OMBILIN]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[28,000,000]]></cell></row>
+<row><cell><![CDATA[90]]></cell><cell><![CDATA[PLN (PERSERO) SEKTOR PEMBANGKITAN OMBILIN]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[28,000,000]]></cell></row>
+<row><cell><![CDATA[91]]></cell><cell><![CDATA[PLN (PERSERO) SEKTOR PEMBANGKITAN OMBILIN]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[28,000,000]]></cell></row>
+<row><cell><![CDATA[45]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[28,378,798]]></cell></row>
+<row><cell><![CDATA[166]]></cell><cell><![CDATA[SURVINDO PUTRA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[29,999,999]]></cell></row>
+<row><cell><![CDATA[84]]></cell><cell><![CDATA[PERSADA SAPTA GEMILANG]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[30,000,000]]></cell></row>
+<row><cell><![CDATA[24]]></cell><cell><![CDATA[EMP MALACCA STRAIT S.A]]></cell><cell><![CDATA[NDT Radiography For R. Export Line]]></cell><cell><![CDATA[30,091,600]]></cell></row>
+<row><cell><![CDATA[145]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[31,073,294]]></cell></row>
+<row><cell><![CDATA[61]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[33,046,198]]></cell></row>
+<row><cell><![CDATA[82]]></cell><cell><![CDATA[PELITA WARGA UTAMA]]></cell><cell><![CDATA[NDT Pelita Warga Utama]]></cell><cell><![CDATA[33,550,000]]></cell></row>
+<row><cell><![CDATA[60]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[35,294,783]]></cell></row>
+<row><cell><![CDATA[161]]></cell><cell><![CDATA[SURVINDO DWI PUTRA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[35,695,000]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[BASKO MINANG PLAZA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[35,750,000]]></cell></row>
+<row><cell><![CDATA[23]]></cell><cell><![CDATA[EMP MALACCA STRAIT S.A]]></cell><cell><![CDATA[NDT Radiography For R. Export Line]]></cell><cell><![CDATA[36,506,800]]></cell></row>
+<row><cell><![CDATA[50]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[36,708,081]]></cell></row>
+<row><cell><![CDATA[152]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[37,750,415]]></cell></row>
+<row><cell><![CDATA[173]]></cell><cell><![CDATA[URAWA REKAYASA MANDIRI]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[38,115,000]]></cell></row>
+<row><cell><![CDATA[123]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[38,784,672]]></cell></row>
+<row><cell><![CDATA[27]]></cell><cell><![CDATA[EMP MALACCA STRAIT S.A]]></cell><cell><![CDATA[NDT Radiography For Piping Work]]></cell><cell><![CDATA[38,932,950]]></cell></row>
+<row><cell><![CDATA[48]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[39,055,438]]></cell></row>
+<row><cell><![CDATA[44]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[41,185,938]]></cell></row>
+<row><cell><![CDATA[31]]></cell><cell><![CDATA[GALANGCITRAMITRA MAJUMAPAN]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[42,900,000]]></cell></row>
+<row><cell><![CDATA[39]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[44,155,036]]></cell></row>
+<row><cell><![CDATA[38]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[44,792,089]]></cell></row>
+<row><cell><![CDATA[66]]></cell><cell><![CDATA[KARSA DAYA UTAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[46,124,100]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[ATVIRA INOVFINTEK]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[46,193,700]]></cell></row>
+<row><cell><![CDATA[131]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[46,928,797]]></cell></row>
+<row><cell><![CDATA[168]]></cell><cell><![CDATA[SURVINDO PUTRA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[49,571,061]]></cell></row>
+<row><cell><![CDATA[149]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[54,700,428]]></cell></row>
+<row><cell><![CDATA[156]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[59,541,532]]></cell></row>
+<row><cell><![CDATA[88]]></cell><cell><![CDATA[PLN (PERSERO) SEKTOR PEMBANGKITAN OMBILIN]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[62,045,315]]></cell></row>
+<row><cell><![CDATA[49]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[65,111,986]]></cell></row>
+<row><cell><![CDATA[167]]></cell><cell><![CDATA[SURVINDO PUTRA PRATAMA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[66,124,998]]></cell></row>
+<row><cell><![CDATA[41]]></cell><cell><![CDATA[GEO-CHEM INSPECTIONSDN.BHD]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[66,827,946]]></cell></row>
+<row><cell><![CDATA[159]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[82,671,238]]></cell></row>
+<row><cell><![CDATA[87]]></cell><cell><![CDATA[PLN (PERSERO) SEKTOR PEMBANGKITAN OMBILIN]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[86,388,636]]></cell></row>
+<row><cell><![CDATA[153]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[94,008,421]]></cell></row>
+<row><cell><![CDATA[115]]></cell><cell><![CDATA[SAIPEM INDONESIA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[99,225,000]]></cell></row>
+<row><cell><![CDATA[150]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[107,779,128]]></cell></row>
+<row><cell><![CDATA[144]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[112,320,270]]></cell></row>
+<row><cell><![CDATA[157]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[112,699,523]]></cell></row>
+<row><cell><![CDATA[136]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[118,361,100]]></cell></row>
+<row><cell><![CDATA[69]]></cell><cell><![CDATA[KREASINDO ERATEK DINAMIKA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[119,880,200]]></cell></row>
+<row><cell><![CDATA[74]]></cell><cell><![CDATA[MULTI STRUCTURE]]></cell><cell><![CDATA[NDT Multi Struktur]]></cell><cell><![CDATA[121,471,800]]></cell></row>
+<row><cell><![CDATA[158]]></cell><cell><![CDATA[SUMIGITA - INWHA]]></cell><cell><![CDATA[Piping dan Mechanical INHWA]]></cell><cell><![CDATA[126,519,479]]></cell></row>
+<row><cell><![CDATA[138]]></cell><cell><![CDATA[SGS INDONESIA]]></cell><cell><![CDATA[Loading Survey SGS]]></cell><cell><![CDATA[141,122,850]]></cell></row>
+<row><cell><![CDATA[174]]></cell><cell><![CDATA[URAWA REKAYASA MANDIRI]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[145,695,500]]></cell></row>
+<row><cell><![CDATA[108]]></cell><cell><![CDATA[SAEM S.P.A]]></cell><cell><![CDATA[MPS Saem SPA]]></cell><cell><![CDATA[159,854,252]]></cell></row>
+<row><cell><![CDATA[162]]></cell><cell><![CDATA[SURVINDO DWI PUTRA]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[161,222,600]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[BWP MERUAP_ Pte. Ltd]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[184,800,000]]></cell></row>
+<row><cell><![CDATA[75]]></cell><cell><![CDATA[MULTI STRUCTURE]]></cell><cell><![CDATA[NDT Multi Struktur]]></cell><cell><![CDATA[203,012,550]]></cell></row>
+<row><cell><![CDATA[73]]></cell><cell><![CDATA[MULTI STRUCTURE]]></cell><cell><![CDATA[NDT Multi Struktur]]></cell><cell><![CDATA[247,445,000]]></cell></row>
+<row><cell><![CDATA[113]]></cell><cell><![CDATA[SAEM S.P.A]]></cell><cell><![CDATA[MPS Saem Spa]]></cell><cell><![CDATA[1,767,800,634]]></cell></row>
+<row><cell><![CDATA[114]]></cell><cell><![CDATA[SAEM S.P.A]]></cell><cell><![CDATA[MPS Saem Spa]]></cell><cell><![CDATA[1,954,931,157]]></cell></row>
+<row><cell><![CDATA[110]]></cell><cell><![CDATA[SAEM S.P.A]]></cell><cell><![CDATA[MPS Saem Spa]]></cell><cell><![CDATA[2,211,138,999]]></cell></row>
+<row><cell><![CDATA[111]]></cell><cell><![CDATA[SAEM S.P.A]]></cell><cell><![CDATA[MPS Saem Spa]]></cell><cell><![CDATA[2,491,178,570]]></cell></row></rows>

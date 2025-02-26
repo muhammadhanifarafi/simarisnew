@@ -1,0 +1,821 @@
+<rows profile='color'><head><columns><column  width='50' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[No.]]></column><column  width='220' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Klien]]></column><column  width='320' align='left' type='ron' hidden='false' sort='int' color=''><![CDATA[ Nama Proyek]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[ Nilai Kontrak]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='3' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[4,395,461,000]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[Lab Lingkungan PT. TJK Power]]></cell><cell><![CDATA[TJK POWER]]></cell><cell><![CDATA[120,000,000]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[VETCO GRAY INDONESIA]]></cell><cell><![CDATA[28,950,000]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[WEIR PRESSURE CONTROL INDONESIA]]></cell><cell><![CDATA[36,150,000]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SIIX ELECTRONICS INDONESIA]]></cell><cell><![CDATA[44,800,000]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SURVEYOR INDONESIA CABANG BANJARBARU, SURVEYOR INDONESIA]]></cell><cell><![CDATA[40,000,000]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[MAHAKARYA LINTASINDO]]></cell><cell><![CDATA[22,400,000]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[TURI BEACH RESORT]]></cell><cell><![CDATA[19,200,000]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[INTERPAK INDUSTRIES BATAM]]></cell><cell><![CDATA[13,200,000]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SURVEYOR INDONESIA CABANG PALEMBANG, SURVEYOR INDONESIA (PERSERO)]]></cell><cell><![CDATA[16,900,000]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SARANA REKONDISI INDONESIA]]></cell><cell><![CDATA[15,500,000]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[IDROS SERVICES]]></cell><cell><![CDATA[15,900,000]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[BUKIT ALAM PERSADA]]></cell><cell><![CDATA[18,500,000]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SUMITOMO WIRING SYSTEMS]]></cell><cell><![CDATA[12,450,000]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[NOK FREUDENBERG SEALING TECHNOLOGIES]]></cell><cell><![CDATA[15,850,000]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[CAMERON SYSTEMS]]></cell><cell><![CDATA[15,000,000]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[17]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[18]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[19]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[20]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[8,500,000]]></cell></row>
+<row><cell><![CDATA[21]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[22]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[23]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[24]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[25]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[26]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[27]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[28]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[KUNDUR PRIMA KARYA]]></cell><cell><![CDATA[4,000,000]]></cell></row>
+<row><cell><![CDATA[29]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[30]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[HUNTING ENERGY ASIA]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[31]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[32]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[33]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[34]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[35]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[14,000,000]]></cell></row>
+<row><cell><![CDATA[36]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[37]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[38]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[39]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[40]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[41]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[HANGGA PUTRA ABADI]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[42]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[43]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[44]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[45]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[46]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[KUNDUR PRIMA KARYA]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[47]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[KUNDUR PRIMA KARYA]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[48]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[EXCELITAS TECHNOLOGIES BATAM]]></cell><cell><![CDATA[15,000,000]]></cell></row>
+<row><cell><![CDATA[49]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SNEPAC MULTINDO UTAMA]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[50]]></cell><cell><![CDATA[CALIBRATION FUNCTION TESTER for 3 (THREE) UNIT MACHINES]]></cell><cell><![CDATA[WIK FAR EAST BATAM]]></cell><cell><![CDATA[21,000,000]]></cell></row>
+<row><cell><![CDATA[51]]></cell><cell><![CDATA[Dinaker Certification]]></cell><cell><![CDATA[PCI ELEKTRONIK INTERNASIONAL]]></cell><cell><![CDATA[3,600,000]]></cell></row>
+<row><cell><![CDATA[52]]></cell><cell><![CDATA[Disnaker Certification of Equipments]]></cell><cell><![CDATA[NOK FREUDENBERG SEALING TECHNOLOGIES]]></cell><cell><![CDATA[8,100,000]]></cell></row>
+<row><cell><![CDATA[53]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[54]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[55]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[56]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[57]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SINDO MEGAH LESTARI]]></cell><cell><![CDATA[3,000,000]]></cell></row>
+<row><cell><![CDATA[58]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[DINAS LINGKUNGAN HIDUP KOTA BATAM, PEMERINTAH KOTA BATAM, PEMERINTAH PROVINSI KEPULAUAN RIAU]]></cell><cell><![CDATA[1,000,000]]></cell></row>
+<row><cell><![CDATA[59]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[PULAU SAMBU]]></cell><cell><![CDATA[7,900,000]]></cell></row>
+<row><cell><![CDATA[60]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[GAJAH IZUMI MAS PERKASA]]></cell><cell><![CDATA[2,400,000]]></cell></row>
+<row><cell><![CDATA[61]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[8,500,000]]></cell></row>
+<row><cell><![CDATA[62]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[INDOTIRTA SUAKA]]></cell><cell><![CDATA[4,200,000]]></cell></row>
+<row><cell><![CDATA[63]]></cell><cell><![CDATA[Environmenta Monitoring]]></cell><cell><![CDATA[INDOTIRTA SUAKA]]></cell><cell><![CDATA[3,000,000]]></cell></row>
+<row><cell><![CDATA[64]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[KUNDUR PRIMA KARYA]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[65]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[66]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[67]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[68]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[69]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[TROPOLIS JAYA ABADI]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[70]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[8,500,000]]></cell></row>
+<row><cell><![CDATA[71]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SURVEYOR INDONESIA CABANG MEDAN, SURVEYOR INDONESIA (PERSERO)]]></cell><cell><![CDATA[300,000]]></cell></row>
+<row><cell><![CDATA[72]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[MAXPOWER INDONESIA]]></cell><cell><![CDATA[900,000]]></cell></row>
+<row><cell><![CDATA[73]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[KENCANA PRIMA INDOTAMA]]></cell><cell><![CDATA[2,300,000]]></cell></row>
+<row><cell><![CDATA[74]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[LB TECHNOLOGIES BATAM]]></cell><cell><![CDATA[7,000,000]]></cell></row>
+<row><cell><![CDATA[75]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[LB TECHNOLOGIES BATAM]]></cell><cell><![CDATA[8,400,000]]></cell></row>
+<row><cell><![CDATA[76]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[VOLEX INDONESIA]]></cell><cell><![CDATA[2,400,000]]></cell></row>
+<row><cell><![CDATA[77]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[BATAM TEKNOLOGI GAS]]></cell><cell><![CDATA[3,000,000]]></cell></row>
+<row><cell><![CDATA[78]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[RS AWAL BROS (BATAM)]]></cell><cell><![CDATA[14,100,000]]></cell></row>
+<row><cell><![CDATA[79]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[27,500,000]]></cell></row>
+<row><cell><![CDATA[80]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[GENIUS MOTOR]]></cell><cell><![CDATA[17,500,000]]></cell></row>
+<row><cell><![CDATA[81]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[31,500,000]]></cell></row>
+<row><cell><![CDATA[82]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[37,500,000]]></cell></row>
+<row><cell><![CDATA[83]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[HANGGA GOENG KONTRAKTOR]]></cell><cell><![CDATA[22,500,000]]></cell></row>
+<row><cell><![CDATA[84]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS (BALIKPAPAN), ENERGY LOGISTICS]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[85]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[INSAN MANDIRI]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[86]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS (BALIKPAPAN), ENERGY LOGISTICS]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[87]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[APEXINDO PRATAMA]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[88]]></cell><cell><![CDATA[Disnaker Certification]]></cell><cell><![CDATA[SHIMANO BATAM MANUFACTURING]]></cell><cell><![CDATA[2,500,000]]></cell></row>
+<row><cell><![CDATA[89]]></cell><cell><![CDATA[Disnake Certification]]></cell><cell><![CDATA[SHIMANO BATAM]]></cell><cell><![CDATA[4,000,000]]></cell></row>
+<row><cell><![CDATA[90]]></cell><cell><![CDATA[Disnaker Certification]]></cell><cell><![CDATA[SHIMANO BATAM MANUFACTURING]]></cell><cell><![CDATA[8,500,000]]></cell></row>
+<row><cell><![CDATA[91]]></cell><cell><![CDATA[Disnaker Certification]]></cell><cell><![CDATA[SHIMANO BATAM MANUFACTURING]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[92]]></cell><cell><![CDATA[Disnaker Certification]]></cell><cell><![CDATA[SHIMANO BATAM MANUFACTURING]]></cell><cell><![CDATA[2,500,000]]></cell></row>
+<row><cell><![CDATA[93]]></cell><cell><![CDATA[Disnaker Certification Lightning Arrester for 4 units]]></cell><cell><![CDATA[SHIMANO BATAM MANUFACTURING]]></cell><cell><![CDATA[12,600,000]]></cell></row>
+<row><cell><![CDATA[94]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[PUSAT STUDI LINGKUNGAN HIDUP - UNRI]]></cell><cell><![CDATA[54,300,000]]></cell></row>
+<row><cell><![CDATA[95]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[RSUD RAJA AHMAD TABIB, PEMERINTAH KOTA TANJUNG PINANG, PEMERINTAH PROVINSI KEPULAUAN RIAU]]></cell><cell><![CDATA[49,731,000]]></cell></row>
+<row><cell><![CDATA[96]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[WIRA PENTA KENCANA]]></cell><cell><![CDATA[24,300,000]]></cell></row>
+<row><cell><![CDATA[97]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SIIX ELECTRONICS INDONESIA]]></cell><cell><![CDATA[35,450,000]]></cell></row>
+<row><cell><![CDATA[98]]></cell><cell><![CDATA[Uji Kualitas Air Limbah di Kawasan Industri, Perkantoran dan Perumahan]]></cell><cell><![CDATA[BP KAWASAN PERDAGANGAN & PELABUHAN BEBAS BATAM (BP BATAM)]]></cell><cell><![CDATA[196,300,000]]></cell></row>
+<row><cell><![CDATA[99]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SMOE INDONESIA]]></cell><cell><![CDATA[133,420,000]]></cell></row>
+<row><cell><![CDATA[100]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[OILTANKING KARIMUN]]></cell><cell><![CDATA[24,600,000]]></cell></row>
+<row><cell><![CDATA[101]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[CLADTEK BI METAL MANUFACTURING]]></cell><cell><![CDATA[26,400,000]]></cell></row>
+<row><cell><![CDATA[102]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[CLADTEK BI METAL MANUFACTURING]]></cell><cell><![CDATA[13,200,000]]></cell></row>
+<row><cell><![CDATA[103]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[GHIM LI INDONESIA]]></cell><cell><![CDATA[13,200,000]]></cell></row>
+<row><cell><![CDATA[104]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[FANINDO CIPTA PROPERTINDO]]></cell><cell><![CDATA[9,000,000]]></cell></row>
+<row><cell><![CDATA[105]]></cell><cell><![CDATA[Training Auditor SMK3]]></cell><cell><![CDATA[JMS BATAM]]></cell><cell><![CDATA[8,980,000]]></cell></row>
+<row><cell><![CDATA[106]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[PACIFIC PALACE HOTEL]]></cell><cell><![CDATA[11,500,000]]></cell></row>
+<row><cell><![CDATA[107]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SURVEYOR INDONESIA CABANG MEDAN, SURVEYOR INDONESIA (PERSERO)]]></cell><cell><![CDATA[900,000]]></cell></row>
+<row><cell><![CDATA[108]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SURVEYOR INDONESIA CABANG MEDAN, SURVEYOR INDONESIA (PERSERO)]]></cell><cell><![CDATA[900,000]]></cell></row>
+<row><cell><![CDATA[109]]></cell><cell><![CDATA[eNVIRONMENTAL Monitoring]]></cell><cell><![CDATA[INTERPAK INDUSTRIES BATAM]]></cell><cell><![CDATA[3,100,000]]></cell></row>
+<row><cell><![CDATA[110]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[CHUCK ENGINEERING BATAM]]></cell><cell><![CDATA[4,800,000]]></cell></row>
+<row><cell><![CDATA[111]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[CLADTEK BI METAL MANUFACTURING]]></cell><cell><![CDATA[9,000,000]]></cell></row>
+<row><cell><![CDATA[112]]></cell><cell><![CDATA[Environmenta Monitoring]]></cell><cell><![CDATA[HAIKKI GREEN]]></cell><cell><![CDATA[1,250,000]]></cell></row>
+<row><cell><![CDATA[113]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[MEDCO POWER INDONESIA, MEDCO ENERGI]]></cell><cell><![CDATA[29,000,000]]></cell></row>
+<row><cell><![CDATA[114]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[UNION PLASTIC INDUSTRIES]]></cell><cell><![CDATA[1,500,000]]></cell></row>
+<row><cell><![CDATA[115]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[BETI PURWANTO]]></cell><cell><![CDATA[1,250,000]]></cell></row>
+<row><cell><![CDATA[116]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[CITRA TUBINDO TBK]]></cell><cell><![CDATA[3,000,000]]></cell></row>
+<row><cell><![CDATA[117]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[HAIKKI GREEN]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[118]]></cell><cell><![CDATA[KALIBRASI]]></cell><cell><![CDATA[BATAMINDO INVESTMENT CAKRAWALA]]></cell><cell><![CDATA[7,000,000]]></cell></row>
+<row><cell><![CDATA[119]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[ROYCE ENTERPRISE CO.]]></cell><cell><![CDATA[1,100,000]]></cell></row>
+<row><cell><![CDATA[120]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SINGATAC BINTAN INDONESIA]]></cell><cell><![CDATA[1,000,000]]></cell></row>
+<row><cell><![CDATA[121]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[VETCO GRAY INDONESIA]]></cell><cell><![CDATA[25,000,000]]></cell></row>
+<row><cell><![CDATA[122]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SAT NUSAPERSADA TBK]]></cell><cell><![CDATA[2,800,000]]></cell></row>
+<row><cell><![CDATA[123]]></cell><cell><![CDATA[ENVIRONMENTAL Monitoring]]></cell><cell><![CDATA[SAT NUSAPERSADA TBK]]></cell><cell><![CDATA[700,000]]></cell></row>
+<row><cell><![CDATA[124]]></cell><cell><![CDATA[Environmental Montoring]]></cell><cell><![CDATA[CCI BINTAN]]></cell><cell><![CDATA[1,200,000]]></cell></row>
+<row><cell><![CDATA[125]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[ASIA CIVIL INDONESIA]]></cell><cell><![CDATA[12,000,000]]></cell></row>
+<row><cell><![CDATA[126]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[127]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[8,500,000]]></cell></row>
+<row><cell><![CDATA[128]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[8,500,000]]></cell></row>
+<row><cell><![CDATA[129]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[130]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[8,500,000]]></cell></row>
+<row><cell><![CDATA[131]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[132]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[H-TECH OILFIELD EQUIPMENT]]></cell><cell><![CDATA[8,400,000]]></cell></row>
+<row><cell><![CDATA[133]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[TRAVELODGE BATAM]]></cell><cell><![CDATA[8,400,000]]></cell></row>
+<row><cell><![CDATA[134]]></cell><cell><![CDATA[Pengujian Kualitas Air Limbah di Lingkungan Industri, Perkantoran, dan Perumahan]]></cell><cell><![CDATA[BP KAWASAN PERDAGANGAN & PELABUHAN BEBAS BATAM (BP BATAM)]]></cell><cell><![CDATA[196,300,000]]></cell></row>
+<row><cell><![CDATA[135]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[KLINIK MEDILAB]]></cell><cell><![CDATA[800,000]]></cell></row>
+<row><cell><![CDATA[136]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[WINDA]]></cell><cell><![CDATA[1,500,000]]></cell></row>
+<row><cell><![CDATA[137]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[CITRA TUBINDO TBK]]></cell><cell><![CDATA[3,000,000]]></cell></row>
+<row><cell><![CDATA[138]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[HOH HOTELIER (ZEST HOTEL)]]></cell><cell><![CDATA[2,100,000]]></cell></row>
+<row><cell><![CDATA[139]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[BENGINT NUSANTARA INDUSTRIES]]></cell><cell><![CDATA[1,050,000]]></cell></row>
+<row><cell><![CDATA[140]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[TRAVELODGE BATAM]]></cell><cell><![CDATA[8,400,000]]></cell></row>
+<row><cell><![CDATA[141]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[CCI BINTAN]]></cell><cell><![CDATA[1,200,000]]></cell></row>
+<row><cell><![CDATA[142]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SAT NUSAPERSADA TBK]]></cell><cell><![CDATA[2,800,000]]></cell></row>
+<row><cell><![CDATA[143]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SAT NUSAPERSADA TBK]]></cell><cell><![CDATA[700,000]]></cell></row>
+<row><cell><![CDATA[144]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[145]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[146]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[147]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[148]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[149]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[150]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[151]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[152]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[153]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[154]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[155]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[156]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SURVEYOR INDONESIA CABANG PALEMBANG, SURVEYOR INDONESIA (PERSERO)]]></cell><cell><![CDATA[6,450,000]]></cell></row>
+<row><cell><![CDATA[157]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[TEC INDONESIA]]></cell><cell><![CDATA[3,300,000]]></cell></row>
+<row><cell><![CDATA[158]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[KLINIK MEDILAB]]></cell><cell><![CDATA[800,000]]></cell></row>
+<row><cell><![CDATA[159]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[INFINEON TECHNOLOGIES BATAM]]></cell><cell><![CDATA[2,400,000]]></cell></row>
+<row><cell><![CDATA[160]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[DESMAN ZEGA]]></cell><cell><![CDATA[2,400,000]]></cell></row>
+<row><cell><![CDATA[161]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[TRANSALINDO EKA PERSADA]]></cell><cell><![CDATA[650,000]]></cell></row>
+<row><cell><![CDATA[162]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[KLINIK POLRES KARIMUN]]></cell><cell><![CDATA[1,500,000]]></cell></row>
+<row><cell><![CDATA[163]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[WEIR PRESSURE CONTROL INDONESIA]]></cell><cell><![CDATA[2,450,000]]></cell></row>
+<row><cell><![CDATA[164]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[CHELLYA WATER]]></cell><cell><![CDATA[1,200,000]]></cell></row>
+<row><cell><![CDATA[165]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SURVEYOR INDONESIA CABANG MEDAN, SURVEYOR INDONESIA (PERSERO)]]></cell><cell><![CDATA[300,000]]></cell></row>
+<row><cell><![CDATA[166]]></cell><cell><![CDATA[Pelatihan Auditor SMK3 - Public Training]]></cell><cell><![CDATA[TJK POWER]]></cell><cell><![CDATA[4,490,000]]></cell></row>
+<row><cell><![CDATA[167]]></cell><cell><![CDATA[SOIL INVESTIGATION]]></cell><cell><![CDATA[ARCADIS SHANGHAI LIMITED]]></cell><cell><![CDATA[315,000,000]]></cell></row>
+<row><cell><![CDATA[168]]></cell><cell><![CDATA[Pelatihan Auditor SMK3 - Public Training]]></cell><cell><![CDATA[PHILIPS INDUSTRIES BATAM]]></cell><cell><![CDATA[4,490,000]]></cell></row>
+<row><cell><![CDATA[169]]></cell><cell><![CDATA[Pelatihan Auditor SMK3 - Public Training]]></cell><cell><![CDATA[MR. FERRY SHANDRIA RUSLIWANDO]]></cell><cell><![CDATA[4,490,000]]></cell></row>
+<row><cell><![CDATA[170]]></cell><cell><![CDATA[AMDAL REVISION  - PT. Saipem Indonesia Karimun Yard]]></cell><cell><![CDATA[SAIPEM INDONESIA]]></cell><cell><![CDATA[825,350,000]]></cell></row>
+<row><cell><![CDATA[171]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[ABB SAKTI INDUSTRI]]></cell><cell><![CDATA[4,000,000]]></cell></row>
+<row><cell><![CDATA[172]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[RS OTORITA BATAM]]></cell><cell><![CDATA[22,300,000]]></cell></row>
+<row><cell><![CDATA[173]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[RS OTORITA BATAM]]></cell><cell><![CDATA[30,000,000]]></cell></row>
+<row><cell><![CDATA[174]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[VETCO GRAY INDONESIA]]></cell><cell><![CDATA[8,100,000]]></cell></row>
+<row><cell><![CDATA[175]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[176]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[WAP LOGISTIKINDO]]></cell><cell><![CDATA[18,500,000]]></cell></row>
+<row><cell><![CDATA[177]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[INDOTIRTA SUAKA]]></cell><cell><![CDATA[600,000]]></cell></row>
+<row><cell><![CDATA[178]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS (BALIKPAPAN), ENERGY LOGISTICS]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[179]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[INDOTIRTA SUAKA]]></cell><cell><![CDATA[3,000,000]]></cell></row>
+<row><cell><![CDATA[180]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[27,500,000]]></cell></row>
+<row><cell><![CDATA[181]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[8,500,000]]></cell></row>
+<row><cell><![CDATA[182]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[8,500,000]]></cell></row>
+<row><cell><![CDATA[183]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[29,500,000]]></cell></row>
+<row><cell><![CDATA[184]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[WAP LOGISTIKINDO]]></cell><cell><![CDATA[10,000,000]]></cell></row>
+<row><cell><![CDATA[185]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS (BALIKPAPAN), ENERGY LOGISTICS]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[186]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[25,500,000]]></cell></row>
+<row><cell><![CDATA[187]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[MITRA BAKTI NUSA]]></cell><cell><![CDATA[12,500,000]]></cell></row>
+<row><cell><![CDATA[188]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[TROPOLIS JAYA ABADI]]></cell><cell><![CDATA[22,500,000]]></cell></row>
+<row><cell><![CDATA[189]]></cell><cell><![CDATA[BTMB]]></cell><cell><![CDATA[KSW BATAM]]></cell><cell><![CDATA[25,000,000]]></cell></row>
+<row><cell><![CDATA[190]]></cell><cell><![CDATA[BTMB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[59,500,000]]></cell></row>
+<row><cell><![CDATA[191]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[BINA PETROGAS MANDIRI]]></cell><cell><![CDATA[82,750,000]]></cell></row>
+<row><cell><![CDATA[192]]></cell><cell><![CDATA[Environmental Monitroing]]></cell><cell><![CDATA[KARIMUN SEMBAWANG SHIPYARD]]></cell><cell><![CDATA[51,200,000]]></cell></row>
+<row><cell><![CDATA[193]]></cell><cell><![CDATA[Disnakker Certification of Equipments]]></cell><cell><![CDATA[CIBA VISION BATAM]]></cell><cell><![CDATA[477,610,000]]></cell></row>
+<row><cell><![CDATA[194]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[27,500,000]]></cell></row>
+<row><cell><![CDATA[195]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[22,500,000]]></cell></row>
+<row><cell><![CDATA[196]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[30,500,000]]></cell></row>
+<row><cell><![CDATA[197]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[TJK POWER]]></cell><cell><![CDATA[21,600,000]]></cell></row>
+<row><cell><![CDATA[198]]></cell><cell><![CDATA[SLO & PENGURUSAN IJIN OPERASI (IO)]]></cell><cell><![CDATA[KARIMUN SEMBAWANG SHIPYARD]]></cell><cell><![CDATA[65,000,000]]></cell></row></rows><rows profile='color'><head><columns><column  width='50' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[No.]]></column><column  width='220' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Klien]]></column><column  width='320' align='left' type='ron' hidden='false' sort='int' color=''><![CDATA[ Nama Proyek]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[ Nilai Kontrak]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='3' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[4,395,461,000]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[Lab Lingkungan PT. TJK Power]]></cell><cell><![CDATA[TJK POWER]]></cell><cell><![CDATA[120,000,000]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[VETCO GRAY INDONESIA]]></cell><cell><![CDATA[28,950,000]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[WEIR PRESSURE CONTROL INDONESIA]]></cell><cell><![CDATA[36,150,000]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SIIX ELECTRONICS INDONESIA]]></cell><cell><![CDATA[44,800,000]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SURVEYOR INDONESIA CABANG BANJARBARU, SURVEYOR INDONESIA]]></cell><cell><![CDATA[40,000,000]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[MAHAKARYA LINTASINDO]]></cell><cell><![CDATA[22,400,000]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[TURI BEACH RESORT]]></cell><cell><![CDATA[19,200,000]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[INTERPAK INDUSTRIES BATAM]]></cell><cell><![CDATA[13,200,000]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SURVEYOR INDONESIA CABANG PALEMBANG, SURVEYOR INDONESIA (PERSERO)]]></cell><cell><![CDATA[16,900,000]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SARANA REKONDISI INDONESIA]]></cell><cell><![CDATA[15,500,000]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[IDROS SERVICES]]></cell><cell><![CDATA[15,900,000]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[BUKIT ALAM PERSADA]]></cell><cell><![CDATA[18,500,000]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SUMITOMO WIRING SYSTEMS]]></cell><cell><![CDATA[12,450,000]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[NOK FREUDENBERG SEALING TECHNOLOGIES]]></cell><cell><![CDATA[15,850,000]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[CAMERON SYSTEMS]]></cell><cell><![CDATA[15,000,000]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[17]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[18]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[19]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[20]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[8,500,000]]></cell></row>
+<row><cell><![CDATA[21]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[22]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[23]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[24]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[25]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[26]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[27]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[28]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[KUNDUR PRIMA KARYA]]></cell><cell><![CDATA[4,000,000]]></cell></row>
+<row><cell><![CDATA[29]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[30]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[HUNTING ENERGY ASIA]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[31]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[32]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[33]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[34]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[35]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[14,000,000]]></cell></row>
+<row><cell><![CDATA[36]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[37]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[38]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[39]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[40]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[41]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[HANGGA PUTRA ABADI]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[42]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[43]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[44]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[45]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[46]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[KUNDUR PRIMA KARYA]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[47]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[KUNDUR PRIMA KARYA]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[48]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[EXCELITAS TECHNOLOGIES BATAM]]></cell><cell><![CDATA[15,000,000]]></cell></row>
+<row><cell><![CDATA[49]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SNEPAC MULTINDO UTAMA]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[50]]></cell><cell><![CDATA[CALIBRATION FUNCTION TESTER for 3 (THREE) UNIT MACHINES]]></cell><cell><![CDATA[WIK FAR EAST BATAM]]></cell><cell><![CDATA[21,000,000]]></cell></row>
+<row><cell><![CDATA[51]]></cell><cell><![CDATA[Dinaker Certification]]></cell><cell><![CDATA[PCI ELEKTRONIK INTERNASIONAL]]></cell><cell><![CDATA[3,600,000]]></cell></row>
+<row><cell><![CDATA[52]]></cell><cell><![CDATA[Disnaker Certification of Equipments]]></cell><cell><![CDATA[NOK FREUDENBERG SEALING TECHNOLOGIES]]></cell><cell><![CDATA[8,100,000]]></cell></row>
+<row><cell><![CDATA[53]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[54]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[55]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[56]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[57]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SINDO MEGAH LESTARI]]></cell><cell><![CDATA[3,000,000]]></cell></row>
+<row><cell><![CDATA[58]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[DINAS LINGKUNGAN HIDUP KOTA BATAM, PEMERINTAH KOTA BATAM, PEMERINTAH PROVINSI KEPULAUAN RIAU]]></cell><cell><![CDATA[1,000,000]]></cell></row>
+<row><cell><![CDATA[59]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[PULAU SAMBU]]></cell><cell><![CDATA[7,900,000]]></cell></row>
+<row><cell><![CDATA[60]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[GAJAH IZUMI MAS PERKASA]]></cell><cell><![CDATA[2,400,000]]></cell></row>
+<row><cell><![CDATA[61]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[8,500,000]]></cell></row>
+<row><cell><![CDATA[62]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[INDOTIRTA SUAKA]]></cell><cell><![CDATA[4,200,000]]></cell></row>
+<row><cell><![CDATA[63]]></cell><cell><![CDATA[Environmenta Monitoring]]></cell><cell><![CDATA[INDOTIRTA SUAKA]]></cell><cell><![CDATA[3,000,000]]></cell></row>
+<row><cell><![CDATA[64]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[KUNDUR PRIMA KARYA]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[65]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[66]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[67]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[68]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[69]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[TROPOLIS JAYA ABADI]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[70]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[8,500,000]]></cell></row>
+<row><cell><![CDATA[71]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SURVEYOR INDONESIA CABANG MEDAN, SURVEYOR INDONESIA (PERSERO)]]></cell><cell><![CDATA[300,000]]></cell></row>
+<row><cell><![CDATA[72]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[MAXPOWER INDONESIA]]></cell><cell><![CDATA[900,000]]></cell></row>
+<row><cell><![CDATA[73]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[KENCANA PRIMA INDOTAMA]]></cell><cell><![CDATA[2,300,000]]></cell></row>
+<row><cell><![CDATA[74]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[LB TECHNOLOGIES BATAM]]></cell><cell><![CDATA[7,000,000]]></cell></row>
+<row><cell><![CDATA[75]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[LB TECHNOLOGIES BATAM]]></cell><cell><![CDATA[8,400,000]]></cell></row>
+<row><cell><![CDATA[76]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[VOLEX INDONESIA]]></cell><cell><![CDATA[2,400,000]]></cell></row>
+<row><cell><![CDATA[77]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[BATAM TEKNOLOGI GAS]]></cell><cell><![CDATA[3,000,000]]></cell></row>
+<row><cell><![CDATA[78]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[RS AWAL BROS (BATAM)]]></cell><cell><![CDATA[14,100,000]]></cell></row>
+<row><cell><![CDATA[79]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[27,500,000]]></cell></row>
+<row><cell><![CDATA[80]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[GENIUS MOTOR]]></cell><cell><![CDATA[17,500,000]]></cell></row>
+<row><cell><![CDATA[81]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[31,500,000]]></cell></row>
+<row><cell><![CDATA[82]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[37,500,000]]></cell></row>
+<row><cell><![CDATA[83]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[HANGGA GOENG KONTRAKTOR]]></cell><cell><![CDATA[22,500,000]]></cell></row>
+<row><cell><![CDATA[84]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS (BALIKPAPAN), ENERGY LOGISTICS]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[85]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[INSAN MANDIRI]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[86]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS (BALIKPAPAN), ENERGY LOGISTICS]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[87]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[APEXINDO PRATAMA]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[88]]></cell><cell><![CDATA[Disnaker Certification]]></cell><cell><![CDATA[SHIMANO BATAM MANUFACTURING]]></cell><cell><![CDATA[2,500,000]]></cell></row>
+<row><cell><![CDATA[89]]></cell><cell><![CDATA[Disnake Certification]]></cell><cell><![CDATA[SHIMANO BATAM]]></cell><cell><![CDATA[4,000,000]]></cell></row>
+<row><cell><![CDATA[90]]></cell><cell><![CDATA[Disnaker Certification]]></cell><cell><![CDATA[SHIMANO BATAM MANUFACTURING]]></cell><cell><![CDATA[8,500,000]]></cell></row>
+<row><cell><![CDATA[91]]></cell><cell><![CDATA[Disnaker Certification]]></cell><cell><![CDATA[SHIMANO BATAM MANUFACTURING]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[92]]></cell><cell><![CDATA[Disnaker Certification]]></cell><cell><![CDATA[SHIMANO BATAM MANUFACTURING]]></cell><cell><![CDATA[2,500,000]]></cell></row>
+<row><cell><![CDATA[93]]></cell><cell><![CDATA[Disnaker Certification Lightning Arrester for 4 units]]></cell><cell><![CDATA[SHIMANO BATAM MANUFACTURING]]></cell><cell><![CDATA[12,600,000]]></cell></row>
+<row><cell><![CDATA[94]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[PUSAT STUDI LINGKUNGAN HIDUP - UNRI]]></cell><cell><![CDATA[54,300,000]]></cell></row>
+<row><cell><![CDATA[95]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[RSUD RAJA AHMAD TABIB, PEMERINTAH KOTA TANJUNG PINANG, PEMERINTAH PROVINSI KEPULAUAN RIAU]]></cell><cell><![CDATA[49,731,000]]></cell></row>
+<row><cell><![CDATA[96]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[WIRA PENTA KENCANA]]></cell><cell><![CDATA[24,300,000]]></cell></row>
+<row><cell><![CDATA[97]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SIIX ELECTRONICS INDONESIA]]></cell><cell><![CDATA[35,450,000]]></cell></row>
+<row><cell><![CDATA[98]]></cell><cell><![CDATA[Uji Kualitas Air Limbah di Kawasan Industri, Perkantoran dan Perumahan]]></cell><cell><![CDATA[BP KAWASAN PERDAGANGAN & PELABUHAN BEBAS BATAM (BP BATAM)]]></cell><cell><![CDATA[196,300,000]]></cell></row>
+<row><cell><![CDATA[99]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SMOE INDONESIA]]></cell><cell><![CDATA[133,420,000]]></cell></row>
+<row><cell><![CDATA[100]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[OILTANKING KARIMUN]]></cell><cell><![CDATA[24,600,000]]></cell></row>
+<row><cell><![CDATA[101]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[CLADTEK BI METAL MANUFACTURING]]></cell><cell><![CDATA[26,400,000]]></cell></row>
+<row><cell><![CDATA[102]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[CLADTEK BI METAL MANUFACTURING]]></cell><cell><![CDATA[13,200,000]]></cell></row>
+<row><cell><![CDATA[103]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[GHIM LI INDONESIA]]></cell><cell><![CDATA[13,200,000]]></cell></row>
+<row><cell><![CDATA[104]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[FANINDO CIPTA PROPERTINDO]]></cell><cell><![CDATA[9,000,000]]></cell></row>
+<row><cell><![CDATA[105]]></cell><cell><![CDATA[Training Auditor SMK3]]></cell><cell><![CDATA[JMS BATAM]]></cell><cell><![CDATA[8,980,000]]></cell></row>
+<row><cell><![CDATA[106]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[PACIFIC PALACE HOTEL]]></cell><cell><![CDATA[11,500,000]]></cell></row>
+<row><cell><![CDATA[107]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SURVEYOR INDONESIA CABANG MEDAN, SURVEYOR INDONESIA (PERSERO)]]></cell><cell><![CDATA[900,000]]></cell></row>
+<row><cell><![CDATA[108]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SURVEYOR INDONESIA CABANG MEDAN, SURVEYOR INDONESIA (PERSERO)]]></cell><cell><![CDATA[900,000]]></cell></row>
+<row><cell><![CDATA[109]]></cell><cell><![CDATA[eNVIRONMENTAL Monitoring]]></cell><cell><![CDATA[INTERPAK INDUSTRIES BATAM]]></cell><cell><![CDATA[3,100,000]]></cell></row>
+<row><cell><![CDATA[110]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[CHUCK ENGINEERING BATAM]]></cell><cell><![CDATA[4,800,000]]></cell></row>
+<row><cell><![CDATA[111]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[CLADTEK BI METAL MANUFACTURING]]></cell><cell><![CDATA[9,000,000]]></cell></row>
+<row><cell><![CDATA[112]]></cell><cell><![CDATA[Environmenta Monitoring]]></cell><cell><![CDATA[HAIKKI GREEN]]></cell><cell><![CDATA[1,250,000]]></cell></row>
+<row><cell><![CDATA[113]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[MEDCO POWER INDONESIA, MEDCO ENERGI]]></cell><cell><![CDATA[29,000,000]]></cell></row>
+<row><cell><![CDATA[114]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[UNION PLASTIC INDUSTRIES]]></cell><cell><![CDATA[1,500,000]]></cell></row>
+<row><cell><![CDATA[115]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[BETI PURWANTO]]></cell><cell><![CDATA[1,250,000]]></cell></row>
+<row><cell><![CDATA[116]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[CITRA TUBINDO TBK]]></cell><cell><![CDATA[3,000,000]]></cell></row>
+<row><cell><![CDATA[117]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[HAIKKI GREEN]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[118]]></cell><cell><![CDATA[KALIBRASI]]></cell><cell><![CDATA[BATAMINDO INVESTMENT CAKRAWALA]]></cell><cell><![CDATA[7,000,000]]></cell></row>
+<row><cell><![CDATA[119]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[ROYCE ENTERPRISE CO.]]></cell><cell><![CDATA[1,100,000]]></cell></row>
+<row><cell><![CDATA[120]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SINGATAC BINTAN INDONESIA]]></cell><cell><![CDATA[1,000,000]]></cell></row>
+<row><cell><![CDATA[121]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[VETCO GRAY INDONESIA]]></cell><cell><![CDATA[25,000,000]]></cell></row>
+<row><cell><![CDATA[122]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SAT NUSAPERSADA TBK]]></cell><cell><![CDATA[2,800,000]]></cell></row>
+<row><cell><![CDATA[123]]></cell><cell><![CDATA[ENVIRONMENTAL Monitoring]]></cell><cell><![CDATA[SAT NUSAPERSADA TBK]]></cell><cell><![CDATA[700,000]]></cell></row>
+<row><cell><![CDATA[124]]></cell><cell><![CDATA[Environmental Montoring]]></cell><cell><![CDATA[CCI BINTAN]]></cell><cell><![CDATA[1,200,000]]></cell></row>
+<row><cell><![CDATA[125]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[ASIA CIVIL INDONESIA]]></cell><cell><![CDATA[12,000,000]]></cell></row>
+<row><cell><![CDATA[126]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[127]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[8,500,000]]></cell></row>
+<row><cell><![CDATA[128]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[8,500,000]]></cell></row>
+<row><cell><![CDATA[129]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[130]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[8,500,000]]></cell></row>
+<row><cell><![CDATA[131]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[132]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[H-TECH OILFIELD EQUIPMENT]]></cell><cell><![CDATA[8,400,000]]></cell></row>
+<row><cell><![CDATA[133]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[TRAVELODGE BATAM]]></cell><cell><![CDATA[8,400,000]]></cell></row>
+<row><cell><![CDATA[134]]></cell><cell><![CDATA[Pengujian Kualitas Air Limbah di Lingkungan Industri, Perkantoran, dan Perumahan]]></cell><cell><![CDATA[BP KAWASAN PERDAGANGAN & PELABUHAN BEBAS BATAM (BP BATAM)]]></cell><cell><![CDATA[196,300,000]]></cell></row>
+<row><cell><![CDATA[135]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[KLINIK MEDILAB]]></cell><cell><![CDATA[800,000]]></cell></row>
+<row><cell><![CDATA[136]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[WINDA]]></cell><cell><![CDATA[1,500,000]]></cell></row>
+<row><cell><![CDATA[137]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[CITRA TUBINDO TBK]]></cell><cell><![CDATA[3,000,000]]></cell></row>
+<row><cell><![CDATA[138]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[HOH HOTELIER (ZEST HOTEL)]]></cell><cell><![CDATA[2,100,000]]></cell></row>
+<row><cell><![CDATA[139]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[BENGINT NUSANTARA INDUSTRIES]]></cell><cell><![CDATA[1,050,000]]></cell></row>
+<row><cell><![CDATA[140]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[TRAVELODGE BATAM]]></cell><cell><![CDATA[8,400,000]]></cell></row>
+<row><cell><![CDATA[141]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[CCI BINTAN]]></cell><cell><![CDATA[1,200,000]]></cell></row>
+<row><cell><![CDATA[142]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SAT NUSAPERSADA TBK]]></cell><cell><![CDATA[2,800,000]]></cell></row>
+<row><cell><![CDATA[143]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SAT NUSAPERSADA TBK]]></cell><cell><![CDATA[700,000]]></cell></row>
+<row><cell><![CDATA[144]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[145]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[146]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[147]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[148]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[149]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[150]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[151]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[152]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[153]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[154]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[155]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[156]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SURVEYOR INDONESIA CABANG PALEMBANG, SURVEYOR INDONESIA (PERSERO)]]></cell><cell><![CDATA[6,450,000]]></cell></row>
+<row><cell><![CDATA[157]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[TEC INDONESIA]]></cell><cell><![CDATA[3,300,000]]></cell></row>
+<row><cell><![CDATA[158]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[KLINIK MEDILAB]]></cell><cell><![CDATA[800,000]]></cell></row>
+<row><cell><![CDATA[159]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[INFINEON TECHNOLOGIES BATAM]]></cell><cell><![CDATA[2,400,000]]></cell></row>
+<row><cell><![CDATA[160]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[DESMAN ZEGA]]></cell><cell><![CDATA[2,400,000]]></cell></row>
+<row><cell><![CDATA[161]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[TRANSALINDO EKA PERSADA]]></cell><cell><![CDATA[650,000]]></cell></row>
+<row><cell><![CDATA[162]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[KLINIK POLRES KARIMUN]]></cell><cell><![CDATA[1,500,000]]></cell></row>
+<row><cell><![CDATA[163]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[WEIR PRESSURE CONTROL INDONESIA]]></cell><cell><![CDATA[2,450,000]]></cell></row>
+<row><cell><![CDATA[164]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[CHELLYA WATER]]></cell><cell><![CDATA[1,200,000]]></cell></row>
+<row><cell><![CDATA[165]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SURVEYOR INDONESIA CABANG MEDAN, SURVEYOR INDONESIA (PERSERO)]]></cell><cell><![CDATA[300,000]]></cell></row>
+<row><cell><![CDATA[166]]></cell><cell><![CDATA[Pelatihan Auditor SMK3 - Public Training]]></cell><cell><![CDATA[TJK POWER]]></cell><cell><![CDATA[4,490,000]]></cell></row>
+<row><cell><![CDATA[167]]></cell><cell><![CDATA[SOIL INVESTIGATION]]></cell><cell><![CDATA[ARCADIS SHANGHAI LIMITED]]></cell><cell><![CDATA[315,000,000]]></cell></row>
+<row><cell><![CDATA[168]]></cell><cell><![CDATA[Pelatihan Auditor SMK3 - Public Training]]></cell><cell><![CDATA[PHILIPS INDUSTRIES BATAM]]></cell><cell><![CDATA[4,490,000]]></cell></row>
+<row><cell><![CDATA[169]]></cell><cell><![CDATA[Pelatihan Auditor SMK3 - Public Training]]></cell><cell><![CDATA[MR. FERRY SHANDRIA RUSLIWANDO]]></cell><cell><![CDATA[4,490,000]]></cell></row>
+<row><cell><![CDATA[170]]></cell><cell><![CDATA[AMDAL REVISION  - PT. Saipem Indonesia Karimun Yard]]></cell><cell><![CDATA[SAIPEM INDONESIA]]></cell><cell><![CDATA[825,350,000]]></cell></row>
+<row><cell><![CDATA[171]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[ABB SAKTI INDUSTRI]]></cell><cell><![CDATA[4,000,000]]></cell></row>
+<row><cell><![CDATA[172]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[RS OTORITA BATAM]]></cell><cell><![CDATA[22,300,000]]></cell></row>
+<row><cell><![CDATA[173]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[RS OTORITA BATAM]]></cell><cell><![CDATA[30,000,000]]></cell></row>
+<row><cell><![CDATA[174]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[VETCO GRAY INDONESIA]]></cell><cell><![CDATA[8,100,000]]></cell></row>
+<row><cell><![CDATA[175]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[176]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[WAP LOGISTIKINDO]]></cell><cell><![CDATA[18,500,000]]></cell></row>
+<row><cell><![CDATA[177]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[INDOTIRTA SUAKA]]></cell><cell><![CDATA[600,000]]></cell></row>
+<row><cell><![CDATA[178]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS (BALIKPAPAN), ENERGY LOGISTICS]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[179]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[INDOTIRTA SUAKA]]></cell><cell><![CDATA[3,000,000]]></cell></row>
+<row><cell><![CDATA[180]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[27,500,000]]></cell></row>
+<row><cell><![CDATA[181]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[8,500,000]]></cell></row>
+<row><cell><![CDATA[182]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[8,500,000]]></cell></row>
+<row><cell><![CDATA[183]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[29,500,000]]></cell></row>
+<row><cell><![CDATA[184]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[WAP LOGISTIKINDO]]></cell><cell><![CDATA[10,000,000]]></cell></row>
+<row><cell><![CDATA[185]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS (BALIKPAPAN), ENERGY LOGISTICS]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[186]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[25,500,000]]></cell></row>
+<row><cell><![CDATA[187]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[MITRA BAKTI NUSA]]></cell><cell><![CDATA[12,500,000]]></cell></row>
+<row><cell><![CDATA[188]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[TROPOLIS JAYA ABADI]]></cell><cell><![CDATA[22,500,000]]></cell></row>
+<row><cell><![CDATA[189]]></cell><cell><![CDATA[BTMB]]></cell><cell><![CDATA[KSW BATAM]]></cell><cell><![CDATA[25,000,000]]></cell></row>
+<row><cell><![CDATA[190]]></cell><cell><![CDATA[BTMB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[59,500,000]]></cell></row>
+<row><cell><![CDATA[191]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[BINA PETROGAS MANDIRI]]></cell><cell><![CDATA[82,750,000]]></cell></row>
+<row><cell><![CDATA[192]]></cell><cell><![CDATA[Environmental Monitroing]]></cell><cell><![CDATA[KARIMUN SEMBAWANG SHIPYARD]]></cell><cell><![CDATA[51,200,000]]></cell></row>
+<row><cell><![CDATA[193]]></cell><cell><![CDATA[Disnakker Certification of Equipments]]></cell><cell><![CDATA[CIBA VISION BATAM]]></cell><cell><![CDATA[477,610,000]]></cell></row>
+<row><cell><![CDATA[194]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[27,500,000]]></cell></row>
+<row><cell><![CDATA[195]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[22,500,000]]></cell></row>
+<row><cell><![CDATA[196]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[30,500,000]]></cell></row>
+<row><cell><![CDATA[197]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[TJK POWER]]></cell><cell><![CDATA[21,600,000]]></cell></row>
+<row><cell><![CDATA[198]]></cell><cell><![CDATA[SLO & PENGURUSAN IJIN OPERASI (IO)]]></cell><cell><![CDATA[KARIMUN SEMBAWANG SHIPYARD]]></cell><cell><![CDATA[65,000,000]]></cell></row></rows><rows profile='color'><head><columns><column  width='50' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[No.]]></column><column  width='220' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Klien]]></column><column  width='320' align='left' type='ron' hidden='false' sort='int' color=''><![CDATA[ Nama Proyek]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[ Nilai Kontrak]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='3' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[4,395,461,000]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[Lab Lingkungan PT. TJK Power]]></cell><cell><![CDATA[TJK POWER]]></cell><cell><![CDATA[120,000,000]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[VETCO GRAY INDONESIA]]></cell><cell><![CDATA[28,950,000]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[WEIR PRESSURE CONTROL INDONESIA]]></cell><cell><![CDATA[36,150,000]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SIIX ELECTRONICS INDONESIA]]></cell><cell><![CDATA[44,800,000]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SURVEYOR INDONESIA CABANG BANJARBARU, SURVEYOR INDONESIA]]></cell><cell><![CDATA[40,000,000]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[MAHAKARYA LINTASINDO]]></cell><cell><![CDATA[22,400,000]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[TURI BEACH RESORT]]></cell><cell><![CDATA[19,200,000]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[INTERPAK INDUSTRIES BATAM]]></cell><cell><![CDATA[13,200,000]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SURVEYOR INDONESIA CABANG PALEMBANG, SURVEYOR INDONESIA (PERSERO)]]></cell><cell><![CDATA[16,900,000]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SARANA REKONDISI INDONESIA]]></cell><cell><![CDATA[15,500,000]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[IDROS SERVICES]]></cell><cell><![CDATA[15,900,000]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[BUKIT ALAM PERSADA]]></cell><cell><![CDATA[18,500,000]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SUMITOMO WIRING SYSTEMS]]></cell><cell><![CDATA[12,450,000]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[NOK FREUDENBERG SEALING TECHNOLOGIES]]></cell><cell><![CDATA[15,850,000]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[CAMERON SYSTEMS]]></cell><cell><![CDATA[15,000,000]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[17]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[18]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[19]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[20]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[8,500,000]]></cell></row>
+<row><cell><![CDATA[21]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[22]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[23]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[24]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[25]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[26]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[27]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[28]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[KUNDUR PRIMA KARYA]]></cell><cell><![CDATA[4,000,000]]></cell></row>
+<row><cell><![CDATA[29]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[30]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[HUNTING ENERGY ASIA]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[31]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[32]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[33]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[34]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[35]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[14,000,000]]></cell></row>
+<row><cell><![CDATA[36]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[37]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[38]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[39]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[40]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[41]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[HANGGA PUTRA ABADI]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[42]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[43]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[44]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[45]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[46]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[KUNDUR PRIMA KARYA]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[47]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[KUNDUR PRIMA KARYA]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[48]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[EXCELITAS TECHNOLOGIES BATAM]]></cell><cell><![CDATA[15,000,000]]></cell></row>
+<row><cell><![CDATA[49]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SNEPAC MULTINDO UTAMA]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[50]]></cell><cell><![CDATA[CALIBRATION FUNCTION TESTER for 3 (THREE) UNIT MACHINES]]></cell><cell><![CDATA[WIK FAR EAST BATAM]]></cell><cell><![CDATA[21,000,000]]></cell></row>
+<row><cell><![CDATA[51]]></cell><cell><![CDATA[Dinaker Certification]]></cell><cell><![CDATA[PCI ELEKTRONIK INTERNASIONAL]]></cell><cell><![CDATA[3,600,000]]></cell></row>
+<row><cell><![CDATA[52]]></cell><cell><![CDATA[Disnaker Certification of Equipments]]></cell><cell><![CDATA[NOK FREUDENBERG SEALING TECHNOLOGIES]]></cell><cell><![CDATA[8,100,000]]></cell></row>
+<row><cell><![CDATA[53]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[54]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[55]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[56]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[57]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SINDO MEGAH LESTARI]]></cell><cell><![CDATA[3,000,000]]></cell></row>
+<row><cell><![CDATA[58]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[DINAS LINGKUNGAN HIDUP KOTA BATAM, PEMERINTAH KOTA BATAM, PEMERINTAH PROVINSI KEPULAUAN RIAU]]></cell><cell><![CDATA[1,000,000]]></cell></row>
+<row><cell><![CDATA[59]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[PULAU SAMBU]]></cell><cell><![CDATA[7,900,000]]></cell></row>
+<row><cell><![CDATA[60]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[GAJAH IZUMI MAS PERKASA]]></cell><cell><![CDATA[2,400,000]]></cell></row>
+<row><cell><![CDATA[61]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[8,500,000]]></cell></row>
+<row><cell><![CDATA[62]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[INDOTIRTA SUAKA]]></cell><cell><![CDATA[4,200,000]]></cell></row>
+<row><cell><![CDATA[63]]></cell><cell><![CDATA[Environmenta Monitoring]]></cell><cell><![CDATA[INDOTIRTA SUAKA]]></cell><cell><![CDATA[3,000,000]]></cell></row>
+<row><cell><![CDATA[64]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[KUNDUR PRIMA KARYA]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[65]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[66]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[67]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[68]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[69]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[TROPOLIS JAYA ABADI]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[70]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[8,500,000]]></cell></row>
+<row><cell><![CDATA[71]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SURVEYOR INDONESIA CABANG MEDAN, SURVEYOR INDONESIA (PERSERO)]]></cell><cell><![CDATA[300,000]]></cell></row>
+<row><cell><![CDATA[72]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[MAXPOWER INDONESIA]]></cell><cell><![CDATA[900,000]]></cell></row>
+<row><cell><![CDATA[73]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[KENCANA PRIMA INDOTAMA]]></cell><cell><![CDATA[2,300,000]]></cell></row>
+<row><cell><![CDATA[74]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[LB TECHNOLOGIES BATAM]]></cell><cell><![CDATA[7,000,000]]></cell></row>
+<row><cell><![CDATA[75]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[LB TECHNOLOGIES BATAM]]></cell><cell><![CDATA[8,400,000]]></cell></row>
+<row><cell><![CDATA[76]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[VOLEX INDONESIA]]></cell><cell><![CDATA[2,400,000]]></cell></row>
+<row><cell><![CDATA[77]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[BATAM TEKNOLOGI GAS]]></cell><cell><![CDATA[3,000,000]]></cell></row>
+<row><cell><![CDATA[78]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[RS AWAL BROS (BATAM)]]></cell><cell><![CDATA[14,100,000]]></cell></row>
+<row><cell><![CDATA[79]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[27,500,000]]></cell></row>
+<row><cell><![CDATA[80]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[GENIUS MOTOR]]></cell><cell><![CDATA[17,500,000]]></cell></row>
+<row><cell><![CDATA[81]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[31,500,000]]></cell></row>
+<row><cell><![CDATA[82]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[37,500,000]]></cell></row>
+<row><cell><![CDATA[83]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[HANGGA GOENG KONTRAKTOR]]></cell><cell><![CDATA[22,500,000]]></cell></row>
+<row><cell><![CDATA[84]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS (BALIKPAPAN), ENERGY LOGISTICS]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[85]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[INSAN MANDIRI]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[86]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS (BALIKPAPAN), ENERGY LOGISTICS]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[87]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[APEXINDO PRATAMA]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[88]]></cell><cell><![CDATA[Disnaker Certification]]></cell><cell><![CDATA[SHIMANO BATAM MANUFACTURING]]></cell><cell><![CDATA[2,500,000]]></cell></row>
+<row><cell><![CDATA[89]]></cell><cell><![CDATA[Disnake Certification]]></cell><cell><![CDATA[SHIMANO BATAM]]></cell><cell><![CDATA[4,000,000]]></cell></row>
+<row><cell><![CDATA[90]]></cell><cell><![CDATA[Disnaker Certification]]></cell><cell><![CDATA[SHIMANO BATAM MANUFACTURING]]></cell><cell><![CDATA[8,500,000]]></cell></row>
+<row><cell><![CDATA[91]]></cell><cell><![CDATA[Disnaker Certification]]></cell><cell><![CDATA[SHIMANO BATAM MANUFACTURING]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[92]]></cell><cell><![CDATA[Disnaker Certification]]></cell><cell><![CDATA[SHIMANO BATAM MANUFACTURING]]></cell><cell><![CDATA[2,500,000]]></cell></row>
+<row><cell><![CDATA[93]]></cell><cell><![CDATA[Disnaker Certification Lightning Arrester for 4 units]]></cell><cell><![CDATA[SHIMANO BATAM MANUFACTURING]]></cell><cell><![CDATA[12,600,000]]></cell></row>
+<row><cell><![CDATA[94]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[PUSAT STUDI LINGKUNGAN HIDUP - UNRI]]></cell><cell><![CDATA[54,300,000]]></cell></row>
+<row><cell><![CDATA[95]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[RSUD RAJA AHMAD TABIB, PEMERINTAH KOTA TANJUNG PINANG, PEMERINTAH PROVINSI KEPULAUAN RIAU]]></cell><cell><![CDATA[49,731,000]]></cell></row>
+<row><cell><![CDATA[96]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[WIRA PENTA KENCANA]]></cell><cell><![CDATA[24,300,000]]></cell></row>
+<row><cell><![CDATA[97]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SIIX ELECTRONICS INDONESIA]]></cell><cell><![CDATA[35,450,000]]></cell></row>
+<row><cell><![CDATA[98]]></cell><cell><![CDATA[Uji Kualitas Air Limbah di Kawasan Industri, Perkantoran dan Perumahan]]></cell><cell><![CDATA[BP KAWASAN PERDAGANGAN & PELABUHAN BEBAS BATAM (BP BATAM)]]></cell><cell><![CDATA[196,300,000]]></cell></row>
+<row><cell><![CDATA[99]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SMOE INDONESIA]]></cell><cell><![CDATA[133,420,000]]></cell></row>
+<row><cell><![CDATA[100]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[OILTANKING KARIMUN]]></cell><cell><![CDATA[24,600,000]]></cell></row>
+<row><cell><![CDATA[101]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[CLADTEK BI METAL MANUFACTURING]]></cell><cell><![CDATA[26,400,000]]></cell></row>
+<row><cell><![CDATA[102]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[CLADTEK BI METAL MANUFACTURING]]></cell><cell><![CDATA[13,200,000]]></cell></row>
+<row><cell><![CDATA[103]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[GHIM LI INDONESIA]]></cell><cell><![CDATA[13,200,000]]></cell></row>
+<row><cell><![CDATA[104]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[FANINDO CIPTA PROPERTINDO]]></cell><cell><![CDATA[9,000,000]]></cell></row>
+<row><cell><![CDATA[105]]></cell><cell><![CDATA[Training Auditor SMK3]]></cell><cell><![CDATA[JMS BATAM]]></cell><cell><![CDATA[8,980,000]]></cell></row>
+<row><cell><![CDATA[106]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[PACIFIC PALACE HOTEL]]></cell><cell><![CDATA[11,500,000]]></cell></row>
+<row><cell><![CDATA[107]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SURVEYOR INDONESIA CABANG MEDAN, SURVEYOR INDONESIA (PERSERO)]]></cell><cell><![CDATA[900,000]]></cell></row>
+<row><cell><![CDATA[108]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SURVEYOR INDONESIA CABANG MEDAN, SURVEYOR INDONESIA (PERSERO)]]></cell><cell><![CDATA[900,000]]></cell></row>
+<row><cell><![CDATA[109]]></cell><cell><![CDATA[eNVIRONMENTAL Monitoring]]></cell><cell><![CDATA[INTERPAK INDUSTRIES BATAM]]></cell><cell><![CDATA[3,100,000]]></cell></row>
+<row><cell><![CDATA[110]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[CHUCK ENGINEERING BATAM]]></cell><cell><![CDATA[4,800,000]]></cell></row>
+<row><cell><![CDATA[111]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[CLADTEK BI METAL MANUFACTURING]]></cell><cell><![CDATA[9,000,000]]></cell></row>
+<row><cell><![CDATA[112]]></cell><cell><![CDATA[Environmenta Monitoring]]></cell><cell><![CDATA[HAIKKI GREEN]]></cell><cell><![CDATA[1,250,000]]></cell></row>
+<row><cell><![CDATA[113]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[MEDCO POWER INDONESIA, MEDCO ENERGI]]></cell><cell><![CDATA[29,000,000]]></cell></row>
+<row><cell><![CDATA[114]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[UNION PLASTIC INDUSTRIES]]></cell><cell><![CDATA[1,500,000]]></cell></row>
+<row><cell><![CDATA[115]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[BETI PURWANTO]]></cell><cell><![CDATA[1,250,000]]></cell></row>
+<row><cell><![CDATA[116]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[CITRA TUBINDO TBK]]></cell><cell><![CDATA[3,000,000]]></cell></row>
+<row><cell><![CDATA[117]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[HAIKKI GREEN]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[118]]></cell><cell><![CDATA[KALIBRASI]]></cell><cell><![CDATA[BATAMINDO INVESTMENT CAKRAWALA]]></cell><cell><![CDATA[7,000,000]]></cell></row>
+<row><cell><![CDATA[119]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[ROYCE ENTERPRISE CO.]]></cell><cell><![CDATA[1,100,000]]></cell></row>
+<row><cell><![CDATA[120]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SINGATAC BINTAN INDONESIA]]></cell><cell><![CDATA[1,000,000]]></cell></row>
+<row><cell><![CDATA[121]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[VETCO GRAY INDONESIA]]></cell><cell><![CDATA[25,000,000]]></cell></row>
+<row><cell><![CDATA[122]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SAT NUSAPERSADA TBK]]></cell><cell><![CDATA[2,800,000]]></cell></row>
+<row><cell><![CDATA[123]]></cell><cell><![CDATA[ENVIRONMENTAL Monitoring]]></cell><cell><![CDATA[SAT NUSAPERSADA TBK]]></cell><cell><![CDATA[700,000]]></cell></row>
+<row><cell><![CDATA[124]]></cell><cell><![CDATA[Environmental Montoring]]></cell><cell><![CDATA[CCI BINTAN]]></cell><cell><![CDATA[1,200,000]]></cell></row>
+<row><cell><![CDATA[125]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[ASIA CIVIL INDONESIA]]></cell><cell><![CDATA[12,000,000]]></cell></row>
+<row><cell><![CDATA[126]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[127]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[8,500,000]]></cell></row>
+<row><cell><![CDATA[128]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[8,500,000]]></cell></row>
+<row><cell><![CDATA[129]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[130]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[8,500,000]]></cell></row>
+<row><cell><![CDATA[131]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[132]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[H-TECH OILFIELD EQUIPMENT]]></cell><cell><![CDATA[8,400,000]]></cell></row>
+<row><cell><![CDATA[133]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[TRAVELODGE BATAM]]></cell><cell><![CDATA[8,400,000]]></cell></row>
+<row><cell><![CDATA[134]]></cell><cell><![CDATA[Pengujian Kualitas Air Limbah di Lingkungan Industri, Perkantoran, dan Perumahan]]></cell><cell><![CDATA[BP KAWASAN PERDAGANGAN & PELABUHAN BEBAS BATAM (BP BATAM)]]></cell><cell><![CDATA[196,300,000]]></cell></row>
+<row><cell><![CDATA[135]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[KLINIK MEDILAB]]></cell><cell><![CDATA[800,000]]></cell></row>
+<row><cell><![CDATA[136]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[WINDA]]></cell><cell><![CDATA[1,500,000]]></cell></row>
+<row><cell><![CDATA[137]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[CITRA TUBINDO TBK]]></cell><cell><![CDATA[3,000,000]]></cell></row>
+<row><cell><![CDATA[138]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[HOH HOTELIER (ZEST HOTEL)]]></cell><cell><![CDATA[2,100,000]]></cell></row>
+<row><cell><![CDATA[139]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[BENGINT NUSANTARA INDUSTRIES]]></cell><cell><![CDATA[1,050,000]]></cell></row>
+<row><cell><![CDATA[140]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[TRAVELODGE BATAM]]></cell><cell><![CDATA[8,400,000]]></cell></row>
+<row><cell><![CDATA[141]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[CCI BINTAN]]></cell><cell><![CDATA[1,200,000]]></cell></row>
+<row><cell><![CDATA[142]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SAT NUSAPERSADA TBK]]></cell><cell><![CDATA[2,800,000]]></cell></row>
+<row><cell><![CDATA[143]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SAT NUSAPERSADA TBK]]></cell><cell><![CDATA[700,000]]></cell></row>
+<row><cell><![CDATA[144]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[145]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[146]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[147]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[148]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[149]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[150]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[151]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[152]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[153]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[154]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[155]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[156]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SURVEYOR INDONESIA CABANG PALEMBANG, SURVEYOR INDONESIA (PERSERO)]]></cell><cell><![CDATA[6,450,000]]></cell></row>
+<row><cell><![CDATA[157]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[TEC INDONESIA]]></cell><cell><![CDATA[3,300,000]]></cell></row>
+<row><cell><![CDATA[158]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[KLINIK MEDILAB]]></cell><cell><![CDATA[800,000]]></cell></row>
+<row><cell><![CDATA[159]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[INFINEON TECHNOLOGIES BATAM]]></cell><cell><![CDATA[2,400,000]]></cell></row>
+<row><cell><![CDATA[160]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[DESMAN ZEGA]]></cell><cell><![CDATA[2,400,000]]></cell></row>
+<row><cell><![CDATA[161]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[TRANSALINDO EKA PERSADA]]></cell><cell><![CDATA[650,000]]></cell></row>
+<row><cell><![CDATA[162]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[KLINIK POLRES KARIMUN]]></cell><cell><![CDATA[1,500,000]]></cell></row>
+<row><cell><![CDATA[163]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[WEIR PRESSURE CONTROL INDONESIA]]></cell><cell><![CDATA[2,450,000]]></cell></row>
+<row><cell><![CDATA[164]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[CHELLYA WATER]]></cell><cell><![CDATA[1,200,000]]></cell></row>
+<row><cell><![CDATA[165]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SURVEYOR INDONESIA CABANG MEDAN, SURVEYOR INDONESIA (PERSERO)]]></cell><cell><![CDATA[300,000]]></cell></row>
+<row><cell><![CDATA[166]]></cell><cell><![CDATA[Pelatihan Auditor SMK3 - Public Training]]></cell><cell><![CDATA[TJK POWER]]></cell><cell><![CDATA[4,490,000]]></cell></row>
+<row><cell><![CDATA[167]]></cell><cell><![CDATA[SOIL INVESTIGATION]]></cell><cell><![CDATA[ARCADIS SHANGHAI LIMITED]]></cell><cell><![CDATA[315,000,000]]></cell></row>
+<row><cell><![CDATA[168]]></cell><cell><![CDATA[Pelatihan Auditor SMK3 - Public Training]]></cell><cell><![CDATA[PHILIPS INDUSTRIES BATAM]]></cell><cell><![CDATA[4,490,000]]></cell></row>
+<row><cell><![CDATA[169]]></cell><cell><![CDATA[Pelatihan Auditor SMK3 - Public Training]]></cell><cell><![CDATA[MR. FERRY SHANDRIA RUSLIWANDO]]></cell><cell><![CDATA[4,490,000]]></cell></row>
+<row><cell><![CDATA[170]]></cell><cell><![CDATA[AMDAL REVISION  - PT. Saipem Indonesia Karimun Yard]]></cell><cell><![CDATA[SAIPEM INDONESIA]]></cell><cell><![CDATA[825,350,000]]></cell></row>
+<row><cell><![CDATA[171]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[ABB SAKTI INDUSTRI]]></cell><cell><![CDATA[4,000,000]]></cell></row>
+<row><cell><![CDATA[172]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[RS OTORITA BATAM]]></cell><cell><![CDATA[22,300,000]]></cell></row>
+<row><cell><![CDATA[173]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[RS OTORITA BATAM]]></cell><cell><![CDATA[30,000,000]]></cell></row>
+<row><cell><![CDATA[174]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[VETCO GRAY INDONESIA]]></cell><cell><![CDATA[8,100,000]]></cell></row>
+<row><cell><![CDATA[175]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[176]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[WAP LOGISTIKINDO]]></cell><cell><![CDATA[18,500,000]]></cell></row>
+<row><cell><![CDATA[177]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[INDOTIRTA SUAKA]]></cell><cell><![CDATA[600,000]]></cell></row>
+<row><cell><![CDATA[178]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS (BALIKPAPAN), ENERGY LOGISTICS]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[179]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[INDOTIRTA SUAKA]]></cell><cell><![CDATA[3,000,000]]></cell></row>
+<row><cell><![CDATA[180]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[27,500,000]]></cell></row>
+<row><cell><![CDATA[181]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[8,500,000]]></cell></row>
+<row><cell><![CDATA[182]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[8,500,000]]></cell></row>
+<row><cell><![CDATA[183]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[29,500,000]]></cell></row>
+<row><cell><![CDATA[184]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[WAP LOGISTIKINDO]]></cell><cell><![CDATA[10,000,000]]></cell></row>
+<row><cell><![CDATA[185]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS (BALIKPAPAN), ENERGY LOGISTICS]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[186]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[25,500,000]]></cell></row>
+<row><cell><![CDATA[187]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[MITRA BAKTI NUSA]]></cell><cell><![CDATA[12,500,000]]></cell></row>
+<row><cell><![CDATA[188]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[TROPOLIS JAYA ABADI]]></cell><cell><![CDATA[22,500,000]]></cell></row>
+<row><cell><![CDATA[189]]></cell><cell><![CDATA[BTMB]]></cell><cell><![CDATA[KSW BATAM]]></cell><cell><![CDATA[25,000,000]]></cell></row>
+<row><cell><![CDATA[190]]></cell><cell><![CDATA[BTMB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[59,500,000]]></cell></row>
+<row><cell><![CDATA[191]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[BINA PETROGAS MANDIRI]]></cell><cell><![CDATA[82,750,000]]></cell></row>
+<row><cell><![CDATA[192]]></cell><cell><![CDATA[Environmental Monitroing]]></cell><cell><![CDATA[KARIMUN SEMBAWANG SHIPYARD]]></cell><cell><![CDATA[51,200,000]]></cell></row>
+<row><cell><![CDATA[193]]></cell><cell><![CDATA[Disnakker Certification of Equipments]]></cell><cell><![CDATA[CIBA VISION BATAM]]></cell><cell><![CDATA[477,610,000]]></cell></row>
+<row><cell><![CDATA[194]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[27,500,000]]></cell></row>
+<row><cell><![CDATA[195]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[22,500,000]]></cell></row>
+<row><cell><![CDATA[196]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[30,500,000]]></cell></row>
+<row><cell><![CDATA[197]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[TJK POWER]]></cell><cell><![CDATA[21,600,000]]></cell></row>
+<row><cell><![CDATA[198]]></cell><cell><![CDATA[SLO & PENGURUSAN IJIN OPERASI (IO)]]></cell><cell><![CDATA[KARIMUN SEMBAWANG SHIPYARD]]></cell><cell><![CDATA[65,000,000]]></cell></row></rows><rows profile='color'><head><columns><column  width='50' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[No.]]></column><column  width='220' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Klien]]></column><column  width='320' align='left' type='ron' hidden='false' sort='int' color=''><![CDATA[ Nama Proyek]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[ Nilai Kontrak]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='3' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[4,395,461,000]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[Lab Lingkungan PT. TJK Power]]></cell><cell><![CDATA[TJK POWER]]></cell><cell><![CDATA[120,000,000]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[VETCO GRAY INDONESIA]]></cell><cell><![CDATA[28,950,000]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[WEIR PRESSURE CONTROL INDONESIA]]></cell><cell><![CDATA[36,150,000]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SIIX ELECTRONICS INDONESIA]]></cell><cell><![CDATA[44,800,000]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SURVEYOR INDONESIA CABANG BANJARBARU, SURVEYOR INDONESIA]]></cell><cell><![CDATA[40,000,000]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[MAHAKARYA LINTASINDO]]></cell><cell><![CDATA[22,400,000]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[TURI BEACH RESORT]]></cell><cell><![CDATA[19,200,000]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[INTERPAK INDUSTRIES BATAM]]></cell><cell><![CDATA[13,200,000]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SURVEYOR INDONESIA CABANG PALEMBANG, SURVEYOR INDONESIA (PERSERO)]]></cell><cell><![CDATA[16,900,000]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SARANA REKONDISI INDONESIA]]></cell><cell><![CDATA[15,500,000]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[IDROS SERVICES]]></cell><cell><![CDATA[15,900,000]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[BUKIT ALAM PERSADA]]></cell><cell><![CDATA[18,500,000]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SUMITOMO WIRING SYSTEMS]]></cell><cell><![CDATA[12,450,000]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[NOK FREUDENBERG SEALING TECHNOLOGIES]]></cell><cell><![CDATA[15,850,000]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[CAMERON SYSTEMS]]></cell><cell><![CDATA[15,000,000]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[17]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[18]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[19]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[20]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[8,500,000]]></cell></row>
+<row><cell><![CDATA[21]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[22]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[23]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[24]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[25]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[26]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[27]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[28]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[KUNDUR PRIMA KARYA]]></cell><cell><![CDATA[4,000,000]]></cell></row>
+<row><cell><![CDATA[29]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[30]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[HUNTING ENERGY ASIA]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[31]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[32]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[33]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[34]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[35]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[14,000,000]]></cell></row>
+<row><cell><![CDATA[36]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[37]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[38]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[39]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[40]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[41]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[HANGGA PUTRA ABADI]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[42]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[43]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[44]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[45]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[46]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[KUNDUR PRIMA KARYA]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[47]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[KUNDUR PRIMA KARYA]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[48]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[EXCELITAS TECHNOLOGIES BATAM]]></cell><cell><![CDATA[15,000,000]]></cell></row>
+<row><cell><![CDATA[49]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SNEPAC MULTINDO UTAMA]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[50]]></cell><cell><![CDATA[CALIBRATION FUNCTION TESTER for 3 (THREE) UNIT MACHINES]]></cell><cell><![CDATA[WIK FAR EAST BATAM]]></cell><cell><![CDATA[21,000,000]]></cell></row>
+<row><cell><![CDATA[51]]></cell><cell><![CDATA[Dinaker Certification]]></cell><cell><![CDATA[PCI ELEKTRONIK INTERNASIONAL]]></cell><cell><![CDATA[3,600,000]]></cell></row>
+<row><cell><![CDATA[52]]></cell><cell><![CDATA[Disnaker Certification of Equipments]]></cell><cell><![CDATA[NOK FREUDENBERG SEALING TECHNOLOGIES]]></cell><cell><![CDATA[8,100,000]]></cell></row>
+<row><cell><![CDATA[53]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[54]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[55]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[56]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[57]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SINDO MEGAH LESTARI]]></cell><cell><![CDATA[3,000,000]]></cell></row>
+<row><cell><![CDATA[58]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[DINAS LINGKUNGAN HIDUP KOTA BATAM, PEMERINTAH KOTA BATAM, PEMERINTAH PROVINSI KEPULAUAN RIAU]]></cell><cell><![CDATA[1,000,000]]></cell></row>
+<row><cell><![CDATA[59]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[PULAU SAMBU]]></cell><cell><![CDATA[7,900,000]]></cell></row>
+<row><cell><![CDATA[60]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[GAJAH IZUMI MAS PERKASA]]></cell><cell><![CDATA[2,400,000]]></cell></row>
+<row><cell><![CDATA[61]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[8,500,000]]></cell></row>
+<row><cell><![CDATA[62]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[INDOTIRTA SUAKA]]></cell><cell><![CDATA[4,200,000]]></cell></row>
+<row><cell><![CDATA[63]]></cell><cell><![CDATA[Environmenta Monitoring]]></cell><cell><![CDATA[INDOTIRTA SUAKA]]></cell><cell><![CDATA[3,000,000]]></cell></row>
+<row><cell><![CDATA[64]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[KUNDUR PRIMA KARYA]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[65]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[66]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[67]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[68]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[69]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[TROPOLIS JAYA ABADI]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[70]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[8,500,000]]></cell></row>
+<row><cell><![CDATA[71]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SURVEYOR INDONESIA CABANG MEDAN, SURVEYOR INDONESIA (PERSERO)]]></cell><cell><![CDATA[300,000]]></cell></row>
+<row><cell><![CDATA[72]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[MAXPOWER INDONESIA]]></cell><cell><![CDATA[900,000]]></cell></row>
+<row><cell><![CDATA[73]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[KENCANA PRIMA INDOTAMA]]></cell><cell><![CDATA[2,300,000]]></cell></row>
+<row><cell><![CDATA[74]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[LB TECHNOLOGIES BATAM]]></cell><cell><![CDATA[7,000,000]]></cell></row>
+<row><cell><![CDATA[75]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[LB TECHNOLOGIES BATAM]]></cell><cell><![CDATA[8,400,000]]></cell></row>
+<row><cell><![CDATA[76]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[VOLEX INDONESIA]]></cell><cell><![CDATA[2,400,000]]></cell></row>
+<row><cell><![CDATA[77]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[BATAM TEKNOLOGI GAS]]></cell><cell><![CDATA[3,000,000]]></cell></row>
+<row><cell><![CDATA[78]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[RS AWAL BROS (BATAM)]]></cell><cell><![CDATA[14,100,000]]></cell></row>
+<row><cell><![CDATA[79]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[27,500,000]]></cell></row>
+<row><cell><![CDATA[80]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[GENIUS MOTOR]]></cell><cell><![CDATA[17,500,000]]></cell></row>
+<row><cell><![CDATA[81]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[31,500,000]]></cell></row>
+<row><cell><![CDATA[82]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[37,500,000]]></cell></row>
+<row><cell><![CDATA[83]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[HANGGA GOENG KONTRAKTOR]]></cell><cell><![CDATA[22,500,000]]></cell></row>
+<row><cell><![CDATA[84]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS (BALIKPAPAN), ENERGY LOGISTICS]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[85]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[INSAN MANDIRI]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[86]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS (BALIKPAPAN), ENERGY LOGISTICS]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[87]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[APEXINDO PRATAMA]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[88]]></cell><cell><![CDATA[Disnaker Certification]]></cell><cell><![CDATA[SHIMANO BATAM MANUFACTURING]]></cell><cell><![CDATA[2,500,000]]></cell></row>
+<row><cell><![CDATA[89]]></cell><cell><![CDATA[Disnake Certification]]></cell><cell><![CDATA[SHIMANO BATAM]]></cell><cell><![CDATA[4,000,000]]></cell></row>
+<row><cell><![CDATA[90]]></cell><cell><![CDATA[Disnaker Certification]]></cell><cell><![CDATA[SHIMANO BATAM MANUFACTURING]]></cell><cell><![CDATA[8,500,000]]></cell></row>
+<row><cell><![CDATA[91]]></cell><cell><![CDATA[Disnaker Certification]]></cell><cell><![CDATA[SHIMANO BATAM MANUFACTURING]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[92]]></cell><cell><![CDATA[Disnaker Certification]]></cell><cell><![CDATA[SHIMANO BATAM MANUFACTURING]]></cell><cell><![CDATA[2,500,000]]></cell></row>
+<row><cell><![CDATA[93]]></cell><cell><![CDATA[Disnaker Certification Lightning Arrester for 4 units]]></cell><cell><![CDATA[SHIMANO BATAM MANUFACTURING]]></cell><cell><![CDATA[12,600,000]]></cell></row>
+<row><cell><![CDATA[94]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[PUSAT STUDI LINGKUNGAN HIDUP - UNRI]]></cell><cell><![CDATA[54,300,000]]></cell></row>
+<row><cell><![CDATA[95]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[RSUD RAJA AHMAD TABIB, PEMERINTAH KOTA TANJUNG PINANG, PEMERINTAH PROVINSI KEPULAUAN RIAU]]></cell><cell><![CDATA[49,731,000]]></cell></row>
+<row><cell><![CDATA[96]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[WIRA PENTA KENCANA]]></cell><cell><![CDATA[24,300,000]]></cell></row>
+<row><cell><![CDATA[97]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SIIX ELECTRONICS INDONESIA]]></cell><cell><![CDATA[35,450,000]]></cell></row>
+<row><cell><![CDATA[98]]></cell><cell><![CDATA[Uji Kualitas Air Limbah di Kawasan Industri, Perkantoran dan Perumahan]]></cell><cell><![CDATA[BP KAWASAN PERDAGANGAN & PELABUHAN BEBAS BATAM (BP BATAM)]]></cell><cell><![CDATA[196,300,000]]></cell></row>
+<row><cell><![CDATA[99]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SMOE INDONESIA]]></cell><cell><![CDATA[133,420,000]]></cell></row>
+<row><cell><![CDATA[100]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[OILTANKING KARIMUN]]></cell><cell><![CDATA[24,600,000]]></cell></row>
+<row><cell><![CDATA[101]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[CLADTEK BI METAL MANUFACTURING]]></cell><cell><![CDATA[26,400,000]]></cell></row>
+<row><cell><![CDATA[102]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[CLADTEK BI METAL MANUFACTURING]]></cell><cell><![CDATA[13,200,000]]></cell></row>
+<row><cell><![CDATA[103]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[GHIM LI INDONESIA]]></cell><cell><![CDATA[13,200,000]]></cell></row>
+<row><cell><![CDATA[104]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[FANINDO CIPTA PROPERTINDO]]></cell><cell><![CDATA[9,000,000]]></cell></row>
+<row><cell><![CDATA[105]]></cell><cell><![CDATA[Training Auditor SMK3]]></cell><cell><![CDATA[JMS BATAM]]></cell><cell><![CDATA[8,980,000]]></cell></row>
+<row><cell><![CDATA[106]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[PACIFIC PALACE HOTEL]]></cell><cell><![CDATA[11,500,000]]></cell></row>
+<row><cell><![CDATA[107]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SURVEYOR INDONESIA CABANG MEDAN, SURVEYOR INDONESIA (PERSERO)]]></cell><cell><![CDATA[900,000]]></cell></row>
+<row><cell><![CDATA[108]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SURVEYOR INDONESIA CABANG MEDAN, SURVEYOR INDONESIA (PERSERO)]]></cell><cell><![CDATA[900,000]]></cell></row>
+<row><cell><![CDATA[109]]></cell><cell><![CDATA[eNVIRONMENTAL Monitoring]]></cell><cell><![CDATA[INTERPAK INDUSTRIES BATAM]]></cell><cell><![CDATA[3,100,000]]></cell></row>
+<row><cell><![CDATA[110]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[CHUCK ENGINEERING BATAM]]></cell><cell><![CDATA[4,800,000]]></cell></row>
+<row><cell><![CDATA[111]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[CLADTEK BI METAL MANUFACTURING]]></cell><cell><![CDATA[9,000,000]]></cell></row>
+<row><cell><![CDATA[112]]></cell><cell><![CDATA[Environmenta Monitoring]]></cell><cell><![CDATA[HAIKKI GREEN]]></cell><cell><![CDATA[1,250,000]]></cell></row>
+<row><cell><![CDATA[113]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[MEDCO POWER INDONESIA, MEDCO ENERGI]]></cell><cell><![CDATA[29,000,000]]></cell></row>
+<row><cell><![CDATA[114]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[UNION PLASTIC INDUSTRIES]]></cell><cell><![CDATA[1,500,000]]></cell></row>
+<row><cell><![CDATA[115]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[BETI PURWANTO]]></cell><cell><![CDATA[1,250,000]]></cell></row>
+<row><cell><![CDATA[116]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[CITRA TUBINDO TBK]]></cell><cell><![CDATA[3,000,000]]></cell></row>
+<row><cell><![CDATA[117]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[HAIKKI GREEN]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[118]]></cell><cell><![CDATA[KALIBRASI]]></cell><cell><![CDATA[BATAMINDO INVESTMENT CAKRAWALA]]></cell><cell><![CDATA[7,000,000]]></cell></row>
+<row><cell><![CDATA[119]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[ROYCE ENTERPRISE CO.]]></cell><cell><![CDATA[1,100,000]]></cell></row>
+<row><cell><![CDATA[120]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SINGATAC BINTAN INDONESIA]]></cell><cell><![CDATA[1,000,000]]></cell></row>
+<row><cell><![CDATA[121]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[VETCO GRAY INDONESIA]]></cell><cell><![CDATA[25,000,000]]></cell></row>
+<row><cell><![CDATA[122]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SAT NUSAPERSADA TBK]]></cell><cell><![CDATA[2,800,000]]></cell></row>
+<row><cell><![CDATA[123]]></cell><cell><![CDATA[ENVIRONMENTAL Monitoring]]></cell><cell><![CDATA[SAT NUSAPERSADA TBK]]></cell><cell><![CDATA[700,000]]></cell></row>
+<row><cell><![CDATA[124]]></cell><cell><![CDATA[Environmental Montoring]]></cell><cell><![CDATA[CCI BINTAN]]></cell><cell><![CDATA[1,200,000]]></cell></row>
+<row><cell><![CDATA[125]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[ASIA CIVIL INDONESIA]]></cell><cell><![CDATA[12,000,000]]></cell></row>
+<row><cell><![CDATA[126]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[127]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[8,500,000]]></cell></row>
+<row><cell><![CDATA[128]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[8,500,000]]></cell></row>
+<row><cell><![CDATA[129]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[130]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[8,500,000]]></cell></row>
+<row><cell><![CDATA[131]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[132]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[H-TECH OILFIELD EQUIPMENT]]></cell><cell><![CDATA[8,400,000]]></cell></row>
+<row><cell><![CDATA[133]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[TRAVELODGE BATAM]]></cell><cell><![CDATA[8,400,000]]></cell></row>
+<row><cell><![CDATA[134]]></cell><cell><![CDATA[Pengujian Kualitas Air Limbah di Lingkungan Industri, Perkantoran, dan Perumahan]]></cell><cell><![CDATA[BP KAWASAN PERDAGANGAN & PELABUHAN BEBAS BATAM (BP BATAM)]]></cell><cell><![CDATA[196,300,000]]></cell></row>
+<row><cell><![CDATA[135]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[KLINIK MEDILAB]]></cell><cell><![CDATA[800,000]]></cell></row>
+<row><cell><![CDATA[136]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[WINDA]]></cell><cell><![CDATA[1,500,000]]></cell></row>
+<row><cell><![CDATA[137]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[CITRA TUBINDO TBK]]></cell><cell><![CDATA[3,000,000]]></cell></row>
+<row><cell><![CDATA[138]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[HOH HOTELIER (ZEST HOTEL)]]></cell><cell><![CDATA[2,100,000]]></cell></row>
+<row><cell><![CDATA[139]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[BENGINT NUSANTARA INDUSTRIES]]></cell><cell><![CDATA[1,050,000]]></cell></row>
+<row><cell><![CDATA[140]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[TRAVELODGE BATAM]]></cell><cell><![CDATA[8,400,000]]></cell></row>
+<row><cell><![CDATA[141]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[CCI BINTAN]]></cell><cell><![CDATA[1,200,000]]></cell></row>
+<row><cell><![CDATA[142]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SAT NUSAPERSADA TBK]]></cell><cell><![CDATA[2,800,000]]></cell></row>
+<row><cell><![CDATA[143]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SAT NUSAPERSADA TBK]]></cell><cell><![CDATA[700,000]]></cell></row>
+<row><cell><![CDATA[144]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[145]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[146]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[147]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[148]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[149]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[150]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[151]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[152]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[153]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[154]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[155]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[156]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SURVEYOR INDONESIA CABANG PALEMBANG, SURVEYOR INDONESIA (PERSERO)]]></cell><cell><![CDATA[6,450,000]]></cell></row>
+<row><cell><![CDATA[157]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[TEC INDONESIA]]></cell><cell><![CDATA[3,300,000]]></cell></row>
+<row><cell><![CDATA[158]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[KLINIK MEDILAB]]></cell><cell><![CDATA[800,000]]></cell></row>
+<row><cell><![CDATA[159]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[INFINEON TECHNOLOGIES BATAM]]></cell><cell><![CDATA[2,400,000]]></cell></row>
+<row><cell><![CDATA[160]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[DESMAN ZEGA]]></cell><cell><![CDATA[2,400,000]]></cell></row>
+<row><cell><![CDATA[161]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[TRANSALINDO EKA PERSADA]]></cell><cell><![CDATA[650,000]]></cell></row>
+<row><cell><![CDATA[162]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[KLINIK POLRES KARIMUN]]></cell><cell><![CDATA[1,500,000]]></cell></row>
+<row><cell><![CDATA[163]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[WEIR PRESSURE CONTROL INDONESIA]]></cell><cell><![CDATA[2,450,000]]></cell></row>
+<row><cell><![CDATA[164]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[CHELLYA WATER]]></cell><cell><![CDATA[1,200,000]]></cell></row>
+<row><cell><![CDATA[165]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[SURVEYOR INDONESIA CABANG MEDAN, SURVEYOR INDONESIA (PERSERO)]]></cell><cell><![CDATA[300,000]]></cell></row>
+<row><cell><![CDATA[166]]></cell><cell><![CDATA[Pelatihan Auditor SMK3 - Public Training]]></cell><cell><![CDATA[TJK POWER]]></cell><cell><![CDATA[4,490,000]]></cell></row>
+<row><cell><![CDATA[167]]></cell><cell><![CDATA[SOIL INVESTIGATION]]></cell><cell><![CDATA[ARCADIS SHANGHAI LIMITED]]></cell><cell><![CDATA[315,000,000]]></cell></row>
+<row><cell><![CDATA[168]]></cell><cell><![CDATA[Pelatihan Auditor SMK3 - Public Training]]></cell><cell><![CDATA[PHILIPS INDUSTRIES BATAM]]></cell><cell><![CDATA[4,490,000]]></cell></row>
+<row><cell><![CDATA[169]]></cell><cell><![CDATA[Pelatihan Auditor SMK3 - Public Training]]></cell><cell><![CDATA[MR. FERRY SHANDRIA RUSLIWANDO]]></cell><cell><![CDATA[4,490,000]]></cell></row>
+<row><cell><![CDATA[170]]></cell><cell><![CDATA[AMDAL REVISION  - PT. Saipem Indonesia Karimun Yard]]></cell><cell><![CDATA[SAIPEM INDONESIA]]></cell><cell><![CDATA[825,350,000]]></cell></row>
+<row><cell><![CDATA[171]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[ABB SAKTI INDUSTRI]]></cell><cell><![CDATA[4,000,000]]></cell></row>
+<row><cell><![CDATA[172]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[RS OTORITA BATAM]]></cell><cell><![CDATA[22,300,000]]></cell></row>
+<row><cell><![CDATA[173]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[RS OTORITA BATAM]]></cell><cell><![CDATA[30,000,000]]></cell></row>
+<row><cell><![CDATA[174]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[VETCO GRAY INDONESIA]]></cell><cell><![CDATA[8,100,000]]></cell></row>
+<row><cell><![CDATA[175]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[176]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[WAP LOGISTIKINDO]]></cell><cell><![CDATA[18,500,000]]></cell></row>
+<row><cell><![CDATA[177]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[INDOTIRTA SUAKA]]></cell><cell><![CDATA[600,000]]></cell></row>
+<row><cell><![CDATA[178]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS (BALIKPAPAN), ENERGY LOGISTICS]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[179]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[INDOTIRTA SUAKA]]></cell><cell><![CDATA[3,000,000]]></cell></row>
+<row><cell><![CDATA[180]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[27,500,000]]></cell></row>
+<row><cell><![CDATA[181]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[8,500,000]]></cell></row>
+<row><cell><![CDATA[182]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[8,500,000]]></cell></row>
+<row><cell><![CDATA[183]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[29,500,000]]></cell></row>
+<row><cell><![CDATA[184]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[WAP LOGISTIKINDO]]></cell><cell><![CDATA[10,000,000]]></cell></row>
+<row><cell><![CDATA[185]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS (BALIKPAPAN), ENERGY LOGISTICS]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[186]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[25,500,000]]></cell></row>
+<row><cell><![CDATA[187]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[MITRA BAKTI NUSA]]></cell><cell><![CDATA[12,500,000]]></cell></row>
+<row><cell><![CDATA[188]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[TROPOLIS JAYA ABADI]]></cell><cell><![CDATA[22,500,000]]></cell></row>
+<row><cell><![CDATA[189]]></cell><cell><![CDATA[BTMB]]></cell><cell><![CDATA[KSW BATAM]]></cell><cell><![CDATA[25,000,000]]></cell></row>
+<row><cell><![CDATA[190]]></cell><cell><![CDATA[BTMB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[59,500,000]]></cell></row>
+<row><cell><![CDATA[191]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[BINA PETROGAS MANDIRI]]></cell><cell><![CDATA[82,750,000]]></cell></row>
+<row><cell><![CDATA[192]]></cell><cell><![CDATA[Environmental Monitroing]]></cell><cell><![CDATA[KARIMUN SEMBAWANG SHIPYARD]]></cell><cell><![CDATA[51,200,000]]></cell></row>
+<row><cell><![CDATA[193]]></cell><cell><![CDATA[Disnakker Certification of Equipments]]></cell><cell><![CDATA[CIBA VISION BATAM]]></cell><cell><![CDATA[477,610,000]]></cell></row>
+<row><cell><![CDATA[194]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[27,500,000]]></cell></row>
+<row><cell><![CDATA[195]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[22,500,000]]></cell></row>
+<row><cell><![CDATA[196]]></cell><cell><![CDATA[BMTB]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[30,500,000]]></cell></row>
+<row><cell><![CDATA[197]]></cell><cell><![CDATA[Environmental Monitoring]]></cell><cell><![CDATA[TJK POWER]]></cell><cell><![CDATA[21,600,000]]></cell></row>
+<row><cell><![CDATA[198]]></cell><cell><![CDATA[SLO & PENGURUSAN IJIN OPERASI (IO)]]></cell><cell><![CDATA[KARIMUN SEMBAWANG SHIPYARD]]></cell><cell><![CDATA[65,000,000]]></cell></row></rows>

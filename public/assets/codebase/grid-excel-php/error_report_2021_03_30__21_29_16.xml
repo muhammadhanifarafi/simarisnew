@@ -1,0 +1,189 @@
+<rows profile='color'><head><columns><column  rowspan="4"  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  colspan="2"  width='120' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Project]]></column><column  width='230' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='190' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Klien]]></column><column  rowspan="4"  width='40' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[P]]></column><column  rowspan="4"  width='40' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[L]]></column><column  colspan="2"  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[Jangka Waktu]]></column><column  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[RAB]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="3"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Realisasi]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Prosentase Progress 2021]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ]]></column></columns>
+<columns><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Kode]]></column><column rowspan="3" ><![CDATA[Nama]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Awal]]></column><column rowspan="3" ><![CDATA[Akhir]]></column><column><![CDATA[]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Setahun]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Bulan Berjalan]]></column><column><![CDATA[Realisasi Beban Vs RAB Setahun]]></column><column><![CDATA[Realisasi Beban Vs RAB Bulan Berjalan]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="3" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[s/d Bulan Pebruari]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="4" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[ ]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[(1)]]></column><column><![CDATA[(2)]]></column><column><![CDATA[(3)]]></column><column><![CDATA[(4)]]></column><column><![CDATA[(5)]]></column><column><![CDATA[(6)]]></column><column><![CDATA[(7)]]></column><column><![CDATA[(8)]]></column><column><![CDATA[(9)]]></column><column><![CDATA[(7/1)]]></column><column><![CDATA[(7/4)]]></column><column><![CDATA[(8/2)]]></column><column><![CDATA[(8/5)]]></column><column><![CDATA[(15)]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='8' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[15,917,460,179.0]]></column>
+<column><![CDATA[10,541,435,519.0]]></column>
+<column><![CDATA[5,376,024,660.0]]></column>
+<column><![CDATA[8,200,572,005.0]]></column>
+<column><![CDATA[5,640,923,223.0]]></column>
+<column><![CDATA[2,559,648,782.0]]></column>
+<column><![CDATA[2,211,433,360.0]]></column>
+<column><![CDATA[1,417,146,334.0]]></column>
+<column><![CDATA[794,287,026.0]]></column>
+<column colspan='6' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[1118020106]]></cell><cell><![CDATA[PT PELINDO - PENYUSUNAN STUDI DOKUMEN LINGKUNGAN HIDUP PENGEMBANGAN PELABUHAN KUALA ENOK]]></cell><cell><![CDATA[PELABUHAN INDONESIA I (PERSERO)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-10-2018]]></cell><cell><![CDATA[31-07-2020]]></cell><cell><![CDATA[328,998,000.0]]></cell><cell><![CDATA[293,889,110.0]]></cell><cell><![CDATA[35,108,890.0]]></cell><cell><![CDATA[131,599,200.0]]></cell><cell><![CDATA[117,555,644.0]]></cell><cell><![CDATA[14,043,556.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[1119020030]]></cell><cell><![CDATA[PT PLN (PERSERO) UIP II - STUDI AMDAL GI TAPAK TUAN - SUBULUSSALAM]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN UTARA (UIP II)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[18-01-2019]]></cell><cell><![CDATA[08-09-2020]]></cell><cell><![CDATA[633,675,000.0]]></cell><cell><![CDATA[478,555,217.0]]></cell><cell><![CDATA[155,119,783.0]]></cell><cell><![CDATA[253,470,000.0]]></cell><cell><![CDATA[191,422,086.0]]></cell><cell><![CDATA[62,047,914.0]]></cell><cell><![CDATA[186,375,000.0]]></cell><cell><![CDATA[178,500,000.0]]></cell><cell><![CDATA[7,875,000.0]]></cell><cell><![CDATA[29.41]]></cell><cell><![CDATA[73.53]]></cell><cell><![CDATA[37.3]]></cell><cell><![CDATA[93.25]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[1119020139]]></cell><cell><![CDATA[PT PLN UIP I - JASA KONSULTANSI PENGUKURAN PERSIL, INVENTARISASI, IDENTIFIKASI, PENGUMPULAN ALAS HAK, SOSIALISASI, PENDAMPINGAN NEGOSIASI, PENDAMPINGAN PEMBAYARAN DAN SERTIFIKASI TAPAK TOWER T/L 150 KV PLTA ASAHAN 3 – GARDU INDUK SIMANGKUK]]></cell><cell><![CDATA[PLN (PERSERO) UIP PEMBANGKIT SUMATERA (UIP I)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[15-08-2019]]></cell><cell><![CDATA[07-12-2020]]></cell><cell><![CDATA[964,045,826.0]]></cell><cell><![CDATA[585,244,213.0]]></cell><cell><![CDATA[378,801,613.0]]></cell><cell><![CDATA[241,011,456.0]]></cell><cell><![CDATA[146,311,050.0]]></cell><cell><![CDATA[94,700,406.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[1119020154]]></cell><cell><![CDATA[PT PLN (PERSERO) UIP SUMBAGUT - JASA KONSULTANSI SUPERVISI, MEDIASI DAN NEGOSIASI SERTA PENYELESAIAN MASALAH SOSIAL DALAM PEMBANGUNAN JARINGAN TRANSMISI DI LINGKUNGAN PT (PLN) PERSERO UIP SUMBAGUT]]></cell><cell><![CDATA[PLN (PERSERO) PEMBANGKITAN SUMATERA BAGIAN UTARA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[27-09-2019]]></cell><cell><![CDATA[27-05-2021]]></cell><cell><![CDATA[714,750,515.0]]></cell><cell><![CDATA[549,026,782.0]]></cell><cell><![CDATA[165,723,733.0]]></cell><cell><![CDATA[238,250,170.0]]></cell><cell><![CDATA[183,008,926.0]]></cell><cell><![CDATA[55,241,244.0]]></cell><cell><![CDATA[110,272,000.0]]></cell><cell><![CDATA[48,867,840.0]]></cell><cell><![CDATA[61,404,160.0]]></cell><cell><![CDATA[15.43]]></cell><cell><![CDATA[46.28]]></cell><cell><![CDATA[8.9]]></cell><cell><![CDATA[26.7]]></cell><cell><![CDATA[38 %]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[1119040176]]></cell><cell><![CDATA[PT INDONESIA POWER - PENGADAAN JASA KONSULTAN PENYUSUNAN LAPORAN TKDN PADA PEMBANGUNAN SPECIAL FACILITIES PLTU MT JAMBI-1]]></cell><cell><![CDATA[INDONESIA POWER]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-01-2020]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[1,243,636,500.0]]></cell><cell><![CDATA[339,039,700.0]]></cell><cell><![CDATA[904,596,800.0]]></cell><cell><![CDATA[497,454,600.0]]></cell><cell><![CDATA[135,615,880.0]]></cell><cell><![CDATA[361,838,720.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[1119040177]]></cell><cell><![CDATA[INDONESIA POWER - PENYUSUNAN LAPORAN TINGKAT KOMPONEN DALAM NEGERI (TKDN) PADA PEMBANGUNAN PEMBANGKIT LISTRIK TENAGA UAP MULUT TAMBANG JAMBI-1 (PLTU MT JAMBI-1) KAPASITAS 2 X 300 MW DI KABUPATEN SAROLANGUN PROVINSI JAMBI]]></cell><cell><![CDATA[INDONESIA POWER]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-01-2020]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[1,243,636,500.0]]></cell><cell><![CDATA[349,994,785.0]]></cell><cell><![CDATA[893,641,715.0]]></cell><cell><![CDATA[497,454,600.0]]></cell><cell><![CDATA[139,997,914.0]]></cell><cell><![CDATA[357,456,686.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[1120020009]]></cell><cell><![CDATA[PT ADHI KARYA (PERSERO) TBK - JASA KONSULTANSI PENDAMPINGAN AMDAL DAN PERIZINAN TERKAIT PEMBANGUNAN PENGELOLAAN LIMBAH BAHAN BERBAHAYA BERACUN (B3) MEDIS PADAT DI SUMATERA UTARA]]></cell><cell><![CDATA[ADHI KARYA (PERSERO) TBK]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[28-05-2019]]></cell><cell><![CDATA[30-09-2020]]></cell><cell><![CDATA[732,000,000.0]]></cell><cell><![CDATA[674,067,949.0]]></cell><cell><![CDATA[57,932,051.0]]></cell><cell><![CDATA[292,800,000.0]]></cell><cell><![CDATA[269,627,178.0]]></cell><cell><![CDATA[23,172,822.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[1120020012]]></cell><cell><![CDATA[PT PLN Pembangkitan Sumatera Bagian Utara - PEKERJAAN JASA KONSULTASI SUPERVISI, MEDIASI, DAN NEGOSIASI SERTA MASALAH SOSIAL DALAM OPERASIONAL PEMBANGKITAN DI LINGKUNGAN PT PLN (PERSERO) UIKSBU DAN SELURUH UNIT PELAKSANA]]></cell><cell><![CDATA[PLN (PERSERO) PEMBANGKITAN SUMATERA BAGIAN UTARA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[06-01-2020]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[1,776,216,400.0]]></cell><cell><![CDATA[1,136,286,510.0]]></cell><cell><![CDATA[639,929,890.0]]></cell><cell><![CDATA[355,243,280.0]]></cell><cell><![CDATA[227,257,302.0]]></cell><cell><![CDATA[127,985,978.0]]></cell><cell><![CDATA[172,350,000.0]]></cell><cell><![CDATA[112,920,406.0]]></cell><cell><![CDATA[59,429,594.0]]></cell><cell><![CDATA[9.7]]></cell><cell><![CDATA[48.52]]></cell><cell><![CDATA[9.94]]></cell><cell><![CDATA[49.69]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[1120020020]]></cell><cell><![CDATA[PT PLN (PERSERO) UNIT INDUK PEMBANGKITAN SUMATERA BAGIAN UTARA UNIT PELAKSANA PEMBANGKITAN LABUHAN ANGIN-JASA PENGAWASAN DAN PEMERIKSAAN PENERIMAAN BATUBARA PT PLN (PERSERO) UNIT PELAKSANA PEMBANGKITAN LABUHAN ANGIN]]></cell><cell><![CDATA[PLN (PERSERO) SEKTOR PEMBANGKITAN LABUAN ANGIN]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[26-03-2020]]></cell><cell><![CDATA[25-03-2021]]></cell><cell><![CDATA[573,303,642.0]]></cell><cell><![CDATA[556,708,897.0]]></cell><cell><![CDATA[16,594,745.0]]></cell><cell><![CDATA[573,303,642.0]]></cell><cell><![CDATA[556,708,897.0]]></cell><cell><![CDATA[16,594,745.0]]></cell><cell><![CDATA[78,621,360.0]]></cell><cell><![CDATA[61,084,718.0]]></cell><cell><![CDATA[17,536,642.0]]></cell><cell><![CDATA[13.71]]></cell><cell><![CDATA[13.71]]></cell><cell><![CDATA[10.97]]></cell><cell><![CDATA[10.97]]></cell><cell><![CDATA[100 %]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[1120020022]]></cell><cell><![CDATA[PT PLN (Persero) UNIT INDUK PEMBANGKITAN SUMATERA BAGIAN UTARA, UNIT PELAKSANA PEMBANGKITAN LABUHAN ANGIN - JASA STOCK OPNAME BATUBARA]]></cell><cell><![CDATA[PLN (PERSERO) SEKTOR PEMBANGKITAN LABUAN ANGIN]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[27-03-2020]]></cell><cell><![CDATA[31-03-2021]]></cell><cell><![CDATA[128,000,000.0]]></cell><cell><![CDATA[125,534,486.0]]></cell><cell><![CDATA[2,465,514.0]]></cell><cell><![CDATA[64,000,000.0]]></cell><cell><![CDATA[62,767,242.0]]></cell><cell><![CDATA[1,232,758.0]]></cell><cell><![CDATA[96,000,000.0]]></cell><cell><![CDATA[68,059,388.0]]></cell><cell><![CDATA[27,940,612.0]]></cell><cell><![CDATA[75]]></cell><cell><![CDATA[150]]></cell><cell><![CDATA[54.22]]></cell><cell><![CDATA[108.43]]></cell><cell><![CDATA[84 %]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[1120020026]]></cell><cell><![CDATA[PT PLN (PERSERO) UIKSBU UNIT PELAKSANA PENGENDALIAN PEMBANGKITAN PANDAN - PEMANTAUAN LINGKUNGAN KANTOR UPDK PANDAN 2020]]></cell><cell><![CDATA[PLN (PERSERO) PEMBANGKITAN SUMATERA BAGIAN UTARA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[17-03-2020]]></cell><cell><![CDATA[30-06-2021]]></cell><cell><![CDATA[78,400,000.0]]></cell><cell><![CDATA[65,616,700.0]]></cell><cell><![CDATA[12,783,300.0]]></cell><cell><![CDATA[78,400,000.0]]></cell><cell><![CDATA[65,616,700.0]]></cell><cell><![CDATA[12,783,300.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[110,000.0]]></cell><cell><![CDATA[-110,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.17]]></cell><cell><![CDATA[0.17]]></cell><cell><![CDATA[35 %]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[1120020028]]></cell><cell><![CDATA[PT PLN (PERSERO) UIK SBU - JASA KONSULTAN PROSES PERZINAN TERMINAL UNTUK KEPENTINGAN SENDIRI (TUKS) UPK LABUHAN ANGIN]]></cell><cell><![CDATA[PLN (PERSERO) PEMBANGKITAN SUMATERA BAGIAN UTARA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[30-04-2020]]></cell><cell><![CDATA[30-09-2020]]></cell><cell><![CDATA[278,000,000.0]]></cell><cell><![CDATA[188,850,000.0]]></cell><cell><![CDATA[89,150,000.0]]></cell><cell><![CDATA[111,200,000.0]]></cell><cell><![CDATA[75,540,000.0]]></cell><cell><![CDATA[35,660,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[1120020031]]></cell><cell><![CDATA[HUTAMA KARYA (PERSERO) - JASA KONSULTANSI ANALISIS MENGENAI DAMPAK LINGKUNGAN (AMDAL) JALAN TOL DUMAI - BATAS PROVINSI RIAU]]></cell><cell><![CDATA[HUTAMA KARYA (PERSERO)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[11-05-2020]]></cell><cell><![CDATA[28-01-2021]]></cell><cell><![CDATA[1,445,100,000.0]]></cell><cell><![CDATA[1,037,296,122.0]]></cell><cell><![CDATA[407,803,878.0]]></cell><cell><![CDATA[1,445,100,000.0]]></cell><cell><![CDATA[1,037,296,122.0]]></cell><cell><![CDATA[407,803,878.0]]></cell><cell><![CDATA[578,040,000.0]]></cell><cell><![CDATA[454,517,900.0]]></cell><cell><![CDATA[123,522,100.0]]></cell><cell><![CDATA[40]]></cell><cell><![CDATA[40]]></cell><cell><![CDATA[43.82]]></cell><cell><![CDATA[43.82]]></cell><cell><![CDATA[53 %]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[1120020038]]></cell><cell><![CDATA[PT INALUM - JASA KONSULTANSI AMDAL PENGEMBANGAN DAN IZIN LINGKUNGAN PT INALUM (PERSERO)]]></cell><cell><![CDATA[INDONESIA ASAHAN ALUMUNIUM (PERSERO)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[04-06-2020]]></cell><cell><![CDATA[04-12-2020]]></cell><cell><![CDATA[501,200,000.0]]></cell><cell><![CDATA[375,110,000.0]]></cell><cell><![CDATA[126,090,000.0]]></cell><cell><![CDATA[501,200,000.0]]></cell><cell><![CDATA[375,110,000.0]]></cell><cell><![CDATA[126,090,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[749,500.0]]></cell><cell><![CDATA[-749,500.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.2]]></cell><cell><![CDATA[0.2]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[1120020041]]></cell><cell><![CDATA[PT PLN (PERSERO) UNIT INDUK PEMBANGKITAN SUMATERA BAGIAN UTARA, UNIT PELAKSANA PEMBANGKITAN PANGKALAN SUSU - JASA STOCK OPNAME BATUBARA (SUPPLY ONLY)]]></cell><cell><![CDATA[PLN (PERSERO) UPK PANGKALAN SUSU]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[29-06-2020]]></cell><cell><![CDATA[31-07-2021]]></cell><cell><![CDATA[320,000,000.0]]></cell><cell><![CDATA[201,126,592.0]]></cell><cell><![CDATA[118,873,408.0]]></cell><cell><![CDATA[128,000,000.0]]></cell><cell><![CDATA[80,450,636.0]]></cell><cell><![CDATA[47,549,364.0]]></cell><cell><![CDATA[80,000,000.0]]></cell><cell><![CDATA[247,800.0]]></cell><cell><![CDATA[79,752,200.0]]></cell><cell><![CDATA[25]]></cell><cell><![CDATA[62.5]]></cell><cell><![CDATA[0.12]]></cell><cell><![CDATA[0.31]]></cell><cell><![CDATA[71 %]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[1120020063]]></cell><cell><![CDATA[PT INALUM (PERSERO) - KONSULTANSI SOSIALISASI RENCANA TINDAK DARURAT (RTD)]]></cell><cell><![CDATA[INDONESIA ASAHAN ALUMUNIUM (PERSERO)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[02-11-2020]]></cell><cell><![CDATA[01-02-2021]]></cell><cell><![CDATA[195,454,545.0]]></cell><cell><![CDATA[143,990,000.0]]></cell><cell><![CDATA[51,464,545.0]]></cell><cell><![CDATA[195,454,545.0]]></cell><cell><![CDATA[143,990,000.0]]></cell><cell><![CDATA[51,464,545.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[5 %]]></cell></row>
+<row><cell><![CDATA[17]]></cell><cell><![CDATA[1120020064]]></cell><cell><![CDATA[PT PELABUHAN INDONESIA I (PERSERO) - PEKERJAAN KAJIAN KESIAPAN ANALYTIC DASHBOARD PERUSAHAAN]]></cell><cell><![CDATA[PELABUHAN INDONESIA I (PERSERO)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[23-11-2020]]></cell><cell><![CDATA[31-03-2021]]></cell><cell><![CDATA[672,285,000.0]]></cell><cell><![CDATA[496,097,500.0]]></cell><cell><![CDATA[176,187,500.0]]></cell><cell><![CDATA[672,285,000.0]]></cell><cell><![CDATA[496,097,500.0]]></cell><cell><![CDATA[176,187,500.0]]></cell><cell><![CDATA[672,285,000.0]]></cell><cell><![CDATA[433,953,974.0]]></cell><cell><![CDATA[238,331,026.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[87.47]]></cell><cell><![CDATA[87.47]]></cell><cell><![CDATA[88 %]]></cell></row>
+<row><cell><![CDATA[18]]></cell><cell><![CDATA[1120020065]]></cell><cell><![CDATA[PT INHUTANI IV - PRA AUDIT, AUDIT SERTIFIKASI DAN TRAINING - SMK 3 DAN SMM ISO 9001:2015]]></cell><cell><![CDATA[INHUTANI IV]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[02-11-2020]]></cell><cell><![CDATA[02-02-2021]]></cell><cell><![CDATA[122,727,272.0]]></cell><cell><![CDATA[89,376,000.0]]></cell><cell><![CDATA[33,351,272.0]]></cell><cell><![CDATA[122,727,272.0]]></cell><cell><![CDATA[89,376,000.0]]></cell><cell><![CDATA[33,351,272.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[350,000.0]]></cell><cell><![CDATA[-350,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.39]]></cell><cell><![CDATA[0.39]]></cell><cell><![CDATA[50 %]]></cell></row>
+<row><cell><![CDATA[19]]></cell><cell><![CDATA[1120020071]]></cell><cell><![CDATA[PT HUTAMA KARYA INFRASTRUKTUR - JASA PENYUSUNAN LAPORAN PELAKSANAAN PENGELOLAAN DAN PEMANTAUAN LINGKUNGAN HIDUP]]></cell><cell><![CDATA[HUTAMA KARYA (PERSERO)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[21-11-2020]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[76,768,500.0]]></cell><cell><![CDATA[23,950,000.0]]></cell><cell><![CDATA[52,818,500.0]]></cell><cell><![CDATA[38,384,250.0]]></cell><cell><![CDATA[11,975,000.0]]></cell><cell><![CDATA[26,409,250.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[950,000.0]]></cell><cell><![CDATA[-950,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[3.97]]></cell><cell><![CDATA[7.93]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[20]]></cell><cell><![CDATA[1120020078]]></cell><cell><![CDATA[PT PERKEBUNAN NUSANTARA IV (PERSERO) - JASA PENGURUSAN IZIN SERTIFIKAT LAIK OPERASI (SLO) DI PKS AIR BATU]]></cell><cell><![CDATA[PERKEBUNAN NUSANTARA IV (PERSERO)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[25-11-2020]]></cell><cell><![CDATA[31-01-2021]]></cell><cell><![CDATA[59,550,000.0]]></cell><cell><![CDATA[43,845,000.0]]></cell><cell><![CDATA[15,705,000.0]]></cell><cell><![CDATA[29,775,000.0]]></cell><cell><![CDATA[21,922,500.0]]></cell><cell><![CDATA[7,852,500.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[82,520.0]]></cell><cell><![CDATA[-82,520.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.19]]></cell><cell><![CDATA[0.38]]></cell><cell><![CDATA[35 %]]></cell></row>
+<row><cell><![CDATA[21]]></cell><cell><![CDATA[1120020079]]></cell><cell><![CDATA[PT PERKEBUNAN NUSANTARA IV (PERSERO) - JASA PENGURUSAN IZIN SERTIFIKAT LAIK OPERASI (SLO) KANTOR DIREKSI, PKS TIMUR, PULU RAJA, BAH JAMBI DAN SOSA]]></cell><cell><![CDATA[PERKEBUNAN NUSANTARA IV (PERSERO)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[04-12-2020]]></cell><cell><![CDATA[31-01-2021]]></cell><cell><![CDATA[158,800,000.0]]></cell><cell><![CDATA[116,412,500.0]]></cell><cell><![CDATA[42,387,500.0]]></cell><cell><![CDATA[79,400,000.0]]></cell><cell><![CDATA[58,206,250.0]]></cell><cell><![CDATA[21,193,750.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[25 %]]></cell></row>
+<row><cell><![CDATA[22]]></cell><cell><![CDATA[1120040060]]></cell><cell><![CDATA[PT TORGANDA - JASA KONSULTANSI IZIN PEMBUANGAN LIMBAH CAIR DI LINGKUNGA PT TORGANDA]]></cell><cell><![CDATA[TORGANDA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[30-09-2020]]></cell><cell><![CDATA[30-12-2020]]></cell><cell><![CDATA[72,000,000.0]]></cell><cell><![CDATA[24,366,193.0]]></cell><cell><![CDATA[47,633,807.0]]></cell><cell><![CDATA[72,000,000.0]]></cell><cell><![CDATA[24,366,193.0]]></cell><cell><![CDATA[47,633,807.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[342,000.0]]></cell><cell><![CDATA[-342,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[1.4]]></cell><cell><![CDATA[1.4]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[23]]></cell><cell><![CDATA[1120040066]]></cell><cell><![CDATA[PT AMAL TANI - PRE-AUDIT SERTIFIKASI SMK3]]></cell><cell><![CDATA[AMAL TANI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[11-11-2020]]></cell><cell><![CDATA[28-02-2021]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[6,582,723.0]]></cell><cell><![CDATA[-6,582,723.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[6,582,723.0]]></cell><cell><![CDATA[-6,582,723.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[100 %]]></cell></row>
+<row><cell><![CDATA[24]]></cell><cell><![CDATA[1120040067]]></cell><cell><![CDATA[PT INDONESIA POWER - JASA KONSULTANSI PEMBUATAN DOKUMEN DAN PENGURUSAN IZIN LINGKUNGAN (UKL-UPL) DAN IZIN MENDIRIKAN BANGUNAN (IMB) PLT HIBRIDA NUSA PENIDA]]></cell><cell><![CDATA[INDONESIA POWER]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[13-11-2020]]></cell><cell><![CDATA[30-06-2021]]></cell><cell><![CDATA[798,000,000.0]]></cell><cell><![CDATA[606,687,500.0]]></cell><cell><![CDATA[191,312,500.0]]></cell><cell><![CDATA[319,200,000.0]]></cell><cell><![CDATA[242,675,000.0]]></cell><cell><![CDATA[76,525,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[659,655.0]]></cell><cell><![CDATA[-659,655.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.11]]></cell><cell><![CDATA[0.27]]></cell><cell><![CDATA[42 %]]></cell></row>
+<row><cell><![CDATA[25]]></cell><cell><![CDATA[1120040068]]></cell><cell><![CDATA[PT PRIMA PENGEMBANGAN KAWASAN - PENYUSUNAN DOKUMEN AMDAL KAWASAN INDUSTRI KUALA TANJUNG]]></cell><cell><![CDATA[PRIMA PENGEMBANGAN KAWASAN]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[13-11-2020]]></cell><cell><![CDATA[13-05-2021]]></cell><cell><![CDATA[1,366,526,000.0]]></cell><cell><![CDATA[1,023,790,300.0]]></cell><cell><![CDATA[342,735,700.0]]></cell><cell><![CDATA[546,610,400.0]]></cell><cell><![CDATA[409,516,120.0]]></cell><cell><![CDATA[137,094,280.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[-8,479,847.0]]></cell><cell><![CDATA[8,479,847.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[-0.83]]></cell><cell><![CDATA[-2.07]]></cell><cell><![CDATA[35 %]]></cell></row>
+<row><cell><![CDATA[26]]></cell><cell><![CDATA[1120040070]]></cell><cell><![CDATA[PT PLN BATAM - JASA PENGUKURAN DAN PENYUSUNAN LAPORAN SEMESTER MONITORING AMDAL PLTG 3x25 MW MPP PAYA PASIR MEDAN PERIODE II TAHUN 2020]]></cell><cell><![CDATA[PLN BATAM]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[13-11-2020]]></cell><cell><![CDATA[12-01-2021]]></cell><cell><![CDATA[59,220,000.0]]></cell><cell><![CDATA[40,150,000.0]]></cell><cell><![CDATA[19,070,000.0]]></cell><cell><![CDATA[59,220,000.0]]></cell><cell><![CDATA[40,150,000.0]]></cell><cell><![CDATA[19,070,000.0]]></cell><cell><![CDATA[59,220,000.0]]></cell><cell><![CDATA[24,649,200.0]]></cell><cell><![CDATA[34,570,800.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[61.39]]></cell><cell><![CDATA[61.39]]></cell><cell><![CDATA[100 %]]></cell></row>
+<row><cell><![CDATA[27]]></cell><cell><![CDATA[1120040076]]></cell><cell><![CDATA[PT INDONESIA POWER - JASA KONSULTAN PENGURUSAN IZIN LOKASI PEMBANGKIT LISTRIK TENAGA AIR (PLTA) BAKARU 3]]></cell><cell><![CDATA[INDONESIA POWER]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[27-11-2020]]></cell><cell><![CDATA[26-06-2021]]></cell><cell><![CDATA[1,196,896,479.0]]></cell><cell><![CDATA[896,767,300.0]]></cell><cell><![CDATA[300,129,179.0]]></cell><cell><![CDATA[478,758,590.0]]></cell><cell><![CDATA[358,706,920.0]]></cell><cell><![CDATA[120,051,670.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[20 %]]></cell></row>
+<row><cell><![CDATA[28]]></cell><cell><![CDATA[1120040077]]></cell><cell><![CDATA[PT PELAYARAN MANALAGI-DRAFT SURVEI MV MANALAGI VIRA]]></cell><cell><![CDATA[PELAYARAN MANA LAGI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[04-12-2020]]></cell><cell><![CDATA[04-03-2021]]></cell><cell><![CDATA[10,000,000.0]]></cell><cell><![CDATA[6,800,000.0]]></cell><cell><![CDATA[3,200,000.0]]></cell><cell><![CDATA[10,000,000.0]]></cell><cell><![CDATA[6,800,000.0]]></cell><cell><![CDATA[3,200,000.0]]></cell><cell><![CDATA[10,000,000.0]]></cell><cell><![CDATA[5,700,000.0]]></cell><cell><![CDATA[4,300,000.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[83.82]]></cell><cell><![CDATA[83.82]]></cell><cell><![CDATA[0 %]]></cell></row>
+<row><cell><![CDATA[29]]></cell><cell><![CDATA[1120040081]]></cell><cell><![CDATA[PT PELITA AGUNG AGRIINDUSTRI - AUDIT SMK3]]></cell><cell><![CDATA[PELITA AGUNG AGRINDUSTRI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[03-09-2020]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[22,000,000.0]]></cell><cell><![CDATA[16,250,000.0]]></cell><cell><![CDATA[5,750,000.0]]></cell><cell><![CDATA[22,000,000.0]]></cell><cell><![CDATA[16,250,000.0]]></cell><cell><![CDATA[5,750,000.0]]></cell><cell><![CDATA[22,000,000.0]]></cell><cell><![CDATA[7,900,800.0]]></cell><cell><![CDATA[14,099,200.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[48.62]]></cell><cell><![CDATA[48.62]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[30]]></cell><cell><![CDATA[1120040082]]></cell><cell><![CDATA[PT NAGAMAS PALM OIL LESTARI - AUDIT SMK3]]></cell><cell><![CDATA[NAGAMAS PALM OIL LESTARI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[03-09-2020]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[22,000,000.0]]></cell><cell><![CDATA[16,150,000.0]]></cell><cell><![CDATA[5,850,000.0]]></cell><cell><![CDATA[22,000,000.0]]></cell><cell><![CDATA[16,150,000.0]]></cell><cell><![CDATA[5,850,000.0]]></cell><cell><![CDATA[22,000,000.0]]></cell><cell><![CDATA[5,921,000.0]]></cell><cell><![CDATA[16,079,000.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[36.66]]></cell><cell><![CDATA[36.66]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[31]]></cell><cell><![CDATA[1120040083]]></cell><cell><![CDATA[PT PELAYARAN MANALAGI TISYA - JASA DRAFT SURVEY]]></cell><cell><![CDATA[PELAYARAN MANA LAGI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[28-12-2020]]></cell><cell><![CDATA[31-03-2021]]></cell><cell><![CDATA[10,000,000.0]]></cell><cell><![CDATA[7,400,000.0]]></cell><cell><![CDATA[2,600,000.0]]></cell><cell><![CDATA[10,000,000.0]]></cell><cell><![CDATA[7,400,000.0]]></cell><cell><![CDATA[2,600,000.0]]></cell><cell><![CDATA[10,000,000.0]]></cell><cell><![CDATA[5,501,300.0]]></cell><cell><![CDATA[4,498,700.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[74.34]]></cell><cell><![CDATA[74.34]]></cell><cell><![CDATA[0 %]]></cell></row>
+<row><cell><![CDATA[32]]></cell><cell><![CDATA[1120990050]]></cell><cell><![CDATA[PT MSI - STOCK MONITORING REFINASI SUGAR IN BAG]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-01-2020]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[114,270,000.0]]></cell><cell><![CDATA[26,473,440.0]]></cell><cell><![CDATA[87,796,560.0]]></cell><cell><![CDATA[114,270,000.0]]></cell><cell><![CDATA[26,473,440.0]]></cell><cell><![CDATA[87,796,560.0]]></cell><cell><![CDATA[114,270,000.0]]></cell><cell><![CDATA[14,558,180.0]]></cell><cell><![CDATA[99,711,820.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[54.99]]></cell><cell><![CDATA[54.99]]></cell><cell><![CDATA[ ]]></cell></row></rows>

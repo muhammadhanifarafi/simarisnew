@@ -1,0 +1,591 @@
+<rows profile='color'><head><columns><column  rowspan="4"  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  rowspan="4"  width='120' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[Divisi Bisnis/Cabang]]></column><column  colspan="2"  width='120' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Project]]></column><column  width='230' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='190' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Klien]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[P (7/4)]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[L (9/6)]]></column><column  colspan="2"  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[Jangka Waktu]]></column><column  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Nilai Kontrak]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ RAB]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="3"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Realisasi]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Prosentase Progress 2021]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[  Piutang]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Proforma]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Uang Muka]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ ByDM]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ PPU dan ByDM Detail]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Chart Pendapatan]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Kode]]></column><column rowspan="3" ><![CDATA[Nama]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Awal]]></column><column rowspan="3" ><![CDATA[Akhir]]></column><column><![CDATA[]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Setahun]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Bulan Berjalan]]></column><column><![CDATA[Realisasi Beban Vs RAB Setahun]]></column><column><![CDATA[Realisasi Beban Vs RAB Bulan Berjalan]]></column><column><![CDATA[Progress Fisik]]></column><column><![CDATA[QAQC]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="3" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[s/d Bulan April 2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[(1)]]></column><column><![CDATA[(2)]]></column><column><![CDATA[(3)]]></column><column><![CDATA[(4)]]></column><column><![CDATA[(5)]]></column><column><![CDATA[(6)]]></column><column><![CDATA[(7)]]></column><column><![CDATA[(8)]]></column><column><![CDATA[(9)]]></column><column><![CDATA[(7/1)]]></column><column><![CDATA[(7/4)]]></column><column><![CDATA[(8/2)]]></column><column><![CDATA[(8/5)]]></column><column><![CDATA[(15)]]></column><column><![CDATA[(16)]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='9' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[1,071,320,000.0]]></column>
+<column><![CDATA[1,246,320,000.0]]></column>
+<column><![CDATA[838,599,300.0]]></column>
+<column><![CDATA[407,720,700.0]]></column>
+<column><![CDATA[962,520,000.0]]></column>
+<column><![CDATA[629,175,300.0]]></column>
+<column><![CDATA[333,344,700.0]]></column>
+<column><![CDATA[84,736,670.0]]></column>
+<column><![CDATA[81,202,002.0]]></column>
+<column><![CDATA[3,534,668.0]]></column>
+<column colspan='6' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[89,705,000.0]]></column>
+<column><![CDATA[5,500,000.0]]></column>
+<column><![CDATA[23,140,000.0]]></column>
+<column><![CDATA[3,000,000.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040001(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[KSO - Verifikasi Penelusuran Teknis Impor di PLB 2021]]></cell><cell><![CDATA[KSO SUCOFINDO - SURVEYOR INDONESIA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[200,000,000.0]]></cell><cell><![CDATA[325,000,000.0]]></cell><cell><![CDATA[236,000,000.0]]></cell><cell><![CDATA[89,000,000.0]]></cell><cell><![CDATA[325,000,000.0]]></cell><cell><![CDATA[236,000,000.0]]></cell><cell><![CDATA[89,000,000.0]]></cell><cell><![CDATA[-1,763,330.0]]></cell><cell><![CDATA[8,890,002.0]]></cell><cell><![CDATA[-10,653,332.0]]></cell><cell><![CDATA[-0.54]]></cell><cell><![CDATA[-0.54]]></cell><cell><![CDATA[3.8]]></cell><cell><![CDATA[3.8]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[5,005,000.0]]></cell><cell><![CDATA[2,000,000.0]]></cell><cell><![CDATA[900,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040002(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[RSS_PEC]]></cell><cell><![CDATA[RIRE SANJAYA SAKTI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[18-01-2021]]></cell><cell><![CDATA[12-02-2021]]></cell><cell><![CDATA[92,500,000.0]]></cell><cell><![CDATA[92,500,000.0]]></cell><cell><![CDATA[67,100,000.0]]></cell><cell><![CDATA[25,400,000.0]]></cell><cell><![CDATA[92,500,000.0]]></cell><cell><![CDATA[67,100,000.0]]></cell><cell><![CDATA[25,400,000.0]]></cell><cell><![CDATA[80,500,000.0]]></cell><cell><![CDATA[67,100,000.0]]></cell><cell><![CDATA[13,400,000.0]]></cell><cell><![CDATA[87.03]]></cell><cell><![CDATA[87.03]]></cell><cell><![CDATA[100.0]]></cell><cell><![CDATA[100.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[84,700,000.0]]></cell><cell><![CDATA[3,500,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040003(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[KMI_Visual Inspection Menggunakan Rope Access Teknik (RAT)]]></cell><cell><![CDATA[KALTIM METHANOL INDUSTRI]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[09-02-2021]]></cell><cell><![CDATA[15-02-2021]]></cell><cell><![CDATA[338,000,000.0]]></cell><cell><![CDATA[388,000,000.0]]></cell><cell><![CDATA[243,500,000.0]]></cell><cell><![CDATA[144,500,000.0]]></cell><cell><![CDATA[388,000,000.0]]></cell><cell><![CDATA[243,500,000.0]]></cell><cell><![CDATA[144,500,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[1,832,000.0]]></cell><cell><![CDATA[-1,832,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.8]]></cell><cell><![CDATA[0.8]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[15,000,000.0]]></cell><cell><![CDATA[3,000,000.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040004(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[WLB_SLO Genset]]></cell><cell><![CDATA[WAHANA LESTARI BALIKPAPAN]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[02-03-2021]]></cell><cell><![CDATA[30-04-2021]]></cell><cell><![CDATA[12,000,000.0]]></cell><cell><![CDATA[12,000,000.0]]></cell><cell><![CDATA[6,360,000.0]]></cell><cell><![CDATA[5,640,000.0]]></cell><cell><![CDATA[12,000,000.0]]></cell><cell><![CDATA[6,360,000.0]]></cell><cell><![CDATA[5,640,000.0]]></cell><cell><![CDATA[6,000,000.0]]></cell><cell><![CDATA[3,380,000.0]]></cell><cell><![CDATA[2,620,000.0]]></cell><cell><![CDATA[50]]></cell><cell><![CDATA[50]]></cell><cell><![CDATA[53.1]]></cell><cell><![CDATA[53.1]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040005(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[KNI_Sertifikasi Pressure Vessel]]></cell><cell><![CDATA[KALTIM NITRATE INDONESIA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-03-2021]]></cell><cell><![CDATA[03-03-2021]]></cell><cell><![CDATA[15,000,000.0]]></cell><cell><![CDATA[15,000,000.0]]></cell><cell><![CDATA[7,240,000.0]]></cell><cell><![CDATA[7,760,000.0]]></cell><cell><![CDATA[15,000,000.0]]></cell><cell><![CDATA[7,240,000.0]]></cell><cell><![CDATA[7,760,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[7,240,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040006(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[LDC_SLO Genset]]></cell><cell><![CDATA[LDC EAST INDONESIA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[15-03-2021]]></cell><cell><![CDATA[31-05-2021]]></cell><cell><![CDATA[42,000,000.0]]></cell><cell><![CDATA[42,000,000.0]]></cell><cell><![CDATA[24,990,000.0]]></cell><cell><![CDATA[17,010,000.0]]></cell><cell><![CDATA[42,000,000.0]]></cell><cell><![CDATA[24,990,000.0]]></cell><cell><![CDATA[17,010,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040007(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[KNI_Ultrasonic Thickness Test (UTT) 2021]]></cell><cell><![CDATA[KALTIM NITRATE INDONESIA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[17-03-2021]]></cell><cell><![CDATA[31-03-2021]]></cell><cell><![CDATA[88,020,000.0]]></cell><cell><![CDATA[88,020,000.0]]></cell><cell><![CDATA[43,985,300.0]]></cell><cell><![CDATA[44,034,700.0]]></cell><cell><![CDATA[88,020,000.0]]></cell><cell><![CDATA[43,985,300.0]]></cell><cell><![CDATA[44,034,700.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040008(MULTI YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[KMI - Pemantauan Ligkungan Kerja]]></cell><cell><![CDATA[KALTIM METHANOL INDUSTRI]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[14-06-2021]]></cell><cell><![CDATA[24-04-2022]]></cell><cell><![CDATA[229,800,000.0]]></cell><cell><![CDATA[229,800,000.0]]></cell><cell><![CDATA[173,674,000.0]]></cell><cell><![CDATA[56,126,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040009(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[BVI - Remote Field Testing]]></cell><cell><![CDATA[BUREAU VERITAS INDONESIA]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[24-05-2021]]></cell><cell><![CDATA[30-06-2021]]></cell><cell><![CDATA[54,000,000.0]]></cell><cell><![CDATA[54,000,000.0]]></cell><cell><![CDATA[35,750,000.0]]></cell><cell><![CDATA[18,250,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row></rows><rows profile='color'><head><columns><column  rowspan="4"  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  rowspan="4"  width='120' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[Divisi Bisnis/Cabang]]></column><column  colspan="2"  width='120' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Project]]></column><column  width='230' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='190' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Klien]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[P (7/4)]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[L (9/6)]]></column><column  colspan="2"  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[Jangka Waktu]]></column><column  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Nilai Kontrak]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ RAB]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="3"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Realisasi]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Prosentase Progress 2021]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[  Piutang]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Proforma]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Uang Muka]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ ByDM]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ PPU dan ByDM Detail]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Chart Pendapatan]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Kode]]></column><column rowspan="3" ><![CDATA[Nama]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Awal]]></column><column rowspan="3" ><![CDATA[Akhir]]></column><column><![CDATA[]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Setahun]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Bulan Berjalan]]></column><column><![CDATA[Realisasi Beban Vs RAB Setahun]]></column><column><![CDATA[Realisasi Beban Vs RAB Bulan Berjalan]]></column><column><![CDATA[Progress Fisik]]></column><column><![CDATA[QAQC]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="3" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[s/d Bulan April 2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[(1)]]></column><column><![CDATA[(2)]]></column><column><![CDATA[(3)]]></column><column><![CDATA[(4)]]></column><column><![CDATA[(5)]]></column><column><![CDATA[(6)]]></column><column><![CDATA[(7)]]></column><column><![CDATA[(8)]]></column><column><![CDATA[(9)]]></column><column><![CDATA[(7/1)]]></column><column><![CDATA[(7/4)]]></column><column><![CDATA[(8/2)]]></column><column><![CDATA[(8/5)]]></column><column><![CDATA[(15)]]></column><column><![CDATA[(16)]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='9' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[1,071,320,000.0]]></column>
+<column><![CDATA[1,246,320,000.0]]></column>
+<column><![CDATA[838,599,300.0]]></column>
+<column><![CDATA[407,720,700.0]]></column>
+<column><![CDATA[962,520,000.0]]></column>
+<column><![CDATA[629,175,300.0]]></column>
+<column><![CDATA[333,344,700.0]]></column>
+<column><![CDATA[84,736,670.0]]></column>
+<column><![CDATA[81,202,002.0]]></column>
+<column><![CDATA[3,534,668.0]]></column>
+<column colspan='6' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[89,705,000.0]]></column>
+<column><![CDATA[5,500,000.0]]></column>
+<column><![CDATA[23,140,000.0]]></column>
+<column><![CDATA[3,000,000.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040001(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[KSO - Verifikasi Penelusuran Teknis Impor di PLB 2021]]></cell><cell><![CDATA[KSO SUCOFINDO - SURVEYOR INDONESIA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[200,000,000.0]]></cell><cell><![CDATA[325,000,000.0]]></cell><cell><![CDATA[236,000,000.0]]></cell><cell><![CDATA[89,000,000.0]]></cell><cell><![CDATA[325,000,000.0]]></cell><cell><![CDATA[236,000,000.0]]></cell><cell><![CDATA[89,000,000.0]]></cell><cell><![CDATA[-1,763,330.0]]></cell><cell><![CDATA[8,890,002.0]]></cell><cell><![CDATA[-10,653,332.0]]></cell><cell><![CDATA[-0.54]]></cell><cell><![CDATA[-0.54]]></cell><cell><![CDATA[3.8]]></cell><cell><![CDATA[3.8]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[5,005,000.0]]></cell><cell><![CDATA[2,000,000.0]]></cell><cell><![CDATA[900,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040002(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[RSS_PEC]]></cell><cell><![CDATA[RIRE SANJAYA SAKTI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[18-01-2021]]></cell><cell><![CDATA[12-02-2021]]></cell><cell><![CDATA[92,500,000.0]]></cell><cell><![CDATA[92,500,000.0]]></cell><cell><![CDATA[67,100,000.0]]></cell><cell><![CDATA[25,400,000.0]]></cell><cell><![CDATA[92,500,000.0]]></cell><cell><![CDATA[67,100,000.0]]></cell><cell><![CDATA[25,400,000.0]]></cell><cell><![CDATA[80,500,000.0]]></cell><cell><![CDATA[67,100,000.0]]></cell><cell><![CDATA[13,400,000.0]]></cell><cell><![CDATA[87.03]]></cell><cell><![CDATA[87.03]]></cell><cell><![CDATA[100.0]]></cell><cell><![CDATA[100.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[84,700,000.0]]></cell><cell><![CDATA[3,500,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040003(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[KMI_Visual Inspection Menggunakan Rope Access Teknik (RAT)]]></cell><cell><![CDATA[KALTIM METHANOL INDUSTRI]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[09-02-2021]]></cell><cell><![CDATA[15-02-2021]]></cell><cell><![CDATA[338,000,000.0]]></cell><cell><![CDATA[388,000,000.0]]></cell><cell><![CDATA[243,500,000.0]]></cell><cell><![CDATA[144,500,000.0]]></cell><cell><![CDATA[388,000,000.0]]></cell><cell><![CDATA[243,500,000.0]]></cell><cell><![CDATA[144,500,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[1,832,000.0]]></cell><cell><![CDATA[-1,832,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.8]]></cell><cell><![CDATA[0.8]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[15,000,000.0]]></cell><cell><![CDATA[3,000,000.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040004(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[WLB_SLO Genset]]></cell><cell><![CDATA[WAHANA LESTARI BALIKPAPAN]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[02-03-2021]]></cell><cell><![CDATA[30-04-2021]]></cell><cell><![CDATA[12,000,000.0]]></cell><cell><![CDATA[12,000,000.0]]></cell><cell><![CDATA[6,360,000.0]]></cell><cell><![CDATA[5,640,000.0]]></cell><cell><![CDATA[12,000,000.0]]></cell><cell><![CDATA[6,360,000.0]]></cell><cell><![CDATA[5,640,000.0]]></cell><cell><![CDATA[6,000,000.0]]></cell><cell><![CDATA[3,380,000.0]]></cell><cell><![CDATA[2,620,000.0]]></cell><cell><![CDATA[50]]></cell><cell><![CDATA[50]]></cell><cell><![CDATA[53.1]]></cell><cell><![CDATA[53.1]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040005(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[KNI_Sertifikasi Pressure Vessel]]></cell><cell><![CDATA[KALTIM NITRATE INDONESIA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-03-2021]]></cell><cell><![CDATA[03-03-2021]]></cell><cell><![CDATA[15,000,000.0]]></cell><cell><![CDATA[15,000,000.0]]></cell><cell><![CDATA[7,240,000.0]]></cell><cell><![CDATA[7,760,000.0]]></cell><cell><![CDATA[15,000,000.0]]></cell><cell><![CDATA[7,240,000.0]]></cell><cell><![CDATA[7,760,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[7,240,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040006(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[LDC_SLO Genset]]></cell><cell><![CDATA[LDC EAST INDONESIA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[15-03-2021]]></cell><cell><![CDATA[31-05-2021]]></cell><cell><![CDATA[42,000,000.0]]></cell><cell><![CDATA[42,000,000.0]]></cell><cell><![CDATA[24,990,000.0]]></cell><cell><![CDATA[17,010,000.0]]></cell><cell><![CDATA[42,000,000.0]]></cell><cell><![CDATA[24,990,000.0]]></cell><cell><![CDATA[17,010,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040007(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[KNI_Ultrasonic Thickness Test (UTT) 2021]]></cell><cell><![CDATA[KALTIM NITRATE INDONESIA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[17-03-2021]]></cell><cell><![CDATA[31-03-2021]]></cell><cell><![CDATA[88,020,000.0]]></cell><cell><![CDATA[88,020,000.0]]></cell><cell><![CDATA[43,985,300.0]]></cell><cell><![CDATA[44,034,700.0]]></cell><cell><![CDATA[88,020,000.0]]></cell><cell><![CDATA[43,985,300.0]]></cell><cell><![CDATA[44,034,700.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040008(MULTI YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[KMI - Pemantauan Ligkungan Kerja]]></cell><cell><![CDATA[KALTIM METHANOL INDUSTRI]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[14-06-2021]]></cell><cell><![CDATA[24-04-2022]]></cell><cell><![CDATA[229,800,000.0]]></cell><cell><![CDATA[229,800,000.0]]></cell><cell><![CDATA[173,674,000.0]]></cell><cell><![CDATA[56,126,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040009(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[BVI - Remote Field Testing]]></cell><cell><![CDATA[BUREAU VERITAS INDONESIA]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[24-05-2021]]></cell><cell><![CDATA[30-06-2021]]></cell><cell><![CDATA[54,000,000.0]]></cell><cell><![CDATA[54,000,000.0]]></cell><cell><![CDATA[35,750,000.0]]></cell><cell><![CDATA[18,250,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row></rows><rows profile='color'><head><columns><column  rowspan="4"  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  rowspan="4"  width='120' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[Divisi Bisnis/Cabang]]></column><column  colspan="2"  width='120' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Project]]></column><column  width='230' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='190' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Klien]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[P (7/4)]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[L (9/6)]]></column><column  colspan="2"  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[Jangka Waktu]]></column><column  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Nilai Kontrak]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ RAB]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="3"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Realisasi]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Prosentase Progress 2021]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[  Piutang]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Proforma]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Uang Muka]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ ByDM]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ PPU dan ByDM Detail]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Chart Pendapatan]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Kode]]></column><column rowspan="3" ><![CDATA[Nama]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Awal]]></column><column rowspan="3" ><![CDATA[Akhir]]></column><column><![CDATA[]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Setahun]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Bulan Berjalan]]></column><column><![CDATA[Realisasi Beban Vs RAB Setahun]]></column><column><![CDATA[Realisasi Beban Vs RAB Bulan Berjalan]]></column><column><![CDATA[Progress Fisik]]></column><column><![CDATA[QAQC]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="3" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[s/d Bulan April 2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[(1)]]></column><column><![CDATA[(2)]]></column><column><![CDATA[(3)]]></column><column><![CDATA[(4)]]></column><column><![CDATA[(5)]]></column><column><![CDATA[(6)]]></column><column><![CDATA[(7)]]></column><column><![CDATA[(8)]]></column><column><![CDATA[(9)]]></column><column><![CDATA[(7/1)]]></column><column><![CDATA[(7/4)]]></column><column><![CDATA[(8/2)]]></column><column><![CDATA[(8/5)]]></column><column><![CDATA[(15)]]></column><column><![CDATA[(16)]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='9' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[1,071,320,000.0]]></column>
+<column><![CDATA[1,246,320,000.0]]></column>
+<column><![CDATA[838,599,300.0]]></column>
+<column><![CDATA[407,720,700.0]]></column>
+<column><![CDATA[962,520,000.0]]></column>
+<column><![CDATA[629,175,300.0]]></column>
+<column><![CDATA[333,344,700.0]]></column>
+<column><![CDATA[84,736,670.0]]></column>
+<column><![CDATA[81,202,002.0]]></column>
+<column><![CDATA[3,534,668.0]]></column>
+<column colspan='6' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[89,705,000.0]]></column>
+<column><![CDATA[5,500,000.0]]></column>
+<column><![CDATA[23,140,000.0]]></column>
+<column><![CDATA[3,000,000.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040001(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[KSO - Verifikasi Penelusuran Teknis Impor di PLB 2021]]></cell><cell><![CDATA[KSO SUCOFINDO - SURVEYOR INDONESIA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[200,000,000.0]]></cell><cell><![CDATA[325,000,000.0]]></cell><cell><![CDATA[236,000,000.0]]></cell><cell><![CDATA[89,000,000.0]]></cell><cell><![CDATA[325,000,000.0]]></cell><cell><![CDATA[236,000,000.0]]></cell><cell><![CDATA[89,000,000.0]]></cell><cell><![CDATA[-1,763,330.0]]></cell><cell><![CDATA[8,890,002.0]]></cell><cell><![CDATA[-10,653,332.0]]></cell><cell><![CDATA[-0.54]]></cell><cell><![CDATA[-0.54]]></cell><cell><![CDATA[3.8]]></cell><cell><![CDATA[3.8]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[5,005,000.0]]></cell><cell><![CDATA[2,000,000.0]]></cell><cell><![CDATA[900,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040002(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[RSS_PEC]]></cell><cell><![CDATA[RIRE SANJAYA SAKTI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[18-01-2021]]></cell><cell><![CDATA[12-02-2021]]></cell><cell><![CDATA[92,500,000.0]]></cell><cell><![CDATA[92,500,000.0]]></cell><cell><![CDATA[67,100,000.0]]></cell><cell><![CDATA[25,400,000.0]]></cell><cell><![CDATA[92,500,000.0]]></cell><cell><![CDATA[67,100,000.0]]></cell><cell><![CDATA[25,400,000.0]]></cell><cell><![CDATA[80,500,000.0]]></cell><cell><![CDATA[67,100,000.0]]></cell><cell><![CDATA[13,400,000.0]]></cell><cell><![CDATA[87.03]]></cell><cell><![CDATA[87.03]]></cell><cell><![CDATA[100.0]]></cell><cell><![CDATA[100.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[84,700,000.0]]></cell><cell><![CDATA[3,500,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040003(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[KMI_Visual Inspection Menggunakan Rope Access Teknik (RAT)]]></cell><cell><![CDATA[KALTIM METHANOL INDUSTRI]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[09-02-2021]]></cell><cell><![CDATA[15-02-2021]]></cell><cell><![CDATA[338,000,000.0]]></cell><cell><![CDATA[388,000,000.0]]></cell><cell><![CDATA[243,500,000.0]]></cell><cell><![CDATA[144,500,000.0]]></cell><cell><![CDATA[388,000,000.0]]></cell><cell><![CDATA[243,500,000.0]]></cell><cell><![CDATA[144,500,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[1,832,000.0]]></cell><cell><![CDATA[-1,832,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.8]]></cell><cell><![CDATA[0.8]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[15,000,000.0]]></cell><cell><![CDATA[3,000,000.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040004(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[WLB_SLO Genset]]></cell><cell><![CDATA[WAHANA LESTARI BALIKPAPAN]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[02-03-2021]]></cell><cell><![CDATA[30-04-2021]]></cell><cell><![CDATA[12,000,000.0]]></cell><cell><![CDATA[12,000,000.0]]></cell><cell><![CDATA[6,360,000.0]]></cell><cell><![CDATA[5,640,000.0]]></cell><cell><![CDATA[12,000,000.0]]></cell><cell><![CDATA[6,360,000.0]]></cell><cell><![CDATA[5,640,000.0]]></cell><cell><![CDATA[6,000,000.0]]></cell><cell><![CDATA[3,380,000.0]]></cell><cell><![CDATA[2,620,000.0]]></cell><cell><![CDATA[50]]></cell><cell><![CDATA[50]]></cell><cell><![CDATA[53.1]]></cell><cell><![CDATA[53.1]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040005(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[KNI_Sertifikasi Pressure Vessel]]></cell><cell><![CDATA[KALTIM NITRATE INDONESIA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-03-2021]]></cell><cell><![CDATA[03-03-2021]]></cell><cell><![CDATA[15,000,000.0]]></cell><cell><![CDATA[15,000,000.0]]></cell><cell><![CDATA[7,240,000.0]]></cell><cell><![CDATA[7,760,000.0]]></cell><cell><![CDATA[15,000,000.0]]></cell><cell><![CDATA[7,240,000.0]]></cell><cell><![CDATA[7,760,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[7,240,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040006(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[LDC_SLO Genset]]></cell><cell><![CDATA[LDC EAST INDONESIA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[15-03-2021]]></cell><cell><![CDATA[31-05-2021]]></cell><cell><![CDATA[42,000,000.0]]></cell><cell><![CDATA[42,000,000.0]]></cell><cell><![CDATA[24,990,000.0]]></cell><cell><![CDATA[17,010,000.0]]></cell><cell><![CDATA[42,000,000.0]]></cell><cell><![CDATA[24,990,000.0]]></cell><cell><![CDATA[17,010,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040007(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[KNI_Ultrasonic Thickness Test (UTT) 2021]]></cell><cell><![CDATA[KALTIM NITRATE INDONESIA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[17-03-2021]]></cell><cell><![CDATA[31-03-2021]]></cell><cell><![CDATA[88,020,000.0]]></cell><cell><![CDATA[88,020,000.0]]></cell><cell><![CDATA[43,985,300.0]]></cell><cell><![CDATA[44,034,700.0]]></cell><cell><![CDATA[88,020,000.0]]></cell><cell><![CDATA[43,985,300.0]]></cell><cell><![CDATA[44,034,700.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040008(MULTI YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[KMI - Pemantauan Ligkungan Kerja]]></cell><cell><![CDATA[KALTIM METHANOL INDUSTRI]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[14-06-2021]]></cell><cell><![CDATA[24-04-2022]]></cell><cell><![CDATA[229,800,000.0]]></cell><cell><![CDATA[229,800,000.0]]></cell><cell><![CDATA[173,674,000.0]]></cell><cell><![CDATA[56,126,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040009(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[BVI - Remote Field Testing]]></cell><cell><![CDATA[BUREAU VERITAS INDONESIA]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[24-05-2021]]></cell><cell><![CDATA[30-06-2021]]></cell><cell><![CDATA[54,000,000.0]]></cell><cell><![CDATA[54,000,000.0]]></cell><cell><![CDATA[35,750,000.0]]></cell><cell><![CDATA[18,250,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row></rows><rows profile='color'><head><columns><column  rowspan="4"  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  rowspan="4"  width='120' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[Divisi Bisnis/Cabang]]></column><column  colspan="2"  width='120' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Project]]></column><column  width='230' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='190' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Klien]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[P (7/4)]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[L (9/6)]]></column><column  colspan="2"  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[Jangka Waktu]]></column><column  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Nilai Kontrak]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ RAB]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="3"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Realisasi]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Prosentase Progress 2021]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[  Piutang]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Proforma]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Uang Muka]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ ByDM]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ PPU dan ByDM Detail]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Chart Pendapatan]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Kode]]></column><column rowspan="3" ><![CDATA[Nama]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Awal]]></column><column rowspan="3" ><![CDATA[Akhir]]></column><column><![CDATA[]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Setahun]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Bulan Berjalan]]></column><column><![CDATA[Realisasi Beban Vs RAB Setahun]]></column><column><![CDATA[Realisasi Beban Vs RAB Bulan Berjalan]]></column><column><![CDATA[Progress Fisik]]></column><column><![CDATA[QAQC]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="3" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[s/d Bulan April 2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[(1)]]></column><column><![CDATA[(2)]]></column><column><![CDATA[(3)]]></column><column><![CDATA[(4)]]></column><column><![CDATA[(5)]]></column><column><![CDATA[(6)]]></column><column><![CDATA[(7)]]></column><column><![CDATA[(8)]]></column><column><![CDATA[(9)]]></column><column><![CDATA[(7/1)]]></column><column><![CDATA[(7/4)]]></column><column><![CDATA[(8/2)]]></column><column><![CDATA[(8/5)]]></column><column><![CDATA[(15)]]></column><column><![CDATA[(16)]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='9' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[1,071,320,000.0]]></column>
+<column><![CDATA[1,246,320,000.0]]></column>
+<column><![CDATA[838,599,300.0]]></column>
+<column><![CDATA[407,720,700.0]]></column>
+<column><![CDATA[962,520,000.0]]></column>
+<column><![CDATA[629,175,300.0]]></column>
+<column><![CDATA[333,344,700.0]]></column>
+<column><![CDATA[84,736,670.0]]></column>
+<column><![CDATA[81,202,002.0]]></column>
+<column><![CDATA[3,534,668.0]]></column>
+<column colspan='6' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[89,705,000.0]]></column>
+<column><![CDATA[5,500,000.0]]></column>
+<column><![CDATA[23,140,000.0]]></column>
+<column><![CDATA[3,000,000.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040001(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[KSO - Verifikasi Penelusuran Teknis Impor di PLB 2021]]></cell><cell><![CDATA[KSO SUCOFINDO - SURVEYOR INDONESIA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[200,000,000.0]]></cell><cell><![CDATA[325,000,000.0]]></cell><cell><![CDATA[236,000,000.0]]></cell><cell><![CDATA[89,000,000.0]]></cell><cell><![CDATA[325,000,000.0]]></cell><cell><![CDATA[236,000,000.0]]></cell><cell><![CDATA[89,000,000.0]]></cell><cell><![CDATA[-1,763,330.0]]></cell><cell><![CDATA[8,890,002.0]]></cell><cell><![CDATA[-10,653,332.0]]></cell><cell><![CDATA[-0.54]]></cell><cell><![CDATA[-0.54]]></cell><cell><![CDATA[3.8]]></cell><cell><![CDATA[3.8]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[5,005,000.0]]></cell><cell><![CDATA[2,000,000.0]]></cell><cell><![CDATA[900,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040002(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[RSS_PEC]]></cell><cell><![CDATA[RIRE SANJAYA SAKTI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[18-01-2021]]></cell><cell><![CDATA[12-02-2021]]></cell><cell><![CDATA[92,500,000.0]]></cell><cell><![CDATA[92,500,000.0]]></cell><cell><![CDATA[67,100,000.0]]></cell><cell><![CDATA[25,400,000.0]]></cell><cell><![CDATA[92,500,000.0]]></cell><cell><![CDATA[67,100,000.0]]></cell><cell><![CDATA[25,400,000.0]]></cell><cell><![CDATA[80,500,000.0]]></cell><cell><![CDATA[67,100,000.0]]></cell><cell><![CDATA[13,400,000.0]]></cell><cell><![CDATA[87.03]]></cell><cell><![CDATA[87.03]]></cell><cell><![CDATA[100.0]]></cell><cell><![CDATA[100.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[84,700,000.0]]></cell><cell><![CDATA[3,500,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040003(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[KMI_Visual Inspection Menggunakan Rope Access Teknik (RAT)]]></cell><cell><![CDATA[KALTIM METHANOL INDUSTRI]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[09-02-2021]]></cell><cell><![CDATA[15-02-2021]]></cell><cell><![CDATA[338,000,000.0]]></cell><cell><![CDATA[388,000,000.0]]></cell><cell><![CDATA[243,500,000.0]]></cell><cell><![CDATA[144,500,000.0]]></cell><cell><![CDATA[388,000,000.0]]></cell><cell><![CDATA[243,500,000.0]]></cell><cell><![CDATA[144,500,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[1,832,000.0]]></cell><cell><![CDATA[-1,832,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.8]]></cell><cell><![CDATA[0.8]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[15,000,000.0]]></cell><cell><![CDATA[3,000,000.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040004(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[WLB_SLO Genset]]></cell><cell><![CDATA[WAHANA LESTARI BALIKPAPAN]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[02-03-2021]]></cell><cell><![CDATA[30-04-2021]]></cell><cell><![CDATA[12,000,000.0]]></cell><cell><![CDATA[12,000,000.0]]></cell><cell><![CDATA[6,360,000.0]]></cell><cell><![CDATA[5,640,000.0]]></cell><cell><![CDATA[12,000,000.0]]></cell><cell><![CDATA[6,360,000.0]]></cell><cell><![CDATA[5,640,000.0]]></cell><cell><![CDATA[6,000,000.0]]></cell><cell><![CDATA[3,380,000.0]]></cell><cell><![CDATA[2,620,000.0]]></cell><cell><![CDATA[50]]></cell><cell><![CDATA[50]]></cell><cell><![CDATA[53.1]]></cell><cell><![CDATA[53.1]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040005(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[KNI_Sertifikasi Pressure Vessel]]></cell><cell><![CDATA[KALTIM NITRATE INDONESIA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-03-2021]]></cell><cell><![CDATA[03-03-2021]]></cell><cell><![CDATA[15,000,000.0]]></cell><cell><![CDATA[15,000,000.0]]></cell><cell><![CDATA[7,240,000.0]]></cell><cell><![CDATA[7,760,000.0]]></cell><cell><![CDATA[15,000,000.0]]></cell><cell><![CDATA[7,240,000.0]]></cell><cell><![CDATA[7,760,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[7,240,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040006(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[LDC_SLO Genset]]></cell><cell><![CDATA[LDC EAST INDONESIA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[15-03-2021]]></cell><cell><![CDATA[31-05-2021]]></cell><cell><![CDATA[42,000,000.0]]></cell><cell><![CDATA[42,000,000.0]]></cell><cell><![CDATA[24,990,000.0]]></cell><cell><![CDATA[17,010,000.0]]></cell><cell><![CDATA[42,000,000.0]]></cell><cell><![CDATA[24,990,000.0]]></cell><cell><![CDATA[17,010,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040007(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[KNI_Ultrasonic Thickness Test (UTT) 2021]]></cell><cell><![CDATA[KALTIM NITRATE INDONESIA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[17-03-2021]]></cell><cell><![CDATA[31-03-2021]]></cell><cell><![CDATA[88,020,000.0]]></cell><cell><![CDATA[88,020,000.0]]></cell><cell><![CDATA[43,985,300.0]]></cell><cell><![CDATA[44,034,700.0]]></cell><cell><![CDATA[88,020,000.0]]></cell><cell><![CDATA[43,985,300.0]]></cell><cell><![CDATA[44,034,700.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040008(MULTI YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[KMI - Pemantauan Ligkungan Kerja]]></cell><cell><![CDATA[KALTIM METHANOL INDUSTRI]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[14-06-2021]]></cell><cell><![CDATA[24-04-2022]]></cell><cell><![CDATA[229,800,000.0]]></cell><cell><![CDATA[229,800,000.0]]></cell><cell><![CDATA[173,674,000.0]]></cell><cell><![CDATA[56,126,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040009(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[BVI - Remote Field Testing]]></cell><cell><![CDATA[BUREAU VERITAS INDONESIA]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[24-05-2021]]></cell><cell><![CDATA[30-06-2021]]></cell><cell><![CDATA[54,000,000.0]]></cell><cell><![CDATA[54,000,000.0]]></cell><cell><![CDATA[35,750,000.0]]></cell><cell><![CDATA[18,250,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row></rows><rows profile='color'><head><columns><column  rowspan="4"  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  rowspan="4"  width='120' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[Divisi Bisnis/Cabang]]></column><column  colspan="2"  width='120' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Project]]></column><column  width='230' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='190' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Klien]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[P (7/4)]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[L (9/6)]]></column><column  colspan="2"  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[Jangka Waktu]]></column><column  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Nilai Kontrak]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ RAB]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="3"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Realisasi]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Prosentase Progress 2021]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[  Piutang]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Proforma]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Uang Muka]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ ByDM]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ PPU dan ByDM Detail]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Chart Pendapatan]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Kode]]></column><column rowspan="3" ><![CDATA[Nama]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Awal]]></column><column rowspan="3" ><![CDATA[Akhir]]></column><column><![CDATA[]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Setahun]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Bulan Berjalan]]></column><column><![CDATA[Realisasi Beban Vs RAB Setahun]]></column><column><![CDATA[Realisasi Beban Vs RAB Bulan Berjalan]]></column><column><![CDATA[Progress Fisik]]></column><column><![CDATA[QAQC]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="3" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[s/d Bulan April 2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[(1)]]></column><column><![CDATA[(2)]]></column><column><![CDATA[(3)]]></column><column><![CDATA[(4)]]></column><column><![CDATA[(5)]]></column><column><![CDATA[(6)]]></column><column><![CDATA[(7)]]></column><column><![CDATA[(8)]]></column><column><![CDATA[(9)]]></column><column><![CDATA[(7/1)]]></column><column><![CDATA[(7/4)]]></column><column><![CDATA[(8/2)]]></column><column><![CDATA[(8/5)]]></column><column><![CDATA[(15)]]></column><column><![CDATA[(16)]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='9' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[1,071,320,000.0]]></column>
+<column><![CDATA[1,246,320,000.0]]></column>
+<column><![CDATA[838,599,300.0]]></column>
+<column><![CDATA[407,720,700.0]]></column>
+<column><![CDATA[962,520,000.0]]></column>
+<column><![CDATA[629,175,300.0]]></column>
+<column><![CDATA[333,344,700.0]]></column>
+<column><![CDATA[84,736,670.0]]></column>
+<column><![CDATA[81,202,002.0]]></column>
+<column><![CDATA[3,534,668.0]]></column>
+<column colspan='6' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[89,705,000.0]]></column>
+<column><![CDATA[5,500,000.0]]></column>
+<column><![CDATA[23,140,000.0]]></column>
+<column><![CDATA[3,000,000.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040001(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[KSO - Verifikasi Penelusuran Teknis Impor di PLB 2021]]></cell><cell><![CDATA[KSO SUCOFINDO - SURVEYOR INDONESIA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[200,000,000.0]]></cell><cell><![CDATA[325,000,000.0]]></cell><cell><![CDATA[236,000,000.0]]></cell><cell><![CDATA[89,000,000.0]]></cell><cell><![CDATA[325,000,000.0]]></cell><cell><![CDATA[236,000,000.0]]></cell><cell><![CDATA[89,000,000.0]]></cell><cell><![CDATA[-1,763,330.0]]></cell><cell><![CDATA[8,890,002.0]]></cell><cell><![CDATA[-10,653,332.0]]></cell><cell><![CDATA[-0.54]]></cell><cell><![CDATA[-0.54]]></cell><cell><![CDATA[3.8]]></cell><cell><![CDATA[3.8]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[5,005,000.0]]></cell><cell><![CDATA[2,000,000.0]]></cell><cell><![CDATA[900,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040002(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[RSS_PEC]]></cell><cell><![CDATA[RIRE SANJAYA SAKTI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[18-01-2021]]></cell><cell><![CDATA[12-02-2021]]></cell><cell><![CDATA[92,500,000.0]]></cell><cell><![CDATA[92,500,000.0]]></cell><cell><![CDATA[67,100,000.0]]></cell><cell><![CDATA[25,400,000.0]]></cell><cell><![CDATA[92,500,000.0]]></cell><cell><![CDATA[67,100,000.0]]></cell><cell><![CDATA[25,400,000.0]]></cell><cell><![CDATA[80,500,000.0]]></cell><cell><![CDATA[67,100,000.0]]></cell><cell><![CDATA[13,400,000.0]]></cell><cell><![CDATA[87.03]]></cell><cell><![CDATA[87.03]]></cell><cell><![CDATA[100.0]]></cell><cell><![CDATA[100.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[84,700,000.0]]></cell><cell><![CDATA[3,500,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040003(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[KMI_Visual Inspection Menggunakan Rope Access Teknik (RAT)]]></cell><cell><![CDATA[KALTIM METHANOL INDUSTRI]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[09-02-2021]]></cell><cell><![CDATA[15-02-2021]]></cell><cell><![CDATA[338,000,000.0]]></cell><cell><![CDATA[388,000,000.0]]></cell><cell><![CDATA[243,500,000.0]]></cell><cell><![CDATA[144,500,000.0]]></cell><cell><![CDATA[388,000,000.0]]></cell><cell><![CDATA[243,500,000.0]]></cell><cell><![CDATA[144,500,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[1,832,000.0]]></cell><cell><![CDATA[-1,832,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.8]]></cell><cell><![CDATA[0.8]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[15,000,000.0]]></cell><cell><![CDATA[3,000,000.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040004(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[WLB_SLO Genset]]></cell><cell><![CDATA[WAHANA LESTARI BALIKPAPAN]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[02-03-2021]]></cell><cell><![CDATA[30-04-2021]]></cell><cell><![CDATA[12,000,000.0]]></cell><cell><![CDATA[12,000,000.0]]></cell><cell><![CDATA[6,360,000.0]]></cell><cell><![CDATA[5,640,000.0]]></cell><cell><![CDATA[12,000,000.0]]></cell><cell><![CDATA[6,360,000.0]]></cell><cell><![CDATA[5,640,000.0]]></cell><cell><![CDATA[6,000,000.0]]></cell><cell><![CDATA[3,380,000.0]]></cell><cell><![CDATA[2,620,000.0]]></cell><cell><![CDATA[50]]></cell><cell><![CDATA[50]]></cell><cell><![CDATA[53.1]]></cell><cell><![CDATA[53.1]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040005(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[KNI_Sertifikasi Pressure Vessel]]></cell><cell><![CDATA[KALTIM NITRATE INDONESIA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-03-2021]]></cell><cell><![CDATA[03-03-2021]]></cell><cell><![CDATA[15,000,000.0]]></cell><cell><![CDATA[15,000,000.0]]></cell><cell><![CDATA[7,240,000.0]]></cell><cell><![CDATA[7,760,000.0]]></cell><cell><![CDATA[15,000,000.0]]></cell><cell><![CDATA[7,240,000.0]]></cell><cell><![CDATA[7,760,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[7,240,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040006(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[LDC_SLO Genset]]></cell><cell><![CDATA[LDC EAST INDONESIA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[15-03-2021]]></cell><cell><![CDATA[31-05-2021]]></cell><cell><![CDATA[42,000,000.0]]></cell><cell><![CDATA[42,000,000.0]]></cell><cell><![CDATA[24,990,000.0]]></cell><cell><![CDATA[17,010,000.0]]></cell><cell><![CDATA[42,000,000.0]]></cell><cell><![CDATA[24,990,000.0]]></cell><cell><![CDATA[17,010,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040007(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[KNI_Ultrasonic Thickness Test (UTT) 2021]]></cell><cell><![CDATA[KALTIM NITRATE INDONESIA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[17-03-2021]]></cell><cell><![CDATA[31-03-2021]]></cell><cell><![CDATA[88,020,000.0]]></cell><cell><![CDATA[88,020,000.0]]></cell><cell><![CDATA[43,985,300.0]]></cell><cell><![CDATA[44,034,700.0]]></cell><cell><![CDATA[88,020,000.0]]></cell><cell><![CDATA[43,985,300.0]]></cell><cell><![CDATA[44,034,700.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040008(MULTI YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[KMI - Pemantauan Ligkungan Kerja]]></cell><cell><![CDATA[KALTIM METHANOL INDUSTRI]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[14-06-2021]]></cell><cell><![CDATA[24-04-2022]]></cell><cell><![CDATA[229,800,000.0]]></cell><cell><![CDATA[229,800,000.0]]></cell><cell><![CDATA[173,674,000.0]]></cell><cell><![CDATA[56,126,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[1221040009(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[BVI - Remote Field Testing]]></cell><cell><![CDATA[BUREAU VERITAS INDONESIA]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[24-05-2021]]></cell><cell><![CDATA[30-06-2021]]></cell><cell><![CDATA[54,000,000.0]]></cell><cell><![CDATA[54,000,000.0]]></cell><cell><![CDATA[35,750,000.0]]></cell><cell><![CDATA[18,250,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row></rows>

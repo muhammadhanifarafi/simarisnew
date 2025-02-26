@@ -1,0 +1,931 @@
+<rows profile='color'><head><columns><column  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  width='210' align='justify' type='ro' hidden='false' sort='na' color=''><![CDATA[ Cabang/Divisi Bisnis]]></column><column  width='150' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ STATUS A]]></column><column  width='60' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ List Project A]]></column><column  width='150' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ STATUS B]]></column><column  width='60' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[  List Project B]]></column><column  width='150' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ STATUS C]]></column><column  width='60' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[  List Project C]]></column><column  width='150' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ STATUS D]]></column><column  width='60' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[  List Project D]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='2' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[277,701,334,611.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[120,943,190,370.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[118,617,264,103.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[1,521,518,002,780.0]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[710,520,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[2,000,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[5,000,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[20,400,133,500.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[16,287,142,988.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[29,200,871,516.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[7,406,192,857.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[52,269,414,100.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[SI CAB MADYA BATAM]]></cell><cell><![CDATA[4,395,461,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[17,686,440,678.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[4,000,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[27,497,799,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[SI CAB MADYA MAKASSAR]]></cell><cell><![CDATA[1,810,861,238.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[621,661,510,851.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[SI CAB MADYA MEDAN]]></cell><cell><![CDATA[2,109,127,136.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[57,949,272,727.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[SI CAB MADYA SEMARANG]]></cell><cell><![CDATA[1,162,268,732.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[2,710,911,537.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[6,055,949,845.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[SI CAB PALEMBANG]]></cell><cell><![CDATA[5,356,795,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[228,003,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[10,503,822,168.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[SI CAB PEKANBARU]]></cell><cell><![CDATA[89,827,116,500.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[2,396,571,303.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[13,084,672,246.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[156,621,320,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[SI CAB SINGAPURA]]></cell><cell><![CDATA[500,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[1,700,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[9,165,478,840.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[3,915,978,287.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[500,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[55,974,673,616.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[SI CAPRAM ACEH]]></cell><cell><![CDATA[4,110,857,515.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[822,580,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[83,363,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[SI CAPRAM BANJARBARU]]></cell><cell><![CDATA[2,692,735,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[4,500,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[7,378,167,200.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[10,307,690,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[52,044,636,599.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[56,964,059,091.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[SI UB MIGAS DAN SP]]></cell><cell><![CDATA[2,058,357,143.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[689,723,450.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[1,000,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[108,485,330,776.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[SI UB MINERAL DAN BATUBARA]]></cell><cell><![CDATA[99,308,484,021.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[9,242,974,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[89,651,788,271.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[SI UB PI DAN KELEMBAGAAN]]></cell><cell><![CDATA[27,898,439,498.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[87,626,399,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[165,041,761,635.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row></rows><rows profile='color'><head><columns><column  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  width='210' align='justify' type='ro' hidden='false' sort='na' color=''><![CDATA[ Cabang/Divisi Bisnis]]></column><column  width='150' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ STATUS A]]></column><column  width='60' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ List Project A]]></column><column  width='150' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ STATUS B]]></column><column  width='60' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[  List Project B]]></column><column  width='150' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ STATUS C]]></column><column  width='60' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[  List Project C]]></column><column  width='150' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ STATUS D]]></column><column  width='60' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[  List Project D]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='2' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[277,701,334,611.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[120,943,190,370.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[118,617,264,103.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[1,521,518,002,780.0]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[710,520,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[2,000,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[5,000,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[20,400,133,500.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[16,287,142,988.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[29,200,871,516.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[7,406,192,857.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[52,269,414,100.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[SI CAB MADYA BATAM]]></cell><cell><![CDATA[4,395,461,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[17,686,440,678.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[4,000,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[27,497,799,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[SI CAB MADYA MAKASSAR]]></cell><cell><![CDATA[1,810,861,238.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[621,661,510,851.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[SI CAB MADYA MEDAN]]></cell><cell><![CDATA[2,109,127,136.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[57,949,272,727.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[SI CAB MADYA SEMARANG]]></cell><cell><![CDATA[1,162,268,732.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[2,710,911,537.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[6,055,949,845.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[SI CAB PALEMBANG]]></cell><cell><![CDATA[5,356,795,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[228,003,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[10,503,822,168.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[SI CAB PEKANBARU]]></cell><cell><![CDATA[89,827,116,500.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[2,396,571,303.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[13,084,672,246.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[156,621,320,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[SI CAB SINGAPURA]]></cell><cell><![CDATA[500,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[1,700,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[9,165,478,840.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[3,915,978,287.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[500,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[55,974,673,616.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[SI CAPRAM ACEH]]></cell><cell><![CDATA[4,110,857,515.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[822,580,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[83,363,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[SI CAPRAM BANJARBARU]]></cell><cell><![CDATA[2,692,735,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[4,500,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[7,378,167,200.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[10,307,690,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[52,044,636,599.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[56,964,059,091.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[SI UB MIGAS DAN SP]]></cell><cell><![CDATA[2,058,357,143.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[689,723,450.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[1,000,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[108,485,330,776.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[SI UB MINERAL DAN BATUBARA]]></cell><cell><![CDATA[99,308,484,021.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[9,242,974,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[89,651,788,271.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[SI UB PI DAN KELEMBAGAAN]]></cell><cell><![CDATA[27,898,439,498.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[87,626,399,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[165,041,761,635.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row></rows><rows profile='color'><head><columns><column  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  width='210' align='justify' type='ro' hidden='false' sort='na' color=''><![CDATA[ Cabang/Divisi Bisnis]]></column><column  width='150' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ STATUS A]]></column><column  width='60' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ List Project A]]></column><column  width='150' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ STATUS B]]></column><column  width='60' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[  List Project B]]></column><column  width='150' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ STATUS C]]></column><column  width='60' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[  List Project C]]></column><column  width='150' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ STATUS D]]></column><column  width='60' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[  List Project D]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='2' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[277,701,334,611.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[120,943,190,370.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[118,617,264,103.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[1,521,518,002,780.0]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[710,520,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[2,000,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[5,000,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[20,400,133,500.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[16,287,142,988.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[29,200,871,516.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[7,406,192,857.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[52,269,414,100.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[SI CAB MADYA BATAM]]></cell><cell><![CDATA[4,395,461,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[17,686,440,678.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[4,000,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[27,497,799,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[SI CAB MADYA MAKASSAR]]></cell><cell><![CDATA[1,810,861,238.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[621,661,510,851.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[SI CAB MADYA MEDAN]]></cell><cell><![CDATA[2,109,127,136.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[57,949,272,727.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[SI CAB MADYA SEMARANG]]></cell><cell><![CDATA[1,162,268,732.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[2,710,911,537.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[6,055,949,845.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[SI CAB PALEMBANG]]></cell><cell><![CDATA[5,356,795,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[228,003,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[10,503,822,168.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[SI CAB PEKANBARU]]></cell><cell><![CDATA[89,827,116,500.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[2,396,571,303.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[13,084,672,246.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[156,621,320,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[SI CAB SINGAPURA]]></cell><cell><![CDATA[500,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[1,700,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[9,165,478,840.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[3,915,978,287.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[500,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[55,974,673,616.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[SI CAPRAM ACEH]]></cell><cell><![CDATA[4,110,857,515.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[822,580,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[83,363,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[SI CAPRAM BANJARBARU]]></cell><cell><![CDATA[2,692,735,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[4,500,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[7,378,167,200.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[10,307,690,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[52,044,636,599.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[56,964,059,091.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[SI UB MIGAS DAN SP]]></cell><cell><![CDATA[2,058,357,143.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[689,723,450.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[1,000,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[108,485,330,776.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[SI UB MINERAL DAN BATUBARA]]></cell><cell><![CDATA[99,308,484,021.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[9,242,974,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[89,651,788,271.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[SI UB PI DAN KELEMBAGAAN]]></cell><cell><![CDATA[27,898,439,498.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[87,626,399,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[165,041,761,635.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row></rows><rows profile='color'><head><columns><column  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  width='210' align='justify' type='ro' hidden='false' sort='na' color=''><![CDATA[ Cabang/Divisi Bisnis]]></column><column  width='150' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ STATUS A]]></column><column  width='60' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ List Project A]]></column><column  width='150' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ STATUS B]]></column><column  width='60' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[  List Project B]]></column><column  width='150' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ STATUS C]]></column><column  width='60' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[  List Project C]]></column><column  width='150' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ STATUS D]]></column><column  width='60' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[  List Project D]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='2' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[277,701,334,611.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[120,943,190,370.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[118,617,264,103.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[1,521,518,002,780.0]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[710,520,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[2,000,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[5,000,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[20,400,133,500.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[16,287,142,988.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[29,200,871,516.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[7,406,192,857.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[52,269,414,100.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[SI CAB MADYA BATAM]]></cell><cell><![CDATA[4,395,461,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[17,686,440,678.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[4,000,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[27,497,799,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[SI CAB MADYA MAKASSAR]]></cell><cell><![CDATA[1,810,861,238.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[621,661,510,851.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[SI CAB MADYA MEDAN]]></cell><cell><![CDATA[2,109,127,136.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[57,949,272,727.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[SI CAB MADYA SEMARANG]]></cell><cell><![CDATA[1,162,268,732.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[2,710,911,537.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[6,055,949,845.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[SI CAB PALEMBANG]]></cell><cell><![CDATA[5,356,795,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[228,003,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[10,503,822,168.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[SI CAB PEKANBARU]]></cell><cell><![CDATA[89,827,116,500.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[2,396,571,303.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[13,084,672,246.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[156,621,320,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[SI CAB SINGAPURA]]></cell><cell><![CDATA[500,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[1,700,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[9,165,478,840.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[3,915,978,287.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[500,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[55,974,673,616.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[SI CAPRAM ACEH]]></cell><cell><![CDATA[4,110,857,515.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[822,580,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[83,363,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[SI CAPRAM BANJARBARU]]></cell><cell><![CDATA[2,692,735,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[4,500,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[7,378,167,200.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[10,307,690,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[52,044,636,599.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[56,964,059,091.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[SI UB MIGAS DAN SP]]></cell><cell><![CDATA[2,058,357,143.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[689,723,450.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[1,000,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[108,485,330,776.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[SI UB MINERAL DAN BATUBARA]]></cell><cell><![CDATA[99,308,484,021.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[9,242,974,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[89,651,788,271.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[SI UB PI DAN KELEMBAGAAN]]></cell><cell><![CDATA[27,898,439,498.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[87,626,399,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[165,041,761,635.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row></rows><rows profile='color'><head><columns><column  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  width='210' align='justify' type='ro' hidden='false' sort='na' color=''><![CDATA[ Cabang/Divisi Bisnis]]></column><column  width='150' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ STATUS A]]></column><column  width='60' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ List Project A]]></column><column  width='150' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ STATUS B]]></column><column  width='60' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[  List Project B]]></column><column  width='150' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ STATUS C]]></column><column  width='60' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[  List Project C]]></column><column  width='150' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ STATUS D]]></column><column  width='60' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[  List Project D]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='2' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[277,701,334,611.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[120,943,190,370.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[118,617,264,103.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[1,521,518,002,780.0]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[710,520,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[2,000,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[5,000,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[20,400,133,500.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[16,287,142,988.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[29,200,871,516.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[7,406,192,857.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[52,269,414,100.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[SI CAB MADYA BATAM]]></cell><cell><![CDATA[4,395,461,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[17,686,440,678.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[4,000,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[27,497,799,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[SI CAB MADYA MAKASSAR]]></cell><cell><![CDATA[1,810,861,238.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[621,661,510,851.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[SI CAB MADYA MEDAN]]></cell><cell><![CDATA[2,109,127,136.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[57,949,272,727.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[SI CAB MADYA SEMARANG]]></cell><cell><![CDATA[1,162,268,732.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[2,710,911,537.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[6,055,949,845.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[SI CAB PALEMBANG]]></cell><cell><![CDATA[5,356,795,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[228,003,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[10,503,822,168.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[SI CAB PEKANBARU]]></cell><cell><![CDATA[89,827,116,500.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[2,396,571,303.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[13,084,672,246.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[156,621,320,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[SI CAB SINGAPURA]]></cell><cell><![CDATA[500,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[1,700,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[9,165,478,840.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[3,915,978,287.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[500,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[55,974,673,616.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[SI CAPRAM ACEH]]></cell><cell><![CDATA[4,110,857,515.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[822,580,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[83,363,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[SI CAPRAM BANJARBARU]]></cell><cell><![CDATA[2,692,735,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[4,500,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[7,378,167,200.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[10,307,690,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[52,044,636,599.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[56,964,059,091.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[SI UB MIGAS DAN SP]]></cell><cell><![CDATA[2,058,357,143.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[689,723,450.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[1,000,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[108,485,330,776.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[SI UB MINERAL DAN BATUBARA]]></cell><cell><![CDATA[99,308,484,021.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[9,242,974,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[89,651,788,271.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[SI UB PI DAN KELEMBAGAAN]]></cell><cell><![CDATA[27,898,439,498.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[87,626,399,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[165,041,761,635.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row></rows><rows profile='color'><head><columns><column  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  width='210' align='justify' type='ro' hidden='false' sort='na' color=''><![CDATA[ Cabang/Divisi Bisnis]]></column><column  width='150' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ STATUS A]]></column><column  width='60' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ List Project A]]></column><column  width='150' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ STATUS B]]></column><column  width='60' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[  List Project B]]></column><column  width='150' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ STATUS C]]></column><column  width='60' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[  List Project C]]></column><column  width='150' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ STATUS D]]></column><column  width='60' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[  List Project D]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='2' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[277,701,334,611.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[120,943,190,370.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[118,617,264,103.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[1,521,518,002,780.0]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[710,520,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[2,000,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[5,000,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[20,400,133,500.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[16,287,142,988.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[29,200,871,516.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[7,406,192,857.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[52,269,414,100.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[SI CAB MADYA BATAM]]></cell><cell><![CDATA[4,395,461,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[17,686,440,678.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[4,000,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[27,497,799,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[SI CAB MADYA MAKASSAR]]></cell><cell><![CDATA[1,810,861,238.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[621,661,510,851.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[SI CAB MADYA MEDAN]]></cell><cell><![CDATA[2,109,127,136.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[57,949,272,727.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[SI CAB MADYA SEMARANG]]></cell><cell><![CDATA[1,162,268,732.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[2,710,911,537.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[6,055,949,845.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[SI CAB PALEMBANG]]></cell><cell><![CDATA[5,356,795,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[228,003,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[10,503,822,168.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[SI CAB PEKANBARU]]></cell><cell><![CDATA[89,827,116,500.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[2,396,571,303.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[13,084,672,246.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[156,621,320,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[SI CAB SINGAPURA]]></cell><cell><![CDATA[500,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[1,700,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[9,165,478,840.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[3,915,978,287.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[500,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[55,974,673,616.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[SI CAPRAM ACEH]]></cell><cell><![CDATA[4,110,857,515.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[822,580,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[83,363,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[SI CAPRAM BANJARBARU]]></cell><cell><![CDATA[2,692,735,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[4,500,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[7,378,167,200.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[10,307,690,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[52,044,636,599.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[56,964,059,091.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[SI UB MIGAS DAN SP]]></cell><cell><![CDATA[2,058,357,143.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[689,723,450.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[1,000,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[108,485,330,776.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[SI UB MINERAL DAN BATUBARA]]></cell><cell><![CDATA[99,308,484,021.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[9,242,974,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[89,651,788,271.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[SI UB PI DAN KELEMBAGAAN]]></cell><cell><![CDATA[27,898,439,498.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[87,626,399,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[165,041,761,635.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row></rows><rows profile='color'><head><columns><column  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  width='210' align='justify' type='ro' hidden='false' sort='na' color=''><![CDATA[ Cabang/Divisi Bisnis]]></column><column  width='150' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ STATUS A]]></column><column  width='60' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ List Project A]]></column><column  width='150' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ STATUS B]]></column><column  width='60' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[  List Project B]]></column><column  width='150' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ STATUS C]]></column><column  width='60' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[  List Project C]]></column><column  width='150' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ STATUS D]]></column><column  width='60' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[  List Project D]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='2' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[277,701,334,611.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[120,943,190,370.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[118,617,264,103.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[1,521,518,002,780.0]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[710,520,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[2,000,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[5,000,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[20,400,133,500.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[16,287,142,988.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[29,200,871,516.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[7,406,192,857.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[52,269,414,100.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[SI CAB MADYA BATAM]]></cell><cell><![CDATA[4,395,461,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[17,686,440,678.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[4,000,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[27,497,799,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[SI CAB MADYA MAKASSAR]]></cell><cell><![CDATA[1,810,861,238.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[621,661,510,851.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[SI CAB MADYA MEDAN]]></cell><cell><![CDATA[2,109,127,136.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[57,949,272,727.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[SI CAB MADYA SEMARANG]]></cell><cell><![CDATA[1,162,268,732.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[2,710,911,537.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[6,055,949,845.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[SI CAB PALEMBANG]]></cell><cell><![CDATA[5,356,795,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[228,003,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[10,503,822,168.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[SI CAB PEKANBARU]]></cell><cell><![CDATA[89,827,116,500.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[2,396,571,303.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[13,084,672,246.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[156,621,320,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[SI CAB SINGAPURA]]></cell><cell><![CDATA[500,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[1,700,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[9,165,478,840.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[3,915,978,287.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[500,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[55,974,673,616.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[SI CAPRAM ACEH]]></cell><cell><![CDATA[4,110,857,515.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[822,580,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[83,363,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[SI CAPRAM BANJARBARU]]></cell><cell><![CDATA[2,692,735,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[4,500,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[7,378,167,200.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[10,307,690,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[52,044,636,599.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[56,964,059,091.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[SI UB MIGAS DAN SP]]></cell><cell><![CDATA[2,058,357,143.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[689,723,450.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[1,000,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[108,485,330,776.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[SI UB MINERAL DAN BATUBARA]]></cell><cell><![CDATA[99,308,484,021.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[9,242,974,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[89,651,788,271.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[SI UB PI DAN KELEMBAGAAN]]></cell><cell><![CDATA[27,898,439,498.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[87,626,399,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[165,041,761,635.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row></rows><rows profile='color'><head><columns><column  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  width='210' align='justify' type='ro' hidden='false' sort='na' color=''><![CDATA[ Cabang/Divisi Bisnis]]></column><column  width='150' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ STATUS A]]></column><column  width='60' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ List Project A]]></column><column  width='150' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ STATUS B]]></column><column  width='60' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[  List Project B]]></column><column  width='150' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ STATUS C]]></column><column  width='60' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[  List Project C]]></column><column  width='150' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ STATUS D]]></column><column  width='60' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[  List Project D]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='2' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[277,701,334,611.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[120,943,190,370.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[118,617,264,103.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[1,521,518,002,780.0]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[710,520,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[2,000,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[5,000,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[20,400,133,500.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[16,287,142,988.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[29,200,871,516.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[7,406,192,857.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[52,269,414,100.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[SI CAB MADYA BATAM]]></cell><cell><![CDATA[4,395,461,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[17,686,440,678.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[4,000,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[27,497,799,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[SI CAB MADYA MAKASSAR]]></cell><cell><![CDATA[1,810,861,238.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[621,661,510,851.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[SI CAB MADYA MEDAN]]></cell><cell><![CDATA[2,109,127,136.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[57,949,272,727.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[SI CAB MADYA SEMARANG]]></cell><cell><![CDATA[1,162,268,732.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[2,710,911,537.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[6,055,949,845.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[SI CAB PALEMBANG]]></cell><cell><![CDATA[5,356,795,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[228,003,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[10,503,822,168.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[SI CAB PEKANBARU]]></cell><cell><![CDATA[89,827,116,500.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[2,396,571,303.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[13,084,672,246.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[156,621,320,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[SI CAB SINGAPURA]]></cell><cell><![CDATA[500,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[1,700,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[9,165,478,840.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[3,915,978,287.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[500,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[55,974,673,616.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[SI CAPRAM ACEH]]></cell><cell><![CDATA[4,110,857,515.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[822,580,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[83,363,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[SI CAPRAM BANJARBARU]]></cell><cell><![CDATA[2,692,735,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[4,500,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[7,378,167,200.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[10,307,690,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[52,044,636,599.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[56,964,059,091.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[SI UB MIGAS DAN SP]]></cell><cell><![CDATA[2,058,357,143.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[689,723,450.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[1,000,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[108,485,330,776.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[SI UB MINERAL DAN BATUBARA]]></cell><cell><![CDATA[99,308,484,021.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[9,242,974,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[89,651,788,271.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[SI UB PI DAN KELEMBAGAAN]]></cell><cell><![CDATA[27,898,439,498.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[87,626,399,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[165,041,761,635.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row></rows><rows profile='color'><head><columns><column  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  width='210' align='justify' type='ro' hidden='false' sort='na' color=''><![CDATA[ Cabang/Divisi Bisnis]]></column><column  width='150' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ STATUS A]]></column><column  width='60' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ List Project A]]></column><column  width='150' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ STATUS B]]></column><column  width='60' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[  List Project B]]></column><column  width='150' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ STATUS C]]></column><column  width='60' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[  List Project C]]></column><column  width='150' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ STATUS D]]></column><column  width='60' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[  List Project D]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='2' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[277,701,334,611.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[120,943,190,370.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[118,617,264,103.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[1,521,518,002,780.0]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[710,520,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[2,000,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[5,000,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[20,400,133,500.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[16,287,142,988.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[29,200,871,516.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[7,406,192,857.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[52,269,414,100.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[SI CAB MADYA BATAM]]></cell><cell><![CDATA[4,395,461,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[17,686,440,678.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[4,000,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[27,497,799,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[SI CAB MADYA MAKASSAR]]></cell><cell><![CDATA[1,810,861,238.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[621,661,510,851.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[SI CAB MADYA MEDAN]]></cell><cell><![CDATA[2,109,127,136.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[57,949,272,727.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[SI CAB MADYA SEMARANG]]></cell><cell><![CDATA[1,162,268,732.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[2,710,911,537.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[6,055,949,845.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[SI CAB PALEMBANG]]></cell><cell><![CDATA[5,356,795,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[228,003,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[10,503,822,168.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[SI CAB PEKANBARU]]></cell><cell><![CDATA[89,827,116,500.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[2,396,571,303.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[13,084,672,246.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[156,621,320,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[SI CAB SINGAPURA]]></cell><cell><![CDATA[500,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[1,700,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[9,165,478,840.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[3,915,978,287.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[500,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[55,974,673,616.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[SI CAPRAM ACEH]]></cell><cell><![CDATA[4,110,857,515.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[822,580,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[83,363,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[SI CAPRAM BANJARBARU]]></cell><cell><![CDATA[2,692,735,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[4,500,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[7,378,167,200.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[10,307,690,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[52,044,636,599.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[56,964,059,091.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[SI UB MIGAS DAN SP]]></cell><cell><![CDATA[2,058,357,143.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[689,723,450.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[1,000,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[108,485,330,776.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[SI UB MINERAL DAN BATUBARA]]></cell><cell><![CDATA[99,308,484,021.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[9,242,974,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[89,651,788,271.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[SI UB PI DAN KELEMBAGAAN]]></cell><cell><![CDATA[27,898,439,498.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[87,626,399,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[165,041,761,635.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row></rows><rows profile='color'><head><columns><column  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  width='210' align='justify' type='ro' hidden='false' sort='na' color=''><![CDATA[ Cabang/Divisi Bisnis]]></column><column  width='150' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ STATUS A]]></column><column  width='60' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ List Project A]]></column><column  width='150' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ STATUS B]]></column><column  width='60' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[  List Project B]]></column><column  width='150' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ STATUS C]]></column><column  width='60' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[  List Project C]]></column><column  width='150' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ STATUS D]]></column><column  width='60' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[  List Project D]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='2' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[277,701,334,611.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[120,943,190,370.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[118,617,264,103.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[1,521,518,002,780.0]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[SI CAB BALIKPAPAN]]></cell><cell><![CDATA[710,520,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[2,000,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[5,000,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[20,400,133,500.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[16,287,142,988.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[29,200,871,516.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[7,406,192,857.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[52,269,414,100.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[SI CAB MADYA BATAM]]></cell><cell><![CDATA[4,395,461,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[17,686,440,678.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[4,000,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[27,497,799,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[SI CAB MADYA MAKASSAR]]></cell><cell><![CDATA[1,810,861,238.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[621,661,510,851.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[SI CAB MADYA MEDAN]]></cell><cell><![CDATA[2,109,127,136.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[57,949,272,727.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[SI CAB MADYA SEMARANG]]></cell><cell><![CDATA[1,162,268,732.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[2,710,911,537.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[6,055,949,845.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[SI CAB PALEMBANG]]></cell><cell><![CDATA[5,356,795,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[228,003,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[10,503,822,168.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[SI CAB PEKANBARU]]></cell><cell><![CDATA[89,827,116,500.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[2,396,571,303.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[13,084,672,246.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[156,621,320,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[SI CAB SINGAPURA]]></cell><cell><![CDATA[500,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[1,700,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[9,165,478,840.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[3,915,978,287.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[500,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[55,974,673,616.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[SI CAPRAM ACEH]]></cell><cell><![CDATA[4,110,857,515.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[822,580,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[83,363,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[SI CAPRAM BANJARBARU]]></cell><cell><![CDATA[2,692,735,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[4,500,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[7,378,167,200.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[SI UB INFRASTRUKTUR]]></cell><cell><![CDATA[10,307,690,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[52,044,636,599.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[56,964,059,091.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[SI UB MIGAS DAN SP]]></cell><cell><![CDATA[2,058,357,143.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[689,723,450.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[1,000,000,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[108,485,330,776.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[SI UB MINERAL DAN BATUBARA]]></cell><cell><![CDATA[99,308,484,021.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[9,242,974,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[89,651,788,271.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[SI UB PI DAN KELEMBAGAAN]]></cell><cell><![CDATA[27,898,439,498.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[87,626,399,000.0]]></cell><cell><![CDATA[ 
+            ]]></cell><cell><![CDATA[165,041,761,635.0]]></cell><cell><![CDATA[ 
+            ]]></cell></row></rows>

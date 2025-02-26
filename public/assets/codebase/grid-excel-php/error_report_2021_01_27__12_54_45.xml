@@ -1,0 +1,353 @@
+<rows profile='color'><head><columns><column  width='35' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  width='300' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Nama Project]]></column><column  width='200' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Klien]]></column><column  width='200' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Jangka Waktu]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Target Pendapatan (RAB)]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Pendapatan]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Target Laba (RAB)]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Laba]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Beban]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Uang Muka]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ ByDM]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Piutang]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Proforma]]></column><column  width='100' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[ Progress Pekerjaan]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Info QA/QC]]></column><column  width='10' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='4' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[169,750,000.0]]></column>
+<column><![CDATA[92,674,040.0]]></column>
+<column><![CDATA[40,362,667.0]]></column>
+<column><![CDATA[92,674,040.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[101,941,444.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[21001_KOM2_PT. Krakatau Steel_Resertifikasi Tanki CAP 5&2]]></cell><cell><![CDATA[KRAKATAU STEEL (PERSERO) TBK]]></cell><cell><![CDATA[04-01-2021 s/d 31-03-2021]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[-14,162,333.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[21002_KOM2_PT. Polytama & PT. Pertamina (Persero)_Proyek Jasa Peninjauan Propylene]]></cell><cell><![CDATA[POLYTAMA PROPINDO]]></cell><cell><![CDATA[01-01-2021 s/d 31-01-2021]]></cell><cell><![CDATA[169,750,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[54,525,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[20006_KOM2_SHG_TPT_Jasa VPTI (Verifikasi Penelusuran Teknis Impor)]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[01-01-2021 s/d 31-12-2021]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[92,674,040.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[92,674,040.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[101,941,444.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row></rows><rows profile='color'><head><columns><column  width='35' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  width='300' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Nama Project]]></column><column  width='200' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Klien]]></column><column  width='200' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Jangka Waktu]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Target Pendapatan (RAB)]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Pendapatan]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Target Laba (RAB)]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Laba]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Beban]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Uang Muka]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ ByDM]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Piutang]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Proforma]]></column><column  width='100' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[ Progress Pekerjaan]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Info QA/QC]]></column><column  width='10' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='4' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[169,750,000.0]]></column>
+<column><![CDATA[92,674,040.0]]></column>
+<column><![CDATA[40,362,667.0]]></column>
+<column><![CDATA[92,674,040.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[101,941,444.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[21001_KOM2_PT. Krakatau Steel_Resertifikasi Tanki CAP 5&2]]></cell><cell><![CDATA[KRAKATAU STEEL (PERSERO) TBK]]></cell><cell><![CDATA[04-01-2021 s/d 31-03-2021]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[-14,162,333.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[21002_KOM2_PT. Polytama & PT. Pertamina (Persero)_Proyek Jasa Peninjauan Propylene]]></cell><cell><![CDATA[POLYTAMA PROPINDO]]></cell><cell><![CDATA[01-01-2021 s/d 31-01-2021]]></cell><cell><![CDATA[169,750,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[54,525,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[20006_KOM2_SHG_TPT_Jasa VPTI (Verifikasi Penelusuran Teknis Impor)]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[01-01-2021 s/d 31-12-2021]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[92,674,040.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[92,674,040.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[101,941,444.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row></rows><rows profile='color'><head><columns><column  width='35' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  width='300' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Nama Project]]></column><column  width='200' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Klien]]></column><column  width='200' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Jangka Waktu]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Target Pendapatan (RAB)]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Pendapatan]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Target Laba (RAB)]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Laba]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Beban]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Uang Muka]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ ByDM]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Piutang]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Proforma]]></column><column  width='100' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[ Progress Pekerjaan]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Info QA/QC]]></column><column  width='10' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='4' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[169,750,000.0]]></column>
+<column><![CDATA[92,674,040.0]]></column>
+<column><![CDATA[40,362,667.0]]></column>
+<column><![CDATA[92,674,040.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[101,941,444.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[21001_KOM2_PT. Krakatau Steel_Resertifikasi Tanki CAP 5&2]]></cell><cell><![CDATA[KRAKATAU STEEL (PERSERO) TBK]]></cell><cell><![CDATA[04-01-2021 s/d 31-03-2021]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[-14,162,333.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[21002_KOM2_PT. Polytama & PT. Pertamina (Persero)_Proyek Jasa Peninjauan Propylene]]></cell><cell><![CDATA[POLYTAMA PROPINDO]]></cell><cell><![CDATA[01-01-2021 s/d 31-01-2021]]></cell><cell><![CDATA[169,750,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[54,525,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[20006_KOM2_SHG_TPT_Jasa VPTI (Verifikasi Penelusuran Teknis Impor)]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[01-01-2021 s/d 31-12-2021]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[92,674,040.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[92,674,040.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[101,941,444.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row></rows><rows profile='color'><head><columns><column  width='35' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  width='300' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Nama Project]]></column><column  width='200' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Klien]]></column><column  width='200' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Jangka Waktu]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Target Pendapatan (RAB)]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Pendapatan]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Target Laba (RAB)]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Laba]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Beban]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Uang Muka]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ ByDM]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Piutang]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Proforma]]></column><column  width='100' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[ Progress Pekerjaan]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Info QA/QC]]></column><column  width='10' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='4' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[169,750,000.0]]></column>
+<column><![CDATA[92,674,040.0]]></column>
+<column><![CDATA[40,362,667.0]]></column>
+<column><![CDATA[92,674,040.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[101,941,444.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[21001_KOM2_PT. Krakatau Steel_Resertifikasi Tanki CAP 5&2]]></cell><cell><![CDATA[KRAKATAU STEEL (PERSERO) TBK]]></cell><cell><![CDATA[04-01-2021 s/d 31-03-2021]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[-14,162,333.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[21002_KOM2_PT. Polytama & PT. Pertamina (Persero)_Proyek Jasa Peninjauan Propylene]]></cell><cell><![CDATA[POLYTAMA PROPINDO]]></cell><cell><![CDATA[01-01-2021 s/d 31-01-2021]]></cell><cell><![CDATA[169,750,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[54,525,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[20006_KOM2_SHG_TPT_Jasa VPTI (Verifikasi Penelusuran Teknis Impor)]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[01-01-2021 s/d 31-12-2021]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[92,674,040.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[92,674,040.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[101,941,444.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row></rows><rows profile='color'><head><columns><column  width='35' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  width='300' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Nama Project]]></column><column  width='200' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Klien]]></column><column  width='200' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Jangka Waktu]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Target Pendapatan (RAB)]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Pendapatan]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Target Laba (RAB)]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Laba]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Beban]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Uang Muka]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ ByDM]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Piutang]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Proforma]]></column><column  width='100' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[ Progress Pekerjaan]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Info QA/QC]]></column><column  width='10' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='4' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[169,750,000.0]]></column>
+<column><![CDATA[92,674,040.0]]></column>
+<column><![CDATA[40,362,667.0]]></column>
+<column><![CDATA[92,674,040.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[101,941,444.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[21001_KOM2_PT. Krakatau Steel_Resertifikasi Tanki CAP 5&2]]></cell><cell><![CDATA[KRAKATAU STEEL (PERSERO) TBK]]></cell><cell><![CDATA[04-01-2021 s/d 31-03-2021]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[-14,162,333.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[21002_KOM2_PT. Polytama & PT. Pertamina (Persero)_Proyek Jasa Peninjauan Propylene]]></cell><cell><![CDATA[POLYTAMA PROPINDO]]></cell><cell><![CDATA[01-01-2021 s/d 31-01-2021]]></cell><cell><![CDATA[169,750,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[54,525,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[20006_KOM2_SHG_TPT_Jasa VPTI (Verifikasi Penelusuran Teknis Impor)]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[01-01-2021 s/d 31-12-2021]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[92,674,040.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[92,674,040.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[101,941,444.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row></rows><rows profile='color'><head><columns><column  width='35' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  width='300' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Nama Project]]></column><column  width='200' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Klien]]></column><column  width='200' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Jangka Waktu]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Target Pendapatan (RAB)]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Pendapatan]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Target Laba (RAB)]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Laba]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Beban]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Uang Muka]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ ByDM]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Piutang]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Proforma]]></column><column  width='100' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[ Progress Pekerjaan]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Info QA/QC]]></column><column  width='10' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='4' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[169,750,000.0]]></column>
+<column><![CDATA[92,674,040.0]]></column>
+<column><![CDATA[40,362,667.0]]></column>
+<column><![CDATA[92,674,040.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[101,941,444.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[21001_KOM2_PT. Krakatau Steel_Resertifikasi Tanki CAP 5&2]]></cell><cell><![CDATA[KRAKATAU STEEL (PERSERO) TBK]]></cell><cell><![CDATA[04-01-2021 s/d 31-03-2021]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[-14,162,333.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[21002_KOM2_PT. Polytama & PT. Pertamina (Persero)_Proyek Jasa Peninjauan Propylene]]></cell><cell><![CDATA[POLYTAMA PROPINDO]]></cell><cell><![CDATA[01-01-2021 s/d 31-01-2021]]></cell><cell><![CDATA[169,750,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[54,525,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[20006_KOM2_SHG_TPT_Jasa VPTI (Verifikasi Penelusuran Teknis Impor)]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[01-01-2021 s/d 31-12-2021]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[92,674,040.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[92,674,040.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[101,941,444.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row></rows><rows profile='color'><head><columns><column  width='35' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  width='300' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Nama Project]]></column><column  width='200' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Klien]]></column><column  width='200' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Jangka Waktu]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Target Pendapatan (RAB)]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Pendapatan]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Target Laba (RAB)]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Laba]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Beban]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Uang Muka]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ ByDM]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Piutang]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Proforma]]></column><column  width='100' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[ Progress Pekerjaan]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Info QA/QC]]></column><column  width='10' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='4' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[169,750,000.0]]></column>
+<column><![CDATA[92,674,040.0]]></column>
+<column><![CDATA[40,362,667.0]]></column>
+<column><![CDATA[92,674,040.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[101,941,444.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[21001_KOM2_PT. Krakatau Steel_Resertifikasi Tanki CAP 5&2]]></cell><cell><![CDATA[KRAKATAU STEEL (PERSERO) TBK]]></cell><cell><![CDATA[04-01-2021 s/d 31-03-2021]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[-14,162,333.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[21002_KOM2_PT. Polytama & PT. Pertamina (Persero)_Proyek Jasa Peninjauan Propylene]]></cell><cell><![CDATA[POLYTAMA PROPINDO]]></cell><cell><![CDATA[01-01-2021 s/d 31-01-2021]]></cell><cell><![CDATA[169,750,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[54,525,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[20006_KOM2_SHG_TPT_Jasa VPTI (Verifikasi Penelusuran Teknis Impor)]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[01-01-2021 s/d 31-12-2021]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[92,674,040.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[92,674,040.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[101,941,444.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row></rows><rows profile='color'><head><columns><column  width='35' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  width='300' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Nama Project]]></column><column  width='200' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Klien]]></column><column  width='200' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Jangka Waktu]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Target Pendapatan (RAB)]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Pendapatan]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Target Laba (RAB)]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Laba]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Beban]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Uang Muka]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ ByDM]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Piutang]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Proforma]]></column><column  width='100' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[ Progress Pekerjaan]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Info QA/QC]]></column><column  width='10' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='4' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[169,750,000.0]]></column>
+<column><![CDATA[92,674,040.0]]></column>
+<column><![CDATA[40,362,667.0]]></column>
+<column><![CDATA[92,674,040.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[101,941,444.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[21001_KOM2_PT. Krakatau Steel_Resertifikasi Tanki CAP 5&2]]></cell><cell><![CDATA[KRAKATAU STEEL (PERSERO) TBK]]></cell><cell><![CDATA[04-01-2021 s/d 31-03-2021]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[-14,162,333.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[21002_KOM2_PT. Polytama & PT. Pertamina (Persero)_Proyek Jasa Peninjauan Propylene]]></cell><cell><![CDATA[POLYTAMA PROPINDO]]></cell><cell><![CDATA[01-01-2021 s/d 31-01-2021]]></cell><cell><![CDATA[169,750,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[54,525,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[20006_KOM2_SHG_TPT_Jasa VPTI (Verifikasi Penelusuran Teknis Impor)]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[01-01-2021 s/d 31-12-2021]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[92,674,040.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[92,674,040.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[101,941,444.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row></rows><rows profile='color'><head><columns><column  width='35' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  width='300' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Nama Project]]></column><column  width='200' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Klien]]></column><column  width='200' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Jangka Waktu]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Target Pendapatan (RAB)]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Pendapatan]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Target Laba (RAB)]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Laba]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Beban]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Uang Muka]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ ByDM]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Piutang]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Proforma]]></column><column  width='100' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[ Progress Pekerjaan]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Info QA/QC]]></column><column  width='10' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='4' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[169,750,000.0]]></column>
+<column><![CDATA[92,674,040.0]]></column>
+<column><![CDATA[40,362,667.0]]></column>
+<column><![CDATA[92,674,040.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[101,941,444.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[21001_KOM2_PT. Krakatau Steel_Resertifikasi Tanki CAP 5&2]]></cell><cell><![CDATA[KRAKATAU STEEL (PERSERO) TBK]]></cell><cell><![CDATA[04-01-2021 s/d 31-03-2021]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[-14,162,333.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[21002_KOM2_PT. Polytama & PT. Pertamina (Persero)_Proyek Jasa Peninjauan Propylene]]></cell><cell><![CDATA[POLYTAMA PROPINDO]]></cell><cell><![CDATA[01-01-2021 s/d 31-01-2021]]></cell><cell><![CDATA[169,750,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[54,525,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[20006_KOM2_SHG_TPT_Jasa VPTI (Verifikasi Penelusuran Teknis Impor)]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[01-01-2021 s/d 31-12-2021]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[92,674,040.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[92,674,040.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[101,941,444.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row></rows><rows profile='color'><head><columns><column  width='35' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  width='300' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Nama Project]]></column><column  width='200' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Klien]]></column><column  width='200' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Jangka Waktu]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Target Pendapatan (RAB)]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Pendapatan]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Target Laba (RAB)]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Laba]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Beban]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Uang Muka]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ ByDM]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Piutang]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Proforma]]></column><column  width='100' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[ Progress Pekerjaan]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Info QA/QC]]></column><column  width='10' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='4' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[169,750,000.0]]></column>
+<column><![CDATA[92,674,040.0]]></column>
+<column><![CDATA[40,362,667.0]]></column>
+<column><![CDATA[92,674,040.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[101,941,444.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[21001_KOM2_PT. Krakatau Steel_Resertifikasi Tanki CAP 5&2]]></cell><cell><![CDATA[KRAKATAU STEEL (PERSERO) TBK]]></cell><cell><![CDATA[04-01-2021 s/d 31-03-2021]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[-14,162,333.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[21002_KOM2_PT. Polytama & PT. Pertamina (Persero)_Proyek Jasa Peninjauan Propylene]]></cell><cell><![CDATA[POLYTAMA PROPINDO]]></cell><cell><![CDATA[01-01-2021 s/d 31-01-2021]]></cell><cell><![CDATA[169,750,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[54,525,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[20006_KOM2_SHG_TPT_Jasa VPTI (Verifikasi Penelusuran Teknis Impor)]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[01-01-2021 s/d 31-12-2021]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[92,674,040.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[92,674,040.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[101,941,444.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row></rows><rows profile='color'><head><columns><column  width='35' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  width='300' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Nama Project]]></column><column  width='200' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Klien]]></column><column  width='200' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Jangka Waktu]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Target Pendapatan (RAB)]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Pendapatan]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Target Laba (RAB)]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Laba]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Beban]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Uang Muka]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ ByDM]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Piutang]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Proforma]]></column><column  width='100' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[ Progress Pekerjaan]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Info QA/QC]]></column><column  width='10' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='4' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[169,750,000.0]]></column>
+<column><![CDATA[92,674,040.0]]></column>
+<column><![CDATA[40,362,667.0]]></column>
+<column><![CDATA[92,674,040.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[101,941,444.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[21001_KOM2_PT. Krakatau Steel_Resertifikasi Tanki CAP 5&2]]></cell><cell><![CDATA[KRAKATAU STEEL (PERSERO) TBK]]></cell><cell><![CDATA[04-01-2021 s/d 31-03-2021]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[-14,162,333.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[21002_KOM2_PT. Polytama & PT. Pertamina (Persero)_Proyek Jasa Peninjauan Propylene]]></cell><cell><![CDATA[POLYTAMA PROPINDO]]></cell><cell><![CDATA[01-01-2021 s/d 31-01-2021]]></cell><cell><![CDATA[169,750,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[54,525,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[20006_KOM2_SHG_TPT_Jasa VPTI (Verifikasi Penelusuran Teknis Impor)]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[01-01-2021 s/d 31-12-2021]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[92,674,040.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[92,674,040.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[101,941,444.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row></rows><rows profile='color'><head><columns><column  width='35' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  width='300' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Nama Project]]></column><column  width='200' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Klien]]></column><column  width='200' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Jangka Waktu]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Target Pendapatan (RAB)]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Pendapatan]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Target Laba (RAB)]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Laba]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Beban]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Uang Muka]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ ByDM]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Piutang]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Proforma]]></column><column  width='100' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[ Progress Pekerjaan]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Info QA/QC]]></column><column  width='10' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='4' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[169,750,000.0]]></column>
+<column><![CDATA[92,674,040.0]]></column>
+<column><![CDATA[40,362,667.0]]></column>
+<column><![CDATA[92,674,040.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[101,941,444.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[21001_KOM2_PT. Krakatau Steel_Resertifikasi Tanki CAP 5&2]]></cell><cell><![CDATA[KRAKATAU STEEL (PERSERO) TBK]]></cell><cell><![CDATA[04-01-2021 s/d 31-03-2021]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[-14,162,333.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[21002_KOM2_PT. Polytama & PT. Pertamina (Persero)_Proyek Jasa Peninjauan Propylene]]></cell><cell><![CDATA[POLYTAMA PROPINDO]]></cell><cell><![CDATA[01-01-2021 s/d 31-01-2021]]></cell><cell><![CDATA[169,750,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[54,525,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[20006_KOM2_SHG_TPT_Jasa VPTI (Verifikasi Penelusuran Teknis Impor)]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[01-01-2021 s/d 31-12-2021]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[92,674,040.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[92,674,040.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[101,941,444.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row></rows><rows profile='color'><head><columns><column  width='35' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  width='300' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Nama Project]]></column><column  width='200' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Klien]]></column><column  width='200' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Jangka Waktu]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Target Pendapatan (RAB)]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Pendapatan]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Target Laba (RAB)]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Laba]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Beban]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Uang Muka]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ ByDM]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Piutang]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Proforma]]></column><column  width='100' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[ Progress Pekerjaan]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Info QA/QC]]></column><column  width='10' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='4' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[169,750,000.0]]></column>
+<column><![CDATA[92,674,040.0]]></column>
+<column><![CDATA[40,362,667.0]]></column>
+<column><![CDATA[92,674,040.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[101,941,444.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[21001_KOM2_PT. Krakatau Steel_Resertifikasi Tanki CAP 5&2]]></cell><cell><![CDATA[KRAKATAU STEEL (PERSERO) TBK]]></cell><cell><![CDATA[04-01-2021 s/d 31-03-2021]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[-14,162,333.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[21002_KOM2_PT. Polytama & PT. Pertamina (Persero)_Proyek Jasa Peninjauan Propylene]]></cell><cell><![CDATA[POLYTAMA PROPINDO]]></cell><cell><![CDATA[01-01-2021 s/d 31-01-2021]]></cell><cell><![CDATA[169,750,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[54,525,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[20006_KOM2_SHG_TPT_Jasa VPTI (Verifikasi Penelusuran Teknis Impor)]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[01-01-2021 s/d 31-12-2021]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[92,674,040.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[92,674,040.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[101,941,444.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row></rows><rows profile='color'><head><columns><column  width='35' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  width='300' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Nama Project]]></column><column  width='200' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Klien]]></column><column  width='200' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Jangka Waktu]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Target Pendapatan (RAB)]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Pendapatan]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Target Laba (RAB)]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Laba]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Beban]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Uang Muka]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ ByDM]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Piutang]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Proforma]]></column><column  width='100' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[ Progress Pekerjaan]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Info QA/QC]]></column><column  width='10' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='4' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[169,750,000.0]]></column>
+<column><![CDATA[92,674,040.0]]></column>
+<column><![CDATA[40,362,667.0]]></column>
+<column><![CDATA[92,674,040.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[101,941,444.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[21001_KOM2_PT. Krakatau Steel_Resertifikasi Tanki CAP 5&2]]></cell><cell><![CDATA[KRAKATAU STEEL (PERSERO) TBK]]></cell><cell><![CDATA[04-01-2021 s/d 31-03-2021]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[-14,162,333.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[21002_KOM2_PT. Polytama & PT. Pertamina (Persero)_Proyek Jasa Peninjauan Propylene]]></cell><cell><![CDATA[POLYTAMA PROPINDO]]></cell><cell><![CDATA[01-01-2021 s/d 31-01-2021]]></cell><cell><![CDATA[169,750,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[54,525,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[20006_KOM2_SHG_TPT_Jasa VPTI (Verifikasi Penelusuran Teknis Impor)]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[01-01-2021 s/d 31-12-2021]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[92,674,040.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[92,674,040.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[101,941,444.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row></rows><rows profile='color'><head><columns><column  width='35' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  width='300' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Nama Project]]></column><column  width='200' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Klien]]></column><column  width='200' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Jangka Waktu]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Target Pendapatan (RAB)]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Pendapatan]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Target Laba (RAB)]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Laba]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Beban]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Uang Muka]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ ByDM]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Piutang]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Proforma]]></column><column  width='100' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[ Progress Pekerjaan]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Info QA/QC]]></column><column  width='10' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='4' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[169,750,000.0]]></column>
+<column><![CDATA[92,674,040.0]]></column>
+<column><![CDATA[40,362,667.0]]></column>
+<column><![CDATA[92,674,040.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[101,941,444.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[21001_KOM2_PT. Krakatau Steel_Resertifikasi Tanki CAP 5&2]]></cell><cell><![CDATA[KRAKATAU STEEL (PERSERO) TBK]]></cell><cell><![CDATA[04-01-2021 s/d 31-03-2021]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[-14,162,333.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[21002_KOM2_PT. Polytama & PT. Pertamina (Persero)_Proyek Jasa Peninjauan Propylene]]></cell><cell><![CDATA[POLYTAMA PROPINDO]]></cell><cell><![CDATA[01-01-2021 s/d 31-01-2021]]></cell><cell><![CDATA[169,750,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[54,525,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[20006_KOM2_SHG_TPT_Jasa VPTI (Verifikasi Penelusuran Teknis Impor)]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[01-01-2021 s/d 31-12-2021]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[92,674,040.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[92,674,040.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[101,941,444.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row></rows><rows profile='color'><head><columns><column  width='35' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  width='300' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Nama Project]]></column><column  width='200' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Klien]]></column><column  width='200' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Jangka Waktu]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Target Pendapatan (RAB)]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Pendapatan]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Target Laba (RAB)]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Laba]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Realisasi Beban]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Uang Muka]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ ByDM]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Piutang]]></column><column  width='120' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Proforma]]></column><column  width='100' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[ Progress Pekerjaan]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Info QA/QC]]></column><column  width='10' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='4' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[169,750,000.0]]></column>
+<column><![CDATA[92,674,040.0]]></column>
+<column><![CDATA[40,362,667.0]]></column>
+<column><![CDATA[92,674,040.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[101,941,444.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[21001_KOM2_PT. Krakatau Steel_Resertifikasi Tanki CAP 5&2]]></cell><cell><![CDATA[KRAKATAU STEEL (PERSERO) TBK]]></cell><cell><![CDATA[04-01-2021 s/d 31-03-2021]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[-14,162,333.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[21002_KOM2_PT. Polytama & PT. Pertamina (Persero)_Proyek Jasa Peninjauan Propylene]]></cell><cell><![CDATA[POLYTAMA PROPINDO]]></cell><cell><![CDATA[01-01-2021 s/d 31-01-2021]]></cell><cell><![CDATA[169,750,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[54,525,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[20006_KOM2_SHG_TPT_Jasa VPTI (Verifikasi Penelusuran Teknis Impor)]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[01-01-2021 s/d 31-12-2021]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[92,674,040.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[92,674,040.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[101,941,444.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[ ]]></cell></row></rows>

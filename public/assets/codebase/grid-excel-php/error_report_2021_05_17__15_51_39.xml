@@ -1,0 +1,182 @@
+<rows profile='color'><head><columns><column  rowspan="4"  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  rowspan="4"  width='120' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[Divisi Bisnis/Cabang]]></column><column  colspan="2"  width='120' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Project]]></column><column  width='230' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='190' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Klien]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[P (7/4)]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[L (9/6)]]></column><column  colspan="2"  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[Jangka Waktu]]></column><column  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Nilai Kontrak]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ RAB]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="3"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Realisasi]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Prosentase Progress 2021]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[  Piutang]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Proforma]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Uang Muka]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ ByDM]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ PPU dan ByDM Detail]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Chart Pendapatan]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Kode]]></column><column rowspan="3" ><![CDATA[Nama]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Awal]]></column><column rowspan="3" ><![CDATA[Akhir]]></column><column><![CDATA[]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Setahun]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Bulan Berjalan]]></column><column><![CDATA[Realisasi Beban Vs RAB Setahun]]></column><column><![CDATA[Realisasi Beban Vs RAB Bulan Berjalan]]></column><column><![CDATA[Progress Fisik]]></column><column><![CDATA[QAQC]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="3" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[s/d Bulan Mei]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[(1)]]></column><column><![CDATA[(2)]]></column><column><![CDATA[(3)]]></column><column><![CDATA[(4)]]></column><column><![CDATA[(5)]]></column><column><![CDATA[(6)]]></column><column><![CDATA[(7)]]></column><column><![CDATA[(8)]]></column><column><![CDATA[(9)]]></column><column><![CDATA[(7/1)]]></column><column><![CDATA[(7/4)]]></column><column><![CDATA[(8/2)]]></column><column><![CDATA[(8/5)]]></column><column><![CDATA[(15)]]></column><column><![CDATA[(16)]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='9' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[149,670,800,000.0]]></column>
+<column><![CDATA[70,694,011,862.0]]></column>
+<column><![CDATA[54,634,364,716.0]]></column>
+<column><![CDATA[16,059,647,146.0]]></column>
+<column><![CDATA[50,132,426,465.0]]></column>
+<column><![CDATA[38,590,272,252.0]]></column>
+<column><![CDATA[11,542,154,213.0]]></column>
+<column><![CDATA[22,054,990,736.0]]></column>
+<column><![CDATA[16,284,502,557.0]]></column>
+<column><![CDATA[5,770,488,179.0]]></column>
+<column colspan='6' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[7,770,476,939.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[4,629,806,210.0]]></column>
+<column><![CDATA[2,716,558,519.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[SI UB MIGAS DAN SP]]></cell><cell><![CDATA[0121010006(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[Pengadaan Jasa Surveyor Dalam Rangka Verifikasi Permintaan Pembayaran Dana Pembiayaan Biodiesel Periode Januari- Desember 2021]]></cell><cell><![CDATA[BADAN PENGELOLA DANA PERKEBUNAN (BPDP) KELAPA SAWIT]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[22-01-2021]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[72,000,000,000.0]]></cell><cell><![CDATA[34,742,882,544.0]]></cell><cell><![CDATA[26,894,500,998.0]]></cell><cell><![CDATA[7,848,381,546.0]]></cell><cell><![CDATA[28,952,402,120.0]]></cell><cell><![CDATA[22,412,084,165.0]]></cell><cell><![CDATA[6,540,317,955.0]]></cell><cell><![CDATA[18,151,454,851.0]]></cell><cell><![CDATA[11,948,373,940.3]]></cell><cell><![CDATA[6,203,080,910.7]]></cell><cell><![CDATA[52.25]]></cell><cell><![CDATA[62.69]]></cell><cell><![CDATA[44.4]]></cell><cell><![CDATA[53.3]]></cell><cell><![CDATA[24 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[6,658,640,139.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[2,582,775,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[SI UB MIGAS DAN SP]]></cell><cell><![CDATA[0121020004(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[Pemetaan Jalur Transmisi Menggunakan Metode LIDAR (Light Detection And Ranging) UPT Jambi]]></cell><cell><![CDATA[PLN (PERSERO)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[31-03-2021]]></cell><cell><![CDATA[250,800,000.0]]></cell><cell><![CDATA[228,000,000.0]]></cell><cell><![CDATA[189,230,000.0]]></cell><cell><![CDATA[38,770,000.0]]></cell><cell><![CDATA[228,000,000.0]]></cell><cell><![CDATA[189,230,000.0]]></cell><cell><![CDATA[38,770,000.0]]></cell><cell><![CDATA[228,000,000.0]]></cell><cell><![CDATA[189,230,000.0]]></cell><cell><![CDATA[38,770,000.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100.0]]></cell><cell><![CDATA[100.0]]></cell><cell><![CDATA[100 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[250,800,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[SI UB MIGAS DAN SP]]></cell><cell><![CDATA[0121020010(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[JASA INDEPENDENT SURVEYOR KUALITAS DAN KUANTITAS BBM DI UNLOADING PORT SEMESTER 1 TAHUN 2021]]></cell><cell><![CDATA[INDONESIA POWER  UJP BANTEN 1 SURALAYA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[17-02-2021]]></cell><cell><![CDATA[30-06-2021]]></cell><cell><![CDATA[30,000,000.0]]></cell><cell><![CDATA[30,000,000.0]]></cell><cell><![CDATA[21,580,000.0]]></cell><cell><![CDATA[8,420,000.0]]></cell><cell><![CDATA[30,000,000.0]]></cell><cell><![CDATA[21,580,000.0]]></cell><cell><![CDATA[8,420,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[100 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[5,080,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[SI UB MIGAS DAN SP]]></cell><cell><![CDATA[0121020011(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[Jasa Konsultansi dan Verifikasi Rencana Kebutuhan Barang Impor (RKBI) 2021 di Geo Dipa Energi (Persero)]]></cell><cell><![CDATA[GEO DIPA ENERGI (PERSERO)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[125,000,000.0]]></cell><cell><![CDATA[125,000,000.0]]></cell><cell><![CDATA[85,005,000.0]]></cell><cell><![CDATA[39,995,000.0]]></cell><cell><![CDATA[125,000,000.0]]></cell><cell><![CDATA[85,005,000.0]]></cell><cell><![CDATA[39,995,000.0]]></cell><cell><![CDATA[125,000,000.0]]></cell><cell><![CDATA[85,005,000.0]]></cell><cell><![CDATA[39,995,000.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100.0]]></cell><cell><![CDATA[100.0]]></cell><cell><![CDATA[65 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[27,325,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[SI UB MIGAS DAN SP]]></cell><cell><![CDATA[0121020013(MULTI YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[Cargo Monitoring Loading Unloading BBM Menggunakan Moda Transportasi Kapal 2021]]></cell><cell><![CDATA[PERTAMINA (PERSERO)]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[07-04-2021]]></cell><cell><![CDATA[07-04-2022]]></cell><cell><![CDATA[53,000,000,000.0]]></cell><cell><![CDATA[18,333,333,332.0]]></cell><cell><![CDATA[14,663,416,676.0]]></cell><cell><![CDATA[3,669,916,656.0]]></cell><cell><![CDATA[9,166,666,666.0]]></cell><cell><![CDATA[7,331,708,338.0]]></cell><cell><![CDATA[1,834,958,328.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[11 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[1,508,601,210.0]]></cell><cell><![CDATA[2,166,119,264.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[SI UB MIGAS DAN SP]]></cell><cell><![CDATA[0121020017(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[Cargo Surveyor, Lab, Loading Master STS Balikpapan 2021]]></cell><cell><![CDATA[PERTAMINA (PERSERO)]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-04-2021]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[8,300,000,000.0]]></cell><cell><![CDATA[1,873,500,000.0]]></cell><cell><![CDATA[1,333,337,784.0]]></cell><cell><![CDATA[540,162,216.0]]></cell><cell><![CDATA[1,873,500,000.0]]></cell><cell><![CDATA[1,333,337,784.0]]></cell><cell><![CDATA[540,162,216.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[267,815,541.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[SI UB MIGAS DAN SP]]></cell><cell><![CDATA[0121040007(MULTI YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[Verifikasi RIB]]></cell><cell><![CDATA[PETRO HIDRO OPTIMA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[15-12-2020]]></cell><cell><![CDATA[15-06-2021]]></cell><cell><![CDATA[90,000,000.0]]></cell><cell><![CDATA[90,000,000.0]]></cell><cell><![CDATA[61,785,000.0]]></cell><cell><![CDATA[28,215,000.0]]></cell><cell><![CDATA[90,000,000.0]]></cell><cell><![CDATA[61,785,000.0]]></cell><cell><![CDATA[28,215,000.0]]></cell><cell><![CDATA[45,000,000.0]]></cell><cell><![CDATA[31,246,374.0]]></cell><cell><![CDATA[13,753,626.0]]></cell><cell><![CDATA[50]]></cell><cell><![CDATA[50]]></cell><cell><![CDATA[50.6]]></cell><cell><![CDATA[50.6]]></cell><cell><![CDATA[93 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[SI UB MIGAS DAN SP]]></cell><cell><![CDATA[0121040008(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[Jasa Analisa Komposisi Gas untuk PLN dan RAPP]]></cell><cell><![CDATA[EMP BENTU LTD]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[28-01-2021]]></cell><cell><![CDATA[31-03-2021]]></cell><cell><![CDATA[157,000,000.0]]></cell><cell><![CDATA[157,000,000.0]]></cell><cell><![CDATA[124,000,000.0]]></cell><cell><![CDATA[33,000,000.0]]></cell><cell><![CDATA[157,000,000.0]]></cell><cell><![CDATA[124,000,000.0]]></cell><cell><![CDATA[33,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[100 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[32,000,000.0]]></cell><cell><![CDATA[35,540,800.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[SI UB MIGAS DAN SP]]></cell><cell><![CDATA[0121040012(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[Extension of the Master List for Rantau Dedap GPP]]></cell><cell><![CDATA[FUJI ELECTRIC INDONESIA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[24-01-2021]]></cell><cell><![CDATA[25-02-2021]]></cell><cell><![CDATA[20,000,000.0]]></cell><cell><![CDATA[20,000,000.0]]></cell><cell><![CDATA[11,220,000.0]]></cell><cell><![CDATA[8,780,000.0]]></cell><cell><![CDATA[20,000,000.0]]></cell><cell><![CDATA[11,220,000.0]]></cell><cell><![CDATA[8,780,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[100 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[5,074,728.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[SI UB MIGAS DAN SP]]></cell><cell><![CDATA[0121040014(MULTI YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[Jasa Analisis Komposisi Gas, Nilai Kalor dan Kadar Air tahun 2021]]></cell><cell><![CDATA[EMP BENTU LTD]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-04-2021]]></cell><cell><![CDATA[30-06-2022]]></cell><cell><![CDATA[1,910,000,000.0]]></cell><cell><![CDATA[1,432,500,003.0]]></cell><cell><![CDATA[1,070,100,000.0]]></cell><cell><![CDATA[362,400,003.0]]></cell><cell><![CDATA[318,333,334.0]]></cell><cell><![CDATA[237,800,000.0]]></cell><cell><![CDATA[80,533,334.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[11 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[25,000,000.0]]></cell><cell><![CDATA[10,460,800.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[SI UB MIGAS DAN SP]]></cell><cell><![CDATA[0121040015(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[Jasa Konsultansi Verifikasi Rencana Kebutuhan Impor Barang (RKBI) / Masterlist- Tahun 2021]]></cell><cell><![CDATA[SORIK MERAPI GEOTHERMAL  POWER]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[04-02-2021]]></cell><cell><![CDATA[20-04-2021]]></cell><cell><![CDATA[68,000,000.0]]></cell><cell><![CDATA[68,000,000.0]]></cell><cell><![CDATA[42,670,000.0]]></cell><cell><![CDATA[25,330,000.0]]></cell><cell><![CDATA[68,000,000.0]]></cell><cell><![CDATA[42,670,000.0]]></cell><cell><![CDATA[25,330,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[100 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[26,350,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[SI UB MIGAS DAN SP]]></cell><cell><![CDATA[0121040016(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[SERTIFIKAT LAIK OPRASI (SLO) POSO 2 EXTENSION]]></cell><cell><![CDATA[BUKAKA TEKNIK UTAMA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-07-2021]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[400,000,000.0]]></cell><cell><![CDATA[400,000,000.0]]></cell><cell><![CDATA[315,750,000.0]]></cell><cell><![CDATA[84,250,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[200,000,000.0]]></cell><cell><![CDATA[157,790,643.0]]></cell><cell><![CDATA[42,209,357.0]]></cell><cell><![CDATA[50]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[50.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[SI UB MIGAS DAN SP]]></cell><cell><![CDATA[0121990001(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[JASA SURVEYOR PENERIMAAN BBM HSD TAHUN 2021 (IP DAN PJB)]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[1,500,000,000.0]]></cell><cell><![CDATA[908,610,983.0]]></cell><cell><![CDATA[679,906,500.0]]></cell><cell><![CDATA[228,704,483.0]]></cell><cell><![CDATA[649,007,845.0]]></cell><cell><![CDATA[485,647,500.0]]></cell><cell><![CDATA[163,360,345.0]]></cell><cell><![CDATA[48,000,000.0]]></cell><cell><![CDATA[36,000,000.0]]></cell><cell><![CDATA[12,000,000.0]]></cell><cell><![CDATA[5.28]]></cell><cell><![CDATA[7.4]]></cell><cell><![CDATA[5.3]]></cell><cell><![CDATA[7.4]]></cell><cell><![CDATA[32 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[52,800,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[110,000,000.0]]></cell><cell><![CDATA[162,061,719.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[SI UB MIGAS DAN SP]]></cell><cell><![CDATA[0121990002(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[Verifikasi Penelusuran Teknis Ekspor/Impor Migas dan Bahan Bakar Lainnya (PERMENDAG 03 2015) Tahun 2021]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[4,320,000,000.0]]></cell><cell><![CDATA[4,320,000,000.0]]></cell><cell><![CDATA[3,273,634,800.0]]></cell><cell><![CDATA[1,046,365,200.0]]></cell><cell><![CDATA[1,800,000,000.0]]></cell><cell><![CDATA[1,364,014,500.0]]></cell><cell><![CDATA[435,985,500.0]]></cell><cell><![CDATA[1,457,946,843.0]]></cell><cell><![CDATA[937,152,676.5]]></cell><cell><![CDATA[520,794,166.5]]></cell><cell><![CDATA[33.75]]></cell><cell><![CDATA[81]]></cell><cell><![CDATA[28.6]]></cell><cell><![CDATA[68.7]]></cell><cell><![CDATA[32 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[490,250,200.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[144,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[SI UB MIGAS DAN SP]]></cell><cell><![CDATA[0121990003(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[Laboratorium Pelumas]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[7,000,000,000.0]]></cell><cell><![CDATA[7,275,000,000.0]]></cell><cell><![CDATA[5,445,597,960.0]]></cell><cell><![CDATA[1,829,402,040.0]]></cell><cell><![CDATA[6,062,500,000.0]]></cell><cell><![CDATA[4,537,998,300.0]]></cell><cell><![CDATA[1,524,501,700.0]]></cell><cell><![CDATA[1,736,989,042.0]]></cell><cell><![CDATA[2,861,260,294.2]]></cell><cell><![CDATA[-1,124,271,252.2]]></cell><cell><![CDATA[23.88]]></cell><cell><![CDATA[28.65]]></cell><cell><![CDATA[52.5]]></cell><cell><![CDATA[63.1]]></cell><cell><![CDATA[32 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[315,266,600.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[85,350,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[SI UB MIGAS DAN SP]]></cell><cell><![CDATA[0121990005(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[Konsultasi Untuk Potensi Bahaya Besar/K3/SMK3]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[500,000,000.0]]></cell><cell><![CDATA[690,185,000.0]]></cell><cell><![CDATA[422,629,998.0]]></cell><cell><![CDATA[267,555,002.0]]></cell><cell><![CDATA[592,016,500.0]]></cell><cell><![CDATA[352,191,665.0]]></cell><cell><![CDATA[239,824,835.0]]></cell><cell><![CDATA[62,600,000.0]]></cell><cell><![CDATA[38,443,629.0]]></cell><cell><![CDATA[24,156,371.0]]></cell><cell><![CDATA[9.07]]></cell><cell><![CDATA[10.57]]></cell><cell><![CDATA[9.1]]></cell><cell><![CDATA[10.9]]></cell><cell><![CDATA[15 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[2,720,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[83,325,000.0]]></cell><cell><![CDATA[69,485,667.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row></rows>

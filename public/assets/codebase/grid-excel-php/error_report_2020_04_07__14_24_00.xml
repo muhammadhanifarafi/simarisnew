@@ -1,0 +1,286 @@
+<rows profile='color'><head><columns><column  width='50' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  width='150' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Unit Pemilik]]></column><column  width='0' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ No. FA]]></column><column  width='210' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Deskripsi]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ No. Inventaris]]></column><column  width='90' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Aktifitas]]></column><column  width='150' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Unit Pengguna]]></column><column  width='110' align='' type='ro' hidden='false' sort='na' color=''><![CDATA[ PIC]]></column><column  width='220' align='leftleft' type='ro' hidden='false' sort='na' color=''><![CDATA[ Nama Project]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Awal Peminjaman]]></column><column  width='115' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Rencana Pengembalian]]></column><column  width='115' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Tanggal Pengembalian]]></column><column  width='70' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[ Jumlah Hari]]></column><column  width='0' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ...]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Kondisi Akhir]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='12' ><![CDATA[GRAND TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot></rows><rows profile='color'><head><columns><column  width='50' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  width='150' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Unit Pemilik]]></column><column  width='0' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ No. FA]]></column><column  width='210' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Deskripsi]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ No. Inventaris]]></column><column  width='90' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Aktifitas]]></column><column  width='150' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Unit Pengguna]]></column><column  width='110' align='' type='ro' hidden='false' sort='na' color=''><![CDATA[ PIC]]></column><column  width='220' align='leftleft' type='ro' hidden='false' sort='na' color=''><![CDATA[ Nama Project]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Awal Peminjaman]]></column><column  width='115' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Rencana Pengembalian]]></column><column  width='115' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Tanggal Pengembalian]]></column><column  width='70' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[ Jumlah Hari]]></column><column  width='0' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ...]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Kondisi Akhir]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='12' ><![CDATA[GRAND TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot></rows><rows profile='color'><head><columns><column  width='50' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  width='150' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Unit Pemilik]]></column><column  width='0' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ No. FA]]></column><column  width='210' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Deskripsi]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ No. Inventaris]]></column><column  width='90' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Aktifitas]]></column><column  width='150' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Unit Pengguna]]></column><column  width='110' align='' type='ro' hidden='false' sort='na' color=''><![CDATA[ PIC]]></column><column  width='220' align='leftleft' type='ro' hidden='false' sort='na' color=''><![CDATA[ Nama Project]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Awal Peminjaman]]></column><column  width='115' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Rencana Pengembalian]]></column><column  width='115' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Tanggal Pengembalian]]></column><column  width='70' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[ Jumlah Hari]]></column><column  width='0' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ...]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Kondisi Akhir]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='12' ><![CDATA[GRAND TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot></rows><rows profile='color'><head><columns><column  width='50' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  width='150' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Unit Pemilik]]></column><column  width='0' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ No. FA]]></column><column  width='210' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Deskripsi]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ No. Inventaris]]></column><column  width='90' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Aktifitas]]></column><column  width='150' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Unit Pengguna]]></column><column  width='110' align='' type='ro' hidden='false' sort='na' color=''><![CDATA[ PIC]]></column><column  width='220' align='leftleft' type='ro' hidden='false' sort='na' color=''><![CDATA[ Nama Project]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Awal Peminjaman]]></column><column  width='115' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Rencana Pengembalian]]></column><column  width='115' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Tanggal Pengembalian]]></column><column  width='70' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[ Jumlah Hari]]></column><column  width='0' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ...]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Kondisi Akhir]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='12' ><![CDATA[GRAND TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot></rows><rows profile='color'><head><columns><column  width='50' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  width='150' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Unit Pemilik]]></column><column  width='0' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ No. FA]]></column><column  width='210' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Deskripsi]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ No. Inventaris]]></column><column  width='90' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Aktifitas]]></column><column  width='150' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Unit Pengguna]]></column><column  width='110' align='' type='ro' hidden='false' sort='na' color=''><![CDATA[ PIC]]></column><column  width='220' align='leftleft' type='ro' hidden='false' sort='na' color=''><![CDATA[ Nama Project]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Awal Peminjaman]]></column><column  width='115' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Rencana Pengembalian]]></column><column  width='115' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Tanggal Pengembalian]]></column><column  width='70' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[ Jumlah Hari]]></column><column  width='0' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ...]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Kondisi Akhir]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='12' ><![CDATA[GRAND TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot></rows><rows profile='color'><head><columns><column  width='50' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  width='150' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Unit Pemilik]]></column><column  width='0' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ No. FA]]></column><column  width='210' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Deskripsi]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ No. Inventaris]]></column><column  width='90' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Aktifitas]]></column><column  width='150' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Unit Pengguna]]></column><column  width='110' align='' type='ro' hidden='false' sort='na' color=''><![CDATA[ PIC]]></column><column  width='220' align='leftleft' type='ro' hidden='false' sort='na' color=''><![CDATA[ Nama Project]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Awal Peminjaman]]></column><column  width='115' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Rencana Pengembalian]]></column><column  width='115' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Tanggal Pengembalian]]></column><column  width='70' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[ Jumlah Hari]]></column><column  width='0' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ...]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Kondisi Akhir]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='12' ><![CDATA[GRAND TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot></rows><rows profile='color'><head><columns><column  width='50' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  width='150' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Unit Pemilik]]></column><column  width='0' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ No. FA]]></column><column  width='210' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Deskripsi]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ No. Inventaris]]></column><column  width='90' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Aktifitas]]></column><column  width='150' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Unit Pengguna]]></column><column  width='110' align='' type='ro' hidden='false' sort='na' color=''><![CDATA[ PIC]]></column><column  width='220' align='leftleft' type='ro' hidden='false' sort='na' color=''><![CDATA[ Nama Project]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Awal Peminjaman]]></column><column  width='115' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Rencana Pengembalian]]></column><column  width='115' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Tanggal Pengembalian]]></column><column  width='70' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[ Jumlah Hari]]></column><column  width='0' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ...]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Kondisi Akhir]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='12' ><![CDATA[GRAND TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot></rows><rows profile='color'><head><columns><column  width='50' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  width='150' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Unit Pemilik]]></column><column  width='0' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ No. FA]]></column><column  width='210' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Deskripsi]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ No. Inventaris]]></column><column  width='90' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Aktifitas]]></column><column  width='150' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Unit Pengguna]]></column><column  width='110' align='' type='ro' hidden='false' sort='na' color=''><![CDATA[ PIC]]></column><column  width='220' align='leftleft' type='ro' hidden='false' sort='na' color=''><![CDATA[ Nama Project]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Awal Peminjaman]]></column><column  width='115' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Rencana Pengembalian]]></column><column  width='115' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Tanggal Pengembalian]]></column><column  width='70' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[ Jumlah Hari]]></column><column  width='0' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ...]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Kondisi Akhir]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='12' ><![CDATA[GRAND TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot></rows><rows profile='color'><head><columns><column  width='50' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  width='150' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Unit Pemilik]]></column><column  width='0' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ No. FA]]></column><column  width='210' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Deskripsi]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ No. Inventaris]]></column><column  width='90' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Aktifitas]]></column><column  width='150' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Unit Pengguna]]></column><column  width='110' align='' type='ro' hidden='false' sort='na' color=''><![CDATA[ PIC]]></column><column  width='220' align='leftleft' type='ro' hidden='false' sort='na' color=''><![CDATA[ Nama Project]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Awal Peminjaman]]></column><column  width='115' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Rencana Pengembalian]]></column><column  width='115' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Tanggal Pengembalian]]></column><column  width='70' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[ Jumlah Hari]]></column><column  width='0' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ...]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Kondisi Akhir]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='12' ><![CDATA[GRAND TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot></rows><rows profile='color'><head><columns><column  width='50' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  width='150' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Unit Pemilik]]></column><column  width='0' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ No. FA]]></column><column  width='210' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Deskripsi]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ No. Inventaris]]></column><column  width='90' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Aktifitas]]></column><column  width='150' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Unit Pengguna]]></column><column  width='110' align='' type='ro' hidden='false' sort='na' color=''><![CDATA[ PIC]]></column><column  width='220' align='leftleft' type='ro' hidden='false' sort='na' color=''><![CDATA[ Nama Project]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Awal Peminjaman]]></column><column  width='115' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Rencana Pengembalian]]></column><column  width='115' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Tanggal Pengembalian]]></column><column  width='70' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[ Jumlah Hari]]></column><column  width='0' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ...]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Kondisi Akhir]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='12' ><![CDATA[GRAND TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot></rows><rows profile='color'><head><columns><column  width='50' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  width='150' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Unit Pemilik]]></column><column  width='0' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ No. FA]]></column><column  width='210' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Deskripsi]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ No. Inventaris]]></column><column  width='90' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Aktifitas]]></column><column  width='150' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Unit Pengguna]]></column><column  width='110' align='' type='ro' hidden='false' sort='na' color=''><![CDATA[ PIC]]></column><column  width='220' align='leftleft' type='ro' hidden='false' sort='na' color=''><![CDATA[ Nama Project]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Awal Peminjaman]]></column><column  width='115' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Rencana Pengembalian]]></column><column  width='115' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Tanggal Pengembalian]]></column><column  width='70' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[ Jumlah Hari]]></column><column  width='0' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ...]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Kondisi Akhir]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='12' ><![CDATA[GRAND TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot></rows><rows profile='color'><head><columns><column  width='50' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  width='150' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Unit Pemilik]]></column><column  width='0' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ No. FA]]></column><column  width='210' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Deskripsi]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ No. Inventaris]]></column><column  width='90' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Aktifitas]]></column><column  width='150' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Unit Pengguna]]></column><column  width='110' align='' type='ro' hidden='false' sort='na' color=''><![CDATA[ PIC]]></column><column  width='220' align='leftleft' type='ro' hidden='false' sort='na' color=''><![CDATA[ Nama Project]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Awal Peminjaman]]></column><column  width='115' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Rencana Pengembalian]]></column><column  width='115' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Tanggal Pengembalian]]></column><column  width='70' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[ Jumlah Hari]]></column><column  width='0' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ...]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Kondisi Akhir]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='12' ><![CDATA[GRAND TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot></rows><rows profile='color'><head><columns><column  width='50' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  width='150' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Unit Pemilik]]></column><column  width='0' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ No. FA]]></column><column  width='210' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Deskripsi]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ No. Inventaris]]></column><column  width='90' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Aktifitas]]></column><column  width='150' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Unit Pengguna]]></column><column  width='110' align='' type='ro' hidden='false' sort='na' color=''><![CDATA[ PIC]]></column><column  width='220' align='leftleft' type='ro' hidden='false' sort='na' color=''><![CDATA[ Nama Project]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Awal Peminjaman]]></column><column  width='115' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Rencana Pengembalian]]></column><column  width='115' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Tanggal Pengembalian]]></column><column  width='70' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[ Jumlah Hari]]></column><column  width='0' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ...]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Kondisi Akhir]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='12' ><![CDATA[GRAND TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot></rows><rows profile='color'><head><columns><column  width='50' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  width='150' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Unit Pemilik]]></column><column  width='0' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ No. FA]]></column><column  width='210' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Deskripsi]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ No. Inventaris]]></column><column  width='90' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Aktifitas]]></column><column  width='150' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Unit Pengguna]]></column><column  width='110' align='' type='ro' hidden='false' sort='na' color=''><![CDATA[ PIC]]></column><column  width='220' align='leftleft' type='ro' hidden='false' sort='na' color=''><![CDATA[ Nama Project]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Awal Peminjaman]]></column><column  width='115' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Rencana Pengembalian]]></column><column  width='115' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Tanggal Pengembalian]]></column><column  width='70' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[ Jumlah Hari]]></column><column  width='0' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ...]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Kondisi Akhir]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='12' ><![CDATA[GRAND TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot></rows><rows profile='color'><head><columns><column  width='50' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  width='150' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Unit Pemilik]]></column><column  width='0' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ No. FA]]></column><column  width='210' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Deskripsi]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ No. Inventaris]]></column><column  width='90' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Aktifitas]]></column><column  width='150' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[ Unit Pengguna]]></column><column  width='110' align='' type='ro' hidden='false' sort='na' color=''><![CDATA[ PIC]]></column><column  width='220' align='leftleft' type='ro' hidden='false' sort='na' color=''><![CDATA[ Nama Project]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Awal Peminjaman]]></column><column  width='115' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Rencana Pengembalian]]></column><column  width='115' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Tanggal Pengembalian]]></column><column  width='70' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[ Jumlah Hari]]></column><column  width='0' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ...]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Kondisi Akhir]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='12' ><![CDATA[GRAND TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot></rows>

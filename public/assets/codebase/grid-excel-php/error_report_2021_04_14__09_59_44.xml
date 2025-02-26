@@ -1,0 +1,439 @@
+<rows profile='color'><head><columns><column  rowspan="4"  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  colspan="2"  width='120' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Project]]></column><column  width='230' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='190' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Klien]]></column><column  rowspan="4"  width='40' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[P]]></column><column  rowspan="4"  width='40' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[L]]></column><column  colspan="2"  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[Jangka Waktu]]></column><column  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Nilai Kontrak]]></column><column  colspan="5"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[RAB]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="3"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Realisasi]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Prosentase Progress 2021]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ]]></column></columns>
+<columns><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Kode]]></column><column rowspan="3" ><![CDATA[Nama]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Awal]]></column><column rowspan="3" ><![CDATA[Akhir]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Setahun]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Bulan Berjalan]]></column><column><![CDATA[Realisasi Beban Vs RAB Setahun]]></column><column><![CDATA[Realisasi Beban Vs RAB Bulan Berjalan]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="3" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[s/d Bulan Pebruari]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="4" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[ ]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[(1)]]></column><column><![CDATA[(2)]]></column><column><![CDATA[(3)]]></column><column><![CDATA[(4)]]></column><column><![CDATA[(5)]]></column><column><![CDATA[(6)]]></column><column><![CDATA[(7)]]></column><column><![CDATA[(8)]]></column><column><![CDATA[(9)]]></column><column><![CDATA[(7/1)]]></column><column><![CDATA[(7/4)]]></column><column><![CDATA[(8/2)]]></column><column><![CDATA[(8/5)]]></column><column><![CDATA[(15)]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='8' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[52,425,207,533.0]]></column>
+<column><![CDATA[35,266,383,188.0]]></column>
+<column><![CDATA[13,519,445,775.0]]></column>
+<column><![CDATA[21,746,937,413.0]]></column>
+<column><![CDATA[4,442,636,667.0]]></column>
+<column><![CDATA[4,552,254,714.3]]></column>
+<column><![CDATA[-109,618,047.3]]></column>
+<column><![CDATA[2,190,206,816.0]]></column>
+<column><![CDATA[1,361,487,952.0]]></column>
+<column><![CDATA[828,718,864.0]]></column>
+<column colspan='6' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[0721010035]]></cell><cell><![CDATA[21037_KOM2_BPDASHL Ketahun Bengkulu_Proyek Pengawasan & Penilaian Penanaman RHL (P2) Paket 1, Seluas 2.950 Ha]]></cell><cell><![CDATA[BPDAS DAN HUTAN LINDUNG KETAHUN]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[10-03-2021]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[1,205,000,000.0]]></cell><cell><![CDATA[1,205,000,000.0]]></cell><cell><![CDATA[678,850,000.0]]></cell><cell><![CDATA[526,150,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[0721020004]]></cell><cell><![CDATA[21001_KOM2_PT. Krakatau Steel_Resertifikasi Tanki CAP 5&2]]></cell><cell><![CDATA[KRAKATAU STEEL (PERSERO) TBK]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[04-01-2021]]></cell><cell><![CDATA[31-03-2021]]></cell><cell><![CDATA[54,854,400.0]]></cell><cell><![CDATA[54,854,400.0]]></cell><cell><![CDATA[39,028,000.0]]></cell><cell><![CDATA[15,826,400.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[28,324,666.0]]></cell><cell><![CDATA[-28,324,666.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[-87,836.0]]></cell><cell><![CDATA[87,836.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[-0.23]]></cell><cell><![CDATA[-0.31]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[0721020022]]></cell><cell><![CDATA[21023_KOM1_PERTAMINA MOR VII_JASA INSPEKSI TANGKI TIMBUN OVERDUE DI LINGKUNGAN OPERASI S&D REGION VII]]></cell><cell><![CDATA[PERTAMINA (PERSERO) MOR VII]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[08-02-2021]]></cell><cell><![CDATA[07-06-2023]]></cell><cell><![CDATA[1,035,000,000.0]]></cell><cell><![CDATA[544,030,000.0]]></cell><cell><![CDATA[295,426,068.0]]></cell><cell><![CDATA[248,603,932.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[26,257,513.0]]></cell><cell><![CDATA[-26,257,513.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[65 %]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[0721020030]]></cell><cell><![CDATA[21035_KOM1_PT PLN UPDK BANDAR LAMPUNG_UJI RIKSA PERALATAN ALAT ANGKAT DAN ANGKUT UPDK BANDAR LAMPUNG]]></cell><cell><![CDATA[PLN (PERSERO) SEKTOR PEMBANGKITAN BANDAR LAMPUNG]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-03-2021]]></cell><cell><![CDATA[31-05-2021]]></cell><cell><![CDATA[180,750,000.0]]></cell><cell><![CDATA[180,750,000.0]]></cell><cell><![CDATA[121,100,000.0]]></cell><cell><![CDATA[59,650,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[0721020036]]></cell><cell><![CDATA[21038_KOM2_PT. Bank Rakyat Indonesia_Resertifikasi Lift]]></cell><cell><![CDATA[BANK RAKYAT INDONESIA (PERSERO) TBK]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[17-03-2021]]></cell><cell><![CDATA[30-05-2021]]></cell><cell><![CDATA[15,120,000.0]]></cell><cell><![CDATA[13,745,455.0]]></cell><cell><![CDATA[9,200,000.0]]></cell><cell><![CDATA[4,545,455.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[0721020038]]></cell><cell><![CDATA[21039_KOM1_PT PLN UPDK BANDAR LAMPUNG_UJI RIKSA INSTALANSI PENYALUR PETIR UPDK BANDAR LAMPUNG]]></cell><cell><![CDATA[PLN (PERSERO) SEKTOR PEMBANGKITAN BANDAR LAMPUNG]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[24-03-2021]]></cell><cell><![CDATA[30-05-2021]]></cell><cell><![CDATA[54,250,000.0]]></cell><cell><![CDATA[54,250,000.0]]></cell><cell><![CDATA[36,300,000.0]]></cell><cell><![CDATA[17,950,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[0721040002]]></cell><cell><![CDATA[20113_KOM2_PT. Satria Bahana Sarana_Jasa Pemeriksaan & Pengujian Flowmeter]]></cell><cell><![CDATA[SATRIA BAHANA SARANA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-12-2020]]></cell><cell><![CDATA[28-02-2021]]></cell><cell><![CDATA[50,050,000.0]]></cell><cell><![CDATA[45,500,000.0]]></cell><cell><![CDATA[30,475,000.0]]></cell><cell><![CDATA[15,025,000.0]]></cell><cell><![CDATA[45,500,000.0]]></cell><cell><![CDATA[30,475,000.0]]></cell><cell><![CDATA[15,025,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[0721040003]]></cell><cell><![CDATA[21002_KOM2_PT. Polytama & PT. Pertamina (Persero)_Proyek Jasa Peninjauan Propylene]]></cell><cell><![CDATA[POLYTAMA PROPINDO]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[20-02-2021]]></cell><cell><![CDATA[174,449,800.0]]></cell><cell><![CDATA[178,010,000.0]]></cell><cell><![CDATA[120,355,000.0]]></cell><cell><![CDATA[57,655,000.0]]></cell><cell><![CDATA[178,010,000.0]]></cell><cell><![CDATA[120,355,000.0]]></cell><cell><![CDATA[57,655,000.0]]></cell><cell><![CDATA[178,612,894.0]]></cell><cell><![CDATA[73,832,352.0]]></cell><cell><![CDATA[104,780,542.0]]></cell><cell><![CDATA[100.34]]></cell><cell><![CDATA[100.34]]></cell><cell><![CDATA[61.35]]></cell><cell><![CDATA[61.35]]></cell><cell><![CDATA[0 %]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[0721040005]]></cell><cell><![CDATA[20114_KOM1_PT AWARD GLOBAL INFINITY_PROYEK REVITALISASI TAMAN TEBET SURVEY TOPOGRAFI]]></cell><cell><![CDATA[AWARD GLOBAL INFINITY]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[21-12-2020]]></cell><cell><![CDATA[01-02-2021]]></cell><cell><![CDATA[190,000,000.0]]></cell><cell><![CDATA[190,000,000.0]]></cell><cell><![CDATA[132,750,000.0]]></cell><cell><![CDATA[57,250,000.0]]></cell><cell><![CDATA[190,000,000.0]]></cell><cell><![CDATA[132,750,000.0]]></cell><cell><![CDATA[57,250,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[100 %]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[0721040006]]></cell><cell><![CDATA[21003_KOM2_PT. Abra Cirebon Sakti_Draft Survey]]></cell><cell><![CDATA[ABRA CIREBON SAKTI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[17-11-2021]]></cell><cell><![CDATA[17-11-2021]]></cell><cell><![CDATA[72,000,000.0]]></cell><cell><![CDATA[72,000,000.0]]></cell><cell><![CDATA[48,124,000.0]]></cell><cell><![CDATA[23,876,000.0]]></cell><cell><![CDATA[12,000,000.0]]></cell><cell><![CDATA[8,404,000.0]]></cell><cell><![CDATA[3,596,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[0721040007]]></cell><cell><![CDATA[21005_KOM2_Unelec Indonesia_Proyek Kalibrasi Tangki]]></cell><cell><![CDATA[UNELEC INDONESIA (UNINDO)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[31-03-2021]]></cell><cell><![CDATA[110,000,000.0]]></cell><cell><![CDATA[110,000,000.0]]></cell><cell><![CDATA[78,400,000.0]]></cell><cell><![CDATA[31,600,000.0]]></cell><cell><![CDATA[110,000,000.0]]></cell><cell><![CDATA[78,400,000.0]]></cell><cell><![CDATA[31,600,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[0721040008]]></cell><cell><![CDATA[21010_KOM2_PT. AKR Corporindo Tbk_Pemeriksaan dan Pengetesan Grounding]]></cell><cell><![CDATA[AKR CORPORINDO TBK]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[11-02-2021]]></cell><cell><![CDATA[30-04-2021]]></cell><cell><![CDATA[13,500,000.0]]></cell><cell><![CDATA[13,500,000.0]]></cell><cell><![CDATA[9,040,000.0]]></cell><cell><![CDATA[4,460,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[6,540,000.0]]></cell><cell><![CDATA[-6,540,000.0]]></cell><cell><![CDATA[13,500,000.0]]></cell><cell><![CDATA[2,840,000.0]]></cell><cell><![CDATA[10,660,000.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[31.42]]></cell><cell><![CDATA[43.43]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[0721040009]]></cell><cell><![CDATA[21013_KOM2_Polytama & Pertamina_Proyek Jasa Peninjauan Propylene]]></cell><cell><![CDATA[POLYTAMA PROPINDO]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-02-2021]]></cell><cell><![CDATA[28-02-2021]]></cell><cell><![CDATA[160,160,000.0]]></cell><cell><![CDATA[160,160,000.0]]></cell><cell><![CDATA[107,130,000.0]]></cell><cell><![CDATA[53,030,000.0]]></cell><cell><![CDATA[160,160,000.0]]></cell><cell><![CDATA[107,130,000.0]]></cell><cell><![CDATA[53,030,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0 %]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[0721040010]]></cell><cell><![CDATA[21008_KOM2_Panca Amara Utama_Proyek Jasa Pembuatan Laporan Pelaksanaan RKL/RPL di Banggai Amoniak Plan Tahun 2021 (Semester)]]></cell><cell><![CDATA[PANCA AMARA UTAMA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[894,000,000.0]]></cell><cell><![CDATA[894,000,000.0]]></cell><cell><![CDATA[687,250,000.0]]></cell><cell><![CDATA[206,750,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[1,500,000.0]]></cell><cell><![CDATA[-1,500,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[26 %]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[0721040011]]></cell><cell><![CDATA[21017_KOM2_Tri Teguh Manunggal Sejati_Resertifikasi Instalasi Penyalur Petir & Verifikasi Dokumen Perizinan]]></cell><cell><![CDATA[TRITEGUH MANUNGGAL SEJATI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[21-01-2021]]></cell><cell><![CDATA[31-03-2021]]></cell><cell><![CDATA[12,500,000.0]]></cell><cell><![CDATA[12,500,000.0]]></cell><cell><![CDATA[8,370,000.0]]></cell><cell><![CDATA[4,130,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[8,370,000.0]]></cell><cell><![CDATA[-8,370,000.0]]></cell><cell><![CDATA[12,500,000.0]]></cell><cell><![CDATA[1,570,000.0]]></cell><cell><![CDATA[10,930,000.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[18.76]]></cell><cell><![CDATA[18.76]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[0721040012]]></cell><cell><![CDATA[21019_KOM2_PT.Sumber Indah Perkasa_Izin TPS LB3]]></cell><cell><![CDATA[SUMBER INDAH PERKASA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[27-01-2021]]></cell><cell><![CDATA[30-04-2021]]></cell><cell><![CDATA[48,000,000.0]]></cell><cell><![CDATA[48,000,000.0]]></cell><cell><![CDATA[32,120,000.0]]></cell><cell><![CDATA[15,880,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[30,420,000.0]]></cell><cell><![CDATA[-30,420,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[17]]></cell><cell><![CDATA[0721040013]]></cell><cell><![CDATA[21018_KOM2_CV Jimmy Forklift Mandiri_Resertifikasi Mobile Crane]]></cell><cell><![CDATA[JIMMY FORKLIFT MANDIRI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[25-01-2021]]></cell><cell><![CDATA[31-03-2021]]></cell><cell><![CDATA[10,500,000.0]]></cell><cell><![CDATA[10,500,000.0]]></cell><cell><![CDATA[7,030,000.0]]></cell><cell><![CDATA[3,470,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[6,030,000.0]]></cell><cell><![CDATA[-6,030,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[18]]></cell><cell><![CDATA[0721040015]]></cell><cell><![CDATA[21020_KOM1_KOMATSU MARKETING AND SUPPORT INDONESIA_VIBRATION ANALYZER]]></cell><cell><![CDATA[KOMATSU MARKETING AND SUPPORT INDONESIA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-02-2021]]></cell><cell><![CDATA[28-02-2021]]></cell><cell><![CDATA[37,400,000.0]]></cell><cell><![CDATA[37,400,000.0]]></cell><cell><![CDATA[24,399,529.0]]></cell><cell><![CDATA[13,000,471.0]]></cell><cell><![CDATA[37,400,000.0]]></cell><cell><![CDATA[24,399,529.0]]></cell><cell><![CDATA[13,000,471.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[19]]></cell><cell><![CDATA[0721040016]]></cell><cell><![CDATA[21010_KOM1_PT JAKARTA INTERNATIONAL CONTAINER TERMINAL_RESERTIFIKASI PESAWAT ANGKAT ANGKUT HUBLA DAN DISNAKER]]></cell><cell><![CDATA[JAKARTA INTERNATIONAL CONTAINER TERMINAL]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[20-01-2021]]></cell><cell><![CDATA[21-05-2021]]></cell><cell><![CDATA[16,500,000.0]]></cell><cell><![CDATA[11,000,000.0]]></cell><cell><![CDATA[9,926,140.0]]></cell><cell><![CDATA[1,073,860.0]]></cell><cell><![CDATA[5,500,000.0]]></cell><cell><![CDATA[3,308,713.3]]></cell><cell><![CDATA[2,191,286.7]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[20]]></cell><cell><![CDATA[0721040017]]></cell><cell><![CDATA[21009_KOM2_PJB Muara Tawar_Loading & Unloading BBM Menggunakan Trucking]]></cell><cell><![CDATA[PEMBANGKITAN JAWA BALI (PJB)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[15-01-2021]]></cell><cell><![CDATA[18-02-2021]]></cell><cell><![CDATA[125,000,000.0]]></cell><cell><![CDATA[125,000,000.0]]></cell><cell><![CDATA[81,850,000.0]]></cell><cell><![CDATA[43,150,000.0]]></cell><cell><![CDATA[125,000,000.0]]></cell><cell><![CDATA[81,850,000.0]]></cell><cell><![CDATA[43,150,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[21]]></cell><cell><![CDATA[0721040018]]></cell><cell><![CDATA[21015_KOM2_PJB Muara Karang_Jasa Sertifikasi Sling Tali Baja]]></cell><cell><![CDATA[PEMBANGKITAN JAWA BALI (PJB)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[30-01-2021]]></cell><cell><![CDATA[31-03-2021]]></cell><cell><![CDATA[48,565,000.0]]></cell><cell><![CDATA[44,150,000.0]]></cell><cell><![CDATA[29,535,000.0]]></cell><cell><![CDATA[14,615,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[14,767,500.0]]></cell><cell><![CDATA[-14,767,500.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[75 %]]></cell></row>
+<row><cell><![CDATA[22]]></cell><cell><![CDATA[0721040019]]></cell><cell><![CDATA[21016_KOM2_PJB Muara Karang_Jasa Sertifikasi Sling Tali Baja]]></cell><cell><![CDATA[PEMBANGKITAN JAWA BALI (PJB)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[30-01-2021]]></cell><cell><![CDATA[31-03-2021]]></cell><cell><![CDATA[88,825,000.0]]></cell><cell><![CDATA[80,750,000.0]]></cell><cell><![CDATA[54,085,000.0]]></cell><cell><![CDATA[26,665,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[26,792,500.0]]></cell><cell><![CDATA[-26,792,500.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[75 %]]></cell></row>
+<row><cell><![CDATA[23]]></cell><cell><![CDATA[0721040020]]></cell><cell><![CDATA[21021_KOM1_KOMATSU MARKETING AND SUPPORT INDONESIA_VIBRATION ANALYZER]]></cell><cell><![CDATA[KOMATSU MARKETING AND SUPPORT INDONESIA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-02-2021]]></cell><cell><![CDATA[28-02-2021]]></cell><cell><![CDATA[7,550,000.0]]></cell><cell><![CDATA[7,550,000.0]]></cell><cell><![CDATA[3,830,302.0]]></cell><cell><![CDATA[3,719,698.0]]></cell><cell><![CDATA[7,550,000.0]]></cell><cell><![CDATA[3,830,302.0]]></cell><cell><![CDATA[3,719,698.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[24]]></cell><cell><![CDATA[0721040021]]></cell><cell><![CDATA[21004_KOM1_PT PERTAMINA EP ASSET 4_KONTRAK PAYUNG GEODETIC SURVEY, MARINE SURVEY DAN SOIL INVESTIGATION PT PERTAMINA EP ASSET 4]]></cell><cell><![CDATA[PERTAMINA EP ASSET 4]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[06-01-2021]]></cell><cell><![CDATA[03-03-2023]]></cell><cell><![CDATA[19,320,000,000.0]]></cell><cell><![CDATA[3,220,000,000.0]]></cell><cell><![CDATA[3,075,700,940.0]]></cell><cell><![CDATA[144,299,060.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[1,299,988,226.0]]></cell><cell><![CDATA[-1,299,988,226.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[5,530,793.0]]></cell><cell><![CDATA[-5,530,793.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.18]]></cell><cell><![CDATA[0.43]]></cell><cell><![CDATA[5 %]]></cell></row>
+<row><cell><![CDATA[25]]></cell><cell><![CDATA[0721040023]]></cell><cell><![CDATA[21022_KOM1_UNIVERSAL ENERGY RESOURCES_ANNUAL ELEVATOR SERVICES]]></cell><cell><![CDATA[UNIVERSAL ENERGY RESOURCES, INC]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[13-02-2021]]></cell><cell><![CDATA[15-03-2021]]></cell><cell><![CDATA[132,833,333.0]]></cell><cell><![CDATA[132,833,333.0]]></cell><cell><![CDATA[88,925,864.0]]></cell><cell><![CDATA[43,907,469.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[44,462,932.0]]></cell><cell><![CDATA[-44,462,932.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[26]]></cell><cell><![CDATA[0721040024]]></cell><cell><![CDATA[21025_KOM2_PT. Cahaya Batu Mulia_Pemeriksaan & Pengujian Genset 640 kVa]]></cell><cell><![CDATA[CAHAYA BATU MULIA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[30-01-2021]]></cell><cell><![CDATA[31-05-2021]]></cell><cell><![CDATA[21,000,000.0]]></cell><cell><![CDATA[21,000,000.0]]></cell><cell><![CDATA[14,055,000.0]]></cell><cell><![CDATA[6,945,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[12,405,000.0]]></cell><cell><![CDATA[-12,405,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[27]]></cell><cell><![CDATA[0721040025]]></cell><cell><![CDATA[21024_KOM2_PT. Sinar Batu Sakti Lestari_Pemeriksaan & Pengujian Genset 511 kVA]]></cell><cell><![CDATA[SINAR BATU SAKTI LESTARI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[30-01-2021]]></cell><cell><![CDATA[30-05-2021]]></cell><cell><![CDATA[19,000,000.0]]></cell><cell><![CDATA[19,000,000.0]]></cell><cell><![CDATA[12,730,000.0]]></cell><cell><![CDATA[6,270,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[5,305,000.0]]></cell><cell><![CDATA[-5,305,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[28]]></cell><cell><![CDATA[0721040026]]></cell><cell><![CDATA[21027_KOM1_PT DELTA CITRA MANDIRI_POSITIVE MATERIAL INSPECTION]]></cell><cell><![CDATA[DELTA CITRA MANDIRI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[10-02-2021]]></cell><cell><![CDATA[10-04-2021]]></cell><cell><![CDATA[4,500,000.0]]></cell><cell><![CDATA[4,500,000.0]]></cell><cell><![CDATA[2,866,400.0]]></cell><cell><![CDATA[1,633,600.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[29]]></cell><cell><![CDATA[0721040027]]></cell><cell><![CDATA[21028_KOM1_PT BABCOCK & WILCOX ASIA_ULTRASONIC FLAW DETECTOR TEST SERVICES]]></cell><cell><![CDATA[BABCOCK & WILCOCK ASIA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[23-02-2021]]></cell><cell><![CDATA[15-04-2021]]></cell><cell><![CDATA[17,800,000.0]]></cell><cell><![CDATA[17,800,000.0]]></cell><cell><![CDATA[11,047,167.0]]></cell><cell><![CDATA[6,752,833.0]]></cell><cell><![CDATA[5,933,333.0]]></cell><cell><![CDATA[2,822,167.0]]></cell><cell><![CDATA[3,111,166.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[30]]></cell><cell><![CDATA[0721040028]]></cell><cell><![CDATA[21030_KOM2_PT. Sumber Indah Perkasa_Redrawing & Testing Material Steam Header & Boiler]]></cell><cell><![CDATA[SUMBER INDAH PERKASA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[11-02-2021]]></cell><cell><![CDATA[30-06-2021]]></cell><cell><![CDATA[170,000,000.0]]></cell><cell><![CDATA[170,000,000.0]]></cell><cell><![CDATA[113,870,000.0]]></cell><cell><![CDATA[56,130,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[31]]></cell><cell><![CDATA[0721040029]]></cell><cell><![CDATA[21032_KOM2_RS. Graha Husada_Resertifikasi Alat K3]]></cell><cell><![CDATA[RS GRAHA HUSADA LAMPUNG]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[22-02-2021]]></cell><cell><![CDATA[30-06-2021]]></cell><cell><![CDATA[23,600,000.0]]></cell><cell><![CDATA[23,600,000.0]]></cell><cell><![CDATA[15,795,000.0]]></cell><cell><![CDATA[7,805,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[32]]></cell><cell><![CDATA[0721040031]]></cell><cell><![CDATA[21034_KOM2_PT. Tirta Investama_Riksa Uji Berkala]]></cell><cell><![CDATA[TIRTA INVESTAMA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[02-03-2021]]></cell><cell><![CDATA[30-05-2021]]></cell><cell><![CDATA[63,000,000.0]]></cell><cell><![CDATA[63,000,000.0]]></cell><cell><![CDATA[42,200,000.0]]></cell><cell><![CDATA[20,800,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[33]]></cell><cell><![CDATA[0721040033]]></cell><cell><![CDATA[21031_KOM2_Panca Amara Utama_Remote Visual Inspection]]></cell><cell><![CDATA[PANCA AMARA UTAMA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[28-08-2020]]></cell><cell><![CDATA[30-03-2021]]></cell><cell><![CDATA[41,000,000.0]]></cell><cell><![CDATA[8,000,000.0]]></cell><cell><![CDATA[4,400,000.0]]></cell><cell><![CDATA[3,600,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[34]]></cell><cell><![CDATA[0721040034]]></cell><cell><![CDATA[21036_KOM2_PT. Keong Nusantara Abadi_Pemeriksaan & Pengujian Genset 500 Kva]]></cell><cell><![CDATA[KEONG NUSANTARA ABADI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[08-03-2021]]></cell><cell><![CDATA[30-06-2021]]></cell><cell><![CDATA[38,000,000.0]]></cell><cell><![CDATA[38,000,000.0]]></cell><cell><![CDATA[25,450,000.0]]></cell><cell><![CDATA[12,550,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[35]]></cell><cell><![CDATA[0721040037]]></cell><cell><![CDATA[21014_KOM2_Freeport Indonesia_Survey & Laboratory Test For Various Commodities]]></cell><cell><![CDATA[FREEPORT INDONESIA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[12-02-2021]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[5,145,000,000.0]]></cell><cell><![CDATA[4,630,500,000.0]]></cell><cell><![CDATA[743,076,365.0]]></cell><cell><![CDATA[3,887,423,635.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[36]]></cell><cell><![CDATA[0721040039]]></cell><cell><![CDATA[21026_KOM1_PT KALTIM METHANOL INDUSTRI_INSPEKSI MENGGUNAKAN ROPE ACCESS]]></cell><cell><![CDATA[KALTIM METHANOL INDUSTRI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[05-03-2021]]></cell><cell><![CDATA[05-06-2021]]></cell><cell><![CDATA[192,000,000.0]]></cell><cell><![CDATA[192,000,000.0]]></cell><cell><![CDATA[124,755,000.0]]></cell><cell><![CDATA[67,245,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[37]]></cell><cell><![CDATA[0721990001]]></cell><cell><![CDATA[21007_KOM2_SHG_TPT_Jasa VPTI (Verifikasi Penelusuran Teknis Impor)]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[22,000,000,000.0]]></cell><cell><![CDATA[22,000,000,000.0]]></cell><cell><![CDATA[6,176,060,000.0]]></cell><cell><![CDATA[15,823,940,000.0]]></cell><cell><![CDATA[3,460,000,000.0]]></cell><cell><![CDATA[2,377,210,000.0]]></cell><cell><![CDATA[1,082,790,000.0]]></cell><cell><![CDATA[1,985,593,922.0]]></cell><cell><![CDATA[1,277,802,643.0]]></cell><cell><![CDATA[707,791,279.0]]></cell><cell><![CDATA[9.03]]></cell><cell><![CDATA[57.39]]></cell><cell><![CDATA[20.69]]></cell><cell><![CDATA[53.75]]></cell><cell><![CDATA[18 %]]></cell></row>
+<row><cell><![CDATA[38]]></cell><cell><![CDATA[0721990014]]></cell><cell><![CDATA[21011_KOM2_PT. Freeport Indonesia_Quality & Quantity Nomination For Diesel Fuel Nomination]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[633,500,000.0]]></cell><cell><![CDATA[633,500,000.0]]></cell><cell><![CDATA[423,940,000.0]]></cell><cell><![CDATA[209,560,000.0]]></cell><cell><![CDATA[105,583,334.0]]></cell><cell><![CDATA[70,156,666.0]]></cell><cell><![CDATA[35,426,668.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row></rows><rows profile='color'><head><columns><column  rowspan="4"  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  colspan="2"  width='120' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Project]]></column><column  width='230' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='190' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Klien]]></column><column  rowspan="4"  width='40' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[P]]></column><column  rowspan="4"  width='40' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[L]]></column><column  colspan="2"  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[Jangka Waktu]]></column><column  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Nilai Kontrak]]></column><column  colspan="5"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[RAB]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="3"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Realisasi]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Prosentase Progress 2021]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ]]></column></columns>
+<columns><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Kode]]></column><column rowspan="3" ><![CDATA[Nama]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Awal]]></column><column rowspan="3" ><![CDATA[Akhir]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Setahun]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Bulan Berjalan]]></column><column><![CDATA[Realisasi Beban Vs RAB Setahun]]></column><column><![CDATA[Realisasi Beban Vs RAB Bulan Berjalan]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="3" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[s/d Bulan Pebruari]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="4" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[ ]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[(1)]]></column><column><![CDATA[(2)]]></column><column><![CDATA[(3)]]></column><column><![CDATA[(4)]]></column><column><![CDATA[(5)]]></column><column><![CDATA[(6)]]></column><column><![CDATA[(7)]]></column><column><![CDATA[(8)]]></column><column><![CDATA[(9)]]></column><column><![CDATA[(7/1)]]></column><column><![CDATA[(7/4)]]></column><column><![CDATA[(8/2)]]></column><column><![CDATA[(8/5)]]></column><column><![CDATA[(15)]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='8' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[52,425,207,533.0]]></column>
+<column><![CDATA[35,266,383,188.0]]></column>
+<column><![CDATA[13,519,445,775.0]]></column>
+<column><![CDATA[21,746,937,413.0]]></column>
+<column><![CDATA[4,442,636,667.0]]></column>
+<column><![CDATA[4,552,254,714.3]]></column>
+<column><![CDATA[-109,618,047.3]]></column>
+<column><![CDATA[2,190,206,816.0]]></column>
+<column><![CDATA[1,361,487,952.0]]></column>
+<column><![CDATA[828,718,864.0]]></column>
+<column colspan='6' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[0721010035]]></cell><cell><![CDATA[21037_KOM2_BPDASHL Ketahun Bengkulu_Proyek Pengawasan & Penilaian Penanaman RHL (P2) Paket 1, Seluas 2.950 Ha]]></cell><cell><![CDATA[BPDAS DAN HUTAN LINDUNG KETAHUN]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[10-03-2021]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[1,205,000,000.0]]></cell><cell><![CDATA[1,205,000,000.0]]></cell><cell><![CDATA[678,850,000.0]]></cell><cell><![CDATA[526,150,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[0721020004]]></cell><cell><![CDATA[21001_KOM2_PT. Krakatau Steel_Resertifikasi Tanki CAP 5&2]]></cell><cell><![CDATA[KRAKATAU STEEL (PERSERO) TBK]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[04-01-2021]]></cell><cell><![CDATA[31-03-2021]]></cell><cell><![CDATA[54,854,400.0]]></cell><cell><![CDATA[54,854,400.0]]></cell><cell><![CDATA[39,028,000.0]]></cell><cell><![CDATA[15,826,400.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[28,324,666.0]]></cell><cell><![CDATA[-28,324,666.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[-87,836.0]]></cell><cell><![CDATA[87,836.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[-0.23]]></cell><cell><![CDATA[-0.31]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[0721020022]]></cell><cell><![CDATA[21023_KOM1_PERTAMINA MOR VII_JASA INSPEKSI TANGKI TIMBUN OVERDUE DI LINGKUNGAN OPERASI S&D REGION VII]]></cell><cell><![CDATA[PERTAMINA (PERSERO) MOR VII]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[08-02-2021]]></cell><cell><![CDATA[07-06-2023]]></cell><cell><![CDATA[1,035,000,000.0]]></cell><cell><![CDATA[544,030,000.0]]></cell><cell><![CDATA[295,426,068.0]]></cell><cell><![CDATA[248,603,932.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[26,257,513.0]]></cell><cell><![CDATA[-26,257,513.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[65 %]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[0721020030]]></cell><cell><![CDATA[21035_KOM1_PT PLN UPDK BANDAR LAMPUNG_UJI RIKSA PERALATAN ALAT ANGKAT DAN ANGKUT UPDK BANDAR LAMPUNG]]></cell><cell><![CDATA[PLN (PERSERO) SEKTOR PEMBANGKITAN BANDAR LAMPUNG]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-03-2021]]></cell><cell><![CDATA[31-05-2021]]></cell><cell><![CDATA[180,750,000.0]]></cell><cell><![CDATA[180,750,000.0]]></cell><cell><![CDATA[121,100,000.0]]></cell><cell><![CDATA[59,650,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[0721020036]]></cell><cell><![CDATA[21038_KOM2_PT. Bank Rakyat Indonesia_Resertifikasi Lift]]></cell><cell><![CDATA[BANK RAKYAT INDONESIA (PERSERO) TBK]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[17-03-2021]]></cell><cell><![CDATA[30-05-2021]]></cell><cell><![CDATA[15,120,000.0]]></cell><cell><![CDATA[13,745,455.0]]></cell><cell><![CDATA[9,200,000.0]]></cell><cell><![CDATA[4,545,455.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[0721020038]]></cell><cell><![CDATA[21039_KOM1_PT PLN UPDK BANDAR LAMPUNG_UJI RIKSA INSTALANSI PENYALUR PETIR UPDK BANDAR LAMPUNG]]></cell><cell><![CDATA[PLN (PERSERO) SEKTOR PEMBANGKITAN BANDAR LAMPUNG]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[24-03-2021]]></cell><cell><![CDATA[30-05-2021]]></cell><cell><![CDATA[54,250,000.0]]></cell><cell><![CDATA[54,250,000.0]]></cell><cell><![CDATA[36,300,000.0]]></cell><cell><![CDATA[17,950,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[0721040002]]></cell><cell><![CDATA[20113_KOM2_PT. Satria Bahana Sarana_Jasa Pemeriksaan & Pengujian Flowmeter]]></cell><cell><![CDATA[SATRIA BAHANA SARANA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-12-2020]]></cell><cell><![CDATA[28-02-2021]]></cell><cell><![CDATA[50,050,000.0]]></cell><cell><![CDATA[45,500,000.0]]></cell><cell><![CDATA[30,475,000.0]]></cell><cell><![CDATA[15,025,000.0]]></cell><cell><![CDATA[45,500,000.0]]></cell><cell><![CDATA[30,475,000.0]]></cell><cell><![CDATA[15,025,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[0721040003]]></cell><cell><![CDATA[21002_KOM2_PT. Polytama & PT. Pertamina (Persero)_Proyek Jasa Peninjauan Propylene]]></cell><cell><![CDATA[POLYTAMA PROPINDO]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[20-02-2021]]></cell><cell><![CDATA[174,449,800.0]]></cell><cell><![CDATA[178,010,000.0]]></cell><cell><![CDATA[120,355,000.0]]></cell><cell><![CDATA[57,655,000.0]]></cell><cell><![CDATA[178,010,000.0]]></cell><cell><![CDATA[120,355,000.0]]></cell><cell><![CDATA[57,655,000.0]]></cell><cell><![CDATA[178,612,894.0]]></cell><cell><![CDATA[73,832,352.0]]></cell><cell><![CDATA[104,780,542.0]]></cell><cell><![CDATA[100.34]]></cell><cell><![CDATA[100.34]]></cell><cell><![CDATA[61.35]]></cell><cell><![CDATA[61.35]]></cell><cell><![CDATA[0 %]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[0721040005]]></cell><cell><![CDATA[20114_KOM1_PT AWARD GLOBAL INFINITY_PROYEK REVITALISASI TAMAN TEBET SURVEY TOPOGRAFI]]></cell><cell><![CDATA[AWARD GLOBAL INFINITY]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[21-12-2020]]></cell><cell><![CDATA[01-02-2021]]></cell><cell><![CDATA[190,000,000.0]]></cell><cell><![CDATA[190,000,000.0]]></cell><cell><![CDATA[132,750,000.0]]></cell><cell><![CDATA[57,250,000.0]]></cell><cell><![CDATA[190,000,000.0]]></cell><cell><![CDATA[132,750,000.0]]></cell><cell><![CDATA[57,250,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[100 %]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[0721040006]]></cell><cell><![CDATA[21003_KOM2_PT. Abra Cirebon Sakti_Draft Survey]]></cell><cell><![CDATA[ABRA CIREBON SAKTI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[17-11-2021]]></cell><cell><![CDATA[17-11-2021]]></cell><cell><![CDATA[72,000,000.0]]></cell><cell><![CDATA[72,000,000.0]]></cell><cell><![CDATA[48,124,000.0]]></cell><cell><![CDATA[23,876,000.0]]></cell><cell><![CDATA[12,000,000.0]]></cell><cell><![CDATA[8,404,000.0]]></cell><cell><![CDATA[3,596,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[0721040007]]></cell><cell><![CDATA[21005_KOM2_Unelec Indonesia_Proyek Kalibrasi Tangki]]></cell><cell><![CDATA[UNELEC INDONESIA (UNINDO)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[31-03-2021]]></cell><cell><![CDATA[110,000,000.0]]></cell><cell><![CDATA[110,000,000.0]]></cell><cell><![CDATA[78,400,000.0]]></cell><cell><![CDATA[31,600,000.0]]></cell><cell><![CDATA[110,000,000.0]]></cell><cell><![CDATA[78,400,000.0]]></cell><cell><![CDATA[31,600,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[0721040008]]></cell><cell><![CDATA[21010_KOM2_PT. AKR Corporindo Tbk_Pemeriksaan dan Pengetesan Grounding]]></cell><cell><![CDATA[AKR CORPORINDO TBK]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[11-02-2021]]></cell><cell><![CDATA[30-04-2021]]></cell><cell><![CDATA[13,500,000.0]]></cell><cell><![CDATA[13,500,000.0]]></cell><cell><![CDATA[9,040,000.0]]></cell><cell><![CDATA[4,460,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[6,540,000.0]]></cell><cell><![CDATA[-6,540,000.0]]></cell><cell><![CDATA[13,500,000.0]]></cell><cell><![CDATA[2,840,000.0]]></cell><cell><![CDATA[10,660,000.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[31.42]]></cell><cell><![CDATA[43.43]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[0721040009]]></cell><cell><![CDATA[21013_KOM2_Polytama & Pertamina_Proyek Jasa Peninjauan Propylene]]></cell><cell><![CDATA[POLYTAMA PROPINDO]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-02-2021]]></cell><cell><![CDATA[28-02-2021]]></cell><cell><![CDATA[160,160,000.0]]></cell><cell><![CDATA[160,160,000.0]]></cell><cell><![CDATA[107,130,000.0]]></cell><cell><![CDATA[53,030,000.0]]></cell><cell><![CDATA[160,160,000.0]]></cell><cell><![CDATA[107,130,000.0]]></cell><cell><![CDATA[53,030,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0 %]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[0721040010]]></cell><cell><![CDATA[21008_KOM2_Panca Amara Utama_Proyek Jasa Pembuatan Laporan Pelaksanaan RKL/RPL di Banggai Amoniak Plan Tahun 2021 (Semester)]]></cell><cell><![CDATA[PANCA AMARA UTAMA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[894,000,000.0]]></cell><cell><![CDATA[894,000,000.0]]></cell><cell><![CDATA[687,250,000.0]]></cell><cell><![CDATA[206,750,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[1,500,000.0]]></cell><cell><![CDATA[-1,500,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[26 %]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[0721040011]]></cell><cell><![CDATA[21017_KOM2_Tri Teguh Manunggal Sejati_Resertifikasi Instalasi Penyalur Petir & Verifikasi Dokumen Perizinan]]></cell><cell><![CDATA[TRITEGUH MANUNGGAL SEJATI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[21-01-2021]]></cell><cell><![CDATA[31-03-2021]]></cell><cell><![CDATA[12,500,000.0]]></cell><cell><![CDATA[12,500,000.0]]></cell><cell><![CDATA[8,370,000.0]]></cell><cell><![CDATA[4,130,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[8,370,000.0]]></cell><cell><![CDATA[-8,370,000.0]]></cell><cell><![CDATA[12,500,000.0]]></cell><cell><![CDATA[1,570,000.0]]></cell><cell><![CDATA[10,930,000.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[18.76]]></cell><cell><![CDATA[18.76]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[0721040012]]></cell><cell><![CDATA[21019_KOM2_PT.Sumber Indah Perkasa_Izin TPS LB3]]></cell><cell><![CDATA[SUMBER INDAH PERKASA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[27-01-2021]]></cell><cell><![CDATA[30-04-2021]]></cell><cell><![CDATA[48,000,000.0]]></cell><cell><![CDATA[48,000,000.0]]></cell><cell><![CDATA[32,120,000.0]]></cell><cell><![CDATA[15,880,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[30,420,000.0]]></cell><cell><![CDATA[-30,420,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[17]]></cell><cell><![CDATA[0721040013]]></cell><cell><![CDATA[21018_KOM2_CV Jimmy Forklift Mandiri_Resertifikasi Mobile Crane]]></cell><cell><![CDATA[JIMMY FORKLIFT MANDIRI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[25-01-2021]]></cell><cell><![CDATA[31-03-2021]]></cell><cell><![CDATA[10,500,000.0]]></cell><cell><![CDATA[10,500,000.0]]></cell><cell><![CDATA[7,030,000.0]]></cell><cell><![CDATA[3,470,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[6,030,000.0]]></cell><cell><![CDATA[-6,030,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[18]]></cell><cell><![CDATA[0721040015]]></cell><cell><![CDATA[21020_KOM1_KOMATSU MARKETING AND SUPPORT INDONESIA_VIBRATION ANALYZER]]></cell><cell><![CDATA[KOMATSU MARKETING AND SUPPORT INDONESIA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-02-2021]]></cell><cell><![CDATA[28-02-2021]]></cell><cell><![CDATA[37,400,000.0]]></cell><cell><![CDATA[37,400,000.0]]></cell><cell><![CDATA[24,399,529.0]]></cell><cell><![CDATA[13,000,471.0]]></cell><cell><![CDATA[37,400,000.0]]></cell><cell><![CDATA[24,399,529.0]]></cell><cell><![CDATA[13,000,471.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[19]]></cell><cell><![CDATA[0721040016]]></cell><cell><![CDATA[21010_KOM1_PT JAKARTA INTERNATIONAL CONTAINER TERMINAL_RESERTIFIKASI PESAWAT ANGKAT ANGKUT HUBLA DAN DISNAKER]]></cell><cell><![CDATA[JAKARTA INTERNATIONAL CONTAINER TERMINAL]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[20-01-2021]]></cell><cell><![CDATA[21-05-2021]]></cell><cell><![CDATA[16,500,000.0]]></cell><cell><![CDATA[11,000,000.0]]></cell><cell><![CDATA[9,926,140.0]]></cell><cell><![CDATA[1,073,860.0]]></cell><cell><![CDATA[5,500,000.0]]></cell><cell><![CDATA[3,308,713.3]]></cell><cell><![CDATA[2,191,286.7]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[20]]></cell><cell><![CDATA[0721040017]]></cell><cell><![CDATA[21009_KOM2_PJB Muara Tawar_Loading & Unloading BBM Menggunakan Trucking]]></cell><cell><![CDATA[PEMBANGKITAN JAWA BALI (PJB)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[15-01-2021]]></cell><cell><![CDATA[18-02-2021]]></cell><cell><![CDATA[125,000,000.0]]></cell><cell><![CDATA[125,000,000.0]]></cell><cell><![CDATA[81,850,000.0]]></cell><cell><![CDATA[43,150,000.0]]></cell><cell><![CDATA[125,000,000.0]]></cell><cell><![CDATA[81,850,000.0]]></cell><cell><![CDATA[43,150,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[21]]></cell><cell><![CDATA[0721040018]]></cell><cell><![CDATA[21015_KOM2_PJB Muara Karang_Jasa Sertifikasi Sling Tali Baja]]></cell><cell><![CDATA[PEMBANGKITAN JAWA BALI (PJB)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[30-01-2021]]></cell><cell><![CDATA[31-03-2021]]></cell><cell><![CDATA[48,565,000.0]]></cell><cell><![CDATA[44,150,000.0]]></cell><cell><![CDATA[29,535,000.0]]></cell><cell><![CDATA[14,615,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[14,767,500.0]]></cell><cell><![CDATA[-14,767,500.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[75 %]]></cell></row>
+<row><cell><![CDATA[22]]></cell><cell><![CDATA[0721040019]]></cell><cell><![CDATA[21016_KOM2_PJB Muara Karang_Jasa Sertifikasi Sling Tali Baja]]></cell><cell><![CDATA[PEMBANGKITAN JAWA BALI (PJB)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[30-01-2021]]></cell><cell><![CDATA[31-03-2021]]></cell><cell><![CDATA[88,825,000.0]]></cell><cell><![CDATA[80,750,000.0]]></cell><cell><![CDATA[54,085,000.0]]></cell><cell><![CDATA[26,665,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[26,792,500.0]]></cell><cell><![CDATA[-26,792,500.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[75 %]]></cell></row>
+<row><cell><![CDATA[23]]></cell><cell><![CDATA[0721040020]]></cell><cell><![CDATA[21021_KOM1_KOMATSU MARKETING AND SUPPORT INDONESIA_VIBRATION ANALYZER]]></cell><cell><![CDATA[KOMATSU MARKETING AND SUPPORT INDONESIA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-02-2021]]></cell><cell><![CDATA[28-02-2021]]></cell><cell><![CDATA[7,550,000.0]]></cell><cell><![CDATA[7,550,000.0]]></cell><cell><![CDATA[3,830,302.0]]></cell><cell><![CDATA[3,719,698.0]]></cell><cell><![CDATA[7,550,000.0]]></cell><cell><![CDATA[3,830,302.0]]></cell><cell><![CDATA[3,719,698.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[24]]></cell><cell><![CDATA[0721040021]]></cell><cell><![CDATA[21004_KOM1_PT PERTAMINA EP ASSET 4_KONTRAK PAYUNG GEODETIC SURVEY, MARINE SURVEY DAN SOIL INVESTIGATION PT PERTAMINA EP ASSET 4]]></cell><cell><![CDATA[PERTAMINA EP ASSET 4]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[06-01-2021]]></cell><cell><![CDATA[03-03-2023]]></cell><cell><![CDATA[19,320,000,000.0]]></cell><cell><![CDATA[3,220,000,000.0]]></cell><cell><![CDATA[3,075,700,940.0]]></cell><cell><![CDATA[144,299,060.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[1,299,988,226.0]]></cell><cell><![CDATA[-1,299,988,226.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[5,530,793.0]]></cell><cell><![CDATA[-5,530,793.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.18]]></cell><cell><![CDATA[0.43]]></cell><cell><![CDATA[5 %]]></cell></row>
+<row><cell><![CDATA[25]]></cell><cell><![CDATA[0721040023]]></cell><cell><![CDATA[21022_KOM1_UNIVERSAL ENERGY RESOURCES_ANNUAL ELEVATOR SERVICES]]></cell><cell><![CDATA[UNIVERSAL ENERGY RESOURCES, INC]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[13-02-2021]]></cell><cell><![CDATA[15-03-2021]]></cell><cell><![CDATA[132,833,333.0]]></cell><cell><![CDATA[132,833,333.0]]></cell><cell><![CDATA[88,925,864.0]]></cell><cell><![CDATA[43,907,469.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[44,462,932.0]]></cell><cell><![CDATA[-44,462,932.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[26]]></cell><cell><![CDATA[0721040024]]></cell><cell><![CDATA[21025_KOM2_PT. Cahaya Batu Mulia_Pemeriksaan & Pengujian Genset 640 kVa]]></cell><cell><![CDATA[CAHAYA BATU MULIA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[30-01-2021]]></cell><cell><![CDATA[31-05-2021]]></cell><cell><![CDATA[21,000,000.0]]></cell><cell><![CDATA[21,000,000.0]]></cell><cell><![CDATA[14,055,000.0]]></cell><cell><![CDATA[6,945,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[12,405,000.0]]></cell><cell><![CDATA[-12,405,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[27]]></cell><cell><![CDATA[0721040025]]></cell><cell><![CDATA[21024_KOM2_PT. Sinar Batu Sakti Lestari_Pemeriksaan & Pengujian Genset 511 kVA]]></cell><cell><![CDATA[SINAR BATU SAKTI LESTARI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[30-01-2021]]></cell><cell><![CDATA[30-05-2021]]></cell><cell><![CDATA[19,000,000.0]]></cell><cell><![CDATA[19,000,000.0]]></cell><cell><![CDATA[12,730,000.0]]></cell><cell><![CDATA[6,270,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[5,305,000.0]]></cell><cell><![CDATA[-5,305,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[28]]></cell><cell><![CDATA[0721040026]]></cell><cell><![CDATA[21027_KOM1_PT DELTA CITRA MANDIRI_POSITIVE MATERIAL INSPECTION]]></cell><cell><![CDATA[DELTA CITRA MANDIRI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[10-02-2021]]></cell><cell><![CDATA[10-04-2021]]></cell><cell><![CDATA[4,500,000.0]]></cell><cell><![CDATA[4,500,000.0]]></cell><cell><![CDATA[2,866,400.0]]></cell><cell><![CDATA[1,633,600.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[29]]></cell><cell><![CDATA[0721040027]]></cell><cell><![CDATA[21028_KOM1_PT BABCOCK & WILCOX ASIA_ULTRASONIC FLAW DETECTOR TEST SERVICES]]></cell><cell><![CDATA[BABCOCK & WILCOCK ASIA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[23-02-2021]]></cell><cell><![CDATA[15-04-2021]]></cell><cell><![CDATA[17,800,000.0]]></cell><cell><![CDATA[17,800,000.0]]></cell><cell><![CDATA[11,047,167.0]]></cell><cell><![CDATA[6,752,833.0]]></cell><cell><![CDATA[5,933,333.0]]></cell><cell><![CDATA[2,822,167.0]]></cell><cell><![CDATA[3,111,166.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[30]]></cell><cell><![CDATA[0721040028]]></cell><cell><![CDATA[21030_KOM2_PT. Sumber Indah Perkasa_Redrawing & Testing Material Steam Header & Boiler]]></cell><cell><![CDATA[SUMBER INDAH PERKASA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[11-02-2021]]></cell><cell><![CDATA[30-06-2021]]></cell><cell><![CDATA[170,000,000.0]]></cell><cell><![CDATA[170,000,000.0]]></cell><cell><![CDATA[113,870,000.0]]></cell><cell><![CDATA[56,130,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[31]]></cell><cell><![CDATA[0721040029]]></cell><cell><![CDATA[21032_KOM2_RS. Graha Husada_Resertifikasi Alat K3]]></cell><cell><![CDATA[RS GRAHA HUSADA LAMPUNG]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[22-02-2021]]></cell><cell><![CDATA[30-06-2021]]></cell><cell><![CDATA[23,600,000.0]]></cell><cell><![CDATA[23,600,000.0]]></cell><cell><![CDATA[15,795,000.0]]></cell><cell><![CDATA[7,805,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[32]]></cell><cell><![CDATA[0721040031]]></cell><cell><![CDATA[21034_KOM2_PT. Tirta Investama_Riksa Uji Berkala]]></cell><cell><![CDATA[TIRTA INVESTAMA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[02-03-2021]]></cell><cell><![CDATA[30-05-2021]]></cell><cell><![CDATA[63,000,000.0]]></cell><cell><![CDATA[63,000,000.0]]></cell><cell><![CDATA[42,200,000.0]]></cell><cell><![CDATA[20,800,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[33]]></cell><cell><![CDATA[0721040033]]></cell><cell><![CDATA[21031_KOM2_Panca Amara Utama_Remote Visual Inspection]]></cell><cell><![CDATA[PANCA AMARA UTAMA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[28-08-2020]]></cell><cell><![CDATA[30-03-2021]]></cell><cell><![CDATA[41,000,000.0]]></cell><cell><![CDATA[8,000,000.0]]></cell><cell><![CDATA[4,400,000.0]]></cell><cell><![CDATA[3,600,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[34]]></cell><cell><![CDATA[0721040034]]></cell><cell><![CDATA[21036_KOM2_PT. Keong Nusantara Abadi_Pemeriksaan & Pengujian Genset 500 Kva]]></cell><cell><![CDATA[KEONG NUSANTARA ABADI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[08-03-2021]]></cell><cell><![CDATA[30-06-2021]]></cell><cell><![CDATA[38,000,000.0]]></cell><cell><![CDATA[38,000,000.0]]></cell><cell><![CDATA[25,450,000.0]]></cell><cell><![CDATA[12,550,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[35]]></cell><cell><![CDATA[0721040037]]></cell><cell><![CDATA[21014_KOM2_Freeport Indonesia_Survey & Laboratory Test For Various Commodities]]></cell><cell><![CDATA[FREEPORT INDONESIA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[12-02-2021]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[5,145,000,000.0]]></cell><cell><![CDATA[4,630,500,000.0]]></cell><cell><![CDATA[743,076,365.0]]></cell><cell><![CDATA[3,887,423,635.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[36]]></cell><cell><![CDATA[0721040039]]></cell><cell><![CDATA[21026_KOM1_PT KALTIM METHANOL INDUSTRI_INSPEKSI MENGGUNAKAN ROPE ACCESS]]></cell><cell><![CDATA[KALTIM METHANOL INDUSTRI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[05-03-2021]]></cell><cell><![CDATA[05-06-2021]]></cell><cell><![CDATA[192,000,000.0]]></cell><cell><![CDATA[192,000,000.0]]></cell><cell><![CDATA[124,755,000.0]]></cell><cell><![CDATA[67,245,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[37]]></cell><cell><![CDATA[0721990001]]></cell><cell><![CDATA[21007_KOM2_SHG_TPT_Jasa VPTI (Verifikasi Penelusuran Teknis Impor)]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[22,000,000,000.0]]></cell><cell><![CDATA[22,000,000,000.0]]></cell><cell><![CDATA[6,176,060,000.0]]></cell><cell><![CDATA[15,823,940,000.0]]></cell><cell><![CDATA[3,460,000,000.0]]></cell><cell><![CDATA[2,377,210,000.0]]></cell><cell><![CDATA[1,082,790,000.0]]></cell><cell><![CDATA[1,985,593,922.0]]></cell><cell><![CDATA[1,277,802,643.0]]></cell><cell><![CDATA[707,791,279.0]]></cell><cell><![CDATA[9.03]]></cell><cell><![CDATA[57.39]]></cell><cell><![CDATA[20.69]]></cell><cell><![CDATA[53.75]]></cell><cell><![CDATA[18 %]]></cell></row>
+<row><cell><![CDATA[38]]></cell><cell><![CDATA[0721990014]]></cell><cell><![CDATA[21011_KOM2_PT. Freeport Indonesia_Quality & Quantity Nomination For Diesel Fuel Nomination]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[633,500,000.0]]></cell><cell><![CDATA[633,500,000.0]]></cell><cell><![CDATA[423,940,000.0]]></cell><cell><![CDATA[209,560,000.0]]></cell><cell><![CDATA[105,583,334.0]]></cell><cell><![CDATA[70,156,666.0]]></cell><cell><![CDATA[35,426,668.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row></rows>

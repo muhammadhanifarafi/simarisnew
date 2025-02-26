@@ -1,0 +1,1015 @@
+<rows profile='color'><head><columns><column  rowspan="4"  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  colspan="2"  width='120' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Project]]></column><column  width='230' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='190' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Klien]]></column><column  rowspan="4"  width='40' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[P]]></column><column  rowspan="4"  width='40' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[L]]></column><column  colspan="2"  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[Jangka Waktu]]></column><column  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[RAB]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="3"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Realisasi]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Prosentase Progress 2021]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ]]></column></columns>
+<columns><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Kode]]></column><column rowspan="3" ><![CDATA[Nama]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Awal]]></column><column rowspan="3" ><![CDATA[Akhir]]></column><column><![CDATA[]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Setahun]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Bulan Berjalan]]></column><column><![CDATA[Realisasi Beban Vs RAB Setahun]]></column><column><![CDATA[Realisasi Beban Vs RAB Bulan Berjalan]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="3" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[s/d Bulan Pebruari]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="4" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[ ]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[(1)]]></column><column><![CDATA[(2)]]></column><column><![CDATA[(3)]]></column><column><![CDATA[(4)]]></column><column><![CDATA[(5)]]></column><column><![CDATA[(6)]]></column><column><![CDATA[(7)]]></column><column><![CDATA[(8)]]></column><column><![CDATA[(9)]]></column><column><![CDATA[(7/1)]]></column><column><![CDATA[(7/4)]]></column><column><![CDATA[(8/2)]]></column><column><![CDATA[(8/5)]]></column><column><![CDATA[(15)]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='8' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[18,929,777,121.0]]></column>
+<column><![CDATA[15,885,798,908.0]]></column>
+<column><![CDATA[3,043,978,213.0]]></column>
+<column><![CDATA[2,151,998,018.0]]></column>
+<column><![CDATA[4,754,549,280.0]]></column>
+<column><![CDATA[-2,602,551,262.0]]></column>
+<column><![CDATA[2,306,640,920.0]]></column>
+<column><![CDATA[1,720,762,764.0]]></column>
+<column><![CDATA[585,878,156.0]]></column>
+<column colspan='6' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[0115040055]]></cell><cell><![CDATA[Jasa Independent Surveyor Untuk LNG Tangguh LNG]]></cell><cell><![CDATA[BP BERAU LTD]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[29-12-2015]]></cell><cell><![CDATA[20-12-2020]]></cell><cell><![CDATA[865,564,900.0]]></cell><cell><![CDATA[568,800,000.0]]></cell><cell><![CDATA[296,764,900.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[98,533,334.0]]></cell><cell><![CDATA[-98,533,334.0]]></cell><cell><![CDATA[50,418,000.0]]></cell><cell><![CDATA[35,200,000.0]]></cell><cell><![CDATA[15,218,000.0]]></cell><cell><![CDATA[5.82]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[6.19]]></cell><cell><![CDATA[35.72]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[0118040037]]></cell><cell><![CDATA[Pekerjaan Jasa Konsultansi Perencanaan Teknik (DED) Jalan Tol Probolingo - Banyuwangi Paket Konsultansi 1 (STA. 0+000 - STA. 46+100)]]></cell><cell><![CDATA[KSO BUANA ARCHICON-MARATAMA CIPTA MANDIRI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[20-06-2018]]></cell><cell><![CDATA[31-10-2020]]></cell><cell><![CDATA[1,395,302,400.0]]></cell><cell><![CDATA[1,088,184,322.0]]></cell><cell><![CDATA[307,118,078.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[593,431,688.0]]></cell><cell><![CDATA[-593,431,688.0]]></cell><cell><![CDATA[1,395,302,400.0]]></cell><cell><![CDATA[1,087,041,769.0]]></cell><cell><![CDATA[308,260,631.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[99.9]]></cell><cell><![CDATA[183.18]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[0118040039]]></cell><cell><![CDATA[Pengadaan Jasa Konsultansi Perencanaan Teknik (DED) Jalan Tol Probolinggo Banyuwangi Paket Konsultansi 3]]></cell><cell><![CDATA[CIPTA STRADA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[20-06-2018]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[1,921,947,824.0]]></cell><cell><![CDATA[1,502,317,974.0]]></cell><cell><![CDATA[419,629,850.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[524,897,633.0]]></cell><cell><![CDATA[-524,897,633.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[0119020050]]></cell><cell><![CDATA[Jasa Konsultan Pengurusan Izin Pinjam Pakai Kawasan Hutan (IPKKH) PLTA KUMBIH-3 (48 MW)]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN UTARA (UIP II)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[30-08-2019]]></cell><cell><![CDATA[22-11-2020]]></cell><cell><![CDATA[437,080,000.0]]></cell><cell><![CDATA[363,456,656.0]]></cell><cell><![CDATA[73,623,344.0]]></cell><cell><![CDATA[437,080,000.0]]></cell><cell><![CDATA[363,456,656.0]]></cell><cell><![CDATA[73,623,344.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[0119020051]]></cell><cell><![CDATA[Pekerjaan Soil Investigasi di Rencana Jembatan Tol Teluk Balikpapan]]></cell><cell><![CDATA[WASKITA KARYA (PERSERO) TBK]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[09-09-2019]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[4,284,996,630.0]]></cell><cell><![CDATA[3,934,295,492.0]]></cell><cell><![CDATA[350,701,138.0]]></cell><cell><![CDATA[1,157,231,660.0]]></cell><cell><![CDATA[1,632,934,994.0]]></cell><cell><![CDATA[-475,703,334.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[0119020061]]></cell><cell><![CDATA[Pengadaan Jasa Surveyor Pengadaan Tanah dan ROW]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[06-09-2019]]></cell><cell><![CDATA[01-10-2021]]></cell><cell><![CDATA[1,352,778,537.0]]></cell><cell><![CDATA[1,207,519,342.0]]></cell><cell><![CDATA[145,259,195.0]]></cell><cell><![CDATA[265,424,358.0]]></cell><cell><![CDATA[235,157,592.0]]></cell><cell><![CDATA[30,266,766.0]]></cell><cell><![CDATA[28,197,070.0]]></cell><cell><![CDATA[26,383,173.0]]></cell><cell><![CDATA[1,813,897.0]]></cell><cell><![CDATA[2.08]]></cell><cell><![CDATA[10.62]]></cell><cell><![CDATA[2.18]]></cell><cell><![CDATA[11.22]]></cell><cell><![CDATA[25 %]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[0119020062]]></cell><cell><![CDATA[Jasa Survey Loading dan Discharge BBM Project Handling Franco untuk Supply ke Kapal-Kapal Konsumen (BP Berau) di Wilayah Perairan Makassar, Sorong, Wayame dan Bintuni Papua Barat]]></cell><cell><![CDATA[PERTAMINA PATRA NIAGA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[30-09-2019]]></cell><cell><![CDATA[31-08-2020]]></cell><cell><![CDATA[242,000,000.0]]></cell><cell><![CDATA[173,679,217.0]]></cell><cell><![CDATA[68,320,783.0]]></cell><cell><![CDATA[242,000,000.0]]></cell><cell><![CDATA[173,679,217.0]]></cell><cell><![CDATA[68,320,783.0]]></cell><cell><![CDATA[300,000,000.0]]></cell><cell><![CDATA[173,677,700.0]]></cell><cell><![CDATA[126,322,300.0]]></cell><cell><![CDATA[123.97]]></cell><cell><![CDATA[123.97]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[0119020065]]></cell><cell><![CDATA[KHS Jasa Survey Kualitas dan Kuantitas BBM HSD (B0) dari RU III Plaju untuk PLTG MPP Air Anyir dan Backloading dari Pelabuhan Tanjung Gudang Belinyu ke Pelabuhan Tanjung Pandan]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK WILAYAH BANGKA BELITUNG]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[03-09-2019]]></cell><cell><![CDATA[31-03-2021]]></cell><cell><![CDATA[184,294,000.0]]></cell><cell><![CDATA[143,947,000.0]]></cell><cell><![CDATA[40,347,000.0]]></cell><cell><![CDATA[50,262,000.0]]></cell><cell><![CDATA[39,233,332.0]]></cell><cell><![CDATA[11,028,668.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[0119040015]]></cell><cell><![CDATA[Jasa Konsultansi Pendampingan Pengadaan Tanah Untuk Pembangunan Kilang Minyak di Tuban]]></cell><cell><![CDATA[PERTAMINA (PERSERO)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[14-01-2019]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[7,500,000,000.0]]></cell><cell><![CDATA[6,348,907,884.0]]></cell><cell><![CDATA[1,151,092,116.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[907,680,396.0]]></cell><cell><![CDATA[-907,680,396.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[13 %]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[0119040038]]></cell><cell><![CDATA[Pengukuran Lahan Pengganti Fasos – Fasum Jalur Kereta Cepat Jakarta Bandung / Measurement of Public and Social Facilities Replacement Land Jakarta Bandung Highspeed Railway Trace]]></cell><cell><![CDATA[KERETA CEPAT INDONESIA CHINA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[27-03-2019]]></cell><cell><![CDATA[11-02-2021]]></cell><cell><![CDATA[745,812,830.0]]></cell><cell><![CDATA[554,691,021.0]]></cell><cell><![CDATA[191,121,809.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[185,544,438.0]]></cell><cell><![CDATA[-185,544,438.0]]></cell><cell><![CDATA[532,723,450.0]]></cell><cell><![CDATA[398,460,122.0]]></cell><cell><![CDATA[134,263,328.0]]></cell><cell><![CDATA[71.43]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[71.83]]></cell><cell><![CDATA[214.75]]></cell><cell><![CDATA[100 %]]></cell></row></rows><rows profile='color'><head><columns><column  rowspan="4"  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  colspan="2"  width='120' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Project]]></column><column  width='230' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='190' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Klien]]></column><column  rowspan="4"  width='40' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[P]]></column><column  rowspan="4"  width='40' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[L]]></column><column  colspan="2"  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[Jangka Waktu]]></column><column  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[RAB]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="3"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Realisasi]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Prosentase Progress 2021]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ]]></column></columns>
+<columns><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Kode]]></column><column rowspan="3" ><![CDATA[Nama]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Awal]]></column><column rowspan="3" ><![CDATA[Akhir]]></column><column><![CDATA[]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Setahun]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Bulan Berjalan]]></column><column><![CDATA[Realisasi Beban Vs RAB Setahun]]></column><column><![CDATA[Realisasi Beban Vs RAB Bulan Berjalan]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="3" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[s/d Bulan Pebruari]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="4" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[ ]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[(1)]]></column><column><![CDATA[(2)]]></column><column><![CDATA[(3)]]></column><column><![CDATA[(4)]]></column><column><![CDATA[(5)]]></column><column><![CDATA[(6)]]></column><column><![CDATA[(7)]]></column><column><![CDATA[(8)]]></column><column><![CDATA[(9)]]></column><column><![CDATA[(7/1)]]></column><column><![CDATA[(7/4)]]></column><column><![CDATA[(8/2)]]></column><column><![CDATA[(8/5)]]></column><column><![CDATA[(15)]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='8' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[18,929,777,121.0]]></column>
+<column><![CDATA[15,885,798,908.0]]></column>
+<column><![CDATA[3,043,978,213.0]]></column>
+<column><![CDATA[2,151,998,018.0]]></column>
+<column><![CDATA[4,754,549,280.0]]></column>
+<column><![CDATA[-2,602,551,262.0]]></column>
+<column><![CDATA[2,306,640,920.0]]></column>
+<column><![CDATA[1,720,762,764.0]]></column>
+<column><![CDATA[585,878,156.0]]></column>
+<column colspan='6' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[0115040055]]></cell><cell><![CDATA[Jasa Independent Surveyor Untuk LNG Tangguh LNG]]></cell><cell><![CDATA[BP BERAU LTD]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[29-12-2015]]></cell><cell><![CDATA[20-12-2020]]></cell><cell><![CDATA[865,564,900.0]]></cell><cell><![CDATA[568,800,000.0]]></cell><cell><![CDATA[296,764,900.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[98,533,334.0]]></cell><cell><![CDATA[-98,533,334.0]]></cell><cell><![CDATA[50,418,000.0]]></cell><cell><![CDATA[35,200,000.0]]></cell><cell><![CDATA[15,218,000.0]]></cell><cell><![CDATA[5.82]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[6.19]]></cell><cell><![CDATA[35.72]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[0118040037]]></cell><cell><![CDATA[Pekerjaan Jasa Konsultansi Perencanaan Teknik (DED) Jalan Tol Probolingo - Banyuwangi Paket Konsultansi 1 (STA. 0+000 - STA. 46+100)]]></cell><cell><![CDATA[KSO BUANA ARCHICON-MARATAMA CIPTA MANDIRI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[20-06-2018]]></cell><cell><![CDATA[31-10-2020]]></cell><cell><![CDATA[1,395,302,400.0]]></cell><cell><![CDATA[1,088,184,322.0]]></cell><cell><![CDATA[307,118,078.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[593,431,688.0]]></cell><cell><![CDATA[-593,431,688.0]]></cell><cell><![CDATA[1,395,302,400.0]]></cell><cell><![CDATA[1,087,041,769.0]]></cell><cell><![CDATA[308,260,631.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[99.9]]></cell><cell><![CDATA[183.18]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[0118040039]]></cell><cell><![CDATA[Pengadaan Jasa Konsultansi Perencanaan Teknik (DED) Jalan Tol Probolinggo Banyuwangi Paket Konsultansi 3]]></cell><cell><![CDATA[CIPTA STRADA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[20-06-2018]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[1,921,947,824.0]]></cell><cell><![CDATA[1,502,317,974.0]]></cell><cell><![CDATA[419,629,850.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[524,897,633.0]]></cell><cell><![CDATA[-524,897,633.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[0119020050]]></cell><cell><![CDATA[Jasa Konsultan Pengurusan Izin Pinjam Pakai Kawasan Hutan (IPKKH) PLTA KUMBIH-3 (48 MW)]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN UTARA (UIP II)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[30-08-2019]]></cell><cell><![CDATA[22-11-2020]]></cell><cell><![CDATA[437,080,000.0]]></cell><cell><![CDATA[363,456,656.0]]></cell><cell><![CDATA[73,623,344.0]]></cell><cell><![CDATA[437,080,000.0]]></cell><cell><![CDATA[363,456,656.0]]></cell><cell><![CDATA[73,623,344.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[0119020051]]></cell><cell><![CDATA[Pekerjaan Soil Investigasi di Rencana Jembatan Tol Teluk Balikpapan]]></cell><cell><![CDATA[WASKITA KARYA (PERSERO) TBK]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[09-09-2019]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[4,284,996,630.0]]></cell><cell><![CDATA[3,934,295,492.0]]></cell><cell><![CDATA[350,701,138.0]]></cell><cell><![CDATA[1,157,231,660.0]]></cell><cell><![CDATA[1,632,934,994.0]]></cell><cell><![CDATA[-475,703,334.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[0119020061]]></cell><cell><![CDATA[Pengadaan Jasa Surveyor Pengadaan Tanah dan ROW]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[06-09-2019]]></cell><cell><![CDATA[01-10-2021]]></cell><cell><![CDATA[1,352,778,537.0]]></cell><cell><![CDATA[1,207,519,342.0]]></cell><cell><![CDATA[145,259,195.0]]></cell><cell><![CDATA[265,424,358.0]]></cell><cell><![CDATA[235,157,592.0]]></cell><cell><![CDATA[30,266,766.0]]></cell><cell><![CDATA[28,197,070.0]]></cell><cell><![CDATA[26,383,173.0]]></cell><cell><![CDATA[1,813,897.0]]></cell><cell><![CDATA[2.08]]></cell><cell><![CDATA[10.62]]></cell><cell><![CDATA[2.18]]></cell><cell><![CDATA[11.22]]></cell><cell><![CDATA[25 %]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[0119020062]]></cell><cell><![CDATA[Jasa Survey Loading dan Discharge BBM Project Handling Franco untuk Supply ke Kapal-Kapal Konsumen (BP Berau) di Wilayah Perairan Makassar, Sorong, Wayame dan Bintuni Papua Barat]]></cell><cell><![CDATA[PERTAMINA PATRA NIAGA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[30-09-2019]]></cell><cell><![CDATA[31-08-2020]]></cell><cell><![CDATA[242,000,000.0]]></cell><cell><![CDATA[173,679,217.0]]></cell><cell><![CDATA[68,320,783.0]]></cell><cell><![CDATA[242,000,000.0]]></cell><cell><![CDATA[173,679,217.0]]></cell><cell><![CDATA[68,320,783.0]]></cell><cell><![CDATA[300,000,000.0]]></cell><cell><![CDATA[173,677,700.0]]></cell><cell><![CDATA[126,322,300.0]]></cell><cell><![CDATA[123.97]]></cell><cell><![CDATA[123.97]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[0119020065]]></cell><cell><![CDATA[KHS Jasa Survey Kualitas dan Kuantitas BBM HSD (B0) dari RU III Plaju untuk PLTG MPP Air Anyir dan Backloading dari Pelabuhan Tanjung Gudang Belinyu ke Pelabuhan Tanjung Pandan]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK WILAYAH BANGKA BELITUNG]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[03-09-2019]]></cell><cell><![CDATA[31-03-2021]]></cell><cell><![CDATA[184,294,000.0]]></cell><cell><![CDATA[143,947,000.0]]></cell><cell><![CDATA[40,347,000.0]]></cell><cell><![CDATA[50,262,000.0]]></cell><cell><![CDATA[39,233,332.0]]></cell><cell><![CDATA[11,028,668.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[0119040015]]></cell><cell><![CDATA[Jasa Konsultansi Pendampingan Pengadaan Tanah Untuk Pembangunan Kilang Minyak di Tuban]]></cell><cell><![CDATA[PERTAMINA (PERSERO)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[14-01-2019]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[7,500,000,000.0]]></cell><cell><![CDATA[6,348,907,884.0]]></cell><cell><![CDATA[1,151,092,116.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[907,680,396.0]]></cell><cell><![CDATA[-907,680,396.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[13 %]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[0119040038]]></cell><cell><![CDATA[Pengukuran Lahan Pengganti Fasos – Fasum Jalur Kereta Cepat Jakarta Bandung / Measurement of Public and Social Facilities Replacement Land Jakarta Bandung Highspeed Railway Trace]]></cell><cell><![CDATA[KERETA CEPAT INDONESIA CHINA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[27-03-2019]]></cell><cell><![CDATA[11-02-2021]]></cell><cell><![CDATA[745,812,830.0]]></cell><cell><![CDATA[554,691,021.0]]></cell><cell><![CDATA[191,121,809.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[185,544,438.0]]></cell><cell><![CDATA[-185,544,438.0]]></cell><cell><![CDATA[532,723,450.0]]></cell><cell><![CDATA[398,460,122.0]]></cell><cell><![CDATA[134,263,328.0]]></cell><cell><![CDATA[71.43]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[71.83]]></cell><cell><![CDATA[214.75]]></cell><cell><![CDATA[100 %]]></cell></row></rows><rows profile='color'><head><columns><column  rowspan="4"  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  colspan="2"  width='120' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Project]]></column><column  width='230' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='190' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Klien]]></column><column  rowspan="4"  width='40' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[P]]></column><column  rowspan="4"  width='40' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[L]]></column><column  colspan="2"  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[Jangka Waktu]]></column><column  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[RAB]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="3"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Realisasi]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Prosentase Progress 2021]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ]]></column></columns>
+<columns><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Kode]]></column><column rowspan="3" ><![CDATA[Nama]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Awal]]></column><column rowspan="3" ><![CDATA[Akhir]]></column><column><![CDATA[]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Setahun]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Bulan Berjalan]]></column><column><![CDATA[Realisasi Beban Vs RAB Setahun]]></column><column><![CDATA[Realisasi Beban Vs RAB Bulan Berjalan]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="3" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[s/d Bulan Pebruari]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="4" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[ ]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[(1)]]></column><column><![CDATA[(2)]]></column><column><![CDATA[(3)]]></column><column><![CDATA[(4)]]></column><column><![CDATA[(5)]]></column><column><![CDATA[(6)]]></column><column><![CDATA[(7)]]></column><column><![CDATA[(8)]]></column><column><![CDATA[(9)]]></column><column><![CDATA[(7/1)]]></column><column><![CDATA[(7/4)]]></column><column><![CDATA[(8/2)]]></column><column><![CDATA[(8/5)]]></column><column><![CDATA[(15)]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='8' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[18,929,777,121.0]]></column>
+<column><![CDATA[15,885,798,908.0]]></column>
+<column><![CDATA[3,043,978,213.0]]></column>
+<column><![CDATA[2,151,998,018.0]]></column>
+<column><![CDATA[4,754,549,280.0]]></column>
+<column><![CDATA[-2,602,551,262.0]]></column>
+<column><![CDATA[2,306,640,920.0]]></column>
+<column><![CDATA[1,720,762,764.0]]></column>
+<column><![CDATA[585,878,156.0]]></column>
+<column colspan='6' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[0115040055]]></cell><cell><![CDATA[Jasa Independent Surveyor Untuk LNG Tangguh LNG]]></cell><cell><![CDATA[BP BERAU LTD]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[29-12-2015]]></cell><cell><![CDATA[20-12-2020]]></cell><cell><![CDATA[865,564,900.0]]></cell><cell><![CDATA[568,800,000.0]]></cell><cell><![CDATA[296,764,900.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[98,533,334.0]]></cell><cell><![CDATA[-98,533,334.0]]></cell><cell><![CDATA[50,418,000.0]]></cell><cell><![CDATA[35,200,000.0]]></cell><cell><![CDATA[15,218,000.0]]></cell><cell><![CDATA[5.82]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[6.19]]></cell><cell><![CDATA[35.72]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[0118040037]]></cell><cell><![CDATA[Pekerjaan Jasa Konsultansi Perencanaan Teknik (DED) Jalan Tol Probolingo - Banyuwangi Paket Konsultansi 1 (STA. 0+000 - STA. 46+100)]]></cell><cell><![CDATA[KSO BUANA ARCHICON-MARATAMA CIPTA MANDIRI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[20-06-2018]]></cell><cell><![CDATA[31-10-2020]]></cell><cell><![CDATA[1,395,302,400.0]]></cell><cell><![CDATA[1,088,184,322.0]]></cell><cell><![CDATA[307,118,078.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[593,431,688.0]]></cell><cell><![CDATA[-593,431,688.0]]></cell><cell><![CDATA[1,395,302,400.0]]></cell><cell><![CDATA[1,087,041,769.0]]></cell><cell><![CDATA[308,260,631.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[99.9]]></cell><cell><![CDATA[183.18]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[0118040039]]></cell><cell><![CDATA[Pengadaan Jasa Konsultansi Perencanaan Teknik (DED) Jalan Tol Probolinggo Banyuwangi Paket Konsultansi 3]]></cell><cell><![CDATA[CIPTA STRADA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[20-06-2018]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[1,921,947,824.0]]></cell><cell><![CDATA[1,502,317,974.0]]></cell><cell><![CDATA[419,629,850.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[524,897,633.0]]></cell><cell><![CDATA[-524,897,633.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[0119020050]]></cell><cell><![CDATA[Jasa Konsultan Pengurusan Izin Pinjam Pakai Kawasan Hutan (IPKKH) PLTA KUMBIH-3 (48 MW)]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN UTARA (UIP II)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[30-08-2019]]></cell><cell><![CDATA[22-11-2020]]></cell><cell><![CDATA[437,080,000.0]]></cell><cell><![CDATA[363,456,656.0]]></cell><cell><![CDATA[73,623,344.0]]></cell><cell><![CDATA[437,080,000.0]]></cell><cell><![CDATA[363,456,656.0]]></cell><cell><![CDATA[73,623,344.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[0119020051]]></cell><cell><![CDATA[Pekerjaan Soil Investigasi di Rencana Jembatan Tol Teluk Balikpapan]]></cell><cell><![CDATA[WASKITA KARYA (PERSERO) TBK]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[09-09-2019]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[4,284,996,630.0]]></cell><cell><![CDATA[3,934,295,492.0]]></cell><cell><![CDATA[350,701,138.0]]></cell><cell><![CDATA[1,157,231,660.0]]></cell><cell><![CDATA[1,632,934,994.0]]></cell><cell><![CDATA[-475,703,334.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[0119020061]]></cell><cell><![CDATA[Pengadaan Jasa Surveyor Pengadaan Tanah dan ROW]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[06-09-2019]]></cell><cell><![CDATA[01-10-2021]]></cell><cell><![CDATA[1,352,778,537.0]]></cell><cell><![CDATA[1,207,519,342.0]]></cell><cell><![CDATA[145,259,195.0]]></cell><cell><![CDATA[265,424,358.0]]></cell><cell><![CDATA[235,157,592.0]]></cell><cell><![CDATA[30,266,766.0]]></cell><cell><![CDATA[28,197,070.0]]></cell><cell><![CDATA[26,383,173.0]]></cell><cell><![CDATA[1,813,897.0]]></cell><cell><![CDATA[2.08]]></cell><cell><![CDATA[10.62]]></cell><cell><![CDATA[2.18]]></cell><cell><![CDATA[11.22]]></cell><cell><![CDATA[25 %]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[0119020062]]></cell><cell><![CDATA[Jasa Survey Loading dan Discharge BBM Project Handling Franco untuk Supply ke Kapal-Kapal Konsumen (BP Berau) di Wilayah Perairan Makassar, Sorong, Wayame dan Bintuni Papua Barat]]></cell><cell><![CDATA[PERTAMINA PATRA NIAGA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[30-09-2019]]></cell><cell><![CDATA[31-08-2020]]></cell><cell><![CDATA[242,000,000.0]]></cell><cell><![CDATA[173,679,217.0]]></cell><cell><![CDATA[68,320,783.0]]></cell><cell><![CDATA[242,000,000.0]]></cell><cell><![CDATA[173,679,217.0]]></cell><cell><![CDATA[68,320,783.0]]></cell><cell><![CDATA[300,000,000.0]]></cell><cell><![CDATA[173,677,700.0]]></cell><cell><![CDATA[126,322,300.0]]></cell><cell><![CDATA[123.97]]></cell><cell><![CDATA[123.97]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[0119020065]]></cell><cell><![CDATA[KHS Jasa Survey Kualitas dan Kuantitas BBM HSD (B0) dari RU III Plaju untuk PLTG MPP Air Anyir dan Backloading dari Pelabuhan Tanjung Gudang Belinyu ke Pelabuhan Tanjung Pandan]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK WILAYAH BANGKA BELITUNG]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[03-09-2019]]></cell><cell><![CDATA[31-03-2021]]></cell><cell><![CDATA[184,294,000.0]]></cell><cell><![CDATA[143,947,000.0]]></cell><cell><![CDATA[40,347,000.0]]></cell><cell><![CDATA[50,262,000.0]]></cell><cell><![CDATA[39,233,332.0]]></cell><cell><![CDATA[11,028,668.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[0119040015]]></cell><cell><![CDATA[Jasa Konsultansi Pendampingan Pengadaan Tanah Untuk Pembangunan Kilang Minyak di Tuban]]></cell><cell><![CDATA[PERTAMINA (PERSERO)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[14-01-2019]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[7,500,000,000.0]]></cell><cell><![CDATA[6,348,907,884.0]]></cell><cell><![CDATA[1,151,092,116.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[907,680,396.0]]></cell><cell><![CDATA[-907,680,396.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[13 %]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[0119040038]]></cell><cell><![CDATA[Pengukuran Lahan Pengganti Fasos – Fasum Jalur Kereta Cepat Jakarta Bandung / Measurement of Public and Social Facilities Replacement Land Jakarta Bandung Highspeed Railway Trace]]></cell><cell><![CDATA[KERETA CEPAT INDONESIA CHINA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[27-03-2019]]></cell><cell><![CDATA[11-02-2021]]></cell><cell><![CDATA[745,812,830.0]]></cell><cell><![CDATA[554,691,021.0]]></cell><cell><![CDATA[191,121,809.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[185,544,438.0]]></cell><cell><![CDATA[-185,544,438.0]]></cell><cell><![CDATA[532,723,450.0]]></cell><cell><![CDATA[398,460,122.0]]></cell><cell><![CDATA[134,263,328.0]]></cell><cell><![CDATA[71.43]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[71.83]]></cell><cell><![CDATA[214.75]]></cell><cell><![CDATA[100 %]]></cell></row></rows><rows profile='color'><head><columns><column  rowspan="4"  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  colspan="2"  width='120' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Project]]></column><column  width='230' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='190' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Klien]]></column><column  rowspan="4"  width='40' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[P]]></column><column  rowspan="4"  width='40' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[L]]></column><column  colspan="2"  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[Jangka Waktu]]></column><column  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[RAB]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="3"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Realisasi]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Prosentase Progress 2021]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ]]></column></columns>
+<columns><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Kode]]></column><column rowspan="3" ><![CDATA[Nama]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Awal]]></column><column rowspan="3" ><![CDATA[Akhir]]></column><column><![CDATA[]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Setahun]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Bulan Berjalan]]></column><column><![CDATA[Realisasi Beban Vs RAB Setahun]]></column><column><![CDATA[Realisasi Beban Vs RAB Bulan Berjalan]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="3" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[s/d Bulan Pebruari]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="4" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[ ]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[(1)]]></column><column><![CDATA[(2)]]></column><column><![CDATA[(3)]]></column><column><![CDATA[(4)]]></column><column><![CDATA[(5)]]></column><column><![CDATA[(6)]]></column><column><![CDATA[(7)]]></column><column><![CDATA[(8)]]></column><column><![CDATA[(9)]]></column><column><![CDATA[(7/1)]]></column><column><![CDATA[(7/4)]]></column><column><![CDATA[(8/2)]]></column><column><![CDATA[(8/5)]]></column><column><![CDATA[(15)]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='8' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[18,929,777,121.0]]></column>
+<column><![CDATA[15,885,798,908.0]]></column>
+<column><![CDATA[3,043,978,213.0]]></column>
+<column><![CDATA[2,151,998,018.0]]></column>
+<column><![CDATA[4,754,549,280.0]]></column>
+<column><![CDATA[-2,602,551,262.0]]></column>
+<column><![CDATA[2,306,640,920.0]]></column>
+<column><![CDATA[1,720,762,764.0]]></column>
+<column><![CDATA[585,878,156.0]]></column>
+<column colspan='6' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[0115040055]]></cell><cell><![CDATA[Jasa Independent Surveyor Untuk LNG Tangguh LNG]]></cell><cell><![CDATA[BP BERAU LTD]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[29-12-2015]]></cell><cell><![CDATA[20-12-2020]]></cell><cell><![CDATA[865,564,900.0]]></cell><cell><![CDATA[568,800,000.0]]></cell><cell><![CDATA[296,764,900.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[98,533,334.0]]></cell><cell><![CDATA[-98,533,334.0]]></cell><cell><![CDATA[50,418,000.0]]></cell><cell><![CDATA[35,200,000.0]]></cell><cell><![CDATA[15,218,000.0]]></cell><cell><![CDATA[5.82]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[6.19]]></cell><cell><![CDATA[35.72]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[0118040037]]></cell><cell><![CDATA[Pekerjaan Jasa Konsultansi Perencanaan Teknik (DED) Jalan Tol Probolingo - Banyuwangi Paket Konsultansi 1 (STA. 0+000 - STA. 46+100)]]></cell><cell><![CDATA[KSO BUANA ARCHICON-MARATAMA CIPTA MANDIRI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[20-06-2018]]></cell><cell><![CDATA[31-10-2020]]></cell><cell><![CDATA[1,395,302,400.0]]></cell><cell><![CDATA[1,088,184,322.0]]></cell><cell><![CDATA[307,118,078.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[593,431,688.0]]></cell><cell><![CDATA[-593,431,688.0]]></cell><cell><![CDATA[1,395,302,400.0]]></cell><cell><![CDATA[1,087,041,769.0]]></cell><cell><![CDATA[308,260,631.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[99.9]]></cell><cell><![CDATA[183.18]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[0118040039]]></cell><cell><![CDATA[Pengadaan Jasa Konsultansi Perencanaan Teknik (DED) Jalan Tol Probolinggo Banyuwangi Paket Konsultansi 3]]></cell><cell><![CDATA[CIPTA STRADA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[20-06-2018]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[1,921,947,824.0]]></cell><cell><![CDATA[1,502,317,974.0]]></cell><cell><![CDATA[419,629,850.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[524,897,633.0]]></cell><cell><![CDATA[-524,897,633.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[0119020050]]></cell><cell><![CDATA[Jasa Konsultan Pengurusan Izin Pinjam Pakai Kawasan Hutan (IPKKH) PLTA KUMBIH-3 (48 MW)]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN UTARA (UIP II)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[30-08-2019]]></cell><cell><![CDATA[22-11-2020]]></cell><cell><![CDATA[437,080,000.0]]></cell><cell><![CDATA[363,456,656.0]]></cell><cell><![CDATA[73,623,344.0]]></cell><cell><![CDATA[437,080,000.0]]></cell><cell><![CDATA[363,456,656.0]]></cell><cell><![CDATA[73,623,344.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[0119020051]]></cell><cell><![CDATA[Pekerjaan Soil Investigasi di Rencana Jembatan Tol Teluk Balikpapan]]></cell><cell><![CDATA[WASKITA KARYA (PERSERO) TBK]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[09-09-2019]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[4,284,996,630.0]]></cell><cell><![CDATA[3,934,295,492.0]]></cell><cell><![CDATA[350,701,138.0]]></cell><cell><![CDATA[1,157,231,660.0]]></cell><cell><![CDATA[1,632,934,994.0]]></cell><cell><![CDATA[-475,703,334.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[0119020061]]></cell><cell><![CDATA[Pengadaan Jasa Surveyor Pengadaan Tanah dan ROW]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[06-09-2019]]></cell><cell><![CDATA[01-10-2021]]></cell><cell><![CDATA[1,352,778,537.0]]></cell><cell><![CDATA[1,207,519,342.0]]></cell><cell><![CDATA[145,259,195.0]]></cell><cell><![CDATA[265,424,358.0]]></cell><cell><![CDATA[235,157,592.0]]></cell><cell><![CDATA[30,266,766.0]]></cell><cell><![CDATA[28,197,070.0]]></cell><cell><![CDATA[26,383,173.0]]></cell><cell><![CDATA[1,813,897.0]]></cell><cell><![CDATA[2.08]]></cell><cell><![CDATA[10.62]]></cell><cell><![CDATA[2.18]]></cell><cell><![CDATA[11.22]]></cell><cell><![CDATA[25 %]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[0119020062]]></cell><cell><![CDATA[Jasa Survey Loading dan Discharge BBM Project Handling Franco untuk Supply ke Kapal-Kapal Konsumen (BP Berau) di Wilayah Perairan Makassar, Sorong, Wayame dan Bintuni Papua Barat]]></cell><cell><![CDATA[PERTAMINA PATRA NIAGA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[30-09-2019]]></cell><cell><![CDATA[31-08-2020]]></cell><cell><![CDATA[242,000,000.0]]></cell><cell><![CDATA[173,679,217.0]]></cell><cell><![CDATA[68,320,783.0]]></cell><cell><![CDATA[242,000,000.0]]></cell><cell><![CDATA[173,679,217.0]]></cell><cell><![CDATA[68,320,783.0]]></cell><cell><![CDATA[300,000,000.0]]></cell><cell><![CDATA[173,677,700.0]]></cell><cell><![CDATA[126,322,300.0]]></cell><cell><![CDATA[123.97]]></cell><cell><![CDATA[123.97]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[0119020065]]></cell><cell><![CDATA[KHS Jasa Survey Kualitas dan Kuantitas BBM HSD (B0) dari RU III Plaju untuk PLTG MPP Air Anyir dan Backloading dari Pelabuhan Tanjung Gudang Belinyu ke Pelabuhan Tanjung Pandan]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK WILAYAH BANGKA BELITUNG]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[03-09-2019]]></cell><cell><![CDATA[31-03-2021]]></cell><cell><![CDATA[184,294,000.0]]></cell><cell><![CDATA[143,947,000.0]]></cell><cell><![CDATA[40,347,000.0]]></cell><cell><![CDATA[50,262,000.0]]></cell><cell><![CDATA[39,233,332.0]]></cell><cell><![CDATA[11,028,668.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[0119040015]]></cell><cell><![CDATA[Jasa Konsultansi Pendampingan Pengadaan Tanah Untuk Pembangunan Kilang Minyak di Tuban]]></cell><cell><![CDATA[PERTAMINA (PERSERO)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[14-01-2019]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[7,500,000,000.0]]></cell><cell><![CDATA[6,348,907,884.0]]></cell><cell><![CDATA[1,151,092,116.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[907,680,396.0]]></cell><cell><![CDATA[-907,680,396.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[13 %]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[0119040038]]></cell><cell><![CDATA[Pengukuran Lahan Pengganti Fasos – Fasum Jalur Kereta Cepat Jakarta Bandung / Measurement of Public and Social Facilities Replacement Land Jakarta Bandung Highspeed Railway Trace]]></cell><cell><![CDATA[KERETA CEPAT INDONESIA CHINA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[27-03-2019]]></cell><cell><![CDATA[11-02-2021]]></cell><cell><![CDATA[745,812,830.0]]></cell><cell><![CDATA[554,691,021.0]]></cell><cell><![CDATA[191,121,809.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[185,544,438.0]]></cell><cell><![CDATA[-185,544,438.0]]></cell><cell><![CDATA[532,723,450.0]]></cell><cell><![CDATA[398,460,122.0]]></cell><cell><![CDATA[134,263,328.0]]></cell><cell><![CDATA[71.43]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[71.83]]></cell><cell><![CDATA[214.75]]></cell><cell><![CDATA[100 %]]></cell></row></rows><rows profile='color'><head><columns><column  rowspan="4"  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  colspan="2"  width='120' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Project]]></column><column  width='230' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='190' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Klien]]></column><column  rowspan="4"  width='40' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[P]]></column><column  rowspan="4"  width='40' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[L]]></column><column  colspan="2"  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[Jangka Waktu]]></column><column  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[RAB]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="3"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Realisasi]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Prosentase Progress 2021]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ]]></column></columns>
+<columns><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Kode]]></column><column rowspan="3" ><![CDATA[Nama]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Awal]]></column><column rowspan="3" ><![CDATA[Akhir]]></column><column><![CDATA[]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Setahun]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Bulan Berjalan]]></column><column><![CDATA[Realisasi Beban Vs RAB Setahun]]></column><column><![CDATA[Realisasi Beban Vs RAB Bulan Berjalan]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="3" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[s/d Bulan Pebruari]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="4" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[ ]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[(1)]]></column><column><![CDATA[(2)]]></column><column><![CDATA[(3)]]></column><column><![CDATA[(4)]]></column><column><![CDATA[(5)]]></column><column><![CDATA[(6)]]></column><column><![CDATA[(7)]]></column><column><![CDATA[(8)]]></column><column><![CDATA[(9)]]></column><column><![CDATA[(7/1)]]></column><column><![CDATA[(7/4)]]></column><column><![CDATA[(8/2)]]></column><column><![CDATA[(8/5)]]></column><column><![CDATA[(15)]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='8' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[18,929,777,121.0]]></column>
+<column><![CDATA[15,885,798,908.0]]></column>
+<column><![CDATA[3,043,978,213.0]]></column>
+<column><![CDATA[2,151,998,018.0]]></column>
+<column><![CDATA[4,754,549,280.0]]></column>
+<column><![CDATA[-2,602,551,262.0]]></column>
+<column><![CDATA[2,306,640,920.0]]></column>
+<column><![CDATA[1,720,762,764.0]]></column>
+<column><![CDATA[585,878,156.0]]></column>
+<column colspan='6' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[0115040055]]></cell><cell><![CDATA[Jasa Independent Surveyor Untuk LNG Tangguh LNG]]></cell><cell><![CDATA[BP BERAU LTD]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[29-12-2015]]></cell><cell><![CDATA[20-12-2020]]></cell><cell><![CDATA[865,564,900.0]]></cell><cell><![CDATA[568,800,000.0]]></cell><cell><![CDATA[296,764,900.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[98,533,334.0]]></cell><cell><![CDATA[-98,533,334.0]]></cell><cell><![CDATA[50,418,000.0]]></cell><cell><![CDATA[35,200,000.0]]></cell><cell><![CDATA[15,218,000.0]]></cell><cell><![CDATA[5.82]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[6.19]]></cell><cell><![CDATA[35.72]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[0118040037]]></cell><cell><![CDATA[Pekerjaan Jasa Konsultansi Perencanaan Teknik (DED) Jalan Tol Probolingo - Banyuwangi Paket Konsultansi 1 (STA. 0+000 - STA. 46+100)]]></cell><cell><![CDATA[KSO BUANA ARCHICON-MARATAMA CIPTA MANDIRI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[20-06-2018]]></cell><cell><![CDATA[31-10-2020]]></cell><cell><![CDATA[1,395,302,400.0]]></cell><cell><![CDATA[1,088,184,322.0]]></cell><cell><![CDATA[307,118,078.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[593,431,688.0]]></cell><cell><![CDATA[-593,431,688.0]]></cell><cell><![CDATA[1,395,302,400.0]]></cell><cell><![CDATA[1,087,041,769.0]]></cell><cell><![CDATA[308,260,631.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[99.9]]></cell><cell><![CDATA[183.18]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[0118040039]]></cell><cell><![CDATA[Pengadaan Jasa Konsultansi Perencanaan Teknik (DED) Jalan Tol Probolinggo Banyuwangi Paket Konsultansi 3]]></cell><cell><![CDATA[CIPTA STRADA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[20-06-2018]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[1,921,947,824.0]]></cell><cell><![CDATA[1,502,317,974.0]]></cell><cell><![CDATA[419,629,850.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[524,897,633.0]]></cell><cell><![CDATA[-524,897,633.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[0119020050]]></cell><cell><![CDATA[Jasa Konsultan Pengurusan Izin Pinjam Pakai Kawasan Hutan (IPKKH) PLTA KUMBIH-3 (48 MW)]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN UTARA (UIP II)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[30-08-2019]]></cell><cell><![CDATA[22-11-2020]]></cell><cell><![CDATA[437,080,000.0]]></cell><cell><![CDATA[363,456,656.0]]></cell><cell><![CDATA[73,623,344.0]]></cell><cell><![CDATA[437,080,000.0]]></cell><cell><![CDATA[363,456,656.0]]></cell><cell><![CDATA[73,623,344.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[0119020051]]></cell><cell><![CDATA[Pekerjaan Soil Investigasi di Rencana Jembatan Tol Teluk Balikpapan]]></cell><cell><![CDATA[WASKITA KARYA (PERSERO) TBK]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[09-09-2019]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[4,284,996,630.0]]></cell><cell><![CDATA[3,934,295,492.0]]></cell><cell><![CDATA[350,701,138.0]]></cell><cell><![CDATA[1,157,231,660.0]]></cell><cell><![CDATA[1,632,934,994.0]]></cell><cell><![CDATA[-475,703,334.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[0119020061]]></cell><cell><![CDATA[Pengadaan Jasa Surveyor Pengadaan Tanah dan ROW]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[06-09-2019]]></cell><cell><![CDATA[01-10-2021]]></cell><cell><![CDATA[1,352,778,537.0]]></cell><cell><![CDATA[1,207,519,342.0]]></cell><cell><![CDATA[145,259,195.0]]></cell><cell><![CDATA[265,424,358.0]]></cell><cell><![CDATA[235,157,592.0]]></cell><cell><![CDATA[30,266,766.0]]></cell><cell><![CDATA[28,197,070.0]]></cell><cell><![CDATA[26,383,173.0]]></cell><cell><![CDATA[1,813,897.0]]></cell><cell><![CDATA[2.08]]></cell><cell><![CDATA[10.62]]></cell><cell><![CDATA[2.18]]></cell><cell><![CDATA[11.22]]></cell><cell><![CDATA[25 %]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[0119020062]]></cell><cell><![CDATA[Jasa Survey Loading dan Discharge BBM Project Handling Franco untuk Supply ke Kapal-Kapal Konsumen (BP Berau) di Wilayah Perairan Makassar, Sorong, Wayame dan Bintuni Papua Barat]]></cell><cell><![CDATA[PERTAMINA PATRA NIAGA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[30-09-2019]]></cell><cell><![CDATA[31-08-2020]]></cell><cell><![CDATA[242,000,000.0]]></cell><cell><![CDATA[173,679,217.0]]></cell><cell><![CDATA[68,320,783.0]]></cell><cell><![CDATA[242,000,000.0]]></cell><cell><![CDATA[173,679,217.0]]></cell><cell><![CDATA[68,320,783.0]]></cell><cell><![CDATA[300,000,000.0]]></cell><cell><![CDATA[173,677,700.0]]></cell><cell><![CDATA[126,322,300.0]]></cell><cell><![CDATA[123.97]]></cell><cell><![CDATA[123.97]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[0119020065]]></cell><cell><![CDATA[KHS Jasa Survey Kualitas dan Kuantitas BBM HSD (B0) dari RU III Plaju untuk PLTG MPP Air Anyir dan Backloading dari Pelabuhan Tanjung Gudang Belinyu ke Pelabuhan Tanjung Pandan]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK WILAYAH BANGKA BELITUNG]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[03-09-2019]]></cell><cell><![CDATA[31-03-2021]]></cell><cell><![CDATA[184,294,000.0]]></cell><cell><![CDATA[143,947,000.0]]></cell><cell><![CDATA[40,347,000.0]]></cell><cell><![CDATA[50,262,000.0]]></cell><cell><![CDATA[39,233,332.0]]></cell><cell><![CDATA[11,028,668.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[0119040015]]></cell><cell><![CDATA[Jasa Konsultansi Pendampingan Pengadaan Tanah Untuk Pembangunan Kilang Minyak di Tuban]]></cell><cell><![CDATA[PERTAMINA (PERSERO)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[14-01-2019]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[7,500,000,000.0]]></cell><cell><![CDATA[6,348,907,884.0]]></cell><cell><![CDATA[1,151,092,116.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[907,680,396.0]]></cell><cell><![CDATA[-907,680,396.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[13 %]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[0119040038]]></cell><cell><![CDATA[Pengukuran Lahan Pengganti Fasos – Fasum Jalur Kereta Cepat Jakarta Bandung / Measurement of Public and Social Facilities Replacement Land Jakarta Bandung Highspeed Railway Trace]]></cell><cell><![CDATA[KERETA CEPAT INDONESIA CHINA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[27-03-2019]]></cell><cell><![CDATA[11-02-2021]]></cell><cell><![CDATA[745,812,830.0]]></cell><cell><![CDATA[554,691,021.0]]></cell><cell><![CDATA[191,121,809.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[185,544,438.0]]></cell><cell><![CDATA[-185,544,438.0]]></cell><cell><![CDATA[532,723,450.0]]></cell><cell><![CDATA[398,460,122.0]]></cell><cell><![CDATA[134,263,328.0]]></cell><cell><![CDATA[71.43]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[71.83]]></cell><cell><![CDATA[214.75]]></cell><cell><![CDATA[100 %]]></cell></row></rows><rows profile='color'><head><columns><column  rowspan="4"  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  colspan="2"  width='120' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Project]]></column><column  width='230' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='190' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Klien]]></column><column  rowspan="4"  width='40' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[P]]></column><column  rowspan="4"  width='40' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[L]]></column><column  colspan="2"  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[Jangka Waktu]]></column><column  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[RAB]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="3"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Realisasi]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Prosentase Progress 2021]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ]]></column></columns>
+<columns><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Kode]]></column><column rowspan="3" ><![CDATA[Nama]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Awal]]></column><column rowspan="3" ><![CDATA[Akhir]]></column><column><![CDATA[]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Setahun]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Bulan Berjalan]]></column><column><![CDATA[Realisasi Beban Vs RAB Setahun]]></column><column><![CDATA[Realisasi Beban Vs RAB Bulan Berjalan]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="3" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[s/d Bulan Pebruari]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="4" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[ ]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[(1)]]></column><column><![CDATA[(2)]]></column><column><![CDATA[(3)]]></column><column><![CDATA[(4)]]></column><column><![CDATA[(5)]]></column><column><![CDATA[(6)]]></column><column><![CDATA[(7)]]></column><column><![CDATA[(8)]]></column><column><![CDATA[(9)]]></column><column><![CDATA[(7/1)]]></column><column><![CDATA[(7/4)]]></column><column><![CDATA[(8/2)]]></column><column><![CDATA[(8/5)]]></column><column><![CDATA[(15)]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='8' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[18,929,777,121.0]]></column>
+<column><![CDATA[15,885,798,908.0]]></column>
+<column><![CDATA[3,043,978,213.0]]></column>
+<column><![CDATA[2,151,998,018.0]]></column>
+<column><![CDATA[4,754,549,280.0]]></column>
+<column><![CDATA[-2,602,551,262.0]]></column>
+<column><![CDATA[2,306,640,920.0]]></column>
+<column><![CDATA[1,720,762,764.0]]></column>
+<column><![CDATA[585,878,156.0]]></column>
+<column colspan='6' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[0115040055]]></cell><cell><![CDATA[Jasa Independent Surveyor Untuk LNG Tangguh LNG]]></cell><cell><![CDATA[BP BERAU LTD]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[29-12-2015]]></cell><cell><![CDATA[20-12-2020]]></cell><cell><![CDATA[865,564,900.0]]></cell><cell><![CDATA[568,800,000.0]]></cell><cell><![CDATA[296,764,900.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[98,533,334.0]]></cell><cell><![CDATA[-98,533,334.0]]></cell><cell><![CDATA[50,418,000.0]]></cell><cell><![CDATA[35,200,000.0]]></cell><cell><![CDATA[15,218,000.0]]></cell><cell><![CDATA[5.82]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[6.19]]></cell><cell><![CDATA[35.72]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[0118040037]]></cell><cell><![CDATA[Pekerjaan Jasa Konsultansi Perencanaan Teknik (DED) Jalan Tol Probolingo - Banyuwangi Paket Konsultansi 1 (STA. 0+000 - STA. 46+100)]]></cell><cell><![CDATA[KSO BUANA ARCHICON-MARATAMA CIPTA MANDIRI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[20-06-2018]]></cell><cell><![CDATA[31-10-2020]]></cell><cell><![CDATA[1,395,302,400.0]]></cell><cell><![CDATA[1,088,184,322.0]]></cell><cell><![CDATA[307,118,078.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[593,431,688.0]]></cell><cell><![CDATA[-593,431,688.0]]></cell><cell><![CDATA[1,395,302,400.0]]></cell><cell><![CDATA[1,087,041,769.0]]></cell><cell><![CDATA[308,260,631.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[99.9]]></cell><cell><![CDATA[183.18]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[0118040039]]></cell><cell><![CDATA[Pengadaan Jasa Konsultansi Perencanaan Teknik (DED) Jalan Tol Probolinggo Banyuwangi Paket Konsultansi 3]]></cell><cell><![CDATA[CIPTA STRADA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[20-06-2018]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[1,921,947,824.0]]></cell><cell><![CDATA[1,502,317,974.0]]></cell><cell><![CDATA[419,629,850.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[524,897,633.0]]></cell><cell><![CDATA[-524,897,633.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[0119020050]]></cell><cell><![CDATA[Jasa Konsultan Pengurusan Izin Pinjam Pakai Kawasan Hutan (IPKKH) PLTA KUMBIH-3 (48 MW)]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN UTARA (UIP II)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[30-08-2019]]></cell><cell><![CDATA[22-11-2020]]></cell><cell><![CDATA[437,080,000.0]]></cell><cell><![CDATA[363,456,656.0]]></cell><cell><![CDATA[73,623,344.0]]></cell><cell><![CDATA[437,080,000.0]]></cell><cell><![CDATA[363,456,656.0]]></cell><cell><![CDATA[73,623,344.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[0119020051]]></cell><cell><![CDATA[Pekerjaan Soil Investigasi di Rencana Jembatan Tol Teluk Balikpapan]]></cell><cell><![CDATA[WASKITA KARYA (PERSERO) TBK]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[09-09-2019]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[4,284,996,630.0]]></cell><cell><![CDATA[3,934,295,492.0]]></cell><cell><![CDATA[350,701,138.0]]></cell><cell><![CDATA[1,157,231,660.0]]></cell><cell><![CDATA[1,632,934,994.0]]></cell><cell><![CDATA[-475,703,334.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[0119020061]]></cell><cell><![CDATA[Pengadaan Jasa Surveyor Pengadaan Tanah dan ROW]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[06-09-2019]]></cell><cell><![CDATA[01-10-2021]]></cell><cell><![CDATA[1,352,778,537.0]]></cell><cell><![CDATA[1,207,519,342.0]]></cell><cell><![CDATA[145,259,195.0]]></cell><cell><![CDATA[265,424,358.0]]></cell><cell><![CDATA[235,157,592.0]]></cell><cell><![CDATA[30,266,766.0]]></cell><cell><![CDATA[28,197,070.0]]></cell><cell><![CDATA[26,383,173.0]]></cell><cell><![CDATA[1,813,897.0]]></cell><cell><![CDATA[2.08]]></cell><cell><![CDATA[10.62]]></cell><cell><![CDATA[2.18]]></cell><cell><![CDATA[11.22]]></cell><cell><![CDATA[25 %]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[0119020062]]></cell><cell><![CDATA[Jasa Survey Loading dan Discharge BBM Project Handling Franco untuk Supply ke Kapal-Kapal Konsumen (BP Berau) di Wilayah Perairan Makassar, Sorong, Wayame dan Bintuni Papua Barat]]></cell><cell><![CDATA[PERTAMINA PATRA NIAGA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[30-09-2019]]></cell><cell><![CDATA[31-08-2020]]></cell><cell><![CDATA[242,000,000.0]]></cell><cell><![CDATA[173,679,217.0]]></cell><cell><![CDATA[68,320,783.0]]></cell><cell><![CDATA[242,000,000.0]]></cell><cell><![CDATA[173,679,217.0]]></cell><cell><![CDATA[68,320,783.0]]></cell><cell><![CDATA[300,000,000.0]]></cell><cell><![CDATA[173,677,700.0]]></cell><cell><![CDATA[126,322,300.0]]></cell><cell><![CDATA[123.97]]></cell><cell><![CDATA[123.97]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[0119020065]]></cell><cell><![CDATA[KHS Jasa Survey Kualitas dan Kuantitas BBM HSD (B0) dari RU III Plaju untuk PLTG MPP Air Anyir dan Backloading dari Pelabuhan Tanjung Gudang Belinyu ke Pelabuhan Tanjung Pandan]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK WILAYAH BANGKA BELITUNG]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[03-09-2019]]></cell><cell><![CDATA[31-03-2021]]></cell><cell><![CDATA[184,294,000.0]]></cell><cell><![CDATA[143,947,000.0]]></cell><cell><![CDATA[40,347,000.0]]></cell><cell><![CDATA[50,262,000.0]]></cell><cell><![CDATA[39,233,332.0]]></cell><cell><![CDATA[11,028,668.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[0119040015]]></cell><cell><![CDATA[Jasa Konsultansi Pendampingan Pengadaan Tanah Untuk Pembangunan Kilang Minyak di Tuban]]></cell><cell><![CDATA[PERTAMINA (PERSERO)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[14-01-2019]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[7,500,000,000.0]]></cell><cell><![CDATA[6,348,907,884.0]]></cell><cell><![CDATA[1,151,092,116.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[907,680,396.0]]></cell><cell><![CDATA[-907,680,396.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[13 %]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[0119040038]]></cell><cell><![CDATA[Pengukuran Lahan Pengganti Fasos – Fasum Jalur Kereta Cepat Jakarta Bandung / Measurement of Public and Social Facilities Replacement Land Jakarta Bandung Highspeed Railway Trace]]></cell><cell><![CDATA[KERETA CEPAT INDONESIA CHINA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[27-03-2019]]></cell><cell><![CDATA[11-02-2021]]></cell><cell><![CDATA[745,812,830.0]]></cell><cell><![CDATA[554,691,021.0]]></cell><cell><![CDATA[191,121,809.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[185,544,438.0]]></cell><cell><![CDATA[-185,544,438.0]]></cell><cell><![CDATA[532,723,450.0]]></cell><cell><![CDATA[398,460,122.0]]></cell><cell><![CDATA[134,263,328.0]]></cell><cell><![CDATA[71.43]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[71.83]]></cell><cell><![CDATA[214.75]]></cell><cell><![CDATA[100 %]]></cell></row></rows><rows profile='color'><head><columns><column  rowspan="4"  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  colspan="2"  width='120' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Project]]></column><column  width='230' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='190' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Klien]]></column><column  rowspan="4"  width='40' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[P]]></column><column  rowspan="4"  width='40' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[L]]></column><column  colspan="2"  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[Jangka Waktu]]></column><column  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[RAB]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="3"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Realisasi]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Prosentase Progress 2021]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ]]></column></columns>
+<columns><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Kode]]></column><column rowspan="3" ><![CDATA[Nama]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Awal]]></column><column rowspan="3" ><![CDATA[Akhir]]></column><column><![CDATA[]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Setahun]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Bulan Berjalan]]></column><column><![CDATA[Realisasi Beban Vs RAB Setahun]]></column><column><![CDATA[Realisasi Beban Vs RAB Bulan Berjalan]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="3" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[s/d Bulan Pebruari]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="4" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[ ]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[(1)]]></column><column><![CDATA[(2)]]></column><column><![CDATA[(3)]]></column><column><![CDATA[(4)]]></column><column><![CDATA[(5)]]></column><column><![CDATA[(6)]]></column><column><![CDATA[(7)]]></column><column><![CDATA[(8)]]></column><column><![CDATA[(9)]]></column><column><![CDATA[(7/1)]]></column><column><![CDATA[(7/4)]]></column><column><![CDATA[(8/2)]]></column><column><![CDATA[(8/5)]]></column><column><![CDATA[(15)]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='8' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[18,929,777,121.0]]></column>
+<column><![CDATA[15,885,798,908.0]]></column>
+<column><![CDATA[3,043,978,213.0]]></column>
+<column><![CDATA[2,151,998,018.0]]></column>
+<column><![CDATA[4,754,549,280.0]]></column>
+<column><![CDATA[-2,602,551,262.0]]></column>
+<column><![CDATA[2,306,640,920.0]]></column>
+<column><![CDATA[1,720,762,764.0]]></column>
+<column><![CDATA[585,878,156.0]]></column>
+<column colspan='6' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[0115040055]]></cell><cell><![CDATA[Jasa Independent Surveyor Untuk LNG Tangguh LNG]]></cell><cell><![CDATA[BP BERAU LTD]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[29-12-2015]]></cell><cell><![CDATA[20-12-2020]]></cell><cell><![CDATA[865,564,900.0]]></cell><cell><![CDATA[568,800,000.0]]></cell><cell><![CDATA[296,764,900.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[98,533,334.0]]></cell><cell><![CDATA[-98,533,334.0]]></cell><cell><![CDATA[50,418,000.0]]></cell><cell><![CDATA[35,200,000.0]]></cell><cell><![CDATA[15,218,000.0]]></cell><cell><![CDATA[5.82]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[6.19]]></cell><cell><![CDATA[35.72]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[0118040037]]></cell><cell><![CDATA[Pekerjaan Jasa Konsultansi Perencanaan Teknik (DED) Jalan Tol Probolingo - Banyuwangi Paket Konsultansi 1 (STA. 0+000 - STA. 46+100)]]></cell><cell><![CDATA[KSO BUANA ARCHICON-MARATAMA CIPTA MANDIRI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[20-06-2018]]></cell><cell><![CDATA[31-10-2020]]></cell><cell><![CDATA[1,395,302,400.0]]></cell><cell><![CDATA[1,088,184,322.0]]></cell><cell><![CDATA[307,118,078.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[593,431,688.0]]></cell><cell><![CDATA[-593,431,688.0]]></cell><cell><![CDATA[1,395,302,400.0]]></cell><cell><![CDATA[1,087,041,769.0]]></cell><cell><![CDATA[308,260,631.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[99.9]]></cell><cell><![CDATA[183.18]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[0118040039]]></cell><cell><![CDATA[Pengadaan Jasa Konsultansi Perencanaan Teknik (DED) Jalan Tol Probolinggo Banyuwangi Paket Konsultansi 3]]></cell><cell><![CDATA[CIPTA STRADA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[20-06-2018]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[1,921,947,824.0]]></cell><cell><![CDATA[1,502,317,974.0]]></cell><cell><![CDATA[419,629,850.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[524,897,633.0]]></cell><cell><![CDATA[-524,897,633.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[0119020050]]></cell><cell><![CDATA[Jasa Konsultan Pengurusan Izin Pinjam Pakai Kawasan Hutan (IPKKH) PLTA KUMBIH-3 (48 MW)]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN UTARA (UIP II)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[30-08-2019]]></cell><cell><![CDATA[22-11-2020]]></cell><cell><![CDATA[437,080,000.0]]></cell><cell><![CDATA[363,456,656.0]]></cell><cell><![CDATA[73,623,344.0]]></cell><cell><![CDATA[437,080,000.0]]></cell><cell><![CDATA[363,456,656.0]]></cell><cell><![CDATA[73,623,344.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[0119020051]]></cell><cell><![CDATA[Pekerjaan Soil Investigasi di Rencana Jembatan Tol Teluk Balikpapan]]></cell><cell><![CDATA[WASKITA KARYA (PERSERO) TBK]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[09-09-2019]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[4,284,996,630.0]]></cell><cell><![CDATA[3,934,295,492.0]]></cell><cell><![CDATA[350,701,138.0]]></cell><cell><![CDATA[1,157,231,660.0]]></cell><cell><![CDATA[1,632,934,994.0]]></cell><cell><![CDATA[-475,703,334.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[0119020061]]></cell><cell><![CDATA[Pengadaan Jasa Surveyor Pengadaan Tanah dan ROW]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[06-09-2019]]></cell><cell><![CDATA[01-10-2021]]></cell><cell><![CDATA[1,352,778,537.0]]></cell><cell><![CDATA[1,207,519,342.0]]></cell><cell><![CDATA[145,259,195.0]]></cell><cell><![CDATA[265,424,358.0]]></cell><cell><![CDATA[235,157,592.0]]></cell><cell><![CDATA[30,266,766.0]]></cell><cell><![CDATA[28,197,070.0]]></cell><cell><![CDATA[26,383,173.0]]></cell><cell><![CDATA[1,813,897.0]]></cell><cell><![CDATA[2.08]]></cell><cell><![CDATA[10.62]]></cell><cell><![CDATA[2.18]]></cell><cell><![CDATA[11.22]]></cell><cell><![CDATA[25 %]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[0119020062]]></cell><cell><![CDATA[Jasa Survey Loading dan Discharge BBM Project Handling Franco untuk Supply ke Kapal-Kapal Konsumen (BP Berau) di Wilayah Perairan Makassar, Sorong, Wayame dan Bintuni Papua Barat]]></cell><cell><![CDATA[PERTAMINA PATRA NIAGA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[30-09-2019]]></cell><cell><![CDATA[31-08-2020]]></cell><cell><![CDATA[242,000,000.0]]></cell><cell><![CDATA[173,679,217.0]]></cell><cell><![CDATA[68,320,783.0]]></cell><cell><![CDATA[242,000,000.0]]></cell><cell><![CDATA[173,679,217.0]]></cell><cell><![CDATA[68,320,783.0]]></cell><cell><![CDATA[300,000,000.0]]></cell><cell><![CDATA[173,677,700.0]]></cell><cell><![CDATA[126,322,300.0]]></cell><cell><![CDATA[123.97]]></cell><cell><![CDATA[123.97]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[0119020065]]></cell><cell><![CDATA[KHS Jasa Survey Kualitas dan Kuantitas BBM HSD (B0) dari RU III Plaju untuk PLTG MPP Air Anyir dan Backloading dari Pelabuhan Tanjung Gudang Belinyu ke Pelabuhan Tanjung Pandan]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK WILAYAH BANGKA BELITUNG]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[03-09-2019]]></cell><cell><![CDATA[31-03-2021]]></cell><cell><![CDATA[184,294,000.0]]></cell><cell><![CDATA[143,947,000.0]]></cell><cell><![CDATA[40,347,000.0]]></cell><cell><![CDATA[50,262,000.0]]></cell><cell><![CDATA[39,233,332.0]]></cell><cell><![CDATA[11,028,668.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[0119040015]]></cell><cell><![CDATA[Jasa Konsultansi Pendampingan Pengadaan Tanah Untuk Pembangunan Kilang Minyak di Tuban]]></cell><cell><![CDATA[PERTAMINA (PERSERO)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[14-01-2019]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[7,500,000,000.0]]></cell><cell><![CDATA[6,348,907,884.0]]></cell><cell><![CDATA[1,151,092,116.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[907,680,396.0]]></cell><cell><![CDATA[-907,680,396.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[13 %]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[0119040038]]></cell><cell><![CDATA[Pengukuran Lahan Pengganti Fasos – Fasum Jalur Kereta Cepat Jakarta Bandung / Measurement of Public and Social Facilities Replacement Land Jakarta Bandung Highspeed Railway Trace]]></cell><cell><![CDATA[KERETA CEPAT INDONESIA CHINA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[27-03-2019]]></cell><cell><![CDATA[11-02-2021]]></cell><cell><![CDATA[745,812,830.0]]></cell><cell><![CDATA[554,691,021.0]]></cell><cell><![CDATA[191,121,809.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[185,544,438.0]]></cell><cell><![CDATA[-185,544,438.0]]></cell><cell><![CDATA[532,723,450.0]]></cell><cell><![CDATA[398,460,122.0]]></cell><cell><![CDATA[134,263,328.0]]></cell><cell><![CDATA[71.43]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[71.83]]></cell><cell><![CDATA[214.75]]></cell><cell><![CDATA[100 %]]></cell></row></rows><rows profile='color'><head><columns><column  rowspan="4"  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  colspan="2"  width='120' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Project]]></column><column  width='230' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='190' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Klien]]></column><column  rowspan="4"  width='40' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[P]]></column><column  rowspan="4"  width='40' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[L]]></column><column  colspan="2"  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[Jangka Waktu]]></column><column  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[RAB]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="3"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Realisasi]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Prosentase Progress 2021]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ]]></column></columns>
+<columns><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Kode]]></column><column rowspan="3" ><![CDATA[Nama]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Awal]]></column><column rowspan="3" ><![CDATA[Akhir]]></column><column><![CDATA[]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Setahun]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Bulan Berjalan]]></column><column><![CDATA[Realisasi Beban Vs RAB Setahun]]></column><column><![CDATA[Realisasi Beban Vs RAB Bulan Berjalan]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="3" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[s/d Bulan Pebruari]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="4" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[ ]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[(1)]]></column><column><![CDATA[(2)]]></column><column><![CDATA[(3)]]></column><column><![CDATA[(4)]]></column><column><![CDATA[(5)]]></column><column><![CDATA[(6)]]></column><column><![CDATA[(7)]]></column><column><![CDATA[(8)]]></column><column><![CDATA[(9)]]></column><column><![CDATA[(7/1)]]></column><column><![CDATA[(7/4)]]></column><column><![CDATA[(8/2)]]></column><column><![CDATA[(8/5)]]></column><column><![CDATA[(15)]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='8' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[18,929,777,121.0]]></column>
+<column><![CDATA[15,885,798,908.0]]></column>
+<column><![CDATA[3,043,978,213.0]]></column>
+<column><![CDATA[2,151,998,018.0]]></column>
+<column><![CDATA[4,754,549,280.0]]></column>
+<column><![CDATA[-2,602,551,262.0]]></column>
+<column><![CDATA[2,306,640,920.0]]></column>
+<column><![CDATA[1,720,762,764.0]]></column>
+<column><![CDATA[585,878,156.0]]></column>
+<column colspan='6' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[0115040055]]></cell><cell><![CDATA[Jasa Independent Surveyor Untuk LNG Tangguh LNG]]></cell><cell><![CDATA[BP BERAU LTD]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[29-12-2015]]></cell><cell><![CDATA[20-12-2020]]></cell><cell><![CDATA[865,564,900.0]]></cell><cell><![CDATA[568,800,000.0]]></cell><cell><![CDATA[296,764,900.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[98,533,334.0]]></cell><cell><![CDATA[-98,533,334.0]]></cell><cell><![CDATA[50,418,000.0]]></cell><cell><![CDATA[35,200,000.0]]></cell><cell><![CDATA[15,218,000.0]]></cell><cell><![CDATA[5.82]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[6.19]]></cell><cell><![CDATA[35.72]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[0118040037]]></cell><cell><![CDATA[Pekerjaan Jasa Konsultansi Perencanaan Teknik (DED) Jalan Tol Probolingo - Banyuwangi Paket Konsultansi 1 (STA. 0+000 - STA. 46+100)]]></cell><cell><![CDATA[KSO BUANA ARCHICON-MARATAMA CIPTA MANDIRI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[20-06-2018]]></cell><cell><![CDATA[31-10-2020]]></cell><cell><![CDATA[1,395,302,400.0]]></cell><cell><![CDATA[1,088,184,322.0]]></cell><cell><![CDATA[307,118,078.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[593,431,688.0]]></cell><cell><![CDATA[-593,431,688.0]]></cell><cell><![CDATA[1,395,302,400.0]]></cell><cell><![CDATA[1,087,041,769.0]]></cell><cell><![CDATA[308,260,631.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[99.9]]></cell><cell><![CDATA[183.18]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[0118040039]]></cell><cell><![CDATA[Pengadaan Jasa Konsultansi Perencanaan Teknik (DED) Jalan Tol Probolinggo Banyuwangi Paket Konsultansi 3]]></cell><cell><![CDATA[CIPTA STRADA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[20-06-2018]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[1,921,947,824.0]]></cell><cell><![CDATA[1,502,317,974.0]]></cell><cell><![CDATA[419,629,850.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[524,897,633.0]]></cell><cell><![CDATA[-524,897,633.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[0119020050]]></cell><cell><![CDATA[Jasa Konsultan Pengurusan Izin Pinjam Pakai Kawasan Hutan (IPKKH) PLTA KUMBIH-3 (48 MW)]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN UTARA (UIP II)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[30-08-2019]]></cell><cell><![CDATA[22-11-2020]]></cell><cell><![CDATA[437,080,000.0]]></cell><cell><![CDATA[363,456,656.0]]></cell><cell><![CDATA[73,623,344.0]]></cell><cell><![CDATA[437,080,000.0]]></cell><cell><![CDATA[363,456,656.0]]></cell><cell><![CDATA[73,623,344.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[0119020051]]></cell><cell><![CDATA[Pekerjaan Soil Investigasi di Rencana Jembatan Tol Teluk Balikpapan]]></cell><cell><![CDATA[WASKITA KARYA (PERSERO) TBK]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[09-09-2019]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[4,284,996,630.0]]></cell><cell><![CDATA[3,934,295,492.0]]></cell><cell><![CDATA[350,701,138.0]]></cell><cell><![CDATA[1,157,231,660.0]]></cell><cell><![CDATA[1,632,934,994.0]]></cell><cell><![CDATA[-475,703,334.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[0119020061]]></cell><cell><![CDATA[Pengadaan Jasa Surveyor Pengadaan Tanah dan ROW]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[06-09-2019]]></cell><cell><![CDATA[01-10-2021]]></cell><cell><![CDATA[1,352,778,537.0]]></cell><cell><![CDATA[1,207,519,342.0]]></cell><cell><![CDATA[145,259,195.0]]></cell><cell><![CDATA[265,424,358.0]]></cell><cell><![CDATA[235,157,592.0]]></cell><cell><![CDATA[30,266,766.0]]></cell><cell><![CDATA[28,197,070.0]]></cell><cell><![CDATA[26,383,173.0]]></cell><cell><![CDATA[1,813,897.0]]></cell><cell><![CDATA[2.08]]></cell><cell><![CDATA[10.62]]></cell><cell><![CDATA[2.18]]></cell><cell><![CDATA[11.22]]></cell><cell><![CDATA[25 %]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[0119020062]]></cell><cell><![CDATA[Jasa Survey Loading dan Discharge BBM Project Handling Franco untuk Supply ke Kapal-Kapal Konsumen (BP Berau) di Wilayah Perairan Makassar, Sorong, Wayame dan Bintuni Papua Barat]]></cell><cell><![CDATA[PERTAMINA PATRA NIAGA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[30-09-2019]]></cell><cell><![CDATA[31-08-2020]]></cell><cell><![CDATA[242,000,000.0]]></cell><cell><![CDATA[173,679,217.0]]></cell><cell><![CDATA[68,320,783.0]]></cell><cell><![CDATA[242,000,000.0]]></cell><cell><![CDATA[173,679,217.0]]></cell><cell><![CDATA[68,320,783.0]]></cell><cell><![CDATA[300,000,000.0]]></cell><cell><![CDATA[173,677,700.0]]></cell><cell><![CDATA[126,322,300.0]]></cell><cell><![CDATA[123.97]]></cell><cell><![CDATA[123.97]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[0119020065]]></cell><cell><![CDATA[KHS Jasa Survey Kualitas dan Kuantitas BBM HSD (B0) dari RU III Plaju untuk PLTG MPP Air Anyir dan Backloading dari Pelabuhan Tanjung Gudang Belinyu ke Pelabuhan Tanjung Pandan]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK WILAYAH BANGKA BELITUNG]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[03-09-2019]]></cell><cell><![CDATA[31-03-2021]]></cell><cell><![CDATA[184,294,000.0]]></cell><cell><![CDATA[143,947,000.0]]></cell><cell><![CDATA[40,347,000.0]]></cell><cell><![CDATA[50,262,000.0]]></cell><cell><![CDATA[39,233,332.0]]></cell><cell><![CDATA[11,028,668.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[0119040015]]></cell><cell><![CDATA[Jasa Konsultansi Pendampingan Pengadaan Tanah Untuk Pembangunan Kilang Minyak di Tuban]]></cell><cell><![CDATA[PERTAMINA (PERSERO)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[14-01-2019]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[7,500,000,000.0]]></cell><cell><![CDATA[6,348,907,884.0]]></cell><cell><![CDATA[1,151,092,116.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[907,680,396.0]]></cell><cell><![CDATA[-907,680,396.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[13 %]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[0119040038]]></cell><cell><![CDATA[Pengukuran Lahan Pengganti Fasos – Fasum Jalur Kereta Cepat Jakarta Bandung / Measurement of Public and Social Facilities Replacement Land Jakarta Bandung Highspeed Railway Trace]]></cell><cell><![CDATA[KERETA CEPAT INDONESIA CHINA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[27-03-2019]]></cell><cell><![CDATA[11-02-2021]]></cell><cell><![CDATA[745,812,830.0]]></cell><cell><![CDATA[554,691,021.0]]></cell><cell><![CDATA[191,121,809.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[185,544,438.0]]></cell><cell><![CDATA[-185,544,438.0]]></cell><cell><![CDATA[532,723,450.0]]></cell><cell><![CDATA[398,460,122.0]]></cell><cell><![CDATA[134,263,328.0]]></cell><cell><![CDATA[71.43]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[71.83]]></cell><cell><![CDATA[214.75]]></cell><cell><![CDATA[100 %]]></cell></row></rows><rows profile='color'><head><columns><column  rowspan="4"  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  colspan="2"  width='120' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Project]]></column><column  width='230' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='190' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Klien]]></column><column  rowspan="4"  width='40' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[P]]></column><column  rowspan="4"  width='40' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[L]]></column><column  colspan="2"  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[Jangka Waktu]]></column><column  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[RAB]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="3"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Realisasi]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Prosentase Progress 2021]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ]]></column></columns>
+<columns><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Kode]]></column><column rowspan="3" ><![CDATA[Nama]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Awal]]></column><column rowspan="3" ><![CDATA[Akhir]]></column><column><![CDATA[]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Setahun]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Bulan Berjalan]]></column><column><![CDATA[Realisasi Beban Vs RAB Setahun]]></column><column><![CDATA[Realisasi Beban Vs RAB Bulan Berjalan]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="3" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[s/d Bulan Pebruari]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="4" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[ ]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[(1)]]></column><column><![CDATA[(2)]]></column><column><![CDATA[(3)]]></column><column><![CDATA[(4)]]></column><column><![CDATA[(5)]]></column><column><![CDATA[(6)]]></column><column><![CDATA[(7)]]></column><column><![CDATA[(8)]]></column><column><![CDATA[(9)]]></column><column><![CDATA[(7/1)]]></column><column><![CDATA[(7/4)]]></column><column><![CDATA[(8/2)]]></column><column><![CDATA[(8/5)]]></column><column><![CDATA[(15)]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='8' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[18,929,777,121.0]]></column>
+<column><![CDATA[15,885,798,908.0]]></column>
+<column><![CDATA[3,043,978,213.0]]></column>
+<column><![CDATA[2,151,998,018.0]]></column>
+<column><![CDATA[4,754,549,280.0]]></column>
+<column><![CDATA[-2,602,551,262.0]]></column>
+<column><![CDATA[2,306,640,920.0]]></column>
+<column><![CDATA[1,720,762,764.0]]></column>
+<column><![CDATA[585,878,156.0]]></column>
+<column colspan='6' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[0115040055]]></cell><cell><![CDATA[Jasa Independent Surveyor Untuk LNG Tangguh LNG]]></cell><cell><![CDATA[BP BERAU LTD]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[29-12-2015]]></cell><cell><![CDATA[20-12-2020]]></cell><cell><![CDATA[865,564,900.0]]></cell><cell><![CDATA[568,800,000.0]]></cell><cell><![CDATA[296,764,900.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[98,533,334.0]]></cell><cell><![CDATA[-98,533,334.0]]></cell><cell><![CDATA[50,418,000.0]]></cell><cell><![CDATA[35,200,000.0]]></cell><cell><![CDATA[15,218,000.0]]></cell><cell><![CDATA[5.82]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[6.19]]></cell><cell><![CDATA[35.72]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[0118040037]]></cell><cell><![CDATA[Pekerjaan Jasa Konsultansi Perencanaan Teknik (DED) Jalan Tol Probolingo - Banyuwangi Paket Konsultansi 1 (STA. 0+000 - STA. 46+100)]]></cell><cell><![CDATA[KSO BUANA ARCHICON-MARATAMA CIPTA MANDIRI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[20-06-2018]]></cell><cell><![CDATA[31-10-2020]]></cell><cell><![CDATA[1,395,302,400.0]]></cell><cell><![CDATA[1,088,184,322.0]]></cell><cell><![CDATA[307,118,078.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[593,431,688.0]]></cell><cell><![CDATA[-593,431,688.0]]></cell><cell><![CDATA[1,395,302,400.0]]></cell><cell><![CDATA[1,087,041,769.0]]></cell><cell><![CDATA[308,260,631.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[99.9]]></cell><cell><![CDATA[183.18]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[0118040039]]></cell><cell><![CDATA[Pengadaan Jasa Konsultansi Perencanaan Teknik (DED) Jalan Tol Probolinggo Banyuwangi Paket Konsultansi 3]]></cell><cell><![CDATA[CIPTA STRADA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[20-06-2018]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[1,921,947,824.0]]></cell><cell><![CDATA[1,502,317,974.0]]></cell><cell><![CDATA[419,629,850.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[524,897,633.0]]></cell><cell><![CDATA[-524,897,633.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[0119020050]]></cell><cell><![CDATA[Jasa Konsultan Pengurusan Izin Pinjam Pakai Kawasan Hutan (IPKKH) PLTA KUMBIH-3 (48 MW)]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN UTARA (UIP II)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[30-08-2019]]></cell><cell><![CDATA[22-11-2020]]></cell><cell><![CDATA[437,080,000.0]]></cell><cell><![CDATA[363,456,656.0]]></cell><cell><![CDATA[73,623,344.0]]></cell><cell><![CDATA[437,080,000.0]]></cell><cell><![CDATA[363,456,656.0]]></cell><cell><![CDATA[73,623,344.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[0119020051]]></cell><cell><![CDATA[Pekerjaan Soil Investigasi di Rencana Jembatan Tol Teluk Balikpapan]]></cell><cell><![CDATA[WASKITA KARYA (PERSERO) TBK]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[09-09-2019]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[4,284,996,630.0]]></cell><cell><![CDATA[3,934,295,492.0]]></cell><cell><![CDATA[350,701,138.0]]></cell><cell><![CDATA[1,157,231,660.0]]></cell><cell><![CDATA[1,632,934,994.0]]></cell><cell><![CDATA[-475,703,334.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[0119020061]]></cell><cell><![CDATA[Pengadaan Jasa Surveyor Pengadaan Tanah dan ROW]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[06-09-2019]]></cell><cell><![CDATA[01-10-2021]]></cell><cell><![CDATA[1,352,778,537.0]]></cell><cell><![CDATA[1,207,519,342.0]]></cell><cell><![CDATA[145,259,195.0]]></cell><cell><![CDATA[265,424,358.0]]></cell><cell><![CDATA[235,157,592.0]]></cell><cell><![CDATA[30,266,766.0]]></cell><cell><![CDATA[28,197,070.0]]></cell><cell><![CDATA[26,383,173.0]]></cell><cell><![CDATA[1,813,897.0]]></cell><cell><![CDATA[2.08]]></cell><cell><![CDATA[10.62]]></cell><cell><![CDATA[2.18]]></cell><cell><![CDATA[11.22]]></cell><cell><![CDATA[25 %]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[0119020062]]></cell><cell><![CDATA[Jasa Survey Loading dan Discharge BBM Project Handling Franco untuk Supply ke Kapal-Kapal Konsumen (BP Berau) di Wilayah Perairan Makassar, Sorong, Wayame dan Bintuni Papua Barat]]></cell><cell><![CDATA[PERTAMINA PATRA NIAGA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[30-09-2019]]></cell><cell><![CDATA[31-08-2020]]></cell><cell><![CDATA[242,000,000.0]]></cell><cell><![CDATA[173,679,217.0]]></cell><cell><![CDATA[68,320,783.0]]></cell><cell><![CDATA[242,000,000.0]]></cell><cell><![CDATA[173,679,217.0]]></cell><cell><![CDATA[68,320,783.0]]></cell><cell><![CDATA[300,000,000.0]]></cell><cell><![CDATA[173,677,700.0]]></cell><cell><![CDATA[126,322,300.0]]></cell><cell><![CDATA[123.97]]></cell><cell><![CDATA[123.97]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[0119020065]]></cell><cell><![CDATA[KHS Jasa Survey Kualitas dan Kuantitas BBM HSD (B0) dari RU III Plaju untuk PLTG MPP Air Anyir dan Backloading dari Pelabuhan Tanjung Gudang Belinyu ke Pelabuhan Tanjung Pandan]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK WILAYAH BANGKA BELITUNG]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[03-09-2019]]></cell><cell><![CDATA[31-03-2021]]></cell><cell><![CDATA[184,294,000.0]]></cell><cell><![CDATA[143,947,000.0]]></cell><cell><![CDATA[40,347,000.0]]></cell><cell><![CDATA[50,262,000.0]]></cell><cell><![CDATA[39,233,332.0]]></cell><cell><![CDATA[11,028,668.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[0119040015]]></cell><cell><![CDATA[Jasa Konsultansi Pendampingan Pengadaan Tanah Untuk Pembangunan Kilang Minyak di Tuban]]></cell><cell><![CDATA[PERTAMINA (PERSERO)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[14-01-2019]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[7,500,000,000.0]]></cell><cell><![CDATA[6,348,907,884.0]]></cell><cell><![CDATA[1,151,092,116.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[907,680,396.0]]></cell><cell><![CDATA[-907,680,396.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[13 %]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[0119040038]]></cell><cell><![CDATA[Pengukuran Lahan Pengganti Fasos – Fasum Jalur Kereta Cepat Jakarta Bandung / Measurement of Public and Social Facilities Replacement Land Jakarta Bandung Highspeed Railway Trace]]></cell><cell><![CDATA[KERETA CEPAT INDONESIA CHINA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[27-03-2019]]></cell><cell><![CDATA[11-02-2021]]></cell><cell><![CDATA[745,812,830.0]]></cell><cell><![CDATA[554,691,021.0]]></cell><cell><![CDATA[191,121,809.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[185,544,438.0]]></cell><cell><![CDATA[-185,544,438.0]]></cell><cell><![CDATA[532,723,450.0]]></cell><cell><![CDATA[398,460,122.0]]></cell><cell><![CDATA[134,263,328.0]]></cell><cell><![CDATA[71.43]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[71.83]]></cell><cell><![CDATA[214.75]]></cell><cell><![CDATA[100 %]]></cell></row></rows><rows profile='color'><head><columns><column  rowspan="4"  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  colspan="2"  width='120' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Project]]></column><column  width='230' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='190' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Klien]]></column><column  rowspan="4"  width='40' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[P]]></column><column  rowspan="4"  width='40' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[L]]></column><column  colspan="2"  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[Jangka Waktu]]></column><column  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[RAB]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="3"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Realisasi]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Prosentase Progress 2021]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ]]></column></columns>
+<columns><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Kode]]></column><column rowspan="3" ><![CDATA[Nama]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Awal]]></column><column rowspan="3" ><![CDATA[Akhir]]></column><column><![CDATA[]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Setahun]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Bulan Berjalan]]></column><column><![CDATA[Realisasi Beban Vs RAB Setahun]]></column><column><![CDATA[Realisasi Beban Vs RAB Bulan Berjalan]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="3" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[s/d Bulan Pebruari]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="4" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[ ]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[(1)]]></column><column><![CDATA[(2)]]></column><column><![CDATA[(3)]]></column><column><![CDATA[(4)]]></column><column><![CDATA[(5)]]></column><column><![CDATA[(6)]]></column><column><![CDATA[(7)]]></column><column><![CDATA[(8)]]></column><column><![CDATA[(9)]]></column><column><![CDATA[(7/1)]]></column><column><![CDATA[(7/4)]]></column><column><![CDATA[(8/2)]]></column><column><![CDATA[(8/5)]]></column><column><![CDATA[(15)]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='8' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[18,929,777,121.0]]></column>
+<column><![CDATA[15,885,798,908.0]]></column>
+<column><![CDATA[3,043,978,213.0]]></column>
+<column><![CDATA[2,151,998,018.0]]></column>
+<column><![CDATA[4,754,549,280.0]]></column>
+<column><![CDATA[-2,602,551,262.0]]></column>
+<column><![CDATA[2,306,640,920.0]]></column>
+<column><![CDATA[1,720,762,764.0]]></column>
+<column><![CDATA[585,878,156.0]]></column>
+<column colspan='6' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[0115040055]]></cell><cell><![CDATA[Jasa Independent Surveyor Untuk LNG Tangguh LNG]]></cell><cell><![CDATA[BP BERAU LTD]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[29-12-2015]]></cell><cell><![CDATA[20-12-2020]]></cell><cell><![CDATA[865,564,900.0]]></cell><cell><![CDATA[568,800,000.0]]></cell><cell><![CDATA[296,764,900.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[98,533,334.0]]></cell><cell><![CDATA[-98,533,334.0]]></cell><cell><![CDATA[50,418,000.0]]></cell><cell><![CDATA[35,200,000.0]]></cell><cell><![CDATA[15,218,000.0]]></cell><cell><![CDATA[5.82]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[6.19]]></cell><cell><![CDATA[35.72]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[0118040037]]></cell><cell><![CDATA[Pekerjaan Jasa Konsultansi Perencanaan Teknik (DED) Jalan Tol Probolingo - Banyuwangi Paket Konsultansi 1 (STA. 0+000 - STA. 46+100)]]></cell><cell><![CDATA[KSO BUANA ARCHICON-MARATAMA CIPTA MANDIRI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[20-06-2018]]></cell><cell><![CDATA[31-10-2020]]></cell><cell><![CDATA[1,395,302,400.0]]></cell><cell><![CDATA[1,088,184,322.0]]></cell><cell><![CDATA[307,118,078.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[593,431,688.0]]></cell><cell><![CDATA[-593,431,688.0]]></cell><cell><![CDATA[1,395,302,400.0]]></cell><cell><![CDATA[1,087,041,769.0]]></cell><cell><![CDATA[308,260,631.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[99.9]]></cell><cell><![CDATA[183.18]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[0118040039]]></cell><cell><![CDATA[Pengadaan Jasa Konsultansi Perencanaan Teknik (DED) Jalan Tol Probolinggo Banyuwangi Paket Konsultansi 3]]></cell><cell><![CDATA[CIPTA STRADA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[20-06-2018]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[1,921,947,824.0]]></cell><cell><![CDATA[1,502,317,974.0]]></cell><cell><![CDATA[419,629,850.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[524,897,633.0]]></cell><cell><![CDATA[-524,897,633.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[0119020050]]></cell><cell><![CDATA[Jasa Konsultan Pengurusan Izin Pinjam Pakai Kawasan Hutan (IPKKH) PLTA KUMBIH-3 (48 MW)]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN UTARA (UIP II)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[30-08-2019]]></cell><cell><![CDATA[22-11-2020]]></cell><cell><![CDATA[437,080,000.0]]></cell><cell><![CDATA[363,456,656.0]]></cell><cell><![CDATA[73,623,344.0]]></cell><cell><![CDATA[437,080,000.0]]></cell><cell><![CDATA[363,456,656.0]]></cell><cell><![CDATA[73,623,344.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[0119020051]]></cell><cell><![CDATA[Pekerjaan Soil Investigasi di Rencana Jembatan Tol Teluk Balikpapan]]></cell><cell><![CDATA[WASKITA KARYA (PERSERO) TBK]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[09-09-2019]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[4,284,996,630.0]]></cell><cell><![CDATA[3,934,295,492.0]]></cell><cell><![CDATA[350,701,138.0]]></cell><cell><![CDATA[1,157,231,660.0]]></cell><cell><![CDATA[1,632,934,994.0]]></cell><cell><![CDATA[-475,703,334.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[0119020061]]></cell><cell><![CDATA[Pengadaan Jasa Surveyor Pengadaan Tanah dan ROW]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[06-09-2019]]></cell><cell><![CDATA[01-10-2021]]></cell><cell><![CDATA[1,352,778,537.0]]></cell><cell><![CDATA[1,207,519,342.0]]></cell><cell><![CDATA[145,259,195.0]]></cell><cell><![CDATA[265,424,358.0]]></cell><cell><![CDATA[235,157,592.0]]></cell><cell><![CDATA[30,266,766.0]]></cell><cell><![CDATA[28,197,070.0]]></cell><cell><![CDATA[26,383,173.0]]></cell><cell><![CDATA[1,813,897.0]]></cell><cell><![CDATA[2.08]]></cell><cell><![CDATA[10.62]]></cell><cell><![CDATA[2.18]]></cell><cell><![CDATA[11.22]]></cell><cell><![CDATA[25 %]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[0119020062]]></cell><cell><![CDATA[Jasa Survey Loading dan Discharge BBM Project Handling Franco untuk Supply ke Kapal-Kapal Konsumen (BP Berau) di Wilayah Perairan Makassar, Sorong, Wayame dan Bintuni Papua Barat]]></cell><cell><![CDATA[PERTAMINA PATRA NIAGA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[30-09-2019]]></cell><cell><![CDATA[31-08-2020]]></cell><cell><![CDATA[242,000,000.0]]></cell><cell><![CDATA[173,679,217.0]]></cell><cell><![CDATA[68,320,783.0]]></cell><cell><![CDATA[242,000,000.0]]></cell><cell><![CDATA[173,679,217.0]]></cell><cell><![CDATA[68,320,783.0]]></cell><cell><![CDATA[300,000,000.0]]></cell><cell><![CDATA[173,677,700.0]]></cell><cell><![CDATA[126,322,300.0]]></cell><cell><![CDATA[123.97]]></cell><cell><![CDATA[123.97]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[0119020065]]></cell><cell><![CDATA[KHS Jasa Survey Kualitas dan Kuantitas BBM HSD (B0) dari RU III Plaju untuk PLTG MPP Air Anyir dan Backloading dari Pelabuhan Tanjung Gudang Belinyu ke Pelabuhan Tanjung Pandan]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK WILAYAH BANGKA BELITUNG]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[03-09-2019]]></cell><cell><![CDATA[31-03-2021]]></cell><cell><![CDATA[184,294,000.0]]></cell><cell><![CDATA[143,947,000.0]]></cell><cell><![CDATA[40,347,000.0]]></cell><cell><![CDATA[50,262,000.0]]></cell><cell><![CDATA[39,233,332.0]]></cell><cell><![CDATA[11,028,668.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[0119040015]]></cell><cell><![CDATA[Jasa Konsultansi Pendampingan Pengadaan Tanah Untuk Pembangunan Kilang Minyak di Tuban]]></cell><cell><![CDATA[PERTAMINA (PERSERO)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[14-01-2019]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[7,500,000,000.0]]></cell><cell><![CDATA[6,348,907,884.0]]></cell><cell><![CDATA[1,151,092,116.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[907,680,396.0]]></cell><cell><![CDATA[-907,680,396.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[13 %]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[0119040038]]></cell><cell><![CDATA[Pengukuran Lahan Pengganti Fasos – Fasum Jalur Kereta Cepat Jakarta Bandung / Measurement of Public and Social Facilities Replacement Land Jakarta Bandung Highspeed Railway Trace]]></cell><cell><![CDATA[KERETA CEPAT INDONESIA CHINA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[27-03-2019]]></cell><cell><![CDATA[11-02-2021]]></cell><cell><![CDATA[745,812,830.0]]></cell><cell><![CDATA[554,691,021.0]]></cell><cell><![CDATA[191,121,809.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[185,544,438.0]]></cell><cell><![CDATA[-185,544,438.0]]></cell><cell><![CDATA[532,723,450.0]]></cell><cell><![CDATA[398,460,122.0]]></cell><cell><![CDATA[134,263,328.0]]></cell><cell><![CDATA[71.43]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[71.83]]></cell><cell><![CDATA[214.75]]></cell><cell><![CDATA[100 %]]></cell></row></rows><rows profile='color'><head><columns><column  rowspan="4"  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  colspan="2"  width='120' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Project]]></column><column  width='230' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='190' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Klien]]></column><column  rowspan="4"  width='40' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[P]]></column><column  rowspan="4"  width='40' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[L]]></column><column  colspan="2"  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[Jangka Waktu]]></column><column  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[RAB]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="3"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Realisasi]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Prosentase Progress 2021]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ]]></column></columns>
+<columns><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Kode]]></column><column rowspan="3" ><![CDATA[Nama]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Awal]]></column><column rowspan="3" ><![CDATA[Akhir]]></column><column><![CDATA[]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Setahun]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Bulan Berjalan]]></column><column><![CDATA[Realisasi Beban Vs RAB Setahun]]></column><column><![CDATA[Realisasi Beban Vs RAB Bulan Berjalan]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="3" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[s/d Bulan Pebruari]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="4" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[ ]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[(1)]]></column><column><![CDATA[(2)]]></column><column><![CDATA[(3)]]></column><column><![CDATA[(4)]]></column><column><![CDATA[(5)]]></column><column><![CDATA[(6)]]></column><column><![CDATA[(7)]]></column><column><![CDATA[(8)]]></column><column><![CDATA[(9)]]></column><column><![CDATA[(7/1)]]></column><column><![CDATA[(7/4)]]></column><column><![CDATA[(8/2)]]></column><column><![CDATA[(8/5)]]></column><column><![CDATA[(15)]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='8' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[18,929,777,121.0]]></column>
+<column><![CDATA[15,885,798,908.0]]></column>
+<column><![CDATA[3,043,978,213.0]]></column>
+<column><![CDATA[2,151,998,018.0]]></column>
+<column><![CDATA[4,754,549,280.0]]></column>
+<column><![CDATA[-2,602,551,262.0]]></column>
+<column><![CDATA[2,306,640,920.0]]></column>
+<column><![CDATA[1,720,762,764.0]]></column>
+<column><![CDATA[585,878,156.0]]></column>
+<column colspan='6' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[0115040055]]></cell><cell><![CDATA[Jasa Independent Surveyor Untuk LNG Tangguh LNG]]></cell><cell><![CDATA[BP BERAU LTD]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[29-12-2015]]></cell><cell><![CDATA[20-12-2020]]></cell><cell><![CDATA[865,564,900.0]]></cell><cell><![CDATA[568,800,000.0]]></cell><cell><![CDATA[296,764,900.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[98,533,334.0]]></cell><cell><![CDATA[-98,533,334.0]]></cell><cell><![CDATA[50,418,000.0]]></cell><cell><![CDATA[35,200,000.0]]></cell><cell><![CDATA[15,218,000.0]]></cell><cell><![CDATA[5.82]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[6.19]]></cell><cell><![CDATA[35.72]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[0118040037]]></cell><cell><![CDATA[Pekerjaan Jasa Konsultansi Perencanaan Teknik (DED) Jalan Tol Probolingo - Banyuwangi Paket Konsultansi 1 (STA. 0+000 - STA. 46+100)]]></cell><cell><![CDATA[KSO BUANA ARCHICON-MARATAMA CIPTA MANDIRI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[20-06-2018]]></cell><cell><![CDATA[31-10-2020]]></cell><cell><![CDATA[1,395,302,400.0]]></cell><cell><![CDATA[1,088,184,322.0]]></cell><cell><![CDATA[307,118,078.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[593,431,688.0]]></cell><cell><![CDATA[-593,431,688.0]]></cell><cell><![CDATA[1,395,302,400.0]]></cell><cell><![CDATA[1,087,041,769.0]]></cell><cell><![CDATA[308,260,631.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[99.9]]></cell><cell><![CDATA[183.18]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[0118040039]]></cell><cell><![CDATA[Pengadaan Jasa Konsultansi Perencanaan Teknik (DED) Jalan Tol Probolinggo Banyuwangi Paket Konsultansi 3]]></cell><cell><![CDATA[CIPTA STRADA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[20-06-2018]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[1,921,947,824.0]]></cell><cell><![CDATA[1,502,317,974.0]]></cell><cell><![CDATA[419,629,850.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[524,897,633.0]]></cell><cell><![CDATA[-524,897,633.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[0119020050]]></cell><cell><![CDATA[Jasa Konsultan Pengurusan Izin Pinjam Pakai Kawasan Hutan (IPKKH) PLTA KUMBIH-3 (48 MW)]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN UTARA (UIP II)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[30-08-2019]]></cell><cell><![CDATA[22-11-2020]]></cell><cell><![CDATA[437,080,000.0]]></cell><cell><![CDATA[363,456,656.0]]></cell><cell><![CDATA[73,623,344.0]]></cell><cell><![CDATA[437,080,000.0]]></cell><cell><![CDATA[363,456,656.0]]></cell><cell><![CDATA[73,623,344.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[0119020051]]></cell><cell><![CDATA[Pekerjaan Soil Investigasi di Rencana Jembatan Tol Teluk Balikpapan]]></cell><cell><![CDATA[WASKITA KARYA (PERSERO) TBK]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[09-09-2019]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[4,284,996,630.0]]></cell><cell><![CDATA[3,934,295,492.0]]></cell><cell><![CDATA[350,701,138.0]]></cell><cell><![CDATA[1,157,231,660.0]]></cell><cell><![CDATA[1,632,934,994.0]]></cell><cell><![CDATA[-475,703,334.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[0119020061]]></cell><cell><![CDATA[Pengadaan Jasa Surveyor Pengadaan Tanah dan ROW]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[06-09-2019]]></cell><cell><![CDATA[01-10-2021]]></cell><cell><![CDATA[1,352,778,537.0]]></cell><cell><![CDATA[1,207,519,342.0]]></cell><cell><![CDATA[145,259,195.0]]></cell><cell><![CDATA[265,424,358.0]]></cell><cell><![CDATA[235,157,592.0]]></cell><cell><![CDATA[30,266,766.0]]></cell><cell><![CDATA[28,197,070.0]]></cell><cell><![CDATA[26,383,173.0]]></cell><cell><![CDATA[1,813,897.0]]></cell><cell><![CDATA[2.08]]></cell><cell><![CDATA[10.62]]></cell><cell><![CDATA[2.18]]></cell><cell><![CDATA[11.22]]></cell><cell><![CDATA[25 %]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[0119020062]]></cell><cell><![CDATA[Jasa Survey Loading dan Discharge BBM Project Handling Franco untuk Supply ke Kapal-Kapal Konsumen (BP Berau) di Wilayah Perairan Makassar, Sorong, Wayame dan Bintuni Papua Barat]]></cell><cell><![CDATA[PERTAMINA PATRA NIAGA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[30-09-2019]]></cell><cell><![CDATA[31-08-2020]]></cell><cell><![CDATA[242,000,000.0]]></cell><cell><![CDATA[173,679,217.0]]></cell><cell><![CDATA[68,320,783.0]]></cell><cell><![CDATA[242,000,000.0]]></cell><cell><![CDATA[173,679,217.0]]></cell><cell><![CDATA[68,320,783.0]]></cell><cell><![CDATA[300,000,000.0]]></cell><cell><![CDATA[173,677,700.0]]></cell><cell><![CDATA[126,322,300.0]]></cell><cell><![CDATA[123.97]]></cell><cell><![CDATA[123.97]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[0119020065]]></cell><cell><![CDATA[KHS Jasa Survey Kualitas dan Kuantitas BBM HSD (B0) dari RU III Plaju untuk PLTG MPP Air Anyir dan Backloading dari Pelabuhan Tanjung Gudang Belinyu ke Pelabuhan Tanjung Pandan]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK WILAYAH BANGKA BELITUNG]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[03-09-2019]]></cell><cell><![CDATA[31-03-2021]]></cell><cell><![CDATA[184,294,000.0]]></cell><cell><![CDATA[143,947,000.0]]></cell><cell><![CDATA[40,347,000.0]]></cell><cell><![CDATA[50,262,000.0]]></cell><cell><![CDATA[39,233,332.0]]></cell><cell><![CDATA[11,028,668.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[0119040015]]></cell><cell><![CDATA[Jasa Konsultansi Pendampingan Pengadaan Tanah Untuk Pembangunan Kilang Minyak di Tuban]]></cell><cell><![CDATA[PERTAMINA (PERSERO)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[14-01-2019]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[7,500,000,000.0]]></cell><cell><![CDATA[6,348,907,884.0]]></cell><cell><![CDATA[1,151,092,116.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[907,680,396.0]]></cell><cell><![CDATA[-907,680,396.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[13 %]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[0119040038]]></cell><cell><![CDATA[Pengukuran Lahan Pengganti Fasos – Fasum Jalur Kereta Cepat Jakarta Bandung / Measurement of Public and Social Facilities Replacement Land Jakarta Bandung Highspeed Railway Trace]]></cell><cell><![CDATA[KERETA CEPAT INDONESIA CHINA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[27-03-2019]]></cell><cell><![CDATA[11-02-2021]]></cell><cell><![CDATA[745,812,830.0]]></cell><cell><![CDATA[554,691,021.0]]></cell><cell><![CDATA[191,121,809.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[185,544,438.0]]></cell><cell><![CDATA[-185,544,438.0]]></cell><cell><![CDATA[532,723,450.0]]></cell><cell><![CDATA[398,460,122.0]]></cell><cell><![CDATA[134,263,328.0]]></cell><cell><![CDATA[71.43]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[71.83]]></cell><cell><![CDATA[214.75]]></cell><cell><![CDATA[100 %]]></cell></row></rows><rows profile='color'><head><columns><column  rowspan="4"  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  colspan="2"  width='120' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Project]]></column><column  width='230' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='190' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Klien]]></column><column  rowspan="4"  width='40' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[P]]></column><column  rowspan="4"  width='40' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[L]]></column><column  colspan="2"  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[Jangka Waktu]]></column><column  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[RAB]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="3"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Realisasi]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Prosentase Progress 2021]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ]]></column></columns>
+<columns><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Kode]]></column><column rowspan="3" ><![CDATA[Nama]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Awal]]></column><column rowspan="3" ><![CDATA[Akhir]]></column><column><![CDATA[]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Setahun]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Bulan Berjalan]]></column><column><![CDATA[Realisasi Beban Vs RAB Setahun]]></column><column><![CDATA[Realisasi Beban Vs RAB Bulan Berjalan]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="3" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[s/d Bulan Pebruari]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="4" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[ ]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[(1)]]></column><column><![CDATA[(2)]]></column><column><![CDATA[(3)]]></column><column><![CDATA[(4)]]></column><column><![CDATA[(5)]]></column><column><![CDATA[(6)]]></column><column><![CDATA[(7)]]></column><column><![CDATA[(8)]]></column><column><![CDATA[(9)]]></column><column><![CDATA[(7/1)]]></column><column><![CDATA[(7/4)]]></column><column><![CDATA[(8/2)]]></column><column><![CDATA[(8/5)]]></column><column><![CDATA[(15)]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='8' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[18,929,777,121.0]]></column>
+<column><![CDATA[15,885,798,908.0]]></column>
+<column><![CDATA[3,043,978,213.0]]></column>
+<column><![CDATA[2,151,998,018.0]]></column>
+<column><![CDATA[4,754,549,280.0]]></column>
+<column><![CDATA[-2,602,551,262.0]]></column>
+<column><![CDATA[2,306,640,920.0]]></column>
+<column><![CDATA[1,720,762,764.0]]></column>
+<column><![CDATA[585,878,156.0]]></column>
+<column colspan='6' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[0115040055]]></cell><cell><![CDATA[Jasa Independent Surveyor Untuk LNG Tangguh LNG]]></cell><cell><![CDATA[BP BERAU LTD]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[29-12-2015]]></cell><cell><![CDATA[20-12-2020]]></cell><cell><![CDATA[865,564,900.0]]></cell><cell><![CDATA[568,800,000.0]]></cell><cell><![CDATA[296,764,900.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[98,533,334.0]]></cell><cell><![CDATA[-98,533,334.0]]></cell><cell><![CDATA[50,418,000.0]]></cell><cell><![CDATA[35,200,000.0]]></cell><cell><![CDATA[15,218,000.0]]></cell><cell><![CDATA[5.82]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[6.19]]></cell><cell><![CDATA[35.72]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[0118040037]]></cell><cell><![CDATA[Pekerjaan Jasa Konsultansi Perencanaan Teknik (DED) Jalan Tol Probolingo - Banyuwangi Paket Konsultansi 1 (STA. 0+000 - STA. 46+100)]]></cell><cell><![CDATA[KSO BUANA ARCHICON-MARATAMA CIPTA MANDIRI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[20-06-2018]]></cell><cell><![CDATA[31-10-2020]]></cell><cell><![CDATA[1,395,302,400.0]]></cell><cell><![CDATA[1,088,184,322.0]]></cell><cell><![CDATA[307,118,078.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[593,431,688.0]]></cell><cell><![CDATA[-593,431,688.0]]></cell><cell><![CDATA[1,395,302,400.0]]></cell><cell><![CDATA[1,087,041,769.0]]></cell><cell><![CDATA[308,260,631.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[99.9]]></cell><cell><![CDATA[183.18]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[0118040039]]></cell><cell><![CDATA[Pengadaan Jasa Konsultansi Perencanaan Teknik (DED) Jalan Tol Probolinggo Banyuwangi Paket Konsultansi 3]]></cell><cell><![CDATA[CIPTA STRADA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[20-06-2018]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[1,921,947,824.0]]></cell><cell><![CDATA[1,502,317,974.0]]></cell><cell><![CDATA[419,629,850.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[524,897,633.0]]></cell><cell><![CDATA[-524,897,633.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[0119020050]]></cell><cell><![CDATA[Jasa Konsultan Pengurusan Izin Pinjam Pakai Kawasan Hutan (IPKKH) PLTA KUMBIH-3 (48 MW)]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN UTARA (UIP II)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[30-08-2019]]></cell><cell><![CDATA[22-11-2020]]></cell><cell><![CDATA[437,080,000.0]]></cell><cell><![CDATA[363,456,656.0]]></cell><cell><![CDATA[73,623,344.0]]></cell><cell><![CDATA[437,080,000.0]]></cell><cell><![CDATA[363,456,656.0]]></cell><cell><![CDATA[73,623,344.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[0119020051]]></cell><cell><![CDATA[Pekerjaan Soil Investigasi di Rencana Jembatan Tol Teluk Balikpapan]]></cell><cell><![CDATA[WASKITA KARYA (PERSERO) TBK]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[09-09-2019]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[4,284,996,630.0]]></cell><cell><![CDATA[3,934,295,492.0]]></cell><cell><![CDATA[350,701,138.0]]></cell><cell><![CDATA[1,157,231,660.0]]></cell><cell><![CDATA[1,632,934,994.0]]></cell><cell><![CDATA[-475,703,334.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[0119020061]]></cell><cell><![CDATA[Pengadaan Jasa Surveyor Pengadaan Tanah dan ROW]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[06-09-2019]]></cell><cell><![CDATA[01-10-2021]]></cell><cell><![CDATA[1,352,778,537.0]]></cell><cell><![CDATA[1,207,519,342.0]]></cell><cell><![CDATA[145,259,195.0]]></cell><cell><![CDATA[265,424,358.0]]></cell><cell><![CDATA[235,157,592.0]]></cell><cell><![CDATA[30,266,766.0]]></cell><cell><![CDATA[28,197,070.0]]></cell><cell><![CDATA[26,383,173.0]]></cell><cell><![CDATA[1,813,897.0]]></cell><cell><![CDATA[2.08]]></cell><cell><![CDATA[10.62]]></cell><cell><![CDATA[2.18]]></cell><cell><![CDATA[11.22]]></cell><cell><![CDATA[25 %]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[0119020062]]></cell><cell><![CDATA[Jasa Survey Loading dan Discharge BBM Project Handling Franco untuk Supply ke Kapal-Kapal Konsumen (BP Berau) di Wilayah Perairan Makassar, Sorong, Wayame dan Bintuni Papua Barat]]></cell><cell><![CDATA[PERTAMINA PATRA NIAGA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[30-09-2019]]></cell><cell><![CDATA[31-08-2020]]></cell><cell><![CDATA[242,000,000.0]]></cell><cell><![CDATA[173,679,217.0]]></cell><cell><![CDATA[68,320,783.0]]></cell><cell><![CDATA[242,000,000.0]]></cell><cell><![CDATA[173,679,217.0]]></cell><cell><![CDATA[68,320,783.0]]></cell><cell><![CDATA[300,000,000.0]]></cell><cell><![CDATA[173,677,700.0]]></cell><cell><![CDATA[126,322,300.0]]></cell><cell><![CDATA[123.97]]></cell><cell><![CDATA[123.97]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[0119020065]]></cell><cell><![CDATA[KHS Jasa Survey Kualitas dan Kuantitas BBM HSD (B0) dari RU III Plaju untuk PLTG MPP Air Anyir dan Backloading dari Pelabuhan Tanjung Gudang Belinyu ke Pelabuhan Tanjung Pandan]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK WILAYAH BANGKA BELITUNG]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[03-09-2019]]></cell><cell><![CDATA[31-03-2021]]></cell><cell><![CDATA[184,294,000.0]]></cell><cell><![CDATA[143,947,000.0]]></cell><cell><![CDATA[40,347,000.0]]></cell><cell><![CDATA[50,262,000.0]]></cell><cell><![CDATA[39,233,332.0]]></cell><cell><![CDATA[11,028,668.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[0119040015]]></cell><cell><![CDATA[Jasa Konsultansi Pendampingan Pengadaan Tanah Untuk Pembangunan Kilang Minyak di Tuban]]></cell><cell><![CDATA[PERTAMINA (PERSERO)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[14-01-2019]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[7,500,000,000.0]]></cell><cell><![CDATA[6,348,907,884.0]]></cell><cell><![CDATA[1,151,092,116.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[907,680,396.0]]></cell><cell><![CDATA[-907,680,396.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[13 %]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[0119040038]]></cell><cell><![CDATA[Pengukuran Lahan Pengganti Fasos – Fasum Jalur Kereta Cepat Jakarta Bandung / Measurement of Public and Social Facilities Replacement Land Jakarta Bandung Highspeed Railway Trace]]></cell><cell><![CDATA[KERETA CEPAT INDONESIA CHINA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[27-03-2019]]></cell><cell><![CDATA[11-02-2021]]></cell><cell><![CDATA[745,812,830.0]]></cell><cell><![CDATA[554,691,021.0]]></cell><cell><![CDATA[191,121,809.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[185,544,438.0]]></cell><cell><![CDATA[-185,544,438.0]]></cell><cell><![CDATA[532,723,450.0]]></cell><cell><![CDATA[398,460,122.0]]></cell><cell><![CDATA[134,263,328.0]]></cell><cell><![CDATA[71.43]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[71.83]]></cell><cell><![CDATA[214.75]]></cell><cell><![CDATA[100 %]]></cell></row></rows><rows profile='color'><head><columns><column  rowspan="4"  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  colspan="2"  width='120' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Project]]></column><column  width='230' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='190' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Klien]]></column><column  rowspan="4"  width='40' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[P]]></column><column  rowspan="4"  width='40' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[L]]></column><column  colspan="2"  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[Jangka Waktu]]></column><column  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[RAB]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="3"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Realisasi]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Prosentase Progress 2021]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ ]]></column></columns>
+<columns><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Kode]]></column><column rowspan="3" ><![CDATA[Nama]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Awal]]></column><column rowspan="3" ><![CDATA[Akhir]]></column><column><![CDATA[]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Setahun]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Bulan Berjalan]]></column><column><![CDATA[Realisasi Beban Vs RAB Setahun]]></column><column><![CDATA[Realisasi Beban Vs RAB Bulan Berjalan]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="3" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[s/d Bulan Pebruari]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="4" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[ ]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[(1)]]></column><column><![CDATA[(2)]]></column><column><![CDATA[(3)]]></column><column><![CDATA[(4)]]></column><column><![CDATA[(5)]]></column><column><![CDATA[(6)]]></column><column><![CDATA[(7)]]></column><column><![CDATA[(8)]]></column><column><![CDATA[(9)]]></column><column><![CDATA[(7/1)]]></column><column><![CDATA[(7/4)]]></column><column><![CDATA[(8/2)]]></column><column><![CDATA[(8/5)]]></column><column><![CDATA[(15)]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='8' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[18,929,777,121.0]]></column>
+<column><![CDATA[15,885,798,908.0]]></column>
+<column><![CDATA[3,043,978,213.0]]></column>
+<column><![CDATA[2,151,998,018.0]]></column>
+<column><![CDATA[4,754,549,280.0]]></column>
+<column><![CDATA[-2,602,551,262.0]]></column>
+<column><![CDATA[2,306,640,920.0]]></column>
+<column><![CDATA[1,720,762,764.0]]></column>
+<column><![CDATA[585,878,156.0]]></column>
+<column colspan='6' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[0115040055]]></cell><cell><![CDATA[Jasa Independent Surveyor Untuk LNG Tangguh LNG]]></cell><cell><![CDATA[BP BERAU LTD]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[29-12-2015]]></cell><cell><![CDATA[20-12-2020]]></cell><cell><![CDATA[865,564,900.0]]></cell><cell><![CDATA[568,800,000.0]]></cell><cell><![CDATA[296,764,900.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[98,533,334.0]]></cell><cell><![CDATA[-98,533,334.0]]></cell><cell><![CDATA[50,418,000.0]]></cell><cell><![CDATA[35,200,000.0]]></cell><cell><![CDATA[15,218,000.0]]></cell><cell><![CDATA[5.82]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[6.19]]></cell><cell><![CDATA[35.72]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[0118040037]]></cell><cell><![CDATA[Pekerjaan Jasa Konsultansi Perencanaan Teknik (DED) Jalan Tol Probolingo - Banyuwangi Paket Konsultansi 1 (STA. 0+000 - STA. 46+100)]]></cell><cell><![CDATA[KSO BUANA ARCHICON-MARATAMA CIPTA MANDIRI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[20-06-2018]]></cell><cell><![CDATA[31-10-2020]]></cell><cell><![CDATA[1,395,302,400.0]]></cell><cell><![CDATA[1,088,184,322.0]]></cell><cell><![CDATA[307,118,078.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[593,431,688.0]]></cell><cell><![CDATA[-593,431,688.0]]></cell><cell><![CDATA[1,395,302,400.0]]></cell><cell><![CDATA[1,087,041,769.0]]></cell><cell><![CDATA[308,260,631.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[99.9]]></cell><cell><![CDATA[183.18]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[0118040039]]></cell><cell><![CDATA[Pengadaan Jasa Konsultansi Perencanaan Teknik (DED) Jalan Tol Probolinggo Banyuwangi Paket Konsultansi 3]]></cell><cell><![CDATA[CIPTA STRADA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[20-06-2018]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[1,921,947,824.0]]></cell><cell><![CDATA[1,502,317,974.0]]></cell><cell><![CDATA[419,629,850.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[524,897,633.0]]></cell><cell><![CDATA[-524,897,633.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[0119020050]]></cell><cell><![CDATA[Jasa Konsultan Pengurusan Izin Pinjam Pakai Kawasan Hutan (IPKKH) PLTA KUMBIH-3 (48 MW)]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN UTARA (UIP II)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[30-08-2019]]></cell><cell><![CDATA[22-11-2020]]></cell><cell><![CDATA[437,080,000.0]]></cell><cell><![CDATA[363,456,656.0]]></cell><cell><![CDATA[73,623,344.0]]></cell><cell><![CDATA[437,080,000.0]]></cell><cell><![CDATA[363,456,656.0]]></cell><cell><![CDATA[73,623,344.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[0119020051]]></cell><cell><![CDATA[Pekerjaan Soil Investigasi di Rencana Jembatan Tol Teluk Balikpapan]]></cell><cell><![CDATA[WASKITA KARYA (PERSERO) TBK]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[09-09-2019]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[4,284,996,630.0]]></cell><cell><![CDATA[3,934,295,492.0]]></cell><cell><![CDATA[350,701,138.0]]></cell><cell><![CDATA[1,157,231,660.0]]></cell><cell><![CDATA[1,632,934,994.0]]></cell><cell><![CDATA[-475,703,334.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[0119020061]]></cell><cell><![CDATA[Pengadaan Jasa Surveyor Pengadaan Tanah dan ROW]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[06-09-2019]]></cell><cell><![CDATA[01-10-2021]]></cell><cell><![CDATA[1,352,778,537.0]]></cell><cell><![CDATA[1,207,519,342.0]]></cell><cell><![CDATA[145,259,195.0]]></cell><cell><![CDATA[265,424,358.0]]></cell><cell><![CDATA[235,157,592.0]]></cell><cell><![CDATA[30,266,766.0]]></cell><cell><![CDATA[28,197,070.0]]></cell><cell><![CDATA[26,383,173.0]]></cell><cell><![CDATA[1,813,897.0]]></cell><cell><![CDATA[2.08]]></cell><cell><![CDATA[10.62]]></cell><cell><![CDATA[2.18]]></cell><cell><![CDATA[11.22]]></cell><cell><![CDATA[25 %]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[0119020062]]></cell><cell><![CDATA[Jasa Survey Loading dan Discharge BBM Project Handling Franco untuk Supply ke Kapal-Kapal Konsumen (BP Berau) di Wilayah Perairan Makassar, Sorong, Wayame dan Bintuni Papua Barat]]></cell><cell><![CDATA[PERTAMINA PATRA NIAGA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[30-09-2019]]></cell><cell><![CDATA[31-08-2020]]></cell><cell><![CDATA[242,000,000.0]]></cell><cell><![CDATA[173,679,217.0]]></cell><cell><![CDATA[68,320,783.0]]></cell><cell><![CDATA[242,000,000.0]]></cell><cell><![CDATA[173,679,217.0]]></cell><cell><![CDATA[68,320,783.0]]></cell><cell><![CDATA[300,000,000.0]]></cell><cell><![CDATA[173,677,700.0]]></cell><cell><![CDATA[126,322,300.0]]></cell><cell><![CDATA[123.97]]></cell><cell><![CDATA[123.97]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[0119020065]]></cell><cell><![CDATA[KHS Jasa Survey Kualitas dan Kuantitas BBM HSD (B0) dari RU III Plaju untuk PLTG MPP Air Anyir dan Backloading dari Pelabuhan Tanjung Gudang Belinyu ke Pelabuhan Tanjung Pandan]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK WILAYAH BANGKA BELITUNG]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[03-09-2019]]></cell><cell><![CDATA[31-03-2021]]></cell><cell><![CDATA[184,294,000.0]]></cell><cell><![CDATA[143,947,000.0]]></cell><cell><![CDATA[40,347,000.0]]></cell><cell><![CDATA[50,262,000.0]]></cell><cell><![CDATA[39,233,332.0]]></cell><cell><![CDATA[11,028,668.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[ ]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[0119040015]]></cell><cell><![CDATA[Jasa Konsultansi Pendampingan Pengadaan Tanah Untuk Pembangunan Kilang Minyak di Tuban]]></cell><cell><![CDATA[PERTAMINA (PERSERO)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[14-01-2019]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[7,500,000,000.0]]></cell><cell><![CDATA[6,348,907,884.0]]></cell><cell><![CDATA[1,151,092,116.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[907,680,396.0]]></cell><cell><![CDATA[-907,680,396.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[13 %]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[0119040038]]></cell><cell><![CDATA[Pengukuran Lahan Pengganti Fasos – Fasum Jalur Kereta Cepat Jakarta Bandung / Measurement of Public and Social Facilities Replacement Land Jakarta Bandung Highspeed Railway Trace]]></cell><cell><![CDATA[KERETA CEPAT INDONESIA CHINA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[27-03-2019]]></cell><cell><![CDATA[11-02-2021]]></cell><cell><![CDATA[745,812,830.0]]></cell><cell><![CDATA[554,691,021.0]]></cell><cell><![CDATA[191,121,809.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[185,544,438.0]]></cell><cell><![CDATA[-185,544,438.0]]></cell><cell><![CDATA[532,723,450.0]]></cell><cell><![CDATA[398,460,122.0]]></cell><cell><![CDATA[134,263,328.0]]></cell><cell><![CDATA[71.43]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[71.83]]></cell><cell><![CDATA[214.75]]></cell><cell><![CDATA[100 %]]></cell></row></rows>

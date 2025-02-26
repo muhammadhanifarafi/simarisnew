@@ -1,0 +1,92 @@
+<rows profile='color'><head><columns><column  rowspan="4"  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  rowspan="4"  width='120' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[Divisi Bisnis/Cabang]]></column><column  colspan="2"  width='120' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Project]]></column><column  width='230' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='190' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Klien]]></column><column  rowspan="4"  width='40' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[P (7/4)]]></column><column  rowspan="4"  width='40' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[L (9/6)]]></column><column  colspan="2"  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[Jangka Waktu]]></column><column  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[RAB]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="3"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Realisasi]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Prosentase Progress 2021]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[  Piutang]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Proforma]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Uang Muka]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ ByDM]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Chart Pendapatan]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Kode]]></column><column rowspan="3" ><![CDATA[Nama]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Awal]]></column><column rowspan="3" ><![CDATA[Akhir]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Setahun]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Bulan Berjalan]]></column><column><![CDATA[Realisasi Beban Vs RAB Setahun]]></column><column><![CDATA[Realisasi Beban Vs RAB Bulan Berjalan]]></column><column><![CDATA[Progress Fisik]]></column><column><![CDATA[QAQC]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="3" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[s/d Bulan Maret]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[(1)]]></column><column><![CDATA[(2)]]></column><column><![CDATA[(3)]]></column><column><![CDATA[(4)]]></column><column><![CDATA[(5)]]></column><column><![CDATA[(6)]]></column><column><![CDATA[(7)]]></column><column><![CDATA[(8)]]></column><column><![CDATA[(9)]]></column><column><![CDATA[(7/1)]]></column><column><![CDATA[(7/4)]]></column><column><![CDATA[(8/2)]]></column><column><![CDATA[(8/5)]]></column><column><![CDATA[(15)]]></column><column><![CDATA[(16)]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='9' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[101,734,816,668.0]]></column>
+<column><![CDATA[71,967,961,908.0]]></column>
+<column><![CDATA[29,766,854,760.0]]></column>
+<column><![CDATA[18,062,336,746.0]]></column>
+<column><![CDATA[14,391,648,187.0]]></column>
+<column><![CDATA[3,670,688,559.0]]></column>
+<column><![CDATA[21,762,031,643.0]]></column>
+<column><![CDATA[10,879,111,278.8]]></column>
+<column><![CDATA[10,882,920,364.2]]></column>
+<column colspan='6' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[9,058,324,324.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[1,246,205,000.0]]></column>
+<column><![CDATA[6,224,102,086.8]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[SI UB PI DAN KELEMBAGAAN]]></cell><cell><![CDATA[0521010004(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[Pendampingan Manajemen Proyek Pengembangan Angkutan Massal Berbasis Jalan di Kawasan Perkotaan ( Buy The Service ) TA.2021 (Lelang Tidak Mengikat)]]></cell><cell><![CDATA[KEMENTERIAN PERHUBUNGAN]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[03-01-2021]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[26,755,340,000.0]]></cell><cell><![CDATA[23,223,969,988.0]]></cell><cell><![CDATA[3,531,370,012.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[5,782,952,496.0]]></cell><cell><![CDATA[-5,782,952,496.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[20 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[519,680,000.0]]></cell><cell><![CDATA[4,903,728,165.0]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[SI UB PI DAN KELEMBAGAAN]]></cell><cell><![CDATA[0521010007(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[Lembaga Pengelola Program (LPP) Kegiatan Restrukturisasi Mesin Dan/ Atau Peralatan Industri Kecil Dan Industri Menengah]]></cell><cell><![CDATA[KEMENTERIAN PERINDUSTRIAN]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[22-03-2021]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[1,689,400,000.0]]></cell><cell><![CDATA[1,431,370,000.0]]></cell><cell><![CDATA[258,030,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[4 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[31,300,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[SI UB PI DAN KELEMBAGAAN]]></cell><cell><![CDATA[0521060006(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[Pengadaan Jasa Konsultan Mendorong Investasi Besar Bermitra dengan UMKM Tahun Anggaran 2021]]></cell><cell><![CDATA[BADAN KOORDINASI PENANAMAN MODAL]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-03-2021]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[20,019,989,000.0]]></cell><cell><![CDATA[17,606,096,920.0]]></cell><cell><![CDATA[2,413,892,080.0]]></cell><cell><![CDATA[2,001,998,900.0]]></cell><cell><![CDATA[1,615,903,192.0]]></cell><cell><![CDATA[386,095,708.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[313,300,000.0]]></cell><cell><![CDATA[93,633,384.0]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[SI UB PI DAN KELEMBAGAAN]]></cell><cell><![CDATA[0521990001(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[Verifikasi USDFS IJEPA 2021]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[35,000,000,000.0]]></cell><cell><![CDATA[17,338,420,000.0]]></cell><cell><![CDATA[17,661,580,000.0]]></cell><cell><![CDATA[14,560,337,846.0]]></cell><cell><![CDATA[3,699,832,499.0]]></cell><cell><![CDATA[10,860,505,347.0]]></cell><cell><![CDATA[16,067,790,692.0]]></cell><cell><![CDATA[8,999,808,887.3]]></cell><cell><![CDATA[7,067,981,804.7]]></cell><cell><![CDATA[45.91]]></cell><cell><![CDATA[110.35]]></cell><cell><![CDATA[51.9]]></cell><cell><![CDATA[243.3]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[5,665,632,358.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[361,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[SI UB PI DAN KELEMBAGAAN]]></cell><cell><![CDATA[0521990002(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[Verifikasi BMDTP 2021]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[3,000,000,000.0]]></cell><cell><![CDATA[2,425,275,000.0]]></cell><cell><![CDATA[574,725,000.0]]></cell><cell><![CDATA[1,500,000,000.0]]></cell><cell><![CDATA[1,258,280,000.0]]></cell><cell><![CDATA[241,720,000.0]]></cell><cell><![CDATA[5,686,681,667.0]]></cell><cell><![CDATA[1,873,286,269.5]]></cell><cell><![CDATA[3,813,395,397.5]]></cell><cell><![CDATA[189.56]]></cell><cell><![CDATA[379.11]]></cell><cell><![CDATA[77.2]]></cell><cell><![CDATA[148.9]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[3,392,691,966.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[SI UB PI DAN KELEMBAGAAN]]></cell><cell><![CDATA[0521990003(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[Verifikasi LCGC 2021]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[15,000,000,000.0]]></cell><cell><![CDATA[9,727,340,000.0]]></cell><cell><![CDATA[5,272,660,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[1,876,585,000.0]]></cell><cell><![CDATA[-1,876,585,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[10,000,000.0]]></cell><cell><![CDATA[1,055,967,037.8]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[SI UB PI DAN KELEMBAGAAN]]></cell><cell><![CDATA[0521990005(SINGLE YEAR)
+                
+                 Penjelasan]]></cell><cell><![CDATA[Survey Mapping Data Pelanggan PLN]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[270,087,668.0]]></cell><cell><![CDATA[215,490,000.0]]></cell><cell><![CDATA[54,597,668.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[158,095,000.0]]></cell><cell><![CDATA[-158,095,000.0]]></cell><cell><![CDATA[7,559,284.0]]></cell><cell><![CDATA[6,016,122.0]]></cell><cell><![CDATA[1,543,162.0]]></cell><cell><![CDATA[2.8]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[2.8]]></cell><cell><![CDATA[3.8]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[10,925,000.0]]></cell><cell><![CDATA[170,773,500.0]]></cell><cell><![CDATA[              
+                ]]></cell></row></rows>

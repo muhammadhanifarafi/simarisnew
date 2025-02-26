@@ -1,0 +1,331 @@
+<rows profile='color'><head><columns><column  rowspan="4"  width='50' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[No]]></column><column  rowspan="4"  width='260' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[UB/ Cabang]]></column><column  rowspan="3"  width='50' align='ro' type='ro' hidden='false' sort='na' color=''><![CDATA[HP]]></column><column  colspan="7"  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[PENDAPATAN (dalam jutaan rupiah)]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[LABA (dalam jutaan rupiah)]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[RKAP]]></column><column><![CDATA[RKAP]]></column><column colspan="2" ><![CDATA[REAL]]></column><column><![CDATA[]]></column><column rowspan="2" ><![CDATA[CHART]]></column><column colspan="2"  rowspan="2" ><![CDATA[Estimasi Pendapatan (A+B) s/d Akhir Tahun]]></column><column><![CDATA[]]></column><column><![CDATA[RKAP]]></column><column><![CDATA[RKAP]]></column><column colspan="2" ><![CDATA[REAL]]></column><column><![CDATA[]]></column><column rowspan="2" ><![CDATA[CHART]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[2020]]></column><column colspan="3" ><![CDATA[S/D JUNI 2020]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[2020]]></column><column colspan="3" ><![CDATA[S/D JUNI 2020]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[1]]></column><column><![CDATA[2]]></column><column><![CDATA[3]]></column><column><![CDATA[4]]></column><column><![CDATA[5]]></column><column><![CDATA[6]]></column><column colspan="2" ><![CDATA[7]]></column><column><![CDATA[]]></column><column><![CDATA[8]]></column><column><![CDATA[9]]></column><column><![CDATA[10]]></column><column><![CDATA[11]]></column><column><![CDATA[12]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='3' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column colspan='2' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column colspan='2' ><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+</columns>
+</foot></rows><rows profile='color'><head><columns><column  rowspan="4"  width='50' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[No]]></column><column  rowspan="4"  width='260' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[UB/ Cabang]]></column><column  rowspan="3"  width='50' align='ro' type='ro' hidden='false' sort='na' color=''><![CDATA[HP]]></column><column  colspan="7"  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[PENDAPATAN (dalam jutaan rupiah)]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[LABA (dalam jutaan rupiah)]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[RKAP]]></column><column><![CDATA[RKAP]]></column><column colspan="2" ><![CDATA[REAL]]></column><column><![CDATA[]]></column><column rowspan="2" ><![CDATA[CHART]]></column><column colspan="2"  rowspan="2" ><![CDATA[Estimasi Pendapatan (A+B) s/d Akhir Tahun]]></column><column><![CDATA[]]></column><column><![CDATA[RKAP]]></column><column><![CDATA[RKAP]]></column><column colspan="2" ><![CDATA[REAL]]></column><column><![CDATA[]]></column><column rowspan="2" ><![CDATA[CHART]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[2020]]></column><column colspan="3" ><![CDATA[S/D JUNI 2020]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[2020]]></column><column colspan="3" ><![CDATA[S/D JUNI 2020]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[1]]></column><column><![CDATA[2]]></column><column><![CDATA[3]]></column><column><![CDATA[4]]></column><column><![CDATA[5]]></column><column><![CDATA[6]]></column><column colspan="2" ><![CDATA[7]]></column><column><![CDATA[]]></column><column><![CDATA[8]]></column><column><![CDATA[9]]></column><column><![CDATA[10]]></column><column><![CDATA[11]]></column><column><![CDATA[12]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='3' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column colspan='2' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column colspan='2' ><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+</columns>
+</foot></rows><rows profile='color'><head><columns><column  rowspan="4"  width='50' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[No]]></column><column  rowspan="4"  width='260' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[UB/ Cabang]]></column><column  rowspan="3"  width='50' align='ro' type='ro' hidden='false' sort='na' color=''><![CDATA[HP]]></column><column  colspan="7"  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[PENDAPATAN (dalam jutaan rupiah)]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[LABA (dalam jutaan rupiah)]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[RKAP]]></column><column><![CDATA[RKAP]]></column><column colspan="2" ><![CDATA[REAL]]></column><column><![CDATA[]]></column><column rowspan="2" ><![CDATA[CHART]]></column><column colspan="2"  rowspan="2" ><![CDATA[Estimasi Pendapatan (A+B) s/d Akhir Tahun]]></column><column><![CDATA[]]></column><column><![CDATA[RKAP]]></column><column><![CDATA[RKAP]]></column><column colspan="2" ><![CDATA[REAL]]></column><column><![CDATA[]]></column><column rowspan="2" ><![CDATA[CHART]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[2020]]></column><column colspan="3" ><![CDATA[S/D JUNI 2020]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[2020]]></column><column colspan="3" ><![CDATA[S/D JUNI 2020]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[1]]></column><column><![CDATA[2]]></column><column><![CDATA[3]]></column><column><![CDATA[4]]></column><column><![CDATA[5]]></column><column><![CDATA[6]]></column><column colspan="2" ><![CDATA[7]]></column><column><![CDATA[]]></column><column><![CDATA[8]]></column><column><![CDATA[9]]></column><column><![CDATA[10]]></column><column><![CDATA[11]]></column><column><![CDATA[12]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='3' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column colspan='2' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column colspan='2' ><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+</columns>
+</foot></rows><rows profile='color'><head><columns><column  rowspan="4"  width='50' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[No]]></column><column  rowspan="4"  width='260' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[UB/ Cabang]]></column><column  rowspan="3"  width='50' align='ro' type='ro' hidden='false' sort='na' color=''><![CDATA[HP]]></column><column  colspan="7"  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[PENDAPATAN (dalam jutaan rupiah)]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[LABA (dalam jutaan rupiah)]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[RKAP]]></column><column><![CDATA[RKAP]]></column><column colspan="2" ><![CDATA[REAL]]></column><column><![CDATA[]]></column><column rowspan="2" ><![CDATA[CHART]]></column><column colspan="2"  rowspan="2" ><![CDATA[Estimasi Pendapatan (A+B) s/d Akhir Tahun]]></column><column><![CDATA[]]></column><column><![CDATA[RKAP]]></column><column><![CDATA[RKAP]]></column><column colspan="2" ><![CDATA[REAL]]></column><column><![CDATA[]]></column><column rowspan="2" ><![CDATA[CHART]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[2020]]></column><column colspan="3" ><![CDATA[S/D JUNI 2020]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[2020]]></column><column colspan="3" ><![CDATA[S/D JUNI 2020]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[1]]></column><column><![CDATA[2]]></column><column><![CDATA[3]]></column><column><![CDATA[4]]></column><column><![CDATA[5]]></column><column><![CDATA[6]]></column><column colspan="2" ><![CDATA[7]]></column><column><![CDATA[]]></column><column><![CDATA[8]]></column><column><![CDATA[9]]></column><column><![CDATA[10]]></column><column><![CDATA[11]]></column><column><![CDATA[12]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='3' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column colspan='2' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column colspan='2' ><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+</columns>
+</foot></rows><rows profile='color'><head><columns><column  rowspan="4"  width='50' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[No]]></column><column  rowspan="4"  width='260' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[UB/ Cabang]]></column><column  rowspan="3"  width='50' align='ro' type='ro' hidden='false' sort='na' color=''><![CDATA[HP]]></column><column  colspan="7"  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[PENDAPATAN (dalam jutaan rupiah)]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[LABA (dalam jutaan rupiah)]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[RKAP]]></column><column><![CDATA[RKAP]]></column><column colspan="2" ><![CDATA[REAL]]></column><column><![CDATA[]]></column><column rowspan="2" ><![CDATA[CHART]]></column><column colspan="2"  rowspan="2" ><![CDATA[Estimasi Pendapatan (A+B) s/d Akhir Tahun]]></column><column><![CDATA[]]></column><column><![CDATA[RKAP]]></column><column><![CDATA[RKAP]]></column><column colspan="2" ><![CDATA[REAL]]></column><column><![CDATA[]]></column><column rowspan="2" ><![CDATA[CHART]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[2020]]></column><column colspan="3" ><![CDATA[S/D JUNI 2020]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[2020]]></column><column colspan="3" ><![CDATA[S/D JUNI 2020]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[1]]></column><column><![CDATA[2]]></column><column><![CDATA[3]]></column><column><![CDATA[4]]></column><column><![CDATA[5]]></column><column><![CDATA[6]]></column><column colspan="2" ><![CDATA[7]]></column><column><![CDATA[]]></column><column><![CDATA[8]]></column><column><![CDATA[9]]></column><column><![CDATA[10]]></column><column><![CDATA[11]]></column><column><![CDATA[12]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='3' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column colspan='2' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column colspan='2' ><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+</columns>
+</foot></rows><rows profile='color'><head><columns><column  rowspan="4"  width='50' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[No]]></column><column  rowspan="4"  width='260' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[UB/ Cabang]]></column><column  rowspan="3"  width='50' align='ro' type='ro' hidden='false' sort='na' color=''><![CDATA[HP]]></column><column  colspan="7"  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[PENDAPATAN (dalam jutaan rupiah)]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[LABA (dalam jutaan rupiah)]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[RKAP]]></column><column><![CDATA[RKAP]]></column><column colspan="2" ><![CDATA[REAL]]></column><column><![CDATA[]]></column><column rowspan="2" ><![CDATA[CHART]]></column><column colspan="2"  rowspan="2" ><![CDATA[Estimasi Pendapatan (A+B) s/d Akhir Tahun]]></column><column><![CDATA[]]></column><column><![CDATA[RKAP]]></column><column><![CDATA[RKAP]]></column><column colspan="2" ><![CDATA[REAL]]></column><column><![CDATA[]]></column><column rowspan="2" ><![CDATA[CHART]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[2020]]></column><column colspan="3" ><![CDATA[S/D JUNI 2020]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[2020]]></column><column colspan="3" ><![CDATA[S/D JUNI 2020]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[1]]></column><column><![CDATA[2]]></column><column><![CDATA[3]]></column><column><![CDATA[4]]></column><column><![CDATA[5]]></column><column><![CDATA[6]]></column><column colspan="2" ><![CDATA[7]]></column><column><![CDATA[]]></column><column><![CDATA[8]]></column><column><![CDATA[9]]></column><column><![CDATA[10]]></column><column><![CDATA[11]]></column><column><![CDATA[12]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='3' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column colspan='2' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column colspan='2' ><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+</columns>
+</foot></rows><rows profile='color'><head><columns><column  rowspan="4"  width='50' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[No]]></column><column  rowspan="4"  width='260' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[UB/ Cabang]]></column><column  rowspan="3"  width='50' align='ro' type='ro' hidden='false' sort='na' color=''><![CDATA[HP]]></column><column  colspan="7"  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[PENDAPATAN (dalam jutaan rupiah)]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[LABA (dalam jutaan rupiah)]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[RKAP]]></column><column><![CDATA[RKAP]]></column><column colspan="2" ><![CDATA[REAL]]></column><column><![CDATA[]]></column><column rowspan="2" ><![CDATA[CHART]]></column><column colspan="2"  rowspan="2" ><![CDATA[Estimasi Pendapatan (A+B) s/d Akhir Tahun]]></column><column><![CDATA[]]></column><column><![CDATA[RKAP]]></column><column><![CDATA[RKAP]]></column><column colspan="2" ><![CDATA[REAL]]></column><column><![CDATA[]]></column><column rowspan="2" ><![CDATA[CHART]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[2020]]></column><column colspan="3" ><![CDATA[S/D JUNI 2020]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[2020]]></column><column colspan="3" ><![CDATA[S/D JUNI 2020]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[1]]></column><column><![CDATA[2]]></column><column><![CDATA[3]]></column><column><![CDATA[4]]></column><column><![CDATA[5]]></column><column><![CDATA[6]]></column><column colspan="2" ><![CDATA[7]]></column><column><![CDATA[]]></column><column><![CDATA[8]]></column><column><![CDATA[9]]></column><column><![CDATA[10]]></column><column><![CDATA[11]]></column><column><![CDATA[12]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='3' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column colspan='2' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column colspan='2' ><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+</columns>
+</foot></rows><rows profile='color'><head><columns><column  rowspan="4"  width='50' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[No]]></column><column  rowspan="4"  width='260' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[UB/ Cabang]]></column><column  rowspan="3"  width='50' align='ro' type='ro' hidden='false' sort='na' color=''><![CDATA[HP]]></column><column  colspan="7"  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[PENDAPATAN (dalam jutaan rupiah)]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[LABA (dalam jutaan rupiah)]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[RKAP]]></column><column><![CDATA[RKAP]]></column><column colspan="2" ><![CDATA[REAL]]></column><column><![CDATA[]]></column><column rowspan="2" ><![CDATA[CHART]]></column><column colspan="2"  rowspan="2" ><![CDATA[Estimasi Pendapatan (A+B) s/d Akhir Tahun]]></column><column><![CDATA[]]></column><column><![CDATA[RKAP]]></column><column><![CDATA[RKAP]]></column><column colspan="2" ><![CDATA[REAL]]></column><column><![CDATA[]]></column><column rowspan="2" ><![CDATA[CHART]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[2020]]></column><column colspan="3" ><![CDATA[S/D JUNI 2020]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[2020]]></column><column colspan="3" ><![CDATA[S/D JUNI 2020]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[1]]></column><column><![CDATA[2]]></column><column><![CDATA[3]]></column><column><![CDATA[4]]></column><column><![CDATA[5]]></column><column><![CDATA[6]]></column><column colspan="2" ><![CDATA[7]]></column><column><![CDATA[]]></column><column><![CDATA[8]]></column><column><![CDATA[9]]></column><column><![CDATA[10]]></column><column><![CDATA[11]]></column><column><![CDATA[12]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='3' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column colspan='2' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column colspan='2' ><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+</columns>
+</foot></rows><rows profile='color'><head><columns><column  rowspan="4"  width='50' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[No]]></column><column  rowspan="4"  width='260' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[UB/ Cabang]]></column><column  rowspan="3"  width='50' align='ro' type='ro' hidden='false' sort='na' color=''><![CDATA[HP]]></column><column  colspan="7"  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[PENDAPATAN (dalam jutaan rupiah)]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[LABA (dalam jutaan rupiah)]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[RKAP]]></column><column><![CDATA[RKAP]]></column><column colspan="2" ><![CDATA[REAL]]></column><column><![CDATA[]]></column><column rowspan="2" ><![CDATA[CHART]]></column><column colspan="2"  rowspan="2" ><![CDATA[Estimasi Pendapatan (A+B) s/d Akhir Tahun]]></column><column><![CDATA[]]></column><column><![CDATA[RKAP]]></column><column><![CDATA[RKAP]]></column><column colspan="2" ><![CDATA[REAL]]></column><column><![CDATA[]]></column><column rowspan="2" ><![CDATA[CHART]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[2020]]></column><column colspan="3" ><![CDATA[S/D JUNI 2020]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[2020]]></column><column colspan="3" ><![CDATA[S/D JUNI 2020]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[1]]></column><column><![CDATA[2]]></column><column><![CDATA[3]]></column><column><![CDATA[4]]></column><column><![CDATA[5]]></column><column><![CDATA[6]]></column><column colspan="2" ><![CDATA[7]]></column><column><![CDATA[]]></column><column><![CDATA[8]]></column><column><![CDATA[9]]></column><column><![CDATA[10]]></column><column><![CDATA[11]]></column><column><![CDATA[12]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='3' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column colspan='2' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column colspan='2' ><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+</columns>
+</foot></rows><rows profile='color'><head><columns><column  rowspan="4"  width='50' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[No]]></column><column  rowspan="4"  width='260' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[UB/ Cabang]]></column><column  rowspan="3"  width='50' align='ro' type='ro' hidden='false' sort='na' color=''><![CDATA[HP]]></column><column  colspan="7"  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[PENDAPATAN (dalam jutaan rupiah)]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[LABA (dalam jutaan rupiah)]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[RKAP]]></column><column><![CDATA[RKAP]]></column><column colspan="2" ><![CDATA[REAL]]></column><column><![CDATA[]]></column><column rowspan="2" ><![CDATA[CHART]]></column><column colspan="2"  rowspan="2" ><![CDATA[Estimasi Pendapatan (A+B) s/d Akhir Tahun]]></column><column><![CDATA[]]></column><column><![CDATA[RKAP]]></column><column><![CDATA[RKAP]]></column><column colspan="2" ><![CDATA[REAL]]></column><column><![CDATA[]]></column><column rowspan="2" ><![CDATA[CHART]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[2020]]></column><column colspan="3" ><![CDATA[S/D JUNI 2020]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[2020]]></column><column colspan="3" ><![CDATA[S/D JUNI 2020]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[1]]></column><column><![CDATA[2]]></column><column><![CDATA[3]]></column><column><![CDATA[4]]></column><column><![CDATA[5]]></column><column><![CDATA[6]]></column><column colspan="2" ><![CDATA[7]]></column><column><![CDATA[]]></column><column><![CDATA[8]]></column><column><![CDATA[9]]></column><column><![CDATA[10]]></column><column><![CDATA[11]]></column><column><![CDATA[12]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='3' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column colspan='2' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column colspan='2' ><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+</columns>
+</foot></rows><rows profile='color'><head><columns><column  rowspan="4"  width='50' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[No]]></column><column  rowspan="4"  width='260' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[UB/ Cabang]]></column><column  rowspan="3"  width='50' align='ro' type='ro' hidden='false' sort='na' color=''><![CDATA[HP]]></column><column  colspan="7"  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[PENDAPATAN (dalam jutaan rupiah)]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[LABA (dalam jutaan rupiah)]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[RKAP]]></column><column><![CDATA[RKAP]]></column><column colspan="2" ><![CDATA[REAL]]></column><column><![CDATA[]]></column><column rowspan="2" ><![CDATA[CHART]]></column><column colspan="2"  rowspan="2" ><![CDATA[Estimasi Pendapatan (A+B) s/d Akhir Tahun]]></column><column><![CDATA[]]></column><column><![CDATA[RKAP]]></column><column><![CDATA[RKAP]]></column><column colspan="2" ><![CDATA[REAL]]></column><column><![CDATA[]]></column><column rowspan="2" ><![CDATA[CHART]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[2020]]></column><column colspan="3" ><![CDATA[S/D JUNI 2020]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[2020]]></column><column colspan="3" ><![CDATA[S/D JUNI 2020]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[1]]></column><column><![CDATA[2]]></column><column><![CDATA[3]]></column><column><![CDATA[4]]></column><column><![CDATA[5]]></column><column><![CDATA[6]]></column><column colspan="2" ><![CDATA[7]]></column><column><![CDATA[]]></column><column><![CDATA[8]]></column><column><![CDATA[9]]></column><column><![CDATA[10]]></column><column><![CDATA[11]]></column><column><![CDATA[12]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='3' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column colspan='2' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column colspan='2' ><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+</columns>
+</foot></rows><rows profile='color'><head><columns><column  rowspan="4"  width='50' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[No]]></column><column  rowspan="4"  width='260' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[UB/ Cabang]]></column><column  rowspan="3"  width='50' align='ro' type='ro' hidden='false' sort='na' color=''><![CDATA[HP]]></column><column  colspan="7"  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[PENDAPATAN (dalam jutaan rupiah)]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[LABA (dalam jutaan rupiah)]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[RKAP]]></column><column><![CDATA[RKAP]]></column><column colspan="2" ><![CDATA[REAL]]></column><column><![CDATA[]]></column><column rowspan="2" ><![CDATA[CHART]]></column><column colspan="2"  rowspan="2" ><![CDATA[Estimasi Pendapatan (A+B) s/d Akhir Tahun]]></column><column><![CDATA[]]></column><column><![CDATA[RKAP]]></column><column><![CDATA[RKAP]]></column><column colspan="2" ><![CDATA[REAL]]></column><column><![CDATA[]]></column><column rowspan="2" ><![CDATA[CHART]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[2020]]></column><column colspan="3" ><![CDATA[S/D JUNI 2020]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[2020]]></column><column colspan="3" ><![CDATA[S/D JUNI 2020]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[1]]></column><column><![CDATA[2]]></column><column><![CDATA[3]]></column><column><![CDATA[4]]></column><column><![CDATA[5]]></column><column><![CDATA[6]]></column><column colspan="2" ><![CDATA[7]]></column><column><![CDATA[]]></column><column><![CDATA[8]]></column><column><![CDATA[9]]></column><column><![CDATA[10]]></column><column><![CDATA[11]]></column><column><![CDATA[12]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='3' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column colspan='2' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column colspan='2' ><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+</columns>
+</foot></rows><rows profile='color'><head><columns><column  rowspan="4"  width='50' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[No]]></column><column  rowspan="4"  width='260' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[UB/ Cabang]]></column><column  rowspan="3"  width='50' align='ro' type='ro' hidden='false' sort='na' color=''><![CDATA[HP]]></column><column  colspan="7"  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[PENDAPATAN (dalam jutaan rupiah)]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[LABA (dalam jutaan rupiah)]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[RKAP]]></column><column><![CDATA[RKAP]]></column><column colspan="2" ><![CDATA[REAL]]></column><column><![CDATA[]]></column><column rowspan="2" ><![CDATA[CHART]]></column><column colspan="2"  rowspan="2" ><![CDATA[Estimasi Pendapatan (A+B) s/d Akhir Tahun]]></column><column><![CDATA[]]></column><column><![CDATA[RKAP]]></column><column><![CDATA[RKAP]]></column><column colspan="2" ><![CDATA[REAL]]></column><column><![CDATA[]]></column><column rowspan="2" ><![CDATA[CHART]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[2020]]></column><column colspan="3" ><![CDATA[S/D JUNI 2020]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[2020]]></column><column colspan="3" ><![CDATA[S/D JUNI 2020]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[1]]></column><column><![CDATA[2]]></column><column><![CDATA[3]]></column><column><![CDATA[4]]></column><column><![CDATA[5]]></column><column><![CDATA[6]]></column><column colspan="2" ><![CDATA[7]]></column><column><![CDATA[]]></column><column><![CDATA[8]]></column><column><![CDATA[9]]></column><column><![CDATA[10]]></column><column><![CDATA[11]]></column><column><![CDATA[12]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='3' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column colspan='2' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column colspan='2' ><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+</columns>
+</foot></rows><rows profile='color'><head><columns><column  rowspan="4"  width='50' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[No]]></column><column  rowspan="4"  width='260' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[UB/ Cabang]]></column><column  rowspan="3"  width='50' align='ro' type='ro' hidden='false' sort='na' color=''><![CDATA[HP]]></column><column  colspan="7"  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[PENDAPATAN (dalam jutaan rupiah)]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[LABA (dalam jutaan rupiah)]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[RKAP]]></column><column><![CDATA[RKAP]]></column><column colspan="2" ><![CDATA[REAL]]></column><column><![CDATA[]]></column><column rowspan="2" ><![CDATA[CHART]]></column><column colspan="2"  rowspan="2" ><![CDATA[Estimasi Pendapatan (A+B) s/d Akhir Tahun]]></column><column><![CDATA[]]></column><column><![CDATA[RKAP]]></column><column><![CDATA[RKAP]]></column><column colspan="2" ><![CDATA[REAL]]></column><column><![CDATA[]]></column><column rowspan="2" ><![CDATA[CHART]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[2020]]></column><column colspan="3" ><![CDATA[S/D JUNI 2020]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[2020]]></column><column colspan="3" ><![CDATA[S/D JUNI 2020]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[1]]></column><column><![CDATA[2]]></column><column><![CDATA[3]]></column><column><![CDATA[4]]></column><column><![CDATA[5]]></column><column><![CDATA[6]]></column><column colspan="2" ><![CDATA[7]]></column><column><![CDATA[]]></column><column><![CDATA[8]]></column><column><![CDATA[9]]></column><column><![CDATA[10]]></column><column><![CDATA[11]]></column><column><![CDATA[12]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='3' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column colspan='2' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column colspan='2' ><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+</columns>
+</foot></rows><rows profile='color'><head><columns><column  rowspan="4"  width='50' align='right' type='ro' hidden='false' sort='na' color=''><![CDATA[No]]></column><column  rowspan="4"  width='260' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[UB/ Cabang]]></column><column  rowspan="3"  width='50' align='ro' type='ro' hidden='false' sort='na' color=''><![CDATA[HP]]></column><column  colspan="7"  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[PENDAPATAN (dalam jutaan rupiah)]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="5"  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[LABA (dalam jutaan rupiah)]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='100' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='50' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[RKAP]]></column><column><![CDATA[RKAP]]></column><column colspan="2" ><![CDATA[REAL]]></column><column><![CDATA[]]></column><column rowspan="2" ><![CDATA[CHART]]></column><column colspan="2"  rowspan="2" ><![CDATA[Estimasi Pendapatan (A+B) s/d Akhir Tahun]]></column><column><![CDATA[]]></column><column><![CDATA[RKAP]]></column><column><![CDATA[RKAP]]></column><column colspan="2" ><![CDATA[REAL]]></column><column><![CDATA[]]></column><column rowspan="2" ><![CDATA[CHART]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[2020]]></column><column colspan="3" ><![CDATA[S/D JUNI 2020]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[2020]]></column><column colspan="3" ><![CDATA[S/D JUNI 2020]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[1]]></column><column><![CDATA[2]]></column><column><![CDATA[3]]></column><column><![CDATA[4]]></column><column><![CDATA[5]]></column><column><![CDATA[6]]></column><column colspan="2" ><![CDATA[7]]></column><column><![CDATA[]]></column><column><![CDATA[8]]></column><column><![CDATA[9]]></column><column><![CDATA[10]]></column><column><![CDATA[11]]></column><column><![CDATA[12]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='3' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column colspan='2' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column colspan='2' ><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+</columns>
+</foot></rows>

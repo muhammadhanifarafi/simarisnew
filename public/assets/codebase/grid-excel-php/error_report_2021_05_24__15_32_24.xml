@@ -1,0 +1,328 @@
+<rows profile='color'><head><columns><column  rowspan="4"  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  rowspan="4"  width='120' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[Divisi Bisnis/Cabang]]></column><column  colspan="2"  width='120' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Project]]></column><column  width='230' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='190' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Klien]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[P (7/4)]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[L (9/6)]]></column><column  colspan="2"  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[Jangka Waktu]]></column><column  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Nilai Kontrak]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ RAB]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="3"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Realisasi]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Prosentase Progress 2021]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[  Piutang]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Proforma]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Uang Muka]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ ByDM]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ PPU dan ByDM Detail]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Chart Pendapatan]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Kode]]></column><column rowspan="3" ><![CDATA[Nama]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Awal]]></column><column rowspan="3" ><![CDATA[Akhir]]></column><column><![CDATA[]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Setahun]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Bulan Berjalan]]></column><column><![CDATA[Realisasi Beban Vs RAB Setahun]]></column><column><![CDATA[Realisasi Beban Vs RAB Bulan Berjalan]]></column><column><![CDATA[Progress Fisik]]></column><column><![CDATA[QAQC]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="3" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[s/d Bulan April 2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[(1)]]></column><column><![CDATA[(2)]]></column><column><![CDATA[(3)]]></column><column><![CDATA[(4)]]></column><column><![CDATA[(5)]]></column><column><![CDATA[(6)]]></column><column><![CDATA[(7)]]></column><column><![CDATA[(8)]]></column><column><![CDATA[(9)]]></column><column><![CDATA[(7/1)]]></column><column><![CDATA[(7/4)]]></column><column><![CDATA[(8/2)]]></column><column><![CDATA[(8/5)]]></column><column><![CDATA[(15)]]></column><column><![CDATA[(16)]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='9' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[68,499,253,697.0]]></column>
+<column><![CDATA[25,841,405,684.0]]></column>
+<column><![CDATA[22,189,432,811.0]]></column>
+<column><![CDATA[3,651,972,873.0]]></column>
+<column><![CDATA[9,203,728,688.0]]></column>
+<column><![CDATA[19,969,819,219.0]]></column>
+<column><![CDATA[-10,766,090,531.0]]></column>
+<column><![CDATA[6,963,637,417.0]]></column>
+<column><![CDATA[5,615,568,463.0]]></column>
+<column><![CDATA[1,348,068,954.0]]></column>
+<column colspan='6' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[9,005,790,017.0]]></column>
+<column><![CDATA[7,663,326,256.0]]></column>
+<column><![CDATA[1,674,213,810.0]]></column>
+<column><![CDATA[12,043,022,837.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[SI CAB PALEMBANG]]></cell><cell><![CDATA[1018020072
+                
+                 Penjelasan]]></cell><cell><![CDATA[SURVEY PEMETAAN TOPOGRAFI DENGAN SISTEM ON CALL BASIS DI PERTAMINA EP ASSET 1]]></cell><cell><![CDATA[PERTAMINA EP ASSET 1 FIELD JAMBI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[09-08-2018]]></cell><cell><![CDATA[09-08-2020]]></cell><cell><![CDATA[1,841,345,000.0]]></cell><cell><![CDATA[453,401,000.0]]></cell><cell><![CDATA[358,277,960.0]]></cell><cell><![CDATA[95,123,040.0]]></cell><cell><![CDATA[453,401,000.0]]></cell><cell><![CDATA[358,277,960.0]]></cell><cell><![CDATA[95,123,040.0]]></cell><cell><![CDATA[436,128,000.0]]></cell><cell><![CDATA[291,518,758.0]]></cell><cell><![CDATA[144,609,242.0]]></cell><cell><![CDATA[96.19]]></cell><cell><![CDATA[96.19]]></cell><cell><![CDATA[81.4]]></cell><cell><![CDATA[81.4]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[479,740,800.0]]></cell><cell><![CDATA[623,613,000.0]]></cell><cell><![CDATA[51,841,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[SI CAB PALEMBANG]]></cell><cell><![CDATA[1018020086
+                
+                 Penjelasan]]></cell><cell><![CDATA[Pekerjaan Jasa Pengurusan IPPKH 150 KV Liwa - Bengkunat (Paket HUT - Langkat )]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN III]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[16-11-2018]]></cell><cell><![CDATA[30-11-2020]]></cell><cell><![CDATA[5,088,714,500.0]]></cell><cell><![CDATA[3,053,228,385.0]]></cell><cell><![CDATA[2,072,075,274.0]]></cell><cell><![CDATA[981,153,111.0]]></cell><cell><![CDATA[2,289,921,289.0]]></cell><cell><![CDATA[2,072,075,274.0]]></cell><cell><![CDATA[217,846,015.0]]></cell><cell><![CDATA[1,271,839,270.0]]></cell><cell><![CDATA[1,022,265,774.0]]></cell><cell><![CDATA[249,573,496.0]]></cell><cell><![CDATA[41.66]]></cell><cell><![CDATA[55.54]]></cell><cell><![CDATA[49.3]]></cell><cell><![CDATA[49.3]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[2,289,582,170.0]]></cell><cell><![CDATA[150,950,000.0]]></cell><cell><![CDATA[874,809,500.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[SI CAB PALEMBANG]]></cell><cell><![CDATA[1019020033
+                
+                 Penjelasan]]></cell><cell><![CDATA[KHS Jasa Stock Opname Fisik Batubara dan HSD UPK Tarahan]]></cell><cell><![CDATA[PLN (PERSERO) PEMBANGKITAN SUMATERA BAGIAN SELATAN]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[08-02-2019]]></cell><cell><![CDATA[08-02-2020]]></cell><cell><![CDATA[228,000,000.0]]></cell><cell><![CDATA[114,000,000.0]]></cell><cell><![CDATA[79,993,032.0]]></cell><cell><![CDATA[34,006,968.0]]></cell><cell><![CDATA[57,000,000.0]]></cell><cell><![CDATA[39,996,516.0]]></cell><cell><![CDATA[17,003,484.0]]></cell><cell><![CDATA[57,000,000.0]]></cell><cell><![CDATA[24,463,836.0]]></cell><cell><![CDATA[32,536,164.0]]></cell><cell><![CDATA[50]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[30.6]]></cell><cell><![CDATA[61.2]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[31,350,000.0]]></cell><cell><![CDATA[28,500,000.0]]></cell><cell><![CDATA[12,885,500.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[SI CAB PALEMBANG]]></cell><cell><![CDATA[1019020057
+                
+                 Penjelasan]]></cell><cell><![CDATA[Jasa Penerbitan Izin Mendirikan Bangunan (IMB) Gardu Induk di Lingkungan PT PLN UIP Sumbagsel (paket IMB)]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN SELATAN (UIP III)]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[12-04-2019]]></cell><cell><![CDATA[25-11-2020]]></cell><cell><![CDATA[1,316,006,250.0]]></cell><cell><![CDATA[147,249,000.0]]></cell><cell><![CDATA[110,000,000.0]]></cell><cell><![CDATA[37,249,000.0]]></cell><cell><![CDATA[147,249,000.0]]></cell><cell><![CDATA[110,000,000.0]]></cell><cell><![CDATA[37,249,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[161,973,900.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[110,000,000.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[SI CAB PALEMBANG]]></cell><cell><![CDATA[1019020061
+                
+                 Penjelasan]]></cell><cell><![CDATA[Jasa Sertifikasi Tapak Tower di Lingkungan PT PLN (Persero) UIP Sumbagsel 782 Tapak Tower (Paket Jaser Tato)]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN SELATAN (UIP III)]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[31-05-2019]]></cell><cell><![CDATA[31-07-2020]]></cell><cell><![CDATA[3,291,036,445.0]]></cell><cell><![CDATA[1,058,827,687.0]]></cell><cell><![CDATA[815,750,000.0]]></cell><cell><![CDATA[243,077,687.0]]></cell><cell><![CDATA[1,058,827,687.0]]></cell><cell><![CDATA[815,750,000.0]]></cell><cell><![CDATA[243,077,687.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[776,937,757.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[815,750,000.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[SI CAB PALEMBANG]]></cell><cell><![CDATA[1019020075
+                
+                 Penjelasan]]></cell><cell><![CDATA[Amandemen III Pengadaan Kontrak Payung Jasa Opname Fisik Stock Batubara Bulanan Tahun 2016 PLTU Bukit Asam PT PLN (Persero) Pembangkitan Sumatera Bagian Selatan Sektor Pembangkitan Bukit Asam]]></cell><cell><![CDATA[PLN (PERSERO) SEKTOR PEMBANGKITAN BUKIT ASAM]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[03-06-2019]]></cell><cell><![CDATA[02-06-2020]]></cell><cell><![CDATA[343,800,000.0]]></cell><cell><![CDATA[200,550,000.0]]></cell><cell><![CDATA[150,000,004.0]]></cell><cell><![CDATA[50,549,996.0]]></cell><cell><![CDATA[114,600,000.0]]></cell><cell><![CDATA[85,714,288.0]]></cell><cell><![CDATA[28,885,712.0]]></cell><cell><![CDATA[143,250,000.0]]></cell><cell><![CDATA[77,686,280.0]]></cell><cell><![CDATA[65,563,720.0]]></cell><cell><![CDATA[71.43]]></cell><cell><![CDATA[125]]></cell><cell><![CDATA[51.8]]></cell><cell><![CDATA[90.6]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[31,515,000.0]]></cell><cell><![CDATA[28,650,000.0]]></cell><cell><![CDATA[53,559,800.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[SI CAB PALEMBANG]]></cell><cell><![CDATA[1019020077
+                
+                 Penjelasan]]></cell><cell><![CDATA[Manajemen jasa inventarisasi, identifikasi dan pengurusan perijinan jalur sutt, sutet dan gardu induk PT PLN (Persero) UPPJ Sumatera Selatan]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN SELATAN (UIP III)]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[22-07-2019]]></cell><cell><![CDATA[21-07-2020]]></cell><cell><![CDATA[10,556,961,700.0]]></cell><cell><![CDATA[3,364,750,000.0]]></cell><cell><![CDATA[3,195,000,000.0]]></cell><cell><![CDATA[169,750,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[3,195,000,000.0]]></cell><cell><![CDATA[-3,195,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[599,917,048.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[669,575,510.0]]></cell><cell><![CDATA[2,495,141,003.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[SI CAB PALEMBANG]]></cell><cell><![CDATA[1019020078
+                
+                 Penjelasan]]></cell><cell><![CDATA[Manajemen Jasa invenarisasi, identifikasi dan pengurusan perijinan jalur sutt, sutet, dan gardu induk PT PLN (Persero) UPPJ Kep. Bangka dan Belitung]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN SELATAN (UIP III)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-04-2019]]></cell><cell><![CDATA[31-05-2020]]></cell><cell><![CDATA[4,080,000,000.0]]></cell><cell><![CDATA[1,886,264,240.0]]></cell><cell><![CDATA[1,797,501,358.0]]></cell><cell><![CDATA[88,762,882.0]]></cell><cell><![CDATA[1,510,000,000.0]]></cell><cell><![CDATA[1,749,496,858.0]]></cell><cell><![CDATA[-239,496,858.0]]></cell><cell><![CDATA[764,888,345.0]]></cell><cell><![CDATA[723,307,380.0]]></cell><cell><![CDATA[41,580,965.0]]></cell><cell><![CDATA[40.55]]></cell><cell><![CDATA[50.65]]></cell><cell><![CDATA[40.2]]></cell><cell><![CDATA[41.3]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[2,154,851,516.0]]></cell><cell><![CDATA[452,476,483.0]]></cell><cell><![CDATA[240,080,000.0]]></cell><cell><![CDATA[821,545,928.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[SI CAB PALEMBANG]]></cell><cell><![CDATA[1019020079
+                
+                 Penjelasan]]></cell><cell><![CDATA[Manajemen Jasa invenarisasi, identifikasi dan pengurusan perijinan jalur sutt, sutet, dan gardu induk PT PLN (Persero) UPPJ Lampung dan Bengkulu]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN SELATAN (UIP III)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[22-07-2019]]></cell><cell><![CDATA[21-07-2020]]></cell><cell><![CDATA[16,320,000,000.0]]></cell><cell><![CDATA[7,826,682,550.0]]></cell><cell><![CDATA[7,452,278,501.0]]></cell><cell><![CDATA[374,404,049.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[7,452,278,501.0]]></cell><cell><![CDATA[-7,452,278,501.0]]></cell><cell><![CDATA[1,541,396,737.0]]></cell><cell><![CDATA[1,328,680,372.0]]></cell><cell><![CDATA[212,716,365.0]]></cell><cell><![CDATA[19.69]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[17.8]]></cell><cell><![CDATA[17.8]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[118,111,198.0]]></cell><cell><![CDATA[1,434,022,920.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[6,118,436,912.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[SI CAB PALEMBANG]]></cell><cell><![CDATA[1019020080
+                
+                 Penjelasan]]></cell><cell><![CDATA[Jasa Konsultansi Pengurusan Izin Pinjam Pakai Kawasan Hitan (IPPKH) untuk Pembangunan T/L 150 kV di Kabupaten Tanjung Jabung Timur - Tanjung Jabung Barat Prov. Jambi 75 Ha PT PLN (Persero) UIP SUMBAGTENG]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN TENGAH]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-05-2019]]></cell><cell><![CDATA[30-06-2020]]></cell><cell><![CDATA[9,274,648,460.0]]></cell><cell><![CDATA[1,415,808,600.0]]></cell><cell><![CDATA[1,216,115,952.0]]></cell><cell><![CDATA[199,692,648.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[405,371,984.0]]></cell><cell><![CDATA[-405,371,984.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[4,546,402,300.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[-950,000.0]]></cell><cell><![CDATA[807,339,494.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[SI CAB PALEMBANG]]></cell><cell><![CDATA[1019020105
+                
+                 Penjelasan]]></cell><cell><![CDATA[Jasa Kontrak Harga Satuan Opname Fisik Tanki HSD PLTU Bukit Asam PT PLN (Persero) PLTU BA]]></cell><cell><![CDATA[PLN (PERSERO) PLTU BUKIT ASAM]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[07-05-2019]]></cell><cell><![CDATA[31-05-2020]]></cell><cell><![CDATA[153,972,000.0]]></cell><cell><![CDATA[115,479,000.0]]></cell><cell><![CDATA[101,499,999.0]]></cell><cell><![CDATA[13,979,001.0]]></cell><cell><![CDATA[76,986,000.0]]></cell><cell><![CDATA[68,166,666.0]]></cell><cell><![CDATA[8,819,334.0]]></cell><cell><![CDATA[76,986,000.0]]></cell><cell><![CDATA[60,718,669.0]]></cell><cell><![CDATA[16,267,331.0]]></cell><cell><![CDATA[66.67]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[59.8]]></cell><cell><![CDATA[89.1]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[38,493,000.0]]></cell><cell><![CDATA[17,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[SI CAB PALEMBANG]]></cell><cell><![CDATA[1019020128
+                
+                 Penjelasan]]></cell><cell><![CDATA[Jasa Konsultan Pengurusan dan Pemenuhan Kewajiban IPPKH untuk Pembangunan Jalur Transmisi 150 kV Kuala Tungkal - Pelabuhan Dagang PT PLN UIP Sumbagteng]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN TENGAH]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[02-12-2019]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[8,548,440,185.0]]></cell><cell><![CDATA[1,246,246,725.0]]></cell><cell><![CDATA[1,103,536,324.0]]></cell><cell><![CDATA[142,710,401.0]]></cell><cell><![CDATA[1,246,246,725.0]]></cell><cell><![CDATA[1,103,536,324.0]]></cell><cell><![CDATA[142,710,401.0]]></cell><cell><![CDATA[1,246,246,725.0]]></cell><cell><![CDATA[1,103,427,200.0]]></cell><cell><![CDATA[142,819,525.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100.0]]></cell><cell><![CDATA[100.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[1,246,246,725.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[SI CAB PALEMBANG]]></cell><cell><![CDATA[1020020026
+                
+                 Penjelasan]]></cell><cell><![CDATA[Jasa Konsultansi, Kegiatan Sosialisasi, Inventarisasi, Musyawarah dan Pemberkasan Right of Way (ROW) Jaringan T/L 150 kV Bangko – Merangin – Sungai Penuh]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN TENGAH]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[31-03-2020]]></cell><cell><![CDATA[31-08-2020]]></cell><cell><![CDATA[1,616,950,000.0]]></cell><cell><![CDATA[261,900,352.0]]></cell><cell><![CDATA[111,000,000.0]]></cell><cell><![CDATA[150,900,352.0]]></cell><cell><![CDATA[261,900,352.0]]></cell><cell><![CDATA[111,000,000.0]]></cell><cell><![CDATA[150,900,352.0]]></cell><cell><![CDATA[261,900,352.0]]></cell><cell><![CDATA[109,939,765.0]]></cell><cell><![CDATA[151,960,587.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[99.0]]></cell><cell><![CDATA[99.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[261,900,352.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[SI CAB PALEMBANG]]></cell><cell><![CDATA[1020020070
+                
+                 Penjelasan]]></cell><cell><![CDATA[IPPKH JALUR SUTET 275 KV PHI INCHOMER MUARA ENIM JALUR 2, REVISI PETA SK IPPKH HUT SUMBA, PENBUATAN LHP TJ CARAT, DAN PEMBUATAN LHP RANTAU DADAP - LUMUT BALAI]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN SELATAN (UIP III)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[04-09-2020]]></cell><cell><![CDATA[31-05-2021]]></cell><cell><![CDATA[1,661,541,124.0]]></cell><cell><![CDATA[1,183,581,728.0]]></cell><cell><![CDATA[917,670,340.0]]></cell><cell><![CDATA[265,911,388.0]]></cell><cell><![CDATA[971,269,688.0]]></cell><cell><![CDATA[917,670,340.0]]></cell><cell><![CDATA[53,599,348.0]]></cell><cell><![CDATA[212,610,042.0]]></cell><cell><![CDATA[170,556,050.0]]></cell><cell><![CDATA[42,053,992.0]]></cell><cell><![CDATA[17.96]]></cell><cell><![CDATA[21.89]]></cell><cell><![CDATA[18.6]]></cell><cell><![CDATA[18.6]]></cell><cell><![CDATA[11 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[690,569,438.0]]></cell><cell><![CDATA[197,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[SI CAB PALEMBANG]]></cell><cell><![CDATA[1020020075
+                
+                 Penjelasan]]></cell><cell><![CDATA[Jasa Konsultansi Set Up Dokumen Sistem Manajemen K3 PT PLN (Persero) UP3 Ogan Ilir dan PT PLN (Persero) UP2D S2JB]]></cell><cell><![CDATA[PLN (PERSERO) WILAYAH SUMSEL, JAMBI & BENGKULU]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-11-2020]]></cell><cell><![CDATA[30-04-2020]]></cell><cell><![CDATA[210,400,000.0]]></cell><cell><![CDATA[147,280,000.0]]></cell><cell><![CDATA[130,062,400.0]]></cell><cell><![CDATA[17,217,600.0]]></cell><cell><![CDATA[126,240,000.0]]></cell><cell><![CDATA[106,249,920.0]]></cell><cell><![CDATA[19,990,080.0]]></cell><cell><![CDATA[84,160,000.0]]></cell><cell><![CDATA[78,009,974.0]]></cell><cell><![CDATA[6,150,026.0]]></cell><cell><![CDATA[57.14]]></cell><cell><![CDATA[66.67]]></cell><cell><![CDATA[60.0]]></cell><cell><![CDATA[73.4]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[29,349,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[SI CAB PALEMBANG]]></cell><cell><![CDATA[1020020080
+                
+                 Penjelasan]]></cell><cell><![CDATA[IPPKH ULU BELU - PAGELARAN DAN IPPKH SRIBAWONO - SEPUTIH BANYAK - MENGGALA]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN SELATAN (UIP III)]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[25-09-2020]]></cell><cell><![CDATA[30-11-2021]]></cell><cell><![CDATA[2,096,818,100.0]]></cell><cell><![CDATA[2,096,818,100.0]]></cell><cell><![CDATA[1,659,450,000.0]]></cell><cell><![CDATA[437,368,100.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[622,293,750.0]]></cell><cell><![CDATA[-622,293,750.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[17]]></cell><cell><![CDATA[SI CAB PALEMBANG]]></cell><cell><![CDATA[1020020090
+                
+                 Penjelasan]]></cell><cell><![CDATA[Jasa Konsultansi dan Sertifikasi ISO 17025:2017 Laboratoium di Pertamina Gas Operation South Sumatera Area]]></cell><cell><![CDATA[PERTAMINA GAS]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[07-12-2020]]></cell><cell><![CDATA[23-09-2021]]></cell><cell><![CDATA[373,500,000.0]]></cell><cell><![CDATA[373,500,000.0]]></cell><cell><![CDATA[244,213,467.0]]></cell><cell><![CDATA[129,286,533.0]]></cell><cell><![CDATA[124,500,000.0]]></cell><cell><![CDATA[129,761,540.0]]></cell><cell><![CDATA[-5,261,540.0]]></cell><cell><![CDATA[149,400,000.0]]></cell><cell><![CDATA[102,772,900.0]]></cell><cell><![CDATA[46,627,100.0]]></cell><cell><![CDATA[40]]></cell><cell><![CDATA[120]]></cell><cell><![CDATA[42.1]]></cell><cell><![CDATA[79.2]]></cell><cell><![CDATA[0 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[149,400,000.0]]></cell><cell><![CDATA[63,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[18]]></cell><cell><![CDATA[SI CAB PALEMBANG]]></cell><cell><![CDATA[1020040016
+                
+                 Penjelasan]]></cell><cell><![CDATA[JASA PEMANTAUAN LINGKUNGAN SEMESTER 1 DAN 2 TAHUN 2020-2023]]></cell><cell><![CDATA[SHENHUA GUOHUA LION POWER INDONESIA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[21-02-2020]]></cell><cell><![CDATA[28-02-2023]]></cell><cell><![CDATA[403,502,765.0]]></cell><cell><![CDATA[134,502,740.0]]></cell><cell><![CDATA[95,657,804.0]]></cell><cell><![CDATA[38,844,936.0]]></cell><cell><![CDATA[67,251,370.0]]></cell><cell><![CDATA[47,828,902.0]]></cell><cell><![CDATA[19,422,468.0]]></cell><cell><![CDATA[67,251,370.0]]></cell><cell><![CDATA[48,448,640.0]]></cell><cell><![CDATA[18,802,730.0]]></cell><cell><![CDATA[50]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[50.7]]></cell><cell><![CDATA[101.3]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[3,750,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[19]]></cell><cell><![CDATA[SI CAB PALEMBANG]]></cell><cell><![CDATA[1020040062
+                
+                 Penjelasan]]></cell><cell><![CDATA[SLO 1 Unit PLTD, The Alts Hotel]]></cell><cell><![CDATA[TRIPUTRA HOTEL INDONESIA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-10-2020]]></cell><cell><![CDATA[05-10-2020]]></cell><cell><![CDATA[14,000,000.0]]></cell><cell><![CDATA[1,400,000.0]]></cell><cell><![CDATA[500,000.0]]></cell><cell><![CDATA[900,000.0]]></cell><cell><![CDATA[1,400,000.0]]></cell><cell><![CDATA[500,000.0]]></cell><cell><![CDATA[900,000.0]]></cell><cell><![CDATA[1,400,000.0]]></cell><cell><![CDATA[500,000.0]]></cell><cell><![CDATA[900,000.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100.0]]></cell><cell><![CDATA[100.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[20]]></cell><cell><![CDATA[SI CAB PALEMBANG]]></cell><cell><![CDATA[1020040063
+                
+                 Penjelasan]]></cell><cell><![CDATA[SLO 1 Unit PLTD, Zuri Express Hotel]]></cell><cell><![CDATA[TRIPUTRA HOTEL INDONESIA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-10-2020]]></cell><cell><![CDATA[05-10-2020]]></cell><cell><![CDATA[13,000,000.0]]></cell><cell><![CDATA[1,300,000.0]]></cell><cell><![CDATA[500,000.0]]></cell><cell><![CDATA[800,000.0]]></cell><cell><![CDATA[1,300,000.0]]></cell><cell><![CDATA[500,000.0]]></cell><cell><![CDATA[800,000.0]]></cell><cell><![CDATA[1,300,000.0]]></cell><cell><![CDATA[500,000.0]]></cell><cell><![CDATA[800,000.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100.0]]></cell><cell><![CDATA[100.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[21]]></cell><cell><![CDATA[SI CAB PALEMBANG]]></cell><cell><![CDATA[1020040067
+                
+                 Penjelasan]]></cell><cell><![CDATA[SLO PLTD PT Japfa Comfeed, Tbk
+Palembang]]></cell><cell><![CDATA[JAPFA COMFEED INDONESIA TBK]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[05-10-2020]]></cell><cell><![CDATA[09-11-2020]]></cell><cell><![CDATA[48,000,000.0]]></cell><cell><![CDATA[4,800,000.0]]></cell><cell><![CDATA[1,901,000.0]]></cell><cell><![CDATA[2,899,000.0]]></cell><cell><![CDATA[4,800,000.0]]></cell><cell><![CDATA[1,901,000.0]]></cell><cell><![CDATA[2,899,000.0]]></cell><cell><![CDATA[4,800,000.0]]></cell><cell><![CDATA[1,800,000.0]]></cell><cell><![CDATA[3,000,000.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[94.7]]></cell><cell><![CDATA[94.7]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[5,280,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[22]]></cell><cell><![CDATA[SI CAB PALEMBANG]]></cell><cell><![CDATA[1020040078
+                
+                 Penjelasan]]></cell><cell><![CDATA[Jasa Pengurusan Perijinan dan Izin Operasi PT Mahkota Andalan Sawit]]></cell><cell><![CDATA[MAHKOTA ANDALAN SAWIT]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[03-11-2020]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[39,000,000.0]]></cell><cell><![CDATA[19,500,000.0]]></cell><cell><![CDATA[14,067,000.0]]></cell><cell><![CDATA[5,433,000.0]]></cell><cell><![CDATA[19,500,000.0]]></cell><cell><![CDATA[14,067,000.0]]></cell><cell><![CDATA[5,433,000.0]]></cell><cell><![CDATA[19,500,000.0]]></cell><cell><![CDATA[11,500,000.0]]></cell><cell><![CDATA[8,000,000.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[81.8]]></cell><cell><![CDATA[81.8]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[11,500,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[23]]></cell><cell><![CDATA[SI CAB PALEMBANG]]></cell><cell><![CDATA[1020040083
+                
+                 Penjelasan]]></cell><cell><![CDATA[Sertifikasi Sistem Keselamatan dan Kesehatan KErja (SMK3)]]></cell><cell><![CDATA[MULTIMAS NABATI ASAHAN]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[20-11-2020]]></cell><cell><![CDATA[24-11-2021]]></cell><cell><![CDATA[30,000,000.0]]></cell><cell><![CDATA[4,500,000.0]]></cell><cell><![CDATA[2,033,334.0]]></cell><cell><![CDATA[2,466,666.0]]></cell><cell><![CDATA[4,500,000.0]]></cell><cell><![CDATA[2,033,334.0]]></cell><cell><![CDATA[2,466,666.0]]></cell><cell><![CDATA[4,500,000.0]]></cell><cell><![CDATA[2,033,334.0]]></cell><cell><![CDATA[2,466,666.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100.0]]></cell><cell><![CDATA[100.0]]></cell><cell><![CDATA[90 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[4,500,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[24]]></cell><cell><![CDATA[SI CAB PALEMBANG]]></cell><cell><![CDATA[1020040084
+                
+                 Penjelasan]]></cell><cell><![CDATA[LINGKUNGAN KERJA]]></cell><cell><![CDATA[KARYA ALAS MANDIRI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[24-11-2020]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[28,125,000.0]]></cell><cell><![CDATA[14,062,500.0]]></cell><cell><![CDATA[10,226,250.0]]></cell><cell><![CDATA[3,836,250.0]]></cell><cell><![CDATA[14,062,500.0]]></cell><cell><![CDATA[10,226,250.0]]></cell><cell><![CDATA[3,836,250.0]]></cell><cell><![CDATA[14,062,500.0]]></cell><cell><![CDATA[10,225,810.0]]></cell><cell><![CDATA[3,836,690.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100.0]]></cell><cell><![CDATA[100.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[2,500,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[25]]></cell><cell><![CDATA[SI CAB PALEMBANG]]></cell><cell><![CDATA[1020040091
+                
+                 Penjelasan]]></cell><cell><![CDATA[Sertifikat Laik Operasi (SLO) PLTD
+Abadi Sarolangun Hotel]]></cell><cell><![CDATA[CLARINA INTI PRAKARSA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[10-12-2020]]></cell><cell><![CDATA[11-01-2021]]></cell><cell><![CDATA[30,000,000.0]]></cell><cell><![CDATA[13,636,363.0]]></cell><cell><![CDATA[10,750,000.0]]></cell><cell><![CDATA[2,886,363.0]]></cell><cell><![CDATA[13,636,363.0]]></cell><cell><![CDATA[10,750,000.0]]></cell><cell><![CDATA[2,886,363.0]]></cell><cell><![CDATA[13,636,363.0]]></cell><cell><![CDATA[8,750,000.0]]></cell><cell><![CDATA[4,886,363.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[81.4]]></cell><cell><![CDATA[81.4]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[14,999,999.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[6,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[26]]></cell><cell><![CDATA[SI CAB PALEMBANG]]></cell><cell><![CDATA[1020040092
+                
+                 Penjelasan]]></cell><cell><![CDATA[SLO PLTD PT Dendy Marker Indah Lestari]]></cell><cell><![CDATA[DENDY MARKER INDAH LESTARI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[14-12-2020]]></cell><cell><![CDATA[15-02-2021]]></cell><cell><![CDATA[71,000,000.0]]></cell><cell><![CDATA[35,500,000.0]]></cell><cell><![CDATA[27,600,000.0]]></cell><cell><![CDATA[7,900,000.0]]></cell><cell><![CDATA[35,500,000.0]]></cell><cell><![CDATA[27,600,000.0]]></cell><cell><![CDATA[7,900,000.0]]></cell><cell><![CDATA[28,400,000.0]]></cell><cell><![CDATA[21,308,332.0]]></cell><cell><![CDATA[7,091,668.0]]></cell><cell><![CDATA[80]]></cell><cell><![CDATA[80]]></cell><cell><![CDATA[77.2]]></cell><cell><![CDATA[77.2]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[31,240,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[5,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[27]]></cell><cell><![CDATA[SI CAB PALEMBANG]]></cell><cell><![CDATA[1020040093
+                
+                 Penjelasan]]></cell><cell><![CDATA[Jasa Pengurusan (IO) Izin Operasi PT DMIL]]></cell><cell><![CDATA[DENDY MARKER INDAH LESTARI]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[11-01-2021]]></cell><cell><![CDATA[15-02-2021]]></cell><cell><![CDATA[17,500,000.0]]></cell><cell><![CDATA[7,954,546.0]]></cell><cell><![CDATA[6,195,455.0]]></cell><cell><![CDATA[1,759,091.0]]></cell><cell><![CDATA[7,954,546.0]]></cell><cell><![CDATA[6,195,455.0]]></cell><cell><![CDATA[1,759,091.0]]></cell><cell><![CDATA[7,954,545.0]]></cell><cell><![CDATA[6,195,455.0]]></cell><cell><![CDATA[1,759,090.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100.0]]></cell><cell><![CDATA[100.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[8,749,999.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[28]]></cell><cell><![CDATA[SI CAB PALEMBANG]]></cell><cell><![CDATA[1020040094
+                
+                 Penjelasan]]></cell><cell><![CDATA[Jasa Sertifikasi Laik Operasi Genset 9 Unit PT Puncak Jaya Lestari Bangka]]></cell><cell><![CDATA[PUNCAK JAYA LESTARI]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[10-12-2020]]></cell><cell><![CDATA[26-02-2021]]></cell><cell><![CDATA[126,000,000.0]]></cell><cell><![CDATA[63,000,000.0]]></cell><cell><![CDATA[48,957,419.0]]></cell><cell><![CDATA[14,042,581.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[48,957,419.0]]></cell><cell><![CDATA[-48,957,419.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[90 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[6,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[29]]></cell><cell><![CDATA[SI CAB PALEMBANG]]></cell><cell><![CDATA[1020040100
+                
+                 Penjelasan]]></cell><cell><![CDATA[Jasa Pengukuran Stock Opname Batubara PT Dizamatra Powerindo]]></cell><cell><![CDATA[DIZAMATRA POWERINDO]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[29-12-2020]]></cell><cell><![CDATA[29-01-2021]]></cell><cell><![CDATA[47,000,000.0]]></cell><cell><![CDATA[47,000,000.0]]></cell><cell><![CDATA[36,130,387.0]]></cell><cell><![CDATA[10,869,613.0]]></cell><cell><![CDATA[47,000,000.0]]></cell><cell><![CDATA[36,130,387.0]]></cell><cell><![CDATA[10,869,613.0]]></cell><cell><![CDATA[47,000,000.0]]></cell><cell><![CDATA[32,152,534.0]]></cell><cell><![CDATA[14,847,466.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[89.0]]></cell><cell><![CDATA[89.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[18,730,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[30]]></cell><cell><![CDATA[SI CAB PALEMBANG]]></cell><cell><![CDATA[1020040101
+                
+                 Penjelasan]]></cell><cell><![CDATA[Jasa Stock Opname Batubara PT Golden Great Borneo]]></cell><cell><![CDATA[GOLDEN GREAT BORNEO]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[29-12-2020]]></cell><cell><![CDATA[29-01-2021]]></cell><cell><![CDATA[52,000,000.0]]></cell><cell><![CDATA[52,000,000.0]]></cell><cell><![CDATA[35,762,484.0]]></cell><cell><![CDATA[16,237,516.0]]></cell><cell><![CDATA[52,000,000.0]]></cell><cell><![CDATA[35,762,484.0]]></cell><cell><![CDATA[16,237,516.0]]></cell><cell><![CDATA[52,000,000.0]]></cell><cell><![CDATA[33,213,666.0]]></cell><cell><![CDATA[18,786,334.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[92.9]]></cell><cell><![CDATA[92.9]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[4,500,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[31]]></cell><cell><![CDATA[SI CAB PALEMBANG]]></cell><cell><![CDATA[1020990073
+                
+                 Penjelasan]]></cell><cell><![CDATA[Jasa Pemantauan Biota Air Unit Pertambangan]]></cell><cell><![CDATA[BUKIT ASAM (PERSERO) TBK]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-01-2020]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[162,620,000.0]]></cell><cell><![CDATA[81,310,000.0]]></cell><cell><![CDATA[63,799,996.0]]></cell><cell><![CDATA[17,510,004.0]]></cell><cell><![CDATA[81,310,000.0]]></cell><cell><![CDATA[63,799,996.0]]></cell><cell><![CDATA[17,510,004.0]]></cell><cell><![CDATA[40,655,000.0]]></cell><cell><![CDATA[26,695,334.0]]></cell><cell><![CDATA[13,959,666.0]]></cell><cell><![CDATA[50]]></cell><cell><![CDATA[50]]></cell><cell><![CDATA[41.8]]></cell><cell><![CDATA[41.8]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[44,720,500.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[1,600,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[32]]></cell><cell><![CDATA[SI CAB PALEMBANG]]></cell><cell><![CDATA[1020990098
+                
+                 Penjelasan]]></cell><cell><![CDATA[NDT Inpection Ultrasonic testing , for wall thicknes Measurement and Dye penetrant Testing.]]></cell><cell><![CDATA[TANJUNGENIM LESTARI PULP AND PAPER]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[415,372,168.0]]></cell><cell><![CDATA[415,372,168.0]]></cell><cell><![CDATA[320,927,071.0]]></cell><cell><![CDATA[94,445,097.0]]></cell><cell><![CDATA[415,372,168.0]]></cell><cell><![CDATA[320,927,071.0]]></cell><cell><![CDATA[94,445,097.0]]></cell><cell><![CDATA[415,372,168.0]]></cell><cell><![CDATA[318,898,400.0]]></cell><cell><![CDATA[96,473,768.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[99.4]]></cell><cell><![CDATA[99.4]]></cell><cell><![CDATA[100 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[415,372,168.0]]></cell><cell><![CDATA[130,343,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[
+                ]]></cell></row></rows>

@@ -1,0 +1,985 @@
+<rows profile='color'><head><columns><column  rowspan="4"  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  rowspan="4"  width='120' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[Divisi Bisnis/Cabang]]></column><column  colspan="2"  width='120' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Project]]></column><column  width='230' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='190' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Klien]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[P (7/4)]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[L (9/6)]]></column><column  colspan="2"  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[Jangka Waktu]]></column><column  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Nilai Kontrak]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ RAB]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="3"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Realisasi]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Prosentase Progress 2021]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[  Piutang]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Proforma]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Uang Muka]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ ByDM]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ PPU dan ByDM Detail]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Chart Pendapatan]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Kode]]></column><column rowspan="3" ><![CDATA[Nama]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Awal]]></column><column rowspan="3" ><![CDATA[Akhir]]></column><column><![CDATA[]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Setahun]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Bulan Berjalan]]></column><column><![CDATA[Realisasi Beban Vs RAB Setahun]]></column><column><![CDATA[Realisasi Beban Vs RAB Bulan Berjalan]]></column><column><![CDATA[Progress Fisik]]></column><column><![CDATA[QAQC]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="3" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[s/d Bulan Mei]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[(1)]]></column><column><![CDATA[(2)]]></column><column><![CDATA[(3)]]></column><column><![CDATA[(4)]]></column><column><![CDATA[(5)]]></column><column><![CDATA[(6)]]></column><column><![CDATA[(7)]]></column><column><![CDATA[(8)]]></column><column><![CDATA[(9)]]></column><column><![CDATA[(7/1)]]></column><column><![CDATA[(7/4)]]></column><column><![CDATA[(8/2)]]></column><column><![CDATA[(8/5)]]></column><column><![CDATA[(15)]]></column><column><![CDATA[(16)]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='9' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[22,456,150,000.0]]></column>
+<column><![CDATA[5,865,180,000.0]]></column>
+<column><![CDATA[4,758,107,310.0]]></column>
+<column><![CDATA[1,107,072,690.0]]></column>
+<column><![CDATA[3,823,325,000.0]]></column>
+<column><![CDATA[3,891,780,120.0]]></column>
+<column><![CDATA[-68,455,120.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[6,547,539.0]]></column>
+<column><![CDATA[-6,547,539.0]]></column>
+<column colspan='6' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[133,829,000.0]]></column>
+<column><![CDATA[34,367,966.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721020022(MULTI YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21023_KOM1_PERTAMINA MOR VII_JASA INSPEKSI TANGKI TIMBUN OVERDUE DI LINGKUNGAN OPERASI S&D REGION VII]]></cell><cell><![CDATA[PERTAMINA (PERSERO) MOR VII]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[08-02-2021]]></cell><cell><![CDATA[07-06-2023]]></cell><cell><![CDATA[1,035,000,000.0]]></cell><cell><![CDATA[544,030,000.0]]></cell><cell><![CDATA[295,426,068.0]]></cell><cell><![CDATA[248,603,932.0]]></cell><cell><![CDATA[201,175,000.0]]></cell><cell><![CDATA[168,348,878.0]]></cell><cell><![CDATA[32,826,122.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[4,338,299.0]]></cell><cell><![CDATA[-4,338,299.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[1.5]]></cell><cell><![CDATA[2.6]]></cell><cell><![CDATA[65 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[93,979,000.0]]></cell><cell><![CDATA[17,448,219.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040010(SINGLE YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21008_KOM2_Panca Amara Utama_Proyek Jasa Pembuatan Laporan Pelaksanaan RKL/RPL di Banggai Amoniak Plan Tahun 2021 (Semester)]]></cell><cell><![CDATA[PANCA AMARA UTAMA]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[894,000,000.0]]></cell><cell><![CDATA[894,000,000.0]]></cell><cell><![CDATA[687,250,000.0]]></cell><cell><![CDATA[206,750,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[2,150,000.0]]></cell><cell><![CDATA[-2,150,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[1,500,000.0]]></cell><cell><![CDATA[-1,500,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.2]]></cell><cell><![CDATA[69.8]]></cell><cell><![CDATA[26 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040020(SINGLE YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21021_KOM1_KOMATSU MARKETING AND SUPPORT INDONESIA_VIBRATION ANALYZER]]></cell><cell><![CDATA[KOMATSU MARKETING AND SUPPORT INDONESIA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-02-2021]]></cell><cell><![CDATA[28-02-2021]]></cell><cell><![CDATA[7,550,000.0]]></cell><cell><![CDATA[7,550,000.0]]></cell><cell><![CDATA[3,830,302.0]]></cell><cell><![CDATA[3,719,698.0]]></cell><cell><![CDATA[7,550,000.0]]></cell><cell><![CDATA[3,830,302.0]]></cell><cell><![CDATA[3,719,698.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[150,000.0]]></cell><cell><![CDATA[-150,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[3.9]]></cell><cell><![CDATA[3.9]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040021(MULTI YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21004_KOM1_PT PERTAMINA EP ASSET 4_KONTRAK PAYUNG GEODETIC SURVEY, MARINE SURVEY DAN SOIL INVESTIGATION PT PERTAMINA EP ASSET 4]]></cell><cell><![CDATA[PERTAMINA EP ASSET 4]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[06-01-2021]]></cell><cell><![CDATA[03-03-2023]]></cell><cell><![CDATA[19,320,000,000.0]]></cell><cell><![CDATA[3,220,000,000.0]]></cell><cell><![CDATA[3,021,550,940.0]]></cell><cell><![CDATA[198,449,060.0]]></cell><cell><![CDATA[2,415,000,000.0]]></cell><cell><![CDATA[2,967,400,940.0]]></cell><cell><![CDATA[-552,400,940.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[240,000.0]]></cell><cell><![CDATA[-240,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[5 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[9,850,000.0]]></cell><cell><![CDATA[16,919,747.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040044(SINGLE YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21012_KOM2_PJB Muara Tawar_Loading dan Unloading BBM Menggunakan Trucking (22.800 KL)]]></cell><cell><![CDATA[PEMBANGKITAN JAWA BALI (PJB)]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[30-04-2021]]></cell><cell><![CDATA[1,199,600,000.0]]></cell><cell><![CDATA[1,199,600,000.0]]></cell><cell><![CDATA[750,050,000.0]]></cell><cell><![CDATA[449,550,000.0]]></cell><cell><![CDATA[1,199,600,000.0]]></cell><cell><![CDATA[750,050,000.0]]></cell><cell><![CDATA[449,550,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[319,240.0]]></cell><cell><![CDATA[-319,240.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[30,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row></rows><rows profile='color'><head><columns><column  rowspan="4"  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  rowspan="4"  width='120' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[Divisi Bisnis/Cabang]]></column><column  colspan="2"  width='120' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Project]]></column><column  width='230' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='190' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Klien]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[P (7/4)]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[L (9/6)]]></column><column  colspan="2"  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[Jangka Waktu]]></column><column  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Nilai Kontrak]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ RAB]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="3"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Realisasi]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Prosentase Progress 2021]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[  Piutang]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Proforma]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Uang Muka]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ ByDM]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ PPU dan ByDM Detail]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Chart Pendapatan]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Kode]]></column><column rowspan="3" ><![CDATA[Nama]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Awal]]></column><column rowspan="3" ><![CDATA[Akhir]]></column><column><![CDATA[]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Setahun]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Bulan Berjalan]]></column><column><![CDATA[Realisasi Beban Vs RAB Setahun]]></column><column><![CDATA[Realisasi Beban Vs RAB Bulan Berjalan]]></column><column><![CDATA[Progress Fisik]]></column><column><![CDATA[QAQC]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="3" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[s/d Bulan Mei]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[(1)]]></column><column><![CDATA[(2)]]></column><column><![CDATA[(3)]]></column><column><![CDATA[(4)]]></column><column><![CDATA[(5)]]></column><column><![CDATA[(6)]]></column><column><![CDATA[(7)]]></column><column><![CDATA[(8)]]></column><column><![CDATA[(9)]]></column><column><![CDATA[(7/1)]]></column><column><![CDATA[(7/4)]]></column><column><![CDATA[(8/2)]]></column><column><![CDATA[(8/5)]]></column><column><![CDATA[(15)]]></column><column><![CDATA[(16)]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='9' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[22,456,150,000.0]]></column>
+<column><![CDATA[5,865,180,000.0]]></column>
+<column><![CDATA[4,758,107,310.0]]></column>
+<column><![CDATA[1,107,072,690.0]]></column>
+<column><![CDATA[3,823,325,000.0]]></column>
+<column><![CDATA[3,891,780,120.0]]></column>
+<column><![CDATA[-68,455,120.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[6,547,539.0]]></column>
+<column><![CDATA[-6,547,539.0]]></column>
+<column colspan='6' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[133,829,000.0]]></column>
+<column><![CDATA[34,367,966.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721020022(MULTI YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21023_KOM1_PERTAMINA MOR VII_JASA INSPEKSI TANGKI TIMBUN OVERDUE DI LINGKUNGAN OPERASI S&D REGION VII]]></cell><cell><![CDATA[PERTAMINA (PERSERO) MOR VII]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[08-02-2021]]></cell><cell><![CDATA[07-06-2023]]></cell><cell><![CDATA[1,035,000,000.0]]></cell><cell><![CDATA[544,030,000.0]]></cell><cell><![CDATA[295,426,068.0]]></cell><cell><![CDATA[248,603,932.0]]></cell><cell><![CDATA[201,175,000.0]]></cell><cell><![CDATA[168,348,878.0]]></cell><cell><![CDATA[32,826,122.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[4,338,299.0]]></cell><cell><![CDATA[-4,338,299.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[1.5]]></cell><cell><![CDATA[2.6]]></cell><cell><![CDATA[65 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[93,979,000.0]]></cell><cell><![CDATA[17,448,219.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040010(SINGLE YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21008_KOM2_Panca Amara Utama_Proyek Jasa Pembuatan Laporan Pelaksanaan RKL/RPL di Banggai Amoniak Plan Tahun 2021 (Semester)]]></cell><cell><![CDATA[PANCA AMARA UTAMA]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[894,000,000.0]]></cell><cell><![CDATA[894,000,000.0]]></cell><cell><![CDATA[687,250,000.0]]></cell><cell><![CDATA[206,750,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[2,150,000.0]]></cell><cell><![CDATA[-2,150,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[1,500,000.0]]></cell><cell><![CDATA[-1,500,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.2]]></cell><cell><![CDATA[69.8]]></cell><cell><![CDATA[26 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040020(SINGLE YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21021_KOM1_KOMATSU MARKETING AND SUPPORT INDONESIA_VIBRATION ANALYZER]]></cell><cell><![CDATA[KOMATSU MARKETING AND SUPPORT INDONESIA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-02-2021]]></cell><cell><![CDATA[28-02-2021]]></cell><cell><![CDATA[7,550,000.0]]></cell><cell><![CDATA[7,550,000.0]]></cell><cell><![CDATA[3,830,302.0]]></cell><cell><![CDATA[3,719,698.0]]></cell><cell><![CDATA[7,550,000.0]]></cell><cell><![CDATA[3,830,302.0]]></cell><cell><![CDATA[3,719,698.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[150,000.0]]></cell><cell><![CDATA[-150,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[3.9]]></cell><cell><![CDATA[3.9]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040021(MULTI YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21004_KOM1_PT PERTAMINA EP ASSET 4_KONTRAK PAYUNG GEODETIC SURVEY, MARINE SURVEY DAN SOIL INVESTIGATION PT PERTAMINA EP ASSET 4]]></cell><cell><![CDATA[PERTAMINA EP ASSET 4]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[06-01-2021]]></cell><cell><![CDATA[03-03-2023]]></cell><cell><![CDATA[19,320,000,000.0]]></cell><cell><![CDATA[3,220,000,000.0]]></cell><cell><![CDATA[3,021,550,940.0]]></cell><cell><![CDATA[198,449,060.0]]></cell><cell><![CDATA[2,415,000,000.0]]></cell><cell><![CDATA[2,967,400,940.0]]></cell><cell><![CDATA[-552,400,940.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[240,000.0]]></cell><cell><![CDATA[-240,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[5 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[9,850,000.0]]></cell><cell><![CDATA[16,919,747.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040044(SINGLE YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21012_KOM2_PJB Muara Tawar_Loading dan Unloading BBM Menggunakan Trucking (22.800 KL)]]></cell><cell><![CDATA[PEMBANGKITAN JAWA BALI (PJB)]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[30-04-2021]]></cell><cell><![CDATA[1,199,600,000.0]]></cell><cell><![CDATA[1,199,600,000.0]]></cell><cell><![CDATA[750,050,000.0]]></cell><cell><![CDATA[449,550,000.0]]></cell><cell><![CDATA[1,199,600,000.0]]></cell><cell><![CDATA[750,050,000.0]]></cell><cell><![CDATA[449,550,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[319,240.0]]></cell><cell><![CDATA[-319,240.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[30,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row></rows><rows profile='color'><head><columns><column  rowspan="4"  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  rowspan="4"  width='120' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[Divisi Bisnis/Cabang]]></column><column  colspan="2"  width='120' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Project]]></column><column  width='230' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='190' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Klien]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[P (7/4)]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[L (9/6)]]></column><column  colspan="2"  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[Jangka Waktu]]></column><column  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Nilai Kontrak]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ RAB]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="3"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Realisasi]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Prosentase Progress 2021]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[  Piutang]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Proforma]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Uang Muka]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ ByDM]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ PPU dan ByDM Detail]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Chart Pendapatan]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Kode]]></column><column rowspan="3" ><![CDATA[Nama]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Awal]]></column><column rowspan="3" ><![CDATA[Akhir]]></column><column><![CDATA[]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Setahun]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Bulan Berjalan]]></column><column><![CDATA[Realisasi Beban Vs RAB Setahun]]></column><column><![CDATA[Realisasi Beban Vs RAB Bulan Berjalan]]></column><column><![CDATA[Progress Fisik]]></column><column><![CDATA[QAQC]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="3" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[s/d Bulan Mei]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[(1)]]></column><column><![CDATA[(2)]]></column><column><![CDATA[(3)]]></column><column><![CDATA[(4)]]></column><column><![CDATA[(5)]]></column><column><![CDATA[(6)]]></column><column><![CDATA[(7)]]></column><column><![CDATA[(8)]]></column><column><![CDATA[(9)]]></column><column><![CDATA[(7/1)]]></column><column><![CDATA[(7/4)]]></column><column><![CDATA[(8/2)]]></column><column><![CDATA[(8/5)]]></column><column><![CDATA[(15)]]></column><column><![CDATA[(16)]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='9' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[22,456,150,000.0]]></column>
+<column><![CDATA[5,865,180,000.0]]></column>
+<column><![CDATA[4,758,107,310.0]]></column>
+<column><![CDATA[1,107,072,690.0]]></column>
+<column><![CDATA[3,823,325,000.0]]></column>
+<column><![CDATA[3,891,780,120.0]]></column>
+<column><![CDATA[-68,455,120.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[6,547,539.0]]></column>
+<column><![CDATA[-6,547,539.0]]></column>
+<column colspan='6' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[133,829,000.0]]></column>
+<column><![CDATA[34,367,966.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721020022(MULTI YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21023_KOM1_PERTAMINA MOR VII_JASA INSPEKSI TANGKI TIMBUN OVERDUE DI LINGKUNGAN OPERASI S&D REGION VII]]></cell><cell><![CDATA[PERTAMINA (PERSERO) MOR VII]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[08-02-2021]]></cell><cell><![CDATA[07-06-2023]]></cell><cell><![CDATA[1,035,000,000.0]]></cell><cell><![CDATA[544,030,000.0]]></cell><cell><![CDATA[295,426,068.0]]></cell><cell><![CDATA[248,603,932.0]]></cell><cell><![CDATA[201,175,000.0]]></cell><cell><![CDATA[168,348,878.0]]></cell><cell><![CDATA[32,826,122.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[4,338,299.0]]></cell><cell><![CDATA[-4,338,299.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[1.5]]></cell><cell><![CDATA[2.6]]></cell><cell><![CDATA[65 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[93,979,000.0]]></cell><cell><![CDATA[17,448,219.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040010(SINGLE YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21008_KOM2_Panca Amara Utama_Proyek Jasa Pembuatan Laporan Pelaksanaan RKL/RPL di Banggai Amoniak Plan Tahun 2021 (Semester)]]></cell><cell><![CDATA[PANCA AMARA UTAMA]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[894,000,000.0]]></cell><cell><![CDATA[894,000,000.0]]></cell><cell><![CDATA[687,250,000.0]]></cell><cell><![CDATA[206,750,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[2,150,000.0]]></cell><cell><![CDATA[-2,150,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[1,500,000.0]]></cell><cell><![CDATA[-1,500,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.2]]></cell><cell><![CDATA[69.8]]></cell><cell><![CDATA[26 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040020(SINGLE YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21021_KOM1_KOMATSU MARKETING AND SUPPORT INDONESIA_VIBRATION ANALYZER]]></cell><cell><![CDATA[KOMATSU MARKETING AND SUPPORT INDONESIA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-02-2021]]></cell><cell><![CDATA[28-02-2021]]></cell><cell><![CDATA[7,550,000.0]]></cell><cell><![CDATA[7,550,000.0]]></cell><cell><![CDATA[3,830,302.0]]></cell><cell><![CDATA[3,719,698.0]]></cell><cell><![CDATA[7,550,000.0]]></cell><cell><![CDATA[3,830,302.0]]></cell><cell><![CDATA[3,719,698.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[150,000.0]]></cell><cell><![CDATA[-150,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[3.9]]></cell><cell><![CDATA[3.9]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040021(MULTI YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21004_KOM1_PT PERTAMINA EP ASSET 4_KONTRAK PAYUNG GEODETIC SURVEY, MARINE SURVEY DAN SOIL INVESTIGATION PT PERTAMINA EP ASSET 4]]></cell><cell><![CDATA[PERTAMINA EP ASSET 4]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[06-01-2021]]></cell><cell><![CDATA[03-03-2023]]></cell><cell><![CDATA[19,320,000,000.0]]></cell><cell><![CDATA[3,220,000,000.0]]></cell><cell><![CDATA[3,021,550,940.0]]></cell><cell><![CDATA[198,449,060.0]]></cell><cell><![CDATA[2,415,000,000.0]]></cell><cell><![CDATA[2,967,400,940.0]]></cell><cell><![CDATA[-552,400,940.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[240,000.0]]></cell><cell><![CDATA[-240,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[5 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[9,850,000.0]]></cell><cell><![CDATA[16,919,747.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040044(SINGLE YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21012_KOM2_PJB Muara Tawar_Loading dan Unloading BBM Menggunakan Trucking (22.800 KL)]]></cell><cell><![CDATA[PEMBANGKITAN JAWA BALI (PJB)]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[30-04-2021]]></cell><cell><![CDATA[1,199,600,000.0]]></cell><cell><![CDATA[1,199,600,000.0]]></cell><cell><![CDATA[750,050,000.0]]></cell><cell><![CDATA[449,550,000.0]]></cell><cell><![CDATA[1,199,600,000.0]]></cell><cell><![CDATA[750,050,000.0]]></cell><cell><![CDATA[449,550,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[319,240.0]]></cell><cell><![CDATA[-319,240.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[30,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row></rows><rows profile='color'><head><columns><column  rowspan="4"  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  rowspan="4"  width='120' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[Divisi Bisnis/Cabang]]></column><column  colspan="2"  width='120' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Project]]></column><column  width='230' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='190' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Klien]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[P (7/4)]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[L (9/6)]]></column><column  colspan="2"  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[Jangka Waktu]]></column><column  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Nilai Kontrak]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ RAB]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="3"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Realisasi]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Prosentase Progress 2021]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[  Piutang]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Proforma]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Uang Muka]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ ByDM]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ PPU dan ByDM Detail]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Chart Pendapatan]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Kode]]></column><column rowspan="3" ><![CDATA[Nama]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Awal]]></column><column rowspan="3" ><![CDATA[Akhir]]></column><column><![CDATA[]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Setahun]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Bulan Berjalan]]></column><column><![CDATA[Realisasi Beban Vs RAB Setahun]]></column><column><![CDATA[Realisasi Beban Vs RAB Bulan Berjalan]]></column><column><![CDATA[Progress Fisik]]></column><column><![CDATA[QAQC]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="3" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[s/d Bulan Mei]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[(1)]]></column><column><![CDATA[(2)]]></column><column><![CDATA[(3)]]></column><column><![CDATA[(4)]]></column><column><![CDATA[(5)]]></column><column><![CDATA[(6)]]></column><column><![CDATA[(7)]]></column><column><![CDATA[(8)]]></column><column><![CDATA[(9)]]></column><column><![CDATA[(7/1)]]></column><column><![CDATA[(7/4)]]></column><column><![CDATA[(8/2)]]></column><column><![CDATA[(8/5)]]></column><column><![CDATA[(15)]]></column><column><![CDATA[(16)]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='9' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[22,456,150,000.0]]></column>
+<column><![CDATA[5,865,180,000.0]]></column>
+<column><![CDATA[4,758,107,310.0]]></column>
+<column><![CDATA[1,107,072,690.0]]></column>
+<column><![CDATA[3,823,325,000.0]]></column>
+<column><![CDATA[3,891,780,120.0]]></column>
+<column><![CDATA[-68,455,120.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[6,547,539.0]]></column>
+<column><![CDATA[-6,547,539.0]]></column>
+<column colspan='6' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[133,829,000.0]]></column>
+<column><![CDATA[34,367,966.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721020022(MULTI YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21023_KOM1_PERTAMINA MOR VII_JASA INSPEKSI TANGKI TIMBUN OVERDUE DI LINGKUNGAN OPERASI S&D REGION VII]]></cell><cell><![CDATA[PERTAMINA (PERSERO) MOR VII]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[08-02-2021]]></cell><cell><![CDATA[07-06-2023]]></cell><cell><![CDATA[1,035,000,000.0]]></cell><cell><![CDATA[544,030,000.0]]></cell><cell><![CDATA[295,426,068.0]]></cell><cell><![CDATA[248,603,932.0]]></cell><cell><![CDATA[201,175,000.0]]></cell><cell><![CDATA[168,348,878.0]]></cell><cell><![CDATA[32,826,122.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[4,338,299.0]]></cell><cell><![CDATA[-4,338,299.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[1.5]]></cell><cell><![CDATA[2.6]]></cell><cell><![CDATA[65 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[93,979,000.0]]></cell><cell><![CDATA[17,448,219.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040010(SINGLE YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21008_KOM2_Panca Amara Utama_Proyek Jasa Pembuatan Laporan Pelaksanaan RKL/RPL di Banggai Amoniak Plan Tahun 2021 (Semester)]]></cell><cell><![CDATA[PANCA AMARA UTAMA]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[894,000,000.0]]></cell><cell><![CDATA[894,000,000.0]]></cell><cell><![CDATA[687,250,000.0]]></cell><cell><![CDATA[206,750,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[2,150,000.0]]></cell><cell><![CDATA[-2,150,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[1,500,000.0]]></cell><cell><![CDATA[-1,500,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.2]]></cell><cell><![CDATA[69.8]]></cell><cell><![CDATA[26 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040020(SINGLE YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21021_KOM1_KOMATSU MARKETING AND SUPPORT INDONESIA_VIBRATION ANALYZER]]></cell><cell><![CDATA[KOMATSU MARKETING AND SUPPORT INDONESIA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-02-2021]]></cell><cell><![CDATA[28-02-2021]]></cell><cell><![CDATA[7,550,000.0]]></cell><cell><![CDATA[7,550,000.0]]></cell><cell><![CDATA[3,830,302.0]]></cell><cell><![CDATA[3,719,698.0]]></cell><cell><![CDATA[7,550,000.0]]></cell><cell><![CDATA[3,830,302.0]]></cell><cell><![CDATA[3,719,698.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[150,000.0]]></cell><cell><![CDATA[-150,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[3.9]]></cell><cell><![CDATA[3.9]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040021(MULTI YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21004_KOM1_PT PERTAMINA EP ASSET 4_KONTRAK PAYUNG GEODETIC SURVEY, MARINE SURVEY DAN SOIL INVESTIGATION PT PERTAMINA EP ASSET 4]]></cell><cell><![CDATA[PERTAMINA EP ASSET 4]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[06-01-2021]]></cell><cell><![CDATA[03-03-2023]]></cell><cell><![CDATA[19,320,000,000.0]]></cell><cell><![CDATA[3,220,000,000.0]]></cell><cell><![CDATA[3,021,550,940.0]]></cell><cell><![CDATA[198,449,060.0]]></cell><cell><![CDATA[2,415,000,000.0]]></cell><cell><![CDATA[2,967,400,940.0]]></cell><cell><![CDATA[-552,400,940.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[240,000.0]]></cell><cell><![CDATA[-240,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[5 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[9,850,000.0]]></cell><cell><![CDATA[16,919,747.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040044(SINGLE YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21012_KOM2_PJB Muara Tawar_Loading dan Unloading BBM Menggunakan Trucking (22.800 KL)]]></cell><cell><![CDATA[PEMBANGKITAN JAWA BALI (PJB)]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[30-04-2021]]></cell><cell><![CDATA[1,199,600,000.0]]></cell><cell><![CDATA[1,199,600,000.0]]></cell><cell><![CDATA[750,050,000.0]]></cell><cell><![CDATA[449,550,000.0]]></cell><cell><![CDATA[1,199,600,000.0]]></cell><cell><![CDATA[750,050,000.0]]></cell><cell><![CDATA[449,550,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[319,240.0]]></cell><cell><![CDATA[-319,240.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[30,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row></rows><rows profile='color'><head><columns><column  rowspan="4"  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  rowspan="4"  width='120' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[Divisi Bisnis/Cabang]]></column><column  colspan="2"  width='120' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Project]]></column><column  width='230' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='190' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Klien]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[P (7/4)]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[L (9/6)]]></column><column  colspan="2"  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[Jangka Waktu]]></column><column  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Nilai Kontrak]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ RAB]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="3"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Realisasi]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Prosentase Progress 2021]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[  Piutang]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Proforma]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Uang Muka]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ ByDM]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ PPU dan ByDM Detail]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Chart Pendapatan]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Kode]]></column><column rowspan="3" ><![CDATA[Nama]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Awal]]></column><column rowspan="3" ><![CDATA[Akhir]]></column><column><![CDATA[]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Setahun]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Bulan Berjalan]]></column><column><![CDATA[Realisasi Beban Vs RAB Setahun]]></column><column><![CDATA[Realisasi Beban Vs RAB Bulan Berjalan]]></column><column><![CDATA[Progress Fisik]]></column><column><![CDATA[QAQC]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="3" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[s/d Bulan Mei]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[(1)]]></column><column><![CDATA[(2)]]></column><column><![CDATA[(3)]]></column><column><![CDATA[(4)]]></column><column><![CDATA[(5)]]></column><column><![CDATA[(6)]]></column><column><![CDATA[(7)]]></column><column><![CDATA[(8)]]></column><column><![CDATA[(9)]]></column><column><![CDATA[(7/1)]]></column><column><![CDATA[(7/4)]]></column><column><![CDATA[(8/2)]]></column><column><![CDATA[(8/5)]]></column><column><![CDATA[(15)]]></column><column><![CDATA[(16)]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='9' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[22,456,150,000.0]]></column>
+<column><![CDATA[5,865,180,000.0]]></column>
+<column><![CDATA[4,758,107,310.0]]></column>
+<column><![CDATA[1,107,072,690.0]]></column>
+<column><![CDATA[3,823,325,000.0]]></column>
+<column><![CDATA[3,891,780,120.0]]></column>
+<column><![CDATA[-68,455,120.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[6,547,539.0]]></column>
+<column><![CDATA[-6,547,539.0]]></column>
+<column colspan='6' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[133,829,000.0]]></column>
+<column><![CDATA[34,367,966.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721020022(MULTI YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21023_KOM1_PERTAMINA MOR VII_JASA INSPEKSI TANGKI TIMBUN OVERDUE DI LINGKUNGAN OPERASI S&D REGION VII]]></cell><cell><![CDATA[PERTAMINA (PERSERO) MOR VII]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[08-02-2021]]></cell><cell><![CDATA[07-06-2023]]></cell><cell><![CDATA[1,035,000,000.0]]></cell><cell><![CDATA[544,030,000.0]]></cell><cell><![CDATA[295,426,068.0]]></cell><cell><![CDATA[248,603,932.0]]></cell><cell><![CDATA[201,175,000.0]]></cell><cell><![CDATA[168,348,878.0]]></cell><cell><![CDATA[32,826,122.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[4,338,299.0]]></cell><cell><![CDATA[-4,338,299.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[1.5]]></cell><cell><![CDATA[2.6]]></cell><cell><![CDATA[65 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[93,979,000.0]]></cell><cell><![CDATA[17,448,219.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040010(SINGLE YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21008_KOM2_Panca Amara Utama_Proyek Jasa Pembuatan Laporan Pelaksanaan RKL/RPL di Banggai Amoniak Plan Tahun 2021 (Semester)]]></cell><cell><![CDATA[PANCA AMARA UTAMA]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[894,000,000.0]]></cell><cell><![CDATA[894,000,000.0]]></cell><cell><![CDATA[687,250,000.0]]></cell><cell><![CDATA[206,750,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[2,150,000.0]]></cell><cell><![CDATA[-2,150,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[1,500,000.0]]></cell><cell><![CDATA[-1,500,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.2]]></cell><cell><![CDATA[69.8]]></cell><cell><![CDATA[26 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040020(SINGLE YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21021_KOM1_KOMATSU MARKETING AND SUPPORT INDONESIA_VIBRATION ANALYZER]]></cell><cell><![CDATA[KOMATSU MARKETING AND SUPPORT INDONESIA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-02-2021]]></cell><cell><![CDATA[28-02-2021]]></cell><cell><![CDATA[7,550,000.0]]></cell><cell><![CDATA[7,550,000.0]]></cell><cell><![CDATA[3,830,302.0]]></cell><cell><![CDATA[3,719,698.0]]></cell><cell><![CDATA[7,550,000.0]]></cell><cell><![CDATA[3,830,302.0]]></cell><cell><![CDATA[3,719,698.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[150,000.0]]></cell><cell><![CDATA[-150,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[3.9]]></cell><cell><![CDATA[3.9]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040021(MULTI YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21004_KOM1_PT PERTAMINA EP ASSET 4_KONTRAK PAYUNG GEODETIC SURVEY, MARINE SURVEY DAN SOIL INVESTIGATION PT PERTAMINA EP ASSET 4]]></cell><cell><![CDATA[PERTAMINA EP ASSET 4]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[06-01-2021]]></cell><cell><![CDATA[03-03-2023]]></cell><cell><![CDATA[19,320,000,000.0]]></cell><cell><![CDATA[3,220,000,000.0]]></cell><cell><![CDATA[3,021,550,940.0]]></cell><cell><![CDATA[198,449,060.0]]></cell><cell><![CDATA[2,415,000,000.0]]></cell><cell><![CDATA[2,967,400,940.0]]></cell><cell><![CDATA[-552,400,940.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[240,000.0]]></cell><cell><![CDATA[-240,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[5 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[9,850,000.0]]></cell><cell><![CDATA[16,919,747.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040044(SINGLE YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21012_KOM2_PJB Muara Tawar_Loading dan Unloading BBM Menggunakan Trucking (22.800 KL)]]></cell><cell><![CDATA[PEMBANGKITAN JAWA BALI (PJB)]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[30-04-2021]]></cell><cell><![CDATA[1,199,600,000.0]]></cell><cell><![CDATA[1,199,600,000.0]]></cell><cell><![CDATA[750,050,000.0]]></cell><cell><![CDATA[449,550,000.0]]></cell><cell><![CDATA[1,199,600,000.0]]></cell><cell><![CDATA[750,050,000.0]]></cell><cell><![CDATA[449,550,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[319,240.0]]></cell><cell><![CDATA[-319,240.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[30,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row></rows><rows profile='color'><head><columns><column  rowspan="4"  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  rowspan="4"  width='120' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[Divisi Bisnis/Cabang]]></column><column  colspan="2"  width='120' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Project]]></column><column  width='230' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='190' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Klien]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[P (7/4)]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[L (9/6)]]></column><column  colspan="2"  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[Jangka Waktu]]></column><column  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Nilai Kontrak]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ RAB]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="3"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Realisasi]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Prosentase Progress 2021]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[  Piutang]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Proforma]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Uang Muka]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ ByDM]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ PPU dan ByDM Detail]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Chart Pendapatan]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Kode]]></column><column rowspan="3" ><![CDATA[Nama]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Awal]]></column><column rowspan="3" ><![CDATA[Akhir]]></column><column><![CDATA[]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Setahun]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Bulan Berjalan]]></column><column><![CDATA[Realisasi Beban Vs RAB Setahun]]></column><column><![CDATA[Realisasi Beban Vs RAB Bulan Berjalan]]></column><column><![CDATA[Progress Fisik]]></column><column><![CDATA[QAQC]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="3" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[s/d Bulan Mei]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[(1)]]></column><column><![CDATA[(2)]]></column><column><![CDATA[(3)]]></column><column><![CDATA[(4)]]></column><column><![CDATA[(5)]]></column><column><![CDATA[(6)]]></column><column><![CDATA[(7)]]></column><column><![CDATA[(8)]]></column><column><![CDATA[(9)]]></column><column><![CDATA[(7/1)]]></column><column><![CDATA[(7/4)]]></column><column><![CDATA[(8/2)]]></column><column><![CDATA[(8/5)]]></column><column><![CDATA[(15)]]></column><column><![CDATA[(16)]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='9' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[22,456,150,000.0]]></column>
+<column><![CDATA[5,865,180,000.0]]></column>
+<column><![CDATA[4,758,107,310.0]]></column>
+<column><![CDATA[1,107,072,690.0]]></column>
+<column><![CDATA[3,823,325,000.0]]></column>
+<column><![CDATA[3,891,780,120.0]]></column>
+<column><![CDATA[-68,455,120.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[6,547,539.0]]></column>
+<column><![CDATA[-6,547,539.0]]></column>
+<column colspan='6' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[133,829,000.0]]></column>
+<column><![CDATA[34,367,966.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721020022(MULTI YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21023_KOM1_PERTAMINA MOR VII_JASA INSPEKSI TANGKI TIMBUN OVERDUE DI LINGKUNGAN OPERASI S&D REGION VII]]></cell><cell><![CDATA[PERTAMINA (PERSERO) MOR VII]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[08-02-2021]]></cell><cell><![CDATA[07-06-2023]]></cell><cell><![CDATA[1,035,000,000.0]]></cell><cell><![CDATA[544,030,000.0]]></cell><cell><![CDATA[295,426,068.0]]></cell><cell><![CDATA[248,603,932.0]]></cell><cell><![CDATA[201,175,000.0]]></cell><cell><![CDATA[168,348,878.0]]></cell><cell><![CDATA[32,826,122.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[4,338,299.0]]></cell><cell><![CDATA[-4,338,299.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[1.5]]></cell><cell><![CDATA[2.6]]></cell><cell><![CDATA[65 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[93,979,000.0]]></cell><cell><![CDATA[17,448,219.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040010(SINGLE YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21008_KOM2_Panca Amara Utama_Proyek Jasa Pembuatan Laporan Pelaksanaan RKL/RPL di Banggai Amoniak Plan Tahun 2021 (Semester)]]></cell><cell><![CDATA[PANCA AMARA UTAMA]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[894,000,000.0]]></cell><cell><![CDATA[894,000,000.0]]></cell><cell><![CDATA[687,250,000.0]]></cell><cell><![CDATA[206,750,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[2,150,000.0]]></cell><cell><![CDATA[-2,150,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[1,500,000.0]]></cell><cell><![CDATA[-1,500,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.2]]></cell><cell><![CDATA[69.8]]></cell><cell><![CDATA[26 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040020(SINGLE YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21021_KOM1_KOMATSU MARKETING AND SUPPORT INDONESIA_VIBRATION ANALYZER]]></cell><cell><![CDATA[KOMATSU MARKETING AND SUPPORT INDONESIA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-02-2021]]></cell><cell><![CDATA[28-02-2021]]></cell><cell><![CDATA[7,550,000.0]]></cell><cell><![CDATA[7,550,000.0]]></cell><cell><![CDATA[3,830,302.0]]></cell><cell><![CDATA[3,719,698.0]]></cell><cell><![CDATA[7,550,000.0]]></cell><cell><![CDATA[3,830,302.0]]></cell><cell><![CDATA[3,719,698.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[150,000.0]]></cell><cell><![CDATA[-150,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[3.9]]></cell><cell><![CDATA[3.9]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040021(MULTI YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21004_KOM1_PT PERTAMINA EP ASSET 4_KONTRAK PAYUNG GEODETIC SURVEY, MARINE SURVEY DAN SOIL INVESTIGATION PT PERTAMINA EP ASSET 4]]></cell><cell><![CDATA[PERTAMINA EP ASSET 4]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[06-01-2021]]></cell><cell><![CDATA[03-03-2023]]></cell><cell><![CDATA[19,320,000,000.0]]></cell><cell><![CDATA[3,220,000,000.0]]></cell><cell><![CDATA[3,021,550,940.0]]></cell><cell><![CDATA[198,449,060.0]]></cell><cell><![CDATA[2,415,000,000.0]]></cell><cell><![CDATA[2,967,400,940.0]]></cell><cell><![CDATA[-552,400,940.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[240,000.0]]></cell><cell><![CDATA[-240,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[5 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[9,850,000.0]]></cell><cell><![CDATA[16,919,747.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040044(SINGLE YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21012_KOM2_PJB Muara Tawar_Loading dan Unloading BBM Menggunakan Trucking (22.800 KL)]]></cell><cell><![CDATA[PEMBANGKITAN JAWA BALI (PJB)]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[30-04-2021]]></cell><cell><![CDATA[1,199,600,000.0]]></cell><cell><![CDATA[1,199,600,000.0]]></cell><cell><![CDATA[750,050,000.0]]></cell><cell><![CDATA[449,550,000.0]]></cell><cell><![CDATA[1,199,600,000.0]]></cell><cell><![CDATA[750,050,000.0]]></cell><cell><![CDATA[449,550,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[319,240.0]]></cell><cell><![CDATA[-319,240.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[30,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row></rows><rows profile='color'><head><columns><column  rowspan="4"  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  rowspan="4"  width='120' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[Divisi Bisnis/Cabang]]></column><column  colspan="2"  width='120' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Project]]></column><column  width='230' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='190' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Klien]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[P (7/4)]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[L (9/6)]]></column><column  colspan="2"  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[Jangka Waktu]]></column><column  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Nilai Kontrak]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ RAB]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="3"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Realisasi]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Prosentase Progress 2021]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[  Piutang]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Proforma]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Uang Muka]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ ByDM]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ PPU dan ByDM Detail]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Chart Pendapatan]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Kode]]></column><column rowspan="3" ><![CDATA[Nama]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Awal]]></column><column rowspan="3" ><![CDATA[Akhir]]></column><column><![CDATA[]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Setahun]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Bulan Berjalan]]></column><column><![CDATA[Realisasi Beban Vs RAB Setahun]]></column><column><![CDATA[Realisasi Beban Vs RAB Bulan Berjalan]]></column><column><![CDATA[Progress Fisik]]></column><column><![CDATA[QAQC]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="3" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[s/d Bulan Mei]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[(1)]]></column><column><![CDATA[(2)]]></column><column><![CDATA[(3)]]></column><column><![CDATA[(4)]]></column><column><![CDATA[(5)]]></column><column><![CDATA[(6)]]></column><column><![CDATA[(7)]]></column><column><![CDATA[(8)]]></column><column><![CDATA[(9)]]></column><column><![CDATA[(7/1)]]></column><column><![CDATA[(7/4)]]></column><column><![CDATA[(8/2)]]></column><column><![CDATA[(8/5)]]></column><column><![CDATA[(15)]]></column><column><![CDATA[(16)]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='9' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[22,456,150,000.0]]></column>
+<column><![CDATA[5,865,180,000.0]]></column>
+<column><![CDATA[4,758,107,310.0]]></column>
+<column><![CDATA[1,107,072,690.0]]></column>
+<column><![CDATA[3,823,325,000.0]]></column>
+<column><![CDATA[3,891,780,120.0]]></column>
+<column><![CDATA[-68,455,120.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[6,547,539.0]]></column>
+<column><![CDATA[-6,547,539.0]]></column>
+<column colspan='6' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[133,829,000.0]]></column>
+<column><![CDATA[34,367,966.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721020022(MULTI YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21023_KOM1_PERTAMINA MOR VII_JASA INSPEKSI TANGKI TIMBUN OVERDUE DI LINGKUNGAN OPERASI S&D REGION VII]]></cell><cell><![CDATA[PERTAMINA (PERSERO) MOR VII]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[08-02-2021]]></cell><cell><![CDATA[07-06-2023]]></cell><cell><![CDATA[1,035,000,000.0]]></cell><cell><![CDATA[544,030,000.0]]></cell><cell><![CDATA[295,426,068.0]]></cell><cell><![CDATA[248,603,932.0]]></cell><cell><![CDATA[201,175,000.0]]></cell><cell><![CDATA[168,348,878.0]]></cell><cell><![CDATA[32,826,122.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[4,338,299.0]]></cell><cell><![CDATA[-4,338,299.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[1.5]]></cell><cell><![CDATA[2.6]]></cell><cell><![CDATA[65 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[93,979,000.0]]></cell><cell><![CDATA[17,448,219.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040010(SINGLE YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21008_KOM2_Panca Amara Utama_Proyek Jasa Pembuatan Laporan Pelaksanaan RKL/RPL di Banggai Amoniak Plan Tahun 2021 (Semester)]]></cell><cell><![CDATA[PANCA AMARA UTAMA]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[894,000,000.0]]></cell><cell><![CDATA[894,000,000.0]]></cell><cell><![CDATA[687,250,000.0]]></cell><cell><![CDATA[206,750,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[2,150,000.0]]></cell><cell><![CDATA[-2,150,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[1,500,000.0]]></cell><cell><![CDATA[-1,500,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.2]]></cell><cell><![CDATA[69.8]]></cell><cell><![CDATA[26 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040020(SINGLE YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21021_KOM1_KOMATSU MARKETING AND SUPPORT INDONESIA_VIBRATION ANALYZER]]></cell><cell><![CDATA[KOMATSU MARKETING AND SUPPORT INDONESIA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-02-2021]]></cell><cell><![CDATA[28-02-2021]]></cell><cell><![CDATA[7,550,000.0]]></cell><cell><![CDATA[7,550,000.0]]></cell><cell><![CDATA[3,830,302.0]]></cell><cell><![CDATA[3,719,698.0]]></cell><cell><![CDATA[7,550,000.0]]></cell><cell><![CDATA[3,830,302.0]]></cell><cell><![CDATA[3,719,698.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[150,000.0]]></cell><cell><![CDATA[-150,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[3.9]]></cell><cell><![CDATA[3.9]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040021(MULTI YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21004_KOM1_PT PERTAMINA EP ASSET 4_KONTRAK PAYUNG GEODETIC SURVEY, MARINE SURVEY DAN SOIL INVESTIGATION PT PERTAMINA EP ASSET 4]]></cell><cell><![CDATA[PERTAMINA EP ASSET 4]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[06-01-2021]]></cell><cell><![CDATA[03-03-2023]]></cell><cell><![CDATA[19,320,000,000.0]]></cell><cell><![CDATA[3,220,000,000.0]]></cell><cell><![CDATA[3,021,550,940.0]]></cell><cell><![CDATA[198,449,060.0]]></cell><cell><![CDATA[2,415,000,000.0]]></cell><cell><![CDATA[2,967,400,940.0]]></cell><cell><![CDATA[-552,400,940.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[240,000.0]]></cell><cell><![CDATA[-240,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[5 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[9,850,000.0]]></cell><cell><![CDATA[16,919,747.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040044(SINGLE YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21012_KOM2_PJB Muara Tawar_Loading dan Unloading BBM Menggunakan Trucking (22.800 KL)]]></cell><cell><![CDATA[PEMBANGKITAN JAWA BALI (PJB)]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[30-04-2021]]></cell><cell><![CDATA[1,199,600,000.0]]></cell><cell><![CDATA[1,199,600,000.0]]></cell><cell><![CDATA[750,050,000.0]]></cell><cell><![CDATA[449,550,000.0]]></cell><cell><![CDATA[1,199,600,000.0]]></cell><cell><![CDATA[750,050,000.0]]></cell><cell><![CDATA[449,550,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[319,240.0]]></cell><cell><![CDATA[-319,240.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[30,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row></rows><rows profile='color'><head><columns><column  rowspan="4"  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  rowspan="4"  width='120' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[Divisi Bisnis/Cabang]]></column><column  colspan="2"  width='120' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Project]]></column><column  width='230' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='190' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Klien]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[P (7/4)]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[L (9/6)]]></column><column  colspan="2"  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[Jangka Waktu]]></column><column  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Nilai Kontrak]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ RAB]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="3"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Realisasi]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Prosentase Progress 2021]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[  Piutang]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Proforma]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Uang Muka]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ ByDM]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ PPU dan ByDM Detail]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Chart Pendapatan]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Kode]]></column><column rowspan="3" ><![CDATA[Nama]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Awal]]></column><column rowspan="3" ><![CDATA[Akhir]]></column><column><![CDATA[]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Setahun]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Bulan Berjalan]]></column><column><![CDATA[Realisasi Beban Vs RAB Setahun]]></column><column><![CDATA[Realisasi Beban Vs RAB Bulan Berjalan]]></column><column><![CDATA[Progress Fisik]]></column><column><![CDATA[QAQC]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="3" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[s/d Bulan Mei]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[(1)]]></column><column><![CDATA[(2)]]></column><column><![CDATA[(3)]]></column><column><![CDATA[(4)]]></column><column><![CDATA[(5)]]></column><column><![CDATA[(6)]]></column><column><![CDATA[(7)]]></column><column><![CDATA[(8)]]></column><column><![CDATA[(9)]]></column><column><![CDATA[(7/1)]]></column><column><![CDATA[(7/4)]]></column><column><![CDATA[(8/2)]]></column><column><![CDATA[(8/5)]]></column><column><![CDATA[(15)]]></column><column><![CDATA[(16)]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='9' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[22,456,150,000.0]]></column>
+<column><![CDATA[5,865,180,000.0]]></column>
+<column><![CDATA[4,758,107,310.0]]></column>
+<column><![CDATA[1,107,072,690.0]]></column>
+<column><![CDATA[3,823,325,000.0]]></column>
+<column><![CDATA[3,891,780,120.0]]></column>
+<column><![CDATA[-68,455,120.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[6,547,539.0]]></column>
+<column><![CDATA[-6,547,539.0]]></column>
+<column colspan='6' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[133,829,000.0]]></column>
+<column><![CDATA[34,367,966.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721020022(MULTI YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21023_KOM1_PERTAMINA MOR VII_JASA INSPEKSI TANGKI TIMBUN OVERDUE DI LINGKUNGAN OPERASI S&D REGION VII]]></cell><cell><![CDATA[PERTAMINA (PERSERO) MOR VII]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[08-02-2021]]></cell><cell><![CDATA[07-06-2023]]></cell><cell><![CDATA[1,035,000,000.0]]></cell><cell><![CDATA[544,030,000.0]]></cell><cell><![CDATA[295,426,068.0]]></cell><cell><![CDATA[248,603,932.0]]></cell><cell><![CDATA[201,175,000.0]]></cell><cell><![CDATA[168,348,878.0]]></cell><cell><![CDATA[32,826,122.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[4,338,299.0]]></cell><cell><![CDATA[-4,338,299.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[1.5]]></cell><cell><![CDATA[2.6]]></cell><cell><![CDATA[65 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[93,979,000.0]]></cell><cell><![CDATA[17,448,219.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040010(SINGLE YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21008_KOM2_Panca Amara Utama_Proyek Jasa Pembuatan Laporan Pelaksanaan RKL/RPL di Banggai Amoniak Plan Tahun 2021 (Semester)]]></cell><cell><![CDATA[PANCA AMARA UTAMA]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[894,000,000.0]]></cell><cell><![CDATA[894,000,000.0]]></cell><cell><![CDATA[687,250,000.0]]></cell><cell><![CDATA[206,750,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[2,150,000.0]]></cell><cell><![CDATA[-2,150,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[1,500,000.0]]></cell><cell><![CDATA[-1,500,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.2]]></cell><cell><![CDATA[69.8]]></cell><cell><![CDATA[26 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040020(SINGLE YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21021_KOM1_KOMATSU MARKETING AND SUPPORT INDONESIA_VIBRATION ANALYZER]]></cell><cell><![CDATA[KOMATSU MARKETING AND SUPPORT INDONESIA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-02-2021]]></cell><cell><![CDATA[28-02-2021]]></cell><cell><![CDATA[7,550,000.0]]></cell><cell><![CDATA[7,550,000.0]]></cell><cell><![CDATA[3,830,302.0]]></cell><cell><![CDATA[3,719,698.0]]></cell><cell><![CDATA[7,550,000.0]]></cell><cell><![CDATA[3,830,302.0]]></cell><cell><![CDATA[3,719,698.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[150,000.0]]></cell><cell><![CDATA[-150,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[3.9]]></cell><cell><![CDATA[3.9]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040021(MULTI YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21004_KOM1_PT PERTAMINA EP ASSET 4_KONTRAK PAYUNG GEODETIC SURVEY, MARINE SURVEY DAN SOIL INVESTIGATION PT PERTAMINA EP ASSET 4]]></cell><cell><![CDATA[PERTAMINA EP ASSET 4]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[06-01-2021]]></cell><cell><![CDATA[03-03-2023]]></cell><cell><![CDATA[19,320,000,000.0]]></cell><cell><![CDATA[3,220,000,000.0]]></cell><cell><![CDATA[3,021,550,940.0]]></cell><cell><![CDATA[198,449,060.0]]></cell><cell><![CDATA[2,415,000,000.0]]></cell><cell><![CDATA[2,967,400,940.0]]></cell><cell><![CDATA[-552,400,940.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[240,000.0]]></cell><cell><![CDATA[-240,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[5 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[9,850,000.0]]></cell><cell><![CDATA[16,919,747.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040044(SINGLE YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21012_KOM2_PJB Muara Tawar_Loading dan Unloading BBM Menggunakan Trucking (22.800 KL)]]></cell><cell><![CDATA[PEMBANGKITAN JAWA BALI (PJB)]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[30-04-2021]]></cell><cell><![CDATA[1,199,600,000.0]]></cell><cell><![CDATA[1,199,600,000.0]]></cell><cell><![CDATA[750,050,000.0]]></cell><cell><![CDATA[449,550,000.0]]></cell><cell><![CDATA[1,199,600,000.0]]></cell><cell><![CDATA[750,050,000.0]]></cell><cell><![CDATA[449,550,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[319,240.0]]></cell><cell><![CDATA[-319,240.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[30,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row></rows><rows profile='color'><head><columns><column  rowspan="4"  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  rowspan="4"  width='120' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[Divisi Bisnis/Cabang]]></column><column  colspan="2"  width='120' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Project]]></column><column  width='230' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='190' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Klien]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[P (7/4)]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[L (9/6)]]></column><column  colspan="2"  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[Jangka Waktu]]></column><column  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Nilai Kontrak]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ RAB]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="3"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Realisasi]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Prosentase Progress 2021]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[  Piutang]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Proforma]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Uang Muka]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ ByDM]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ PPU dan ByDM Detail]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Chart Pendapatan]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Kode]]></column><column rowspan="3" ><![CDATA[Nama]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Awal]]></column><column rowspan="3" ><![CDATA[Akhir]]></column><column><![CDATA[]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Setahun]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Bulan Berjalan]]></column><column><![CDATA[Realisasi Beban Vs RAB Setahun]]></column><column><![CDATA[Realisasi Beban Vs RAB Bulan Berjalan]]></column><column><![CDATA[Progress Fisik]]></column><column><![CDATA[QAQC]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="3" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[s/d Bulan Mei]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[(1)]]></column><column><![CDATA[(2)]]></column><column><![CDATA[(3)]]></column><column><![CDATA[(4)]]></column><column><![CDATA[(5)]]></column><column><![CDATA[(6)]]></column><column><![CDATA[(7)]]></column><column><![CDATA[(8)]]></column><column><![CDATA[(9)]]></column><column><![CDATA[(7/1)]]></column><column><![CDATA[(7/4)]]></column><column><![CDATA[(8/2)]]></column><column><![CDATA[(8/5)]]></column><column><![CDATA[(15)]]></column><column><![CDATA[(16)]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='9' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[22,456,150,000.0]]></column>
+<column><![CDATA[5,865,180,000.0]]></column>
+<column><![CDATA[4,758,107,310.0]]></column>
+<column><![CDATA[1,107,072,690.0]]></column>
+<column><![CDATA[3,823,325,000.0]]></column>
+<column><![CDATA[3,891,780,120.0]]></column>
+<column><![CDATA[-68,455,120.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[6,547,539.0]]></column>
+<column><![CDATA[-6,547,539.0]]></column>
+<column colspan='6' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[133,829,000.0]]></column>
+<column><![CDATA[34,367,966.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721020022(MULTI YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21023_KOM1_PERTAMINA MOR VII_JASA INSPEKSI TANGKI TIMBUN OVERDUE DI LINGKUNGAN OPERASI S&D REGION VII]]></cell><cell><![CDATA[PERTAMINA (PERSERO) MOR VII]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[08-02-2021]]></cell><cell><![CDATA[07-06-2023]]></cell><cell><![CDATA[1,035,000,000.0]]></cell><cell><![CDATA[544,030,000.0]]></cell><cell><![CDATA[295,426,068.0]]></cell><cell><![CDATA[248,603,932.0]]></cell><cell><![CDATA[201,175,000.0]]></cell><cell><![CDATA[168,348,878.0]]></cell><cell><![CDATA[32,826,122.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[4,338,299.0]]></cell><cell><![CDATA[-4,338,299.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[1.5]]></cell><cell><![CDATA[2.6]]></cell><cell><![CDATA[65 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[93,979,000.0]]></cell><cell><![CDATA[17,448,219.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040010(SINGLE YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21008_KOM2_Panca Amara Utama_Proyek Jasa Pembuatan Laporan Pelaksanaan RKL/RPL di Banggai Amoniak Plan Tahun 2021 (Semester)]]></cell><cell><![CDATA[PANCA AMARA UTAMA]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[894,000,000.0]]></cell><cell><![CDATA[894,000,000.0]]></cell><cell><![CDATA[687,250,000.0]]></cell><cell><![CDATA[206,750,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[2,150,000.0]]></cell><cell><![CDATA[-2,150,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[1,500,000.0]]></cell><cell><![CDATA[-1,500,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.2]]></cell><cell><![CDATA[69.8]]></cell><cell><![CDATA[26 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040020(SINGLE YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21021_KOM1_KOMATSU MARKETING AND SUPPORT INDONESIA_VIBRATION ANALYZER]]></cell><cell><![CDATA[KOMATSU MARKETING AND SUPPORT INDONESIA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-02-2021]]></cell><cell><![CDATA[28-02-2021]]></cell><cell><![CDATA[7,550,000.0]]></cell><cell><![CDATA[7,550,000.0]]></cell><cell><![CDATA[3,830,302.0]]></cell><cell><![CDATA[3,719,698.0]]></cell><cell><![CDATA[7,550,000.0]]></cell><cell><![CDATA[3,830,302.0]]></cell><cell><![CDATA[3,719,698.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[150,000.0]]></cell><cell><![CDATA[-150,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[3.9]]></cell><cell><![CDATA[3.9]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040021(MULTI YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21004_KOM1_PT PERTAMINA EP ASSET 4_KONTRAK PAYUNG GEODETIC SURVEY, MARINE SURVEY DAN SOIL INVESTIGATION PT PERTAMINA EP ASSET 4]]></cell><cell><![CDATA[PERTAMINA EP ASSET 4]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[06-01-2021]]></cell><cell><![CDATA[03-03-2023]]></cell><cell><![CDATA[19,320,000,000.0]]></cell><cell><![CDATA[3,220,000,000.0]]></cell><cell><![CDATA[3,021,550,940.0]]></cell><cell><![CDATA[198,449,060.0]]></cell><cell><![CDATA[2,415,000,000.0]]></cell><cell><![CDATA[2,967,400,940.0]]></cell><cell><![CDATA[-552,400,940.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[240,000.0]]></cell><cell><![CDATA[-240,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[5 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[9,850,000.0]]></cell><cell><![CDATA[16,919,747.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040044(SINGLE YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21012_KOM2_PJB Muara Tawar_Loading dan Unloading BBM Menggunakan Trucking (22.800 KL)]]></cell><cell><![CDATA[PEMBANGKITAN JAWA BALI (PJB)]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[30-04-2021]]></cell><cell><![CDATA[1,199,600,000.0]]></cell><cell><![CDATA[1,199,600,000.0]]></cell><cell><![CDATA[750,050,000.0]]></cell><cell><![CDATA[449,550,000.0]]></cell><cell><![CDATA[1,199,600,000.0]]></cell><cell><![CDATA[750,050,000.0]]></cell><cell><![CDATA[449,550,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[319,240.0]]></cell><cell><![CDATA[-319,240.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[30,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row></rows><rows profile='color'><head><columns><column  rowspan="4"  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  rowspan="4"  width='120' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[Divisi Bisnis/Cabang]]></column><column  colspan="2"  width='120' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Project]]></column><column  width='230' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='190' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Klien]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[P (7/4)]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[L (9/6)]]></column><column  colspan="2"  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[Jangka Waktu]]></column><column  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Nilai Kontrak]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ RAB]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="3"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Realisasi]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Prosentase Progress 2021]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[  Piutang]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Proforma]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Uang Muka]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ ByDM]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ PPU dan ByDM Detail]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Chart Pendapatan]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Kode]]></column><column rowspan="3" ><![CDATA[Nama]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Awal]]></column><column rowspan="3" ><![CDATA[Akhir]]></column><column><![CDATA[]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Setahun]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Bulan Berjalan]]></column><column><![CDATA[Realisasi Beban Vs RAB Setahun]]></column><column><![CDATA[Realisasi Beban Vs RAB Bulan Berjalan]]></column><column><![CDATA[Progress Fisik]]></column><column><![CDATA[QAQC]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="3" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[s/d Bulan Mei]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[(1)]]></column><column><![CDATA[(2)]]></column><column><![CDATA[(3)]]></column><column><![CDATA[(4)]]></column><column><![CDATA[(5)]]></column><column><![CDATA[(6)]]></column><column><![CDATA[(7)]]></column><column><![CDATA[(8)]]></column><column><![CDATA[(9)]]></column><column><![CDATA[(7/1)]]></column><column><![CDATA[(7/4)]]></column><column><![CDATA[(8/2)]]></column><column><![CDATA[(8/5)]]></column><column><![CDATA[(15)]]></column><column><![CDATA[(16)]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='9' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[22,456,150,000.0]]></column>
+<column><![CDATA[5,865,180,000.0]]></column>
+<column><![CDATA[4,758,107,310.0]]></column>
+<column><![CDATA[1,107,072,690.0]]></column>
+<column><![CDATA[3,823,325,000.0]]></column>
+<column><![CDATA[3,891,780,120.0]]></column>
+<column><![CDATA[-68,455,120.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[6,547,539.0]]></column>
+<column><![CDATA[-6,547,539.0]]></column>
+<column colspan='6' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[133,829,000.0]]></column>
+<column><![CDATA[34,367,966.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721020022(MULTI YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21023_KOM1_PERTAMINA MOR VII_JASA INSPEKSI TANGKI TIMBUN OVERDUE DI LINGKUNGAN OPERASI S&D REGION VII]]></cell><cell><![CDATA[PERTAMINA (PERSERO) MOR VII]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[08-02-2021]]></cell><cell><![CDATA[07-06-2023]]></cell><cell><![CDATA[1,035,000,000.0]]></cell><cell><![CDATA[544,030,000.0]]></cell><cell><![CDATA[295,426,068.0]]></cell><cell><![CDATA[248,603,932.0]]></cell><cell><![CDATA[201,175,000.0]]></cell><cell><![CDATA[168,348,878.0]]></cell><cell><![CDATA[32,826,122.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[4,338,299.0]]></cell><cell><![CDATA[-4,338,299.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[1.5]]></cell><cell><![CDATA[2.6]]></cell><cell><![CDATA[65 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[93,979,000.0]]></cell><cell><![CDATA[17,448,219.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040010(SINGLE YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21008_KOM2_Panca Amara Utama_Proyek Jasa Pembuatan Laporan Pelaksanaan RKL/RPL di Banggai Amoniak Plan Tahun 2021 (Semester)]]></cell><cell><![CDATA[PANCA AMARA UTAMA]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[894,000,000.0]]></cell><cell><![CDATA[894,000,000.0]]></cell><cell><![CDATA[687,250,000.0]]></cell><cell><![CDATA[206,750,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[2,150,000.0]]></cell><cell><![CDATA[-2,150,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[1,500,000.0]]></cell><cell><![CDATA[-1,500,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.2]]></cell><cell><![CDATA[69.8]]></cell><cell><![CDATA[26 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040020(SINGLE YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21021_KOM1_KOMATSU MARKETING AND SUPPORT INDONESIA_VIBRATION ANALYZER]]></cell><cell><![CDATA[KOMATSU MARKETING AND SUPPORT INDONESIA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-02-2021]]></cell><cell><![CDATA[28-02-2021]]></cell><cell><![CDATA[7,550,000.0]]></cell><cell><![CDATA[7,550,000.0]]></cell><cell><![CDATA[3,830,302.0]]></cell><cell><![CDATA[3,719,698.0]]></cell><cell><![CDATA[7,550,000.0]]></cell><cell><![CDATA[3,830,302.0]]></cell><cell><![CDATA[3,719,698.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[150,000.0]]></cell><cell><![CDATA[-150,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[3.9]]></cell><cell><![CDATA[3.9]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040021(MULTI YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21004_KOM1_PT PERTAMINA EP ASSET 4_KONTRAK PAYUNG GEODETIC SURVEY, MARINE SURVEY DAN SOIL INVESTIGATION PT PERTAMINA EP ASSET 4]]></cell><cell><![CDATA[PERTAMINA EP ASSET 4]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[06-01-2021]]></cell><cell><![CDATA[03-03-2023]]></cell><cell><![CDATA[19,320,000,000.0]]></cell><cell><![CDATA[3,220,000,000.0]]></cell><cell><![CDATA[3,021,550,940.0]]></cell><cell><![CDATA[198,449,060.0]]></cell><cell><![CDATA[2,415,000,000.0]]></cell><cell><![CDATA[2,967,400,940.0]]></cell><cell><![CDATA[-552,400,940.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[240,000.0]]></cell><cell><![CDATA[-240,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[5 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[9,850,000.0]]></cell><cell><![CDATA[16,919,747.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040044(SINGLE YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21012_KOM2_PJB Muara Tawar_Loading dan Unloading BBM Menggunakan Trucking (22.800 KL)]]></cell><cell><![CDATA[PEMBANGKITAN JAWA BALI (PJB)]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[30-04-2021]]></cell><cell><![CDATA[1,199,600,000.0]]></cell><cell><![CDATA[1,199,600,000.0]]></cell><cell><![CDATA[750,050,000.0]]></cell><cell><![CDATA[449,550,000.0]]></cell><cell><![CDATA[1,199,600,000.0]]></cell><cell><![CDATA[750,050,000.0]]></cell><cell><![CDATA[449,550,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[319,240.0]]></cell><cell><![CDATA[-319,240.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[30,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row></rows><rows profile='color'><head><columns><column  rowspan="4"  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  rowspan="4"  width='120' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[Divisi Bisnis/Cabang]]></column><column  colspan="2"  width='120' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Project]]></column><column  width='230' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='190' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Klien]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[P (7/4)]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[L (9/6)]]></column><column  colspan="2"  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[Jangka Waktu]]></column><column  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Nilai Kontrak]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ RAB]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="3"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Realisasi]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Prosentase Progress 2021]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[  Piutang]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Proforma]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Uang Muka]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ ByDM]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ PPU dan ByDM Detail]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Chart Pendapatan]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Kode]]></column><column rowspan="3" ><![CDATA[Nama]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Awal]]></column><column rowspan="3" ><![CDATA[Akhir]]></column><column><![CDATA[]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Setahun]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Bulan Berjalan]]></column><column><![CDATA[Realisasi Beban Vs RAB Setahun]]></column><column><![CDATA[Realisasi Beban Vs RAB Bulan Berjalan]]></column><column><![CDATA[Progress Fisik]]></column><column><![CDATA[QAQC]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="3" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[s/d Bulan Mei]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[(1)]]></column><column><![CDATA[(2)]]></column><column><![CDATA[(3)]]></column><column><![CDATA[(4)]]></column><column><![CDATA[(5)]]></column><column><![CDATA[(6)]]></column><column><![CDATA[(7)]]></column><column><![CDATA[(8)]]></column><column><![CDATA[(9)]]></column><column><![CDATA[(7/1)]]></column><column><![CDATA[(7/4)]]></column><column><![CDATA[(8/2)]]></column><column><![CDATA[(8/5)]]></column><column><![CDATA[(15)]]></column><column><![CDATA[(16)]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='9' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[22,456,150,000.0]]></column>
+<column><![CDATA[5,865,180,000.0]]></column>
+<column><![CDATA[4,758,107,310.0]]></column>
+<column><![CDATA[1,107,072,690.0]]></column>
+<column><![CDATA[3,823,325,000.0]]></column>
+<column><![CDATA[3,891,780,120.0]]></column>
+<column><![CDATA[-68,455,120.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[6,547,539.0]]></column>
+<column><![CDATA[-6,547,539.0]]></column>
+<column colspan='6' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[133,829,000.0]]></column>
+<column><![CDATA[34,367,966.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721020022(MULTI YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21023_KOM1_PERTAMINA MOR VII_JASA INSPEKSI TANGKI TIMBUN OVERDUE DI LINGKUNGAN OPERASI S&D REGION VII]]></cell><cell><![CDATA[PERTAMINA (PERSERO) MOR VII]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[08-02-2021]]></cell><cell><![CDATA[07-06-2023]]></cell><cell><![CDATA[1,035,000,000.0]]></cell><cell><![CDATA[544,030,000.0]]></cell><cell><![CDATA[295,426,068.0]]></cell><cell><![CDATA[248,603,932.0]]></cell><cell><![CDATA[201,175,000.0]]></cell><cell><![CDATA[168,348,878.0]]></cell><cell><![CDATA[32,826,122.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[4,338,299.0]]></cell><cell><![CDATA[-4,338,299.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[1.5]]></cell><cell><![CDATA[2.6]]></cell><cell><![CDATA[65 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[93,979,000.0]]></cell><cell><![CDATA[17,448,219.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040010(SINGLE YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21008_KOM2_Panca Amara Utama_Proyek Jasa Pembuatan Laporan Pelaksanaan RKL/RPL di Banggai Amoniak Plan Tahun 2021 (Semester)]]></cell><cell><![CDATA[PANCA AMARA UTAMA]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[894,000,000.0]]></cell><cell><![CDATA[894,000,000.0]]></cell><cell><![CDATA[687,250,000.0]]></cell><cell><![CDATA[206,750,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[2,150,000.0]]></cell><cell><![CDATA[-2,150,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[1,500,000.0]]></cell><cell><![CDATA[-1,500,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.2]]></cell><cell><![CDATA[69.8]]></cell><cell><![CDATA[26 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040020(SINGLE YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21021_KOM1_KOMATSU MARKETING AND SUPPORT INDONESIA_VIBRATION ANALYZER]]></cell><cell><![CDATA[KOMATSU MARKETING AND SUPPORT INDONESIA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-02-2021]]></cell><cell><![CDATA[28-02-2021]]></cell><cell><![CDATA[7,550,000.0]]></cell><cell><![CDATA[7,550,000.0]]></cell><cell><![CDATA[3,830,302.0]]></cell><cell><![CDATA[3,719,698.0]]></cell><cell><![CDATA[7,550,000.0]]></cell><cell><![CDATA[3,830,302.0]]></cell><cell><![CDATA[3,719,698.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[150,000.0]]></cell><cell><![CDATA[-150,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[3.9]]></cell><cell><![CDATA[3.9]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040021(MULTI YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21004_KOM1_PT PERTAMINA EP ASSET 4_KONTRAK PAYUNG GEODETIC SURVEY, MARINE SURVEY DAN SOIL INVESTIGATION PT PERTAMINA EP ASSET 4]]></cell><cell><![CDATA[PERTAMINA EP ASSET 4]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[06-01-2021]]></cell><cell><![CDATA[03-03-2023]]></cell><cell><![CDATA[19,320,000,000.0]]></cell><cell><![CDATA[3,220,000,000.0]]></cell><cell><![CDATA[3,021,550,940.0]]></cell><cell><![CDATA[198,449,060.0]]></cell><cell><![CDATA[2,415,000,000.0]]></cell><cell><![CDATA[2,967,400,940.0]]></cell><cell><![CDATA[-552,400,940.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[240,000.0]]></cell><cell><![CDATA[-240,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[5 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[9,850,000.0]]></cell><cell><![CDATA[16,919,747.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040044(SINGLE YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21012_KOM2_PJB Muara Tawar_Loading dan Unloading BBM Menggunakan Trucking (22.800 KL)]]></cell><cell><![CDATA[PEMBANGKITAN JAWA BALI (PJB)]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[30-04-2021]]></cell><cell><![CDATA[1,199,600,000.0]]></cell><cell><![CDATA[1,199,600,000.0]]></cell><cell><![CDATA[750,050,000.0]]></cell><cell><![CDATA[449,550,000.0]]></cell><cell><![CDATA[1,199,600,000.0]]></cell><cell><![CDATA[750,050,000.0]]></cell><cell><![CDATA[449,550,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[319,240.0]]></cell><cell><![CDATA[-319,240.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[30,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row></rows><rows profile='color'><head><columns><column  rowspan="4"  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  rowspan="4"  width='120' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[Divisi Bisnis/Cabang]]></column><column  colspan="2"  width='120' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Project]]></column><column  width='230' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='190' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Klien]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[P (7/4)]]></column><column  rowspan="4"  width='80' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[L (9/6)]]></column><column  colspan="2"  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[Jangka Waktu]]></column><column  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Nilai Kontrak]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ RAB]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="3"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Realisasi]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Prosentase Progress 2021]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[  Piutang]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Proforma]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Uang Muka]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ ByDM]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ PPU dan ByDM Detail]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Chart Pendapatan]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Kode]]></column><column rowspan="3" ><![CDATA[Nama]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Awal]]></column><column rowspan="3" ><![CDATA[Akhir]]></column><column><![CDATA[]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Setahun]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Bulan Berjalan]]></column><column><![CDATA[Realisasi Beban Vs RAB Setahun]]></column><column><![CDATA[Realisasi Beban Vs RAB Bulan Berjalan]]></column><column><![CDATA[Progress Fisik]]></column><column><![CDATA[QAQC]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="3" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[s/d Bulan Mei]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[(1)]]></column><column><![CDATA[(2)]]></column><column><![CDATA[(3)]]></column><column><![CDATA[(4)]]></column><column><![CDATA[(5)]]></column><column><![CDATA[(6)]]></column><column><![CDATA[(7)]]></column><column><![CDATA[(8)]]></column><column><![CDATA[(9)]]></column><column><![CDATA[(7/1)]]></column><column><![CDATA[(7/4)]]></column><column><![CDATA[(8/2)]]></column><column><![CDATA[(8/5)]]></column><column><![CDATA[(15)]]></column><column><![CDATA[(16)]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='9' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[22,456,150,000.0]]></column>
+<column><![CDATA[5,865,180,000.0]]></column>
+<column><![CDATA[4,758,107,310.0]]></column>
+<column><![CDATA[1,107,072,690.0]]></column>
+<column><![CDATA[3,823,325,000.0]]></column>
+<column><![CDATA[3,891,780,120.0]]></column>
+<column><![CDATA[-68,455,120.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[6,547,539.0]]></column>
+<column><![CDATA[-6,547,539.0]]></column>
+<column colspan='6' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[0.0]]></column>
+<column><![CDATA[133,829,000.0]]></column>
+<column><![CDATA[34,367,966.0]]></column>
+<column><![CDATA[ ]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721020022(MULTI YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21023_KOM1_PERTAMINA MOR VII_JASA INSPEKSI TANGKI TIMBUN OVERDUE DI LINGKUNGAN OPERASI S&D REGION VII]]></cell><cell><![CDATA[PERTAMINA (PERSERO) MOR VII]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[08-02-2021]]></cell><cell><![CDATA[07-06-2023]]></cell><cell><![CDATA[1,035,000,000.0]]></cell><cell><![CDATA[544,030,000.0]]></cell><cell><![CDATA[295,426,068.0]]></cell><cell><![CDATA[248,603,932.0]]></cell><cell><![CDATA[201,175,000.0]]></cell><cell><![CDATA[168,348,878.0]]></cell><cell><![CDATA[32,826,122.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[4,338,299.0]]></cell><cell><![CDATA[-4,338,299.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[1.5]]></cell><cell><![CDATA[2.6]]></cell><cell><![CDATA[65 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[93,979,000.0]]></cell><cell><![CDATA[17,448,219.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040010(SINGLE YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21008_KOM2_Panca Amara Utama_Proyek Jasa Pembuatan Laporan Pelaksanaan RKL/RPL di Banggai Amoniak Plan Tahun 2021 (Semester)]]></cell><cell><![CDATA[PANCA AMARA UTAMA]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[31-12-2021]]></cell><cell><![CDATA[894,000,000.0]]></cell><cell><![CDATA[894,000,000.0]]></cell><cell><![CDATA[687,250,000.0]]></cell><cell><![CDATA[206,750,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[2,150,000.0]]></cell><cell><![CDATA[-2,150,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[1,500,000.0]]></cell><cell><![CDATA[-1,500,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.2]]></cell><cell><![CDATA[69.8]]></cell><cell><![CDATA[26 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040020(SINGLE YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21021_KOM1_KOMATSU MARKETING AND SUPPORT INDONESIA_VIBRATION ANALYZER]]></cell><cell><![CDATA[KOMATSU MARKETING AND SUPPORT INDONESIA]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-02-2021]]></cell><cell><![CDATA[28-02-2021]]></cell><cell><![CDATA[7,550,000.0]]></cell><cell><![CDATA[7,550,000.0]]></cell><cell><![CDATA[3,830,302.0]]></cell><cell><![CDATA[3,719,698.0]]></cell><cell><![CDATA[7,550,000.0]]></cell><cell><![CDATA[3,830,302.0]]></cell><cell><![CDATA[3,719,698.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[150,000.0]]></cell><cell><![CDATA[-150,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[3.9]]></cell><cell><![CDATA[3.9]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040021(MULTI YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21004_KOM1_PT PERTAMINA EP ASSET 4_KONTRAK PAYUNG GEODETIC SURVEY, MARINE SURVEY DAN SOIL INVESTIGATION PT PERTAMINA EP ASSET 4]]></cell><cell><![CDATA[PERTAMINA EP ASSET 4]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[SR
+            
+            ]]></cell><cell><![CDATA[06-01-2021]]></cell><cell><![CDATA[03-03-2023]]></cell><cell><![CDATA[19,320,000,000.0]]></cell><cell><![CDATA[3,220,000,000.0]]></cell><cell><![CDATA[3,021,550,940.0]]></cell><cell><![CDATA[198,449,060.0]]></cell><cell><![CDATA[2,415,000,000.0]]></cell><cell><![CDATA[2,967,400,940.0]]></cell><cell><![CDATA[-552,400,940.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[240,000.0]]></cell><cell><![CDATA[-240,000.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[5 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[9,850,000.0]]></cell><cell><![CDATA[16,919,747.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[SI CAB JAKARTA]]></cell><cell><![CDATA[0721040044(SINGLE YEAR)
+                        
+                         Penjelasan]]></cell><cell><![CDATA[21012_KOM2_PJB Muara Tawar_Loading dan Unloading BBM Menggunakan Trucking (22.800 KL)]]></cell><cell><![CDATA[PEMBANGKITAN JAWA BALI (PJB)]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[TSR
+            
+            ]]></cell><cell><![CDATA[01-01-2021]]></cell><cell><![CDATA[30-04-2021]]></cell><cell><![CDATA[1,199,600,000.0]]></cell><cell><![CDATA[1,199,600,000.0]]></cell><cell><![CDATA[750,050,000.0]]></cell><cell><![CDATA[449,550,000.0]]></cell><cell><![CDATA[1,199,600,000.0]]></cell><cell><![CDATA[750,050,000.0]]></cell><cell><![CDATA[449,550,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[319,240.0]]></cell><cell><![CDATA[-319,240.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[30,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ 
+            PPUB]]></cell><cell><![CDATA[              
+                ]]></cell></row></rows>

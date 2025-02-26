@@ -1,0 +1,351 @@
+<rows profile='color'><head><columns><column  rowspan="4"  width='45' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[No.]]></column><column  rowspan="4"  width='120' align='left' type='ro' hidden='false' sort='na' color=''><![CDATA[Divisi Bisnis/Cabang]]></column><column  colspan="2"  width='120' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Project]]></column><column  width='230' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='190' align='justify' type='ron' hidden='false' sort='na' color=''><![CDATA[Klien]]></column><column  rowspan="4"  width='40' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[P (7/4)]]></column><column  rowspan="4"  width='40' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[L (9/6)]]></column><column  colspan="2"  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[Jangka Waktu]]></column><column  width='110' align='center' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[RAB]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="3"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Realisasi]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  colspan="6"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[Prosentase Progress 2021]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[  Piutang]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Proforma]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ Uang Muka]]></column><column  rowspan="4"  width='110' align='right' type='ron' hidden='false' sort='na' color=''><![CDATA[ ByDM]]></column><column  rowspan="4"  width='90' align='center' type='ro' hidden='false' sort='na' color=''><![CDATA[ Chart Pendapatan]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Kode]]></column><column rowspan="3" ><![CDATA[Nama]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column rowspan="3" ><![CDATA[Awal]]></column><column rowspan="3" ><![CDATA[Akhir]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Pendapatan]]></column><column><![CDATA[Beban Jasa]]></column><column><![CDATA[Laba]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Setahun]]></column><column><![CDATA[Realisasi Pendapatan Vs RAB Bulan Berjalan]]></column><column><![CDATA[Realisasi Beban Vs RAB Setahun]]></column><column><![CDATA[Realisasi Beban Vs RAB Bulan Berjalan]]></column><column><![CDATA[Progress Fisik]]></column><column><![CDATA[QAQC]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="3" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[s/d Bulan Maret]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column colspan="6" ><![CDATA[2021]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[(1)]]></column><column><![CDATA[(2)]]></column><column><![CDATA[(3)]]></column><column><![CDATA[(4)]]></column><column><![CDATA[(5)]]></column><column><![CDATA[(6)]]></column><column><![CDATA[(7)]]></column><column><![CDATA[(8)]]></column><column><![CDATA[(9)]]></column><column><![CDATA[(7/1)]]></column><column><![CDATA[(7/4)]]></column><column><![CDATA[(8/2)]]></column><column><![CDATA[(8/5)]]></column><column><![CDATA[(15)]]></column><column><![CDATA[(16)]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='9' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[61,724,329,515.0]]></column>
+<column><![CDATA[49,405,879,042.0]]></column>
+<column><![CDATA[12,318,450,473.0]]></column>
+<column><![CDATA[61,724,329,515.0]]></column>
+<column><![CDATA[49,405,879,042.0]]></column>
+<column><![CDATA[12,318,450,473.0]]></column>
+<column><![CDATA[22,634,194,645.0]]></column>
+<column><![CDATA[17,512,207,591.1]]></column>
+<column><![CDATA[5,121,987,053.9]]></column>
+<column colspan='6' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[4,830,313,839.0]]></column>
+<column><![CDATA[7,312,890,860.0]]></column>
+<column><![CDATA[852,018,860.0]]></column>
+<column><![CDATA[6,139,045,384.8]]></column>
+<column><![CDATA[ ]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0914040655]]></cell><cell><![CDATA[Pelaksana Penimbangan Independen di Jembatan Timbang Tempat Pemrosesan Akhir (TPA) Benowo - Surabaya]]></cell><cell><![CDATA[SUMBER ORGANIK]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-10-2012]]></cell><cell><![CDATA[31-10-2022]]></cell><cell><![CDATA[228,464,339.0]]></cell><cell><![CDATA[222,302,025.0]]></cell><cell><![CDATA[6,162,314.0]]></cell><cell><![CDATA[228,464,339.0]]></cell><cell><![CDATA[222,302,025.0]]></cell><cell><![CDATA[6,162,314.0]]></cell><cell><![CDATA[228,899,574.0]]></cell><cell><![CDATA[110,680,492.0]]></cell><cell><![CDATA[118,219,082.0]]></cell><cell><![CDATA[100.19]]></cell><cell><![CDATA[100.19]]></cell><cell><![CDATA[49.8]]></cell><cell><![CDATA[49.8]]></cell><cell><![CDATA[64 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[167,859,686.0]]></cell><cell><![CDATA[137,890,182.0]]></cell><cell><![CDATA[20,250,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0916020268]]></cell><cell><![CDATA[Pengadaan JASA Konsultansi Tata Batas Areal Persetujuan Prinsip Penggunaan Kawasan Hutan untuk Kegiatan Pembangunan SUTET 500 Kv Jawa Bali Crossing]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN VII]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[22-06-2016]]></cell><cell><![CDATA[25-12-2019]]></cell><cell><![CDATA[311,173,000.0]]></cell><cell><![CDATA[418,138,714.0]]></cell><cell><![CDATA[-106,965,714.0]]></cell><cell><![CDATA[311,173,000.0]]></cell><cell><![CDATA[418,138,714.0]]></cell><cell><![CDATA[-106,965,714.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[-106,586,750.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[30,725,000.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0917010011]]></cell><cell><![CDATA[Facilitator Administration Services (FAS-14) Provinsi Jawa Tengah]]></cell><cell><![CDATA[KEMENTERIAN PEKERJAAN UMUM & PERUMAHAN RAKYAT]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[06-01-2017]]></cell><cell><![CDATA[06-09-2020]]></cell><cell><![CDATA[2,896,089,055.0]]></cell><cell><![CDATA[805,297,197.0]]></cell><cell><![CDATA[2,090,791,858.0]]></cell><cell><![CDATA[2,896,089,055.0]]></cell><cell><![CDATA[805,297,197.0]]></cell><cell><![CDATA[2,090,791,858.0]]></cell><cell><![CDATA[552,835,635.0]]></cell><cell><![CDATA[235,560,969.0]]></cell><cell><![CDATA[317,274,666.0]]></cell><cell><![CDATA[19.09]]></cell><cell><![CDATA[19.09]]></cell><cell><![CDATA[29.3]]></cell><cell><![CDATA[29.3]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[-2,120,000,000.0]]></cell><cell><![CDATA[15,100,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0918010068]]></cell><cell><![CDATA[Oversight Service Provider (OSP) package 4 ( Jawa Timur -2)]]></cell><cell><![CDATA[KEMENTERIAN PEKERJAAN UMUM & PERUMAHAN RAKYAT]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-11-2018]]></cell><cell><![CDATA[25-10-2021]]></cell><cell><![CDATA[6,900,000,000.0]]></cell><cell><![CDATA[6,545,000,000.0]]></cell><cell><![CDATA[355,000,000.0]]></cell><cell><![CDATA[6,900,000,000.0]]></cell><cell><![CDATA[6,545,000,000.0]]></cell><cell><![CDATA[355,000,000.0]]></cell><cell><![CDATA[3,481,764,750.0]]></cell><cell><![CDATA[3,344,696,750.0]]></cell><cell><![CDATA[137,068,000.0]]></cell><cell><![CDATA[50.46]]></cell><cell><![CDATA[50.46]]></cell><cell><![CDATA[51.1]]></cell><cell><![CDATA[51.1]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[1,419,507,650.0]]></cell><cell><![CDATA[1,539,425,000.0]]></cell><cell><![CDATA[119,100,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0918010069]]></cell><cell><![CDATA[Oversight Service Provider (OSP) Package 5 Bali Nusa Tenggara]]></cell><cell><![CDATA[KEMENTERIAN PEKERJAAN UMUM & PERUMAHAN RAKYAT]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-01-2019]]></cell><cell><![CDATA[31-12-2019]]></cell><cell><![CDATA[11,700,000,000.0]]></cell><cell><![CDATA[11,161,995,320.0]]></cell><cell><![CDATA[538,004,680.0]]></cell><cell><![CDATA[11,700,000,000.0]]></cell><cell><![CDATA[11,161,995,320.0]]></cell><cell><![CDATA[538,004,680.0]]></cell><cell><![CDATA[5,606,318,210.0]]></cell><cell><![CDATA[5,417,770,319.0]]></cell><cell><![CDATA[188,547,891.0]]></cell><cell><![CDATA[47.92]]></cell><cell><![CDATA[47.92]]></cell><cell><![CDATA[48.5]]></cell><cell><![CDATA[48.5]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[2,612,662,500.0]]></cell><cell><![CDATA[5,850,000.0]]></cell><cell><![CDATA[154,961,997.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0918020023]]></cell><cell><![CDATA[Jasa Konsultansi Manajemen Konstruksi (MK) Proyek Pengembangan Bandar Udara Syamsudin Noor - Banjarmasin]]></cell><cell><![CDATA[ANGKASA PURA I (PERSERO)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-01-2019]]></cell><cell><![CDATA[30-11-2019]]></cell><cell><![CDATA[860,000,000.0]]></cell><cell><![CDATA[723,170,647.0]]></cell><cell><![CDATA[136,829,353.0]]></cell><cell><![CDATA[860,000,000.0]]></cell><cell><![CDATA[723,170,647.0]]></cell><cell><![CDATA[136,829,353.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[5,094,530.0]]></cell><cell><![CDATA[-5,094,530.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.7]]></cell><cell><![CDATA[0.7]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[46,904,600.0]]></cell><cell><![CDATA[487,121,433.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0918020030]]></cell><cell><![CDATA[Pemborongan Pekerjaan Jasa Konsultansi Supervisi Konstruksi PLTMG Bangkanai 140 MW]]></cell><cell><![CDATA[PLN (PERSERO) PUSAT MANAJEMEN PROYEK]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[14-02-2018]]></cell><cell><![CDATA[13-01-2020]]></cell><cell><![CDATA[590,000,000.0]]></cell><cell><![CDATA[470,457,301.0]]></cell><cell><![CDATA[119,542,699.0]]></cell><cell><![CDATA[590,000,000.0]]></cell><cell><![CDATA[470,457,301.0]]></cell><cell><![CDATA[119,542,699.0]]></cell><cell><![CDATA[118,146,879.0]]></cell><cell><![CDATA[77,844,276.0]]></cell><cell><![CDATA[40,302,603.0]]></cell><cell><![CDATA[20.02]]></cell><cell><![CDATA[20.02]]></cell><cell><![CDATA[16.6]]></cell><cell><![CDATA[16.6]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[23,157,742.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0918020032]]></cell><cell><![CDATA[Jasa konsultan pengawas dan laboratorium Pekerjaan Perluasan Apron dan Fasilitas Penunjangnya]]></cell><cell><![CDATA[ANGKASA PURA I (PERSERO) CABANG LOMBOK]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-01-2019]]></cell><cell><![CDATA[30-05-2019]]></cell><cell><![CDATA[79,161,704.0]]></cell><cell><![CDATA[83,240,869.0]]></cell><cell><![CDATA[-4,079,165.0]]></cell><cell><![CDATA[79,161,704.0]]></cell><cell><![CDATA[83,240,869.0]]></cell><cell><![CDATA[-4,079,165.0]]></cell><cell><![CDATA[79,161,706.0]]></cell><cell><![CDATA[63,166,467.0]]></cell><cell><![CDATA[15,995,239.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[75.9]]></cell><cell><![CDATA[75.9]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0918020033]]></cell><cell><![CDATA[Jasa Konsultan Pengawasan dan Jasa Laboratorium Pekerjaan Perluasan Apron Baru Beserta fasilitas Penunjangnya di Bandara Udara Internasional Sultan Hassanudin Makassar]]></cell><cell><![CDATA[ANGKASA PURA I (PERSERO)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[16-03-2018]]></cell><cell><![CDATA[09-01-2019]]></cell><cell><![CDATA[207,206,286.0]]></cell><cell><![CDATA[143,254,397.0]]></cell><cell><![CDATA[63,951,889.0]]></cell><cell><![CDATA[207,206,286.0]]></cell><cell><![CDATA[143,254,397.0]]></cell><cell><![CDATA[63,951,889.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[35,018,800.0]]></cell><cell><![CDATA[-35,018,800.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[24.5]]></cell><cell><![CDATA[24.5]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[43,320,522.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[3,580,400.0]]></cell><cell><![CDATA[33,641,000.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0918020034]]></cell><cell><![CDATA[Jasa Pengawasan Dan Laboratorium Pekerjaan Perluasan Apron  Beserta Apron lighting di bandara eltari Kupang]]></cell><cell><![CDATA[ANGKASA PURA I (PERSERO)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[26-03-2018]]></cell><cell><![CDATA[21-11-2018]]></cell><cell><![CDATA[46,451,600.0]]></cell><cell><![CDATA[84,000,000.0]]></cell><cell><![CDATA[-37,548,400.0]]></cell><cell><![CDATA[46,451,600.0]]></cell><cell><![CDATA[84,000,000.0]]></cell><cell><![CDATA[-37,548,400.0]]></cell><cell><![CDATA[46,451,600.0]]></cell><cell><![CDATA[84,000,000.0]]></cell><cell><![CDATA[-37,548,400.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100.0]]></cell><cell><![CDATA[100.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[46,451,600.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0918020051]]></cell><cell><![CDATA[Jasa Konsultan Manajemen Konstruksi Pekerjaan Design & Build Pembuatan Apron 2 parking Stand, Exit taxiway, Dan penyempurnaan Fasilitas Airside terkait Beserta Fasilitas penunjangnya Di Bandara Internasional Lombok]]></cell><cell><![CDATA[ANGKASA PURA I (PERSERO)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[26-03-2018]]></cell><cell><![CDATA[19-04-2020]]></cell><cell><![CDATA[79,777,498.0]]></cell><cell><![CDATA[154,600,000.0]]></cell><cell><![CDATA[-74,822,502.0]]></cell><cell><![CDATA[79,777,498.0]]></cell><cell><![CDATA[154,600,000.0]]></cell><cell><![CDATA[-74,822,502.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[500,000.0]]></cell><cell><![CDATA[154,600,000.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0918020067]]></cell><cell><![CDATA[Pekerjaan Jasa Quantity Surveyor (QS) Pengadaan Kendaraan dan Alat-alat Besar di Bandara Baru Yogyakarta - Kulonprogo]]></cell><cell><![CDATA[ANGKASA PURA I (PERSERO)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[11-07-2018]]></cell><cell><![CDATA[30-11-2018]]></cell><cell><![CDATA[92,585,000.0]]></cell><cell><![CDATA[128,147,595.0]]></cell><cell><![CDATA[-35,562,595.0]]></cell><cell><![CDATA[92,585,000.0]]></cell><cell><![CDATA[128,147,595.0]]></cell><cell><![CDATA[-35,562,595.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[75,000,000.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0918020068]]></cell><cell><![CDATA[Pemetaan, Sosialisasi, Inventarisasi, Identifikasi  Tanah, Tanaman,  dan Bangunan pada Pembebasan Lahan Tapak Tower Beserta ROW untuk Pembangunan SUTT 150 kV Tangerang Baru III - Tangerang Baru II,  SUTT 150 kV Tangerang Baru II - Incomer (Balaraja -]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[03-09-2018]]></cell><cell><![CDATA[28-02-2020]]></cell><cell><![CDATA[2,860,612,044.0]]></cell><cell><![CDATA[2,269,957,440.0]]></cell><cell><![CDATA[590,654,604.0]]></cell><cell><![CDATA[2,860,612,044.0]]></cell><cell><![CDATA[2,269,957,440.0]]></cell><cell><![CDATA[590,654,604.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[2,158,709,589.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0918020069]]></cell><cell><![CDATA[Pemetaan, Sosialisasi, Inventarisasi, Identifikasi Tanah, Tanaman, dan Bangunan pada Tapak Tower Eksisting Beserta ROW untuk Pembangunan SUTET 500 kV Cikupa - Kembangan]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[03-09-2018]]></cell><cell><![CDATA[28-02-2020]]></cell><cell><![CDATA[1,323,779,187.0]]></cell><cell><![CDATA[1,011,733,474.0]]></cell><cell><![CDATA[312,045,713.0]]></cell><cell><![CDATA[1,323,779,187.0]]></cell><cell><![CDATA[1,011,733,474.0]]></cell><cell><![CDATA[312,045,713.0]]></cell><cell><![CDATA[1,198,219,312.0]]></cell><cell><![CDATA[715,382,638.0]]></cell><cell><![CDATA[482,836,674.0]]></cell><cell><![CDATA[90.52]]></cell><cell><![CDATA[90.52]]></cell><cell><![CDATA[70.7]]></cell><cell><![CDATA[70.7]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[420,000,000.0]]></cell><cell><![CDATA[130,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0918020070]]></cell><cell><![CDATA[Pemetaan, Sosialisasi, Inventarisasi, Identifikasi Tanaman, Tanah dan Bangunan Jalur ROW untuk pembangunan SUTT 150 Kv Malingping - Bayah]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-01-2019]]></cell><cell><![CDATA[28-02-2020]]></cell><cell><![CDATA[1,390,000,000.0]]></cell><cell><![CDATA[1,077,616,670.0]]></cell><cell><![CDATA[312,383,330.0]]></cell><cell><![CDATA[1,390,000,000.0]]></cell><cell><![CDATA[1,077,616,670.0]]></cell><cell><![CDATA[312,383,330.0]]></cell><cell><![CDATA[1,384,129,285.0]]></cell><cell><![CDATA[1,029,354,724.0]]></cell><cell><![CDATA[354,774,561.0]]></cell><cell><![CDATA[99.58]]></cell><cell><![CDATA[99.58]]></cell><cell><![CDATA[95.5]]></cell><cell><![CDATA[95.5]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[1,384,129,285.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0918020077]]></cell><cell><![CDATA[Pekerjaan Jasa Konsultan Pengawas pekerjaan pemeliharaan Dan Perbaikan Di Bangunan Terminal Bandar Udara Internasional I Gusti Ngurah Rai Bali]]></cell><cell><![CDATA[ANGKASA PURA I (PERSERO)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-10-2018]]></cell><cell><![CDATA[30-09-2019]]></cell><cell><![CDATA[328,608,111.0]]></cell><cell><![CDATA[381,966,865.0]]></cell><cell><![CDATA[-53,358,754.0]]></cell><cell><![CDATA[328,608,111.0]]></cell><cell><![CDATA[381,966,865.0]]></cell><cell><![CDATA[-53,358,754.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[336,635,326.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[17]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0918040015]]></cell><cell><![CDATA[Depnaker Certification]]></cell><cell><![CDATA[SUMITOMO CORPORATION]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[14-12-2017]]></cell><cell><![CDATA[31-12-2019]]></cell><cell><![CDATA[1,665,148,400.0]]></cell><cell><![CDATA[1,154,748,065.0]]></cell><cell><![CDATA[510,400,335.0]]></cell><cell><![CDATA[1,665,148,400.0]]></cell><cell><![CDATA[1,154,748,065.0]]></cell><cell><![CDATA[510,400,335.0]]></cell><cell><![CDATA[247,737,936.0]]></cell><cell><![CDATA[169,690,000.0]]></cell><cell><![CDATA[78,047,936.0]]></cell><cell><![CDATA[14.88]]></cell><cell><![CDATA[14.88]]></cell><cell><![CDATA[14.7]]></cell><cell><![CDATA[14.7]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[1,950,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[18]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0919020004]]></cell><cell><![CDATA[Kegiatan Pemantauan dan Pengukuran Lingkungan dan Pekerjaan Pembuatan Dokumen Lingkungan]]></cell><cell><![CDATA[PLN (PERSERO) DISTRIBUSI JAKARTA RAYA DAN TANGERANG]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[21-12-2018]]></cell><cell><![CDATA[28-02-2019]]></cell><cell><![CDATA[77,031,660.0]]></cell><cell><![CDATA[58,595,850.0]]></cell><cell><![CDATA[18,435,810.0]]></cell><cell><![CDATA[77,031,660.0]]></cell><cell><![CDATA[58,595,850.0]]></cell><cell><![CDATA[18,435,810.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[10,000,000.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[19]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0919020015]]></cell><cell><![CDATA[Jasa Konsultan Teknis Review Design Engineering Dan Penyusunan Bidding Document, Detail Engineering, HPE dan Pendampingan Pelelangan.]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN PAPUA (UIP XIV)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[03-12-2018]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[2,060,000,000.0]]></cell><cell><![CDATA[1,735,995,482.0]]></cell><cell><![CDATA[324,004,518.0]]></cell><cell><![CDATA[2,060,000,000.0]]></cell><cell><![CDATA[1,735,995,482.0]]></cell><cell><![CDATA[324,004,518.0]]></cell><cell><![CDATA[789,660,000.0]]></cell><cell><![CDATA[567,111,135.0]]></cell><cell><![CDATA[222,548,865.0]]></cell><cell><![CDATA[38.33]]></cell><cell><![CDATA[38.33]]></cell><cell><![CDATA[32.7]]></cell><cell><![CDATA[32.7]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[789,660,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[20]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0919020031]]></cell><cell><![CDATA[JASA KONSULTANSI PENDAMPINGAN TENAGA AHLI JAMINAN KUALITAS BARANG PROYEK TRANSMISI DAN GARDU INDUK WILAYAH KALIMANTAN]]></cell><cell><![CDATA[PLN (PERSERO) PUSAT MANAJEMEN PROYEK]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[10-09-2018]]></cell><cell><![CDATA[11-10-2019]]></cell><cell><![CDATA[1,000,000,000.0]]></cell><cell><![CDATA[728,906,909.0]]></cell><cell><![CDATA[271,093,091.0]]></cell><cell><![CDATA[1,000,000,000.0]]></cell><cell><![CDATA[728,906,909.0]]></cell><cell><![CDATA[271,093,091.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[21]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0919020035]]></cell><cell><![CDATA[Pemborongan Pekerjaan Jasa Konsultansi Pemeriksaan Jaminan Kualitas Barang MPP Nias (25 MW)]]></cell><cell><![CDATA[PLN (PERSERO) PUSAT MANAJEMEN PROYEK]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[16-07-2018]]></cell><cell><![CDATA[31-01-2019]]></cell><cell><![CDATA[415,108,200.0]]></cell><cell><![CDATA[264,910,195.0]]></cell><cell><![CDATA[150,198,005.0]]></cell><cell><![CDATA[415,108,200.0]]></cell><cell><![CDATA[264,910,195.0]]></cell><cell><![CDATA[150,198,005.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[16,986,552.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[22]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0919020045]]></cell><cell><![CDATA[Pra Audit Resertifikasi SMK 3, PG Krembong, Lestari, Meritjan, Pesantren Baru, Ngadirejo]]></cell><cell><![CDATA[PERKEBUNAN NUSANTARA X (PERSERO)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[14-03-2019]]></cell><cell><![CDATA[01-01-1900]]></cell><cell><![CDATA[61,445,453.0]]></cell><cell><![CDATA[35,170,745.0]]></cell><cell><![CDATA[26,274,708.0]]></cell><cell><![CDATA[61,445,453.0]]></cell><cell><![CDATA[35,170,745.0]]></cell><cell><![CDATA[26,274,708.0]]></cell><cell><![CDATA[30,722,727.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[30,722,727.0]]></cell><cell><![CDATA[50]]></cell><cell><![CDATA[50]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[33,794,999.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[23]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0919020048]]></cell><cell><![CDATA[PENGADAAN JASA KONSULTANSI TENAGA AHLI QA/QC
+PEMERIKSAAN JAMINAN KUALITAS BARANG
+MATERIAL TRANSMISI UTAMA TERPUSAT TAHUN 2018
+PAKET B]]></cell><cell><![CDATA[PLN (PERSERO) PUSAT MANAJEMEN PROYEK]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-02-2019]]></cell><cell><![CDATA[31-12-2019]]></cell><cell><![CDATA[780,000,000.0]]></cell><cell><![CDATA[602,706,162.0]]></cell><cell><![CDATA[177,293,838.0]]></cell><cell><![CDATA[780,000,000.0]]></cell><cell><![CDATA[602,706,162.0]]></cell><cell><![CDATA[177,293,838.0]]></cell><cell><![CDATA[328,306,043.0]]></cell><cell><![CDATA[170,671,000.0]]></cell><cell><![CDATA[157,635,043.0]]></cell><cell><![CDATA[42.09]]></cell><cell><![CDATA[42.09]]></cell><cell><![CDATA[28.3]]></cell><cell><![CDATA[28.3]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[328,306,043.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[24]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0919020049]]></cell><cell><![CDATA[PENGADAAN JASA KONSULTANSI TENAGA AHLI QUALITY CONTROL PLTU LOMBOK FTP 2 (2 X 50 MW)]]></cell><cell><![CDATA[PLN (PERSERO) PUSAT MANAJEMEN PROYEK]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-02-2019]]></cell><cell><![CDATA[31-12-2019]]></cell><cell><![CDATA[271,000,000.0]]></cell><cell><![CDATA[220,650,000.0]]></cell><cell><![CDATA[50,350,000.0]]></cell><cell><![CDATA[271,000,000.0]]></cell><cell><![CDATA[220,650,000.0]]></cell><cell><![CDATA[50,350,000.0]]></cell><cell><![CDATA[405,953,000.0]]></cell><cell><![CDATA[87,372,000.0]]></cell><cell><![CDATA[318,581,000.0]]></cell><cell><![CDATA[149.8]]></cell><cell><![CDATA[149.8]]></cell><cell><![CDATA[39.6]]></cell><cell><![CDATA[39.6]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[405,953,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[25]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0919020052]]></cell><cell><![CDATA[Jasa Konsultan Pengawas Pembangunan Area Koridor Arrival Domestik bandara I Gusti Ngurah Rai Bali]]></cell><cell><![CDATA[ANGKASA PURA I (PERSERO)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[04-01-2018]]></cell><cell><![CDATA[04-04-2019]]></cell><cell><![CDATA[29,364,372.0]]></cell><cell><![CDATA[30,778,379.0]]></cell><cell><![CDATA[-1,414,007.0]]></cell><cell><![CDATA[29,364,372.0]]></cell><cell><![CDATA[30,778,379.0]]></cell><cell><![CDATA[-1,414,007.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[193,804,860.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[11,895,500.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[26]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0919020055]]></cell><cell><![CDATA[PENGADAAN JASA KONSULTASI PENYUSUNAN PERUBAHAN DOKUMEN UKL-UPL PLTMG SORONG(20 MW) DAN PLTU SORONG (4X7MW) MENJADI AMDAL PENAMBAHAN KAPASITAS PEMBANGKIT PLTMG SORONG (50MW), PLTU SORONG (4X7MW), PLTMG SORONG 2 (50MW), PLTU SORONG (100MW) DAN JETTY (T]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN PAPUA (UIP XIV)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[24-05-2019]]></cell><cell><![CDATA[23-11-2019]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[12,400,000.0]]></cell><cell><![CDATA[-12,400,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[12,400,000.0]]></cell><cell><![CDATA[-12,400,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[27]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0919020068]]></cell><cell><![CDATA[PENGADAAN PEMBORONGAN PEKERJAAN JASA KONSULTANSI SUPERVISI KONSTRUKSI DAN QA/QC PROYEK PEMBANGKIT DAN JARINGAN WILAYAH KERJA UPMK II]]></cell><cell><![CDATA[PLN (PERSERO) PUSAT MANAJEMEN PROYEK]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-08-2019]]></cell><cell><![CDATA[31-07-2020]]></cell><cell><![CDATA[7,425,368,016.0]]></cell><cell><![CDATA[4,740,464,064.0]]></cell><cell><![CDATA[2,684,903,952.0]]></cell><cell><![CDATA[7,425,368,016.0]]></cell><cell><![CDATA[4,740,464,064.0]]></cell><cell><![CDATA[2,684,903,952.0]]></cell><cell><![CDATA[4,097,475,720.0]]></cell><cell><![CDATA[2,350,970,044.0]]></cell><cell><![CDATA[1,746,505,676.0]]></cell><cell><![CDATA[55.18]]></cell><cell><![CDATA[55.18]]></cell><cell><![CDATA[49.6]]></cell><cell><![CDATA[49.6]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[1,310,909,892.0]]></cell><cell><![CDATA[900,000,000.0]]></cell><cell><![CDATA[18,875,360.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[28]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0919020082]]></cell><cell><![CDATA[Survey Topografi dan Soil Investigation Proyek Pembangunan GI Prafi dan TL 150 KV PLTMG Manokwari - GI Prafi]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN PAPUA (UIP XIV)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[30-09-2019]]></cell><cell><![CDATA[29-12-2019]]></cell><cell><![CDATA[1,916,919,367.0]]></cell><cell><![CDATA[1,483,994,260.0]]></cell><cell><![CDATA[432,925,107.0]]></cell><cell><![CDATA[1,916,919,367.0]]></cell><cell><![CDATA[1,483,994,260.0]]></cell><cell><![CDATA[432,925,107.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[13,948,300.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[29]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0919020086]]></cell><cell><![CDATA[Jasa Konsultansi Pekerjaan Manajemen Konstruksi untuk Pembangunan Fasilitas LNG di Teluk Lamong]]></cell><cell><![CDATA[PELINDO ENERGI LOGISTIK]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-11-2019]]></cell><cell><![CDATA[28-02-2020]]></cell><cell><![CDATA[287,550,300.0]]></cell><cell><![CDATA[368,599,593.0]]></cell><cell><![CDATA[-81,049,293.0]]></cell><cell><![CDATA[287,550,300.0]]></cell><cell><![CDATA[368,599,593.0]]></cell><cell><![CDATA[-81,049,293.0]]></cell><cell><![CDATA[287,550,300.0]]></cell><cell><![CDATA[98,378,104.0]]></cell><cell><![CDATA[189,172,196.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[26.7]]></cell><cell><![CDATA[26.7]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[30]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0919040069]]></cell><cell><![CDATA[General Enviromental Services of Tangguh LNG]]></cell><cell><![CDATA[BP BERAU LTD]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[06-08-2019]]></cell><cell><![CDATA[30-08-2024]]></cell><cell><![CDATA[5,954,153,990.0]]></cell><cell><![CDATA[4,993,961,060.0]]></cell><cell><![CDATA[960,192,930.0]]></cell><cell><![CDATA[5,954,153,990.0]]></cell><cell><![CDATA[4,993,961,060.0]]></cell><cell><![CDATA[960,192,930.0]]></cell><cell><![CDATA[1,748,580,149.0]]></cell><cell><![CDATA[1,403,235,487.1]]></cell><cell><![CDATA[345,344,661.9]]></cell><cell><![CDATA[29.37]]></cell><cell><![CDATA[29.37]]></cell><cell><![CDATA[28.1]]></cell><cell><![CDATA[28.1]]></cell><cell><![CDATA[14 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[666,474,747.0]]></cell><cell><![CDATA[517,000,000.0]]></cell><cell><![CDATA[114,588,500.0]]></cell><cell><![CDATA[681,176,637.8]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[31]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0919040091]]></cell><cell><![CDATA[Depnaker Certification For Boiler Equipment]]></cell><cell><![CDATA[MATLAMAT CAKERA CANGGIH]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[24-09-2019]]></cell><cell><![CDATA[23-08-2020]]></cell><cell><![CDATA[1,303,905,600.0]]></cell><cell><![CDATA[780,600,000.0]]></cell><cell><![CDATA[523,305,600.0]]></cell><cell><![CDATA[1,303,905,600.0]]></cell><cell><![CDATA[780,600,000.0]]></cell><cell><![CDATA[523,305,600.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[4,350,000.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[32]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0919040092]]></cell><cell><![CDATA[Depnaker Certification For FGD System Equipment]]></cell><cell><![CDATA[MATLAMAT CAKERA CANGGIH]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[04-10-2019]]></cell><cell><![CDATA[03-04-2020]]></cell><cell><![CDATA[826,185,600.0]]></cell><cell><![CDATA[492,100,000.0]]></cell><cell><![CDATA[334,085,600.0]]></cell><cell><![CDATA[826,185,600.0]]></cell><cell><![CDATA[492,100,000.0]]></cell><cell><![CDATA[334,085,600.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[2,350,000.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[33]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0920010027]]></cell><cell><![CDATA[Pemeringkatan Koperasi]]></cell><cell><![CDATA[DINAS KOPERASI DAN UMKM KOTA SURABAYA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[11-09-2020]]></cell><cell><![CDATA[10-10-2020]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[500,000.0]]></cell><cell><![CDATA[-500,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[500,000.0]]></cell><cell><![CDATA[-500,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[34]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0920010033]]></cell><cell><![CDATA[Survey Standar Harga Barang dan Jasa]]></cell><cell><![CDATA[BAGIAN ADMINISTRASI PEMBANGUNAN PEMKAB PAMEKASAN]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[06-11-2020]]></cell><cell><![CDATA[07-12-2020]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[6,676,500.0]]></cell><cell><![CDATA[-6,676,500.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[6,676,500.0]]></cell><cell><![CDATA[-6,676,500.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[35]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0920020008]]></cell><cell><![CDATA[PEKERJAAN STUDY PENGEMBANGAN KELISTRIKAN KALIMANTAN BARAT]]></cell><cell><![CDATA[PLN (PERSERO) UIP KALIMANTAN BAGIAN BARAT]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[14-01-2020]]></cell><cell><![CDATA[13-04-2020]]></cell><cell><![CDATA[773,084,750.0]]></cell><cell><![CDATA[633,900,000.0]]></cell><cell><![CDATA[139,184,750.0]]></cell><cell><![CDATA[773,084,750.0]]></cell><cell><![CDATA[633,900,000.0]]></cell><cell><![CDATA[139,184,750.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[36]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0920020009]]></cell><cell><![CDATA[Pre-Engineering Onshore Survey Works untuk Proyek Lawe-Lawe Facilities RDMP RU V - Balikpapan]]></cell><cell><![CDATA[HUTAMA KARYA (PERSERO)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[17-01-2020]]></cell><cell><![CDATA[07-04-2020]]></cell><cell><![CDATA[242,366,742.0]]></cell><cell><![CDATA[246,946,683.0]]></cell><cell><![CDATA[-4,579,941.0]]></cell><cell><![CDATA[242,366,742.0]]></cell><cell><![CDATA[246,946,683.0]]></cell><cell><![CDATA[-4,579,941.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[40,686,041.0]]></cell><cell><![CDATA[-40,686,041.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[16.5]]></cell><cell><![CDATA[16.5]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[204,849,816.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[37]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0920020010]]></cell><cell><![CDATA[Pemantauan Lingkungan Pelabuhan Tanjung Perak Surabaya Tahun 2020]]></cell><cell><![CDATA[PELABUHAN INDONESIA III (PERSERO)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[29-01-2020]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[160,000,000.0]]></cell><cell><![CDATA[126,212,800.0]]></cell><cell><![CDATA[33,787,200.0]]></cell><cell><![CDATA[160,000,000.0]]></cell><cell><![CDATA[126,212,800.0]]></cell><cell><![CDATA[33,787,200.0]]></cell><cell><![CDATA[160,000,000.0]]></cell><cell><![CDATA[111,013,500.0]]></cell><cell><![CDATA[48,986,500.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[88.0]]></cell><cell><![CDATA[88.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[15,199,300.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[38]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0920020025]]></cell><cell><![CDATA[PENDAMPINGAN RESERTIFIKASI SMK3]]></cell><cell><![CDATA[PERKEBUNAN NUSANTARA X]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[12-06-2020]]></cell><cell><![CDATA[11-09-2020]]></cell><cell><![CDATA[238,000,000.0]]></cell><cell><![CDATA[120,720,000.0]]></cell><cell><![CDATA[117,280,000.0]]></cell><cell><![CDATA[238,000,000.0]]></cell><cell><![CDATA[120,720,000.0]]></cell><cell><![CDATA[117,280,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[20,000,000.0]]></cell><cell><![CDATA[16,224,967.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[39]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0920020028]]></cell><cell><![CDATA[Analisa Indek Kepuasan Pelanggan]]></cell><cell><![CDATA[ASABRI (PERSERO)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-10-2020]]></cell><cell><![CDATA[31-10-2020]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[1,000,000.0]]></cell><cell><![CDATA[-1,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[1,000,000.0]]></cell><cell><![CDATA[-1,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[40]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0920020035]]></cell><cell><![CDATA[Pekerjaan Pemantauan Lingkungan Pelabuhan Gresik Semester I dan II - Tahun 2020]]></cell><cell><![CDATA[PELABUHAN INDONESIA III (PERSERO)]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[27-11-2020]]></cell><cell><![CDATA[31-01-2021]]></cell><cell><![CDATA[66,500,000.0]]></cell><cell><![CDATA[51,200,000.0]]></cell><cell><![CDATA[15,300,000.0]]></cell><cell><![CDATA[66,500,000.0]]></cell><cell><![CDATA[51,200,000.0]]></cell><cell><![CDATA[15,300,000.0]]></cell><cell><![CDATA[66,500,000.0]]></cell><cell><![CDATA[51,200,000.0]]></cell><cell><![CDATA[15,300,000.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100.0]]></cell><cell><![CDATA[100.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[41]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0920040011]]></cell><cell><![CDATA[ONSHORE GEOTECHNICAL INVESTIGATION & TOPOGRAPHIC SURVEY FOR EPC OF LAWE LAWE PROJECT RDMP RU-V PERTAMINA BALIKPAPAN]]></cell><cell><![CDATA[CHINA PETROLEUM PIPELINE ENGINEERING COMPANY LTD]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[03-02-2020]]></cell><cell><![CDATA[10-04-2020]]></cell><cell><![CDATA[1,876,332,564.0]]></cell><cell><![CDATA[1,484,100,000.0]]></cell><cell><![CDATA[392,232,564.0]]></cell><cell><![CDATA[1,876,332,564.0]]></cell><cell><![CDATA[1,484,100,000.0]]></cell><cell><![CDATA[392,232,564.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[25,000,000.0]]></cell><cell><![CDATA[1,477,538,400.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[42]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0920040016]]></cell><cell><![CDATA[Jasa konsultansi Pengurusan Dokumen Lingkungan Hidup & Ijin Lingkungan PT INDOSAT Tbk yang berlokasi di Kuta/Tuban kabupaten Badung-Bali]]></cell><cell><![CDATA[INDOSAT TBK]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[18-06-2020]]></cell><cell><![CDATA[21-12-2020]]></cell><cell><![CDATA[160,000,000.0]]></cell><cell><![CDATA[108,925,000.0]]></cell><cell><![CDATA[51,075,000.0]]></cell><cell><![CDATA[160,000,000.0]]></cell><cell><![CDATA[108,925,000.0]]></cell><cell><![CDATA[51,075,000.0]]></cell><cell><![CDATA[160,000,000.0]]></cell><cell><![CDATA[108,923,000.0]]></cell><cell><![CDATA[51,077,000.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100.0]]></cell><cell><![CDATA[100.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[160,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[43]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0920040021]]></cell><cell><![CDATA[PEKERJAAN JASA SERTIFIKASI LAIK OPERASI 60 GENSET PT. TELKOM INDONESIA]]></cell><cell><![CDATA[GRAHA SARANA DUTA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-07-2020]]></cell><cell><![CDATA[14-12-2020]]></cell><cell><![CDATA[1,020,000,000.0]]></cell><cell><![CDATA[712,640,000.0]]></cell><cell><![CDATA[307,360,000.0]]></cell><cell><![CDATA[1,020,000,000.0]]></cell><cell><![CDATA[712,640,000.0]]></cell><cell><![CDATA[307,360,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[198,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[35,300,000.0]]></cell><cell><![CDATA[28,019,400.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[44]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0920040023]]></cell><cell><![CDATA[Jasa Penyusunan Kajian Lokasi Pertashop Retail Sales V]]></cell><cell><![CDATA[PERTAMINA (PERSERO) MOR V]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[04-09-2020]]></cell><cell><![CDATA[07-12-2020]]></cell><cell><![CDATA[570,000,000.0]]></cell><cell><![CDATA[411,345,000.0]]></cell><cell><![CDATA[158,655,000.0]]></cell><cell><![CDATA[570,000,000.0]]></cell><cell><![CDATA[411,345,000.0]]></cell><cell><![CDATA[158,655,000.0]]></cell><cell><![CDATA[570,000,000.0]]></cell><cell><![CDATA[411,345,000.0]]></cell><cell><![CDATA[158,655,000.0]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100]]></cell><cell><![CDATA[100.0]]></cell><cell><![CDATA[100.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[627,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[82,320,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[45]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0920040029]]></cell><cell><![CDATA[Jasa Konsultan IMB di Integrated Terminal Surabaya]]></cell><cell><![CDATA[PERTAMINA (PERSERO) MOR V]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[25-09-2020]]></cell><cell><![CDATA[26-11-2020]]></cell><cell><![CDATA[858,950,000.0]]></cell><cell><![CDATA[635,300,000.0]]></cell><cell><![CDATA[223,650,000.0]]></cell><cell><![CDATA[858,950,000.0]]></cell><cell><![CDATA[635,300,000.0]]></cell><cell><![CDATA[223,650,000.0]]></cell><cell><![CDATA[845,000,000.0]]></cell><cell><![CDATA[629,992,315.0]]></cell><cell><![CDATA[215,007,685.0]]></cell><cell><![CDATA[98.38]]></cell><cell><![CDATA[98.38]]></cell><cell><![CDATA[99.2]]></cell><cell><![CDATA[99.2]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[20,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[46]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0920040030]]></cell><cell><![CDATA[PENDAMPINGAN PENYUSUNAN HIRAC]]></cell><cell><![CDATA[VEOLIA SERVICES INDONESIA]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[11-08-2020]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[15,000,000.0]]></cell><cell><![CDATA[9,400,000.0]]></cell><cell><![CDATA[5,600,000.0]]></cell><cell><![CDATA[15,000,000.0]]></cell><cell><![CDATA[9,400,000.0]]></cell><cell><![CDATA[5,600,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[9,397,594.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[47]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0920040034]]></cell><cell><![CDATA[Jasa Konsultansi Tentang Pekerjaan Verifikasi Perhitungan Losses LNG Pada Pelayanan Jasa Midstream LNG Benoa]]></cell><cell><![CDATA[PELINDO ENERGI LOGISTIK]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[02-11-2020]]></cell><cell><![CDATA[02-11-2021]]></cell><cell><![CDATA[944,533,333.0]]></cell><cell><![CDATA[707,878,400.0]]></cell><cell><![CDATA[236,654,933.0]]></cell><cell><![CDATA[944,533,333.0]]></cell><cell><![CDATA[707,878,400.0]]></cell><cell><![CDATA[236,654,933.0]]></cell><cell><![CDATA[257,600,001.0]]></cell><cell><![CDATA[193,050,000.0]]></cell><cell><![CDATA[64,550,001.0]]></cell><cell><![CDATA[27.27]]></cell><cell><![CDATA[27.27]]></cell><cell><![CDATA[27.3]]></cell><cell><![CDATA[27.3]]></cell><cell><![CDATA[12 %]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[94,453,333.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[11,500,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[48]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0920040037]]></cell><cell><![CDATA[RESERTIFIKASI/SERTIFIKASI ALAT ANGKAT DAN ANGKUT DI PT TERMINAL TELUK LAMONG]]></cell><cell><![CDATA[TERMINAL TELUK LAMONG]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[24-10-2020]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[832,473,344.0]]></cell><cell><![CDATA[540,975,000.0]]></cell><cell><![CDATA[291,498,344.0]]></cell><cell><![CDATA[832,473,344.0]]></cell><cell><![CDATA[540,975,000.0]]></cell><cell><![CDATA[291,498,344.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[180,000,000.0]]></cell><cell><![CDATA[99,731,450.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[49]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0920990002]]></cell><cell><![CDATA[Survey, Desain & Supervisi]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-01-2020]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[5,000,000.0]]></cell><cell><![CDATA[-5,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[5,000,000.0]]></cell><cell><![CDATA[-5,000,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[10,450,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[50]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0920990003]]></cell><cell><![CDATA[K3 & Pengendalian Potensi Bahaya Besar]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-01-2020]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[4,500,000.0]]></cell><cell><![CDATA[-4,500,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[4,500,000.0]]></cell><cell><![CDATA[-4,500,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[298,000,000.0]]></cell><cell><![CDATA[1,200,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[51]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0920990006]]></cell><cell><![CDATA[Sertifikasi Layak Operasi]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-01-2020]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[92,825,381.0]]></cell><cell><![CDATA[-92,825,381.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[92,825,381.0]]></cell><cell><![CDATA[-92,825,381.0]]></cell><cell><![CDATA[-56,818,182.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[-56,818,182.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[23,310,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[92,825,381.0]]></cell><cell><![CDATA[
+                ]]></cell></row>
+<row><cell><![CDATA[52]]></cell><cell><![CDATA[SI CAB SURABAYA]]></cell><cell><![CDATA[0920990024]]></cell><cell><![CDATA[Statutory Inspection]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[
+            
+            ]]></cell><cell><![CDATA[01-01-2020]]></cell><cell><![CDATA[31-12-2020]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[120,375,000.0]]></cell><cell><![CDATA[-120,375,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[120,375,000.0]]></cell><cell><![CDATA[-120,375,000.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[]]></cell><cell><![CDATA[41,428,150.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[0.0]]></cell><cell><![CDATA[
+                ]]></cell></row></rows>

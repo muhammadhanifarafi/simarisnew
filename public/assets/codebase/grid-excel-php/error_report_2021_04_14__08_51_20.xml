@@ -1,0 +1,97 @@
+<rows profile='color'><head><columns><column  width='50' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[No.]]></column><column  width='220' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Klien]]></column><column  width='320' align='left' type='ron' hidden='false' sort='int' color=''><![CDATA[ Nama Proyek]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[ Nilai Kontrak]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='3' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[27,497,799,000]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[BP KAWASAN PERDAGANGAN & PELABUHAN BEBAS BATAM (BP BATAM)]]></cell><cell><![CDATA[7,000,000,000]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ASDP INDONESIA FERRY (PERSERO), PT]]></cell><cell><![CDATA[1,000,000,000]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ENERGI LISTRIK BATAM]]></cell><cell><![CDATA[209,250,000]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[3,005,200,000]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[6,454,799,000]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[2,640,000,000]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[600,000,000]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[277,550,000]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[2,325,200,000]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[239,000,000]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[284,500,000]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[BP KAWASAN PERDAGANGAN & PELABUHAN BEBAS BATAM (BP BATAM)]]></cell><cell><![CDATA[1,500,000,000]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1,122,400,000]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[363,200,000]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[359,200,000]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[17]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[117,500,000]]></cell></row></rows><rows profile='color'><head><columns><column  width='50' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[No.]]></column><column  width='220' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Klien]]></column><column  width='320' align='left' type='ron' hidden='false' sort='int' color=''><![CDATA[ Nama Proyek]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[ Nilai Kontrak]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='3' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[27,497,799,000]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[BP KAWASAN PERDAGANGAN & PELABUHAN BEBAS BATAM (BP BATAM)]]></cell><cell><![CDATA[7,000,000,000]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ASDP INDONESIA FERRY (PERSERO), PT]]></cell><cell><![CDATA[1,000,000,000]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ENERGI LISTRIK BATAM]]></cell><cell><![CDATA[209,250,000]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[3,005,200,000]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[6,454,799,000]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[2,640,000,000]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[600,000,000]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[277,550,000]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[2,325,200,000]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[239,000,000]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[284,500,000]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[BP KAWASAN PERDAGANGAN & PELABUHAN BEBAS BATAM (BP BATAM)]]></cell><cell><![CDATA[1,500,000,000]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1,122,400,000]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[363,200,000]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[359,200,000]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[17]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[117,500,000]]></cell></row></rows><rows profile='color'><head><columns><column  width='50' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[No.]]></column><column  width='220' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Klien]]></column><column  width='320' align='left' type='ron' hidden='false' sort='int' color=''><![CDATA[ Nama Proyek]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[ Nilai Kontrak]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='3' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[27,497,799,000]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[BP KAWASAN PERDAGANGAN & PELABUHAN BEBAS BATAM (BP BATAM)]]></cell><cell><![CDATA[7,000,000,000]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ASDP INDONESIA FERRY (PERSERO), PT]]></cell><cell><![CDATA[1,000,000,000]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ENERGI LISTRIK BATAM]]></cell><cell><![CDATA[209,250,000]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[3,005,200,000]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[6,454,799,000]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[2,640,000,000]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[600,000,000]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[277,550,000]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[2,325,200,000]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[239,000,000]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[284,500,000]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[BP KAWASAN PERDAGANGAN & PELABUHAN BEBAS BATAM (BP BATAM)]]></cell><cell><![CDATA[1,500,000,000]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1,122,400,000]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[363,200,000]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[359,200,000]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[17]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[117,500,000]]></cell></row></rows><rows profile='color'><head><columns><column  width='50' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[No.]]></column><column  width='220' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Klien]]></column><column  width='320' align='left' type='ron' hidden='false' sort='int' color=''><![CDATA[ Nama Proyek]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[ Nilai Kontrak]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='3' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[27,497,799,000]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[BP KAWASAN PERDAGANGAN & PELABUHAN BEBAS BATAM (BP BATAM)]]></cell><cell><![CDATA[7,000,000,000]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ASDP INDONESIA FERRY (PERSERO), PT]]></cell><cell><![CDATA[1,000,000,000]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ENERGI LISTRIK BATAM]]></cell><cell><![CDATA[209,250,000]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[3,005,200,000]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[6,454,799,000]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[2,640,000,000]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[600,000,000]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[277,550,000]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[2,325,200,000]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[239,000,000]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[284,500,000]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[BP KAWASAN PERDAGANGAN & PELABUHAN BEBAS BATAM (BP BATAM)]]></cell><cell><![CDATA[1,500,000,000]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1,122,400,000]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[363,200,000]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[359,200,000]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[17]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[117,500,000]]></cell></row></rows>
