@@ -1,0 +1,989 @@
+<rows profile='color'><head><columns><column  width='50' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[No.]]></column><column  width='220' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Klien]]></column><column  width='320' align='left' type='ron' hidden='false' sort='int' color=''><![CDATA[ Nama Proyek]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[ Piutang]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='3' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[1,634,782,205]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[ABADI HARUMAN JAYA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[AGRINDO]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[AGRINDO MANUFACTURING FACTORY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[AGUNG NAMASKARA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[ALFA RETAILINDO]]></cell><cell><![CDATA[SERTIFIKASI LAIK OPERASI(SLO)KETENAGALISTRIKAN_18]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[ANAYA GLOBAL INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[ANEKA GAS INDUSTRI]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[ANEKA GAS INDUSTRI]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[ANGKASA PURA II (PERSERO)]]></cell><cell><![CDATA[Standarisasi Harga Satuan Di Lingkungan PT Angkasa Pura II (Persero)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[ANGKASA PURA PROPERTI]]></cell><cell><![CDATA[Pekerjaan Pengadaan Jasa Konsultansi dan Pendampingan Pemilihan Mitra Pengadaan dan Pemasangan 14 Unit PMS di Bandara Syamsuddin Noor]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[ANUGERAH INTI MULIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[ANUGRAH DIPTA SEMESTA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[APPLE INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[ASATA UTAMA ELECTRICAL INDUSTR]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[ASDP INDONESIA FERRY (PERSERO)]]></cell><cell><![CDATA[Studi Kelayakan Pengadaan dan Penggunaan Lahan Untuk Kantong Parkir dan Peningkatan Operasional Pelabuhan Merak]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[ASSET PACIFIC]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[17]]></cell><cell><![CDATA[AUSTINDO AUFWIND NEW ENERGY]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[18]]></cell><cell><![CDATA[BAKRIE PIPE INDUSTRIES]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[19]]></cell><cell><![CDATA[BALABATU]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[20]]></cell><cell><![CDATA[BANGKIT BERKAH PERKASA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[21]]></cell><cell><![CDATA[BANGUN GRAHA PUTRA JAYA]]></cell><cell><![CDATA[TKDN KOMERSIAL 2018]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[22]]></cell><cell><![CDATA[BANK DKI]]></cell><cell><![CDATA[Pekerjaan Pengadaan Jasa Konsultan Manajemen Konstruksi untuk Fitout, Interior, Façade, Arsitekturatl/Struktural Proyek Gedung Juanda dan Matraman PT. Bank DKI]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[23]]></cell><cell><![CDATA[BANK DKI]]></cell><cell><![CDATA[Pekerjaan Pengadaan Jasa Konsultan Manajemen Konstruksi untuk Fitout, Interior, Façade, Arsitekturatl/Struktural Proyek Gedung Juanda dan Matraman PT. Bank DKI]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[24]]></cell><cell><![CDATA[BANK DKI]]></cell><cell><![CDATA[Manajemen Konstruksi Pekerjaan Renovasi Kantor PT Bank DKI Periode April 2019 s/d Desember 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[25]]></cell><cell><![CDATA[BARATA INDONESIA (PERSERO)]]></cell><cell><![CDATA[TKDN KOMERSIAL 2018]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[26]]></cell><cell><![CDATA[BARATA LESTARI]]></cell><cell><![CDATA[AUDIT SMK3 & LSUP 2018]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[27]]></cell><cell><![CDATA[BARINDO ANGGUN INDUSTRI]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[28]]></cell><cell><![CDATA[BERTIE SUKSES MAKMUR]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[29]]></cell><cell><![CDATA[BERTIE SUKSES MAKMUR]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[30]]></cell><cell><![CDATA[BINA USAHA SEJAHTERA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[31]]></cell><cell><![CDATA[BINTANG SURYA TUNAS MANDIRI]]></cell><cell><![CDATA[AUDIT SMK3 & LSUP 2018]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[32]]></cell><cell><![CDATA[BOJONG WESTPLAS]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[33]]></cell><cell><![CDATA[BP BERAU LTD]]></cell><cell><![CDATA[TKDN TANGGUH PROJECT_BP BERAU 2014-2021]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[34]]></cell><cell><![CDATA[BP BERAU LTD]]></cell><cell><![CDATA[TKDN TANGGUH PROJECT_BP BERAU 2014-2021]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[35]]></cell><cell><![CDATA[BP BERAU LTD]]></cell><cell><![CDATA[VERIFIKASI TKDN TANGGUH CONTRACTS 4420001603_BP BERAU_2017-2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[36]]></cell><cell><![CDATA[BP BERAU LTD]]></cell><cell><![CDATA[VERIFIKASI TKDN TANGGUH CONTRACTS 4420001603_BP BERAU_2017-2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[37]]></cell><cell><![CDATA[BPJS KETENAGAKERJAAN]]></cell><cell><![CDATA[Pekerjaan Jasa Konsultan Pengecekan Struktur Gedung Learning Center BPJS Ketenagakerjaan Di Bogor]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[38]]></cell><cell><![CDATA[BUKIT BAJA NUSANTARA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[39]]></cell><cell><![CDATA[BUMI STEEL INDONESIA]]></cell><cell><![CDATA[TKDN KOMERSIAL 2018]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[40]]></cell><cell><![CDATA[BUMIJAWA SENTOSA]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[41]]></cell><cell><![CDATA[CENTURY BATTERIES INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[42]]></cell><cell><![CDATA[CGGC - PRABA CONSORTIUM]]></cell><cell><![CDATA[TKDN IPP CGGC-PRABA_TAKALAR]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[43]]></cell><cell><![CDATA[CHITOSE INTERNASIONALTBK ]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[44]]></cell><cell><![CDATA[CIPTA CAHAYA AQILLA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[45]]></cell><cell><![CDATA[CITRA MAHASURYA INDUSTRIES]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[46]]></cell><cell><![CDATA[CITRA MEDIA PRISMA]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[47]]></cell><cell><![CDATA[CITRA MEDIA PRISMA]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[48]]></cell><cell><![CDATA[CT ADVANCED TECHNOLOGY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[49]]></cell><cell><![CDATA[DUTA HITA JAYA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[50]]></cell><cell><![CDATA[DUTA HITA JAYA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[51]]></cell><cell><![CDATA[DWI SUMBER ARCA WAJA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[25,000,000]]></cell></row>
+<row><cell><![CDATA[52]]></cell><cell><![CDATA[DWI SUMBER ARCA WAJA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[53]]></cell><cell><![CDATA[ELIA PRATAMA]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[54]]></cell><cell><![CDATA[ENVIRO PRIMA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[55]]></cell><cell><![CDATA[ERA ASTA MARIN NUSANTARA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[33,000,000]]></cell></row>
+<row><cell><![CDATA[56]]></cell><cell><![CDATA[ERA ASTA MARIN NUSANTARA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[57]]></cell><cell><![CDATA[ERAS PUTRA MANDIRI]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[58]]></cell><cell><![CDATA[ERICSSON INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[59]]></cell><cell><![CDATA[ERIJO BERSAUDARA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[60]]></cell><cell><![CDATA[EXPERTEST KALIPER NUSANTARA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[61]]></cell><cell><![CDATA[FARCA RISA SEJAHTERA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[38,500,000]]></cell></row>
+<row><cell><![CDATA[62]]></cell><cell><![CDATA[FUTURE PIPE INDUSTRIES]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[63]]></cell><cell><![CDATA[GARAM (PERSERO)]]></cell><cell><![CDATA[Pengukuran dan Pembangunan Sistem Informasi Geografis (GIS) Aset lahan PT Garam (Persero)]]></cell><cell><![CDATA[637,852,050]]></cell></row>
+<row><cell><![CDATA[64]]></cell><cell><![CDATA[GARAM (PERSERO)]]></cell><cell><![CDATA[Pengukuran dan Pembangunan Sistem Informasi Geografis (GIS) Aset lahan PT Garam (Persero)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[65]]></cell><cell><![CDATA[GARAM (PERSERO)]]></cell><cell><![CDATA[Pengukuran dan Pembangunan Sistem Informasi Geografis (GIS) Aset lahan PT Garam (Persero)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[66]]></cell><cell><![CDATA[GARAM (PERSERO)]]></cell><cell><![CDATA[Pengukuran dan Pembangunan Sistem Informasi Geografis (GIS) Aset lahan PT Garam (Persero)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[67]]></cell><cell><![CDATA[GARIS LINI]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[68]]></cell><cell><![CDATA[GENTING OIL KASURI PTE. LTD.]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[69]]></cell><cell><![CDATA[GRAND KARTECH TBK]]></cell><cell><![CDATA[TKDN KKKS Retail]]></cell><cell><![CDATA[52,250,000]]></cell></row>
+<row><cell><![CDATA[70]]></cell><cell><![CDATA[GUMILANG BAYU PERSADA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[3,500,000]]></cell></row>
+<row><cell><![CDATA[71]]></cell><cell><![CDATA[HALIBER JAYA]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[72]]></cell><cell><![CDATA[HEXING TECHNOLOGY]]></cell><cell><![CDATA[TKDN KOMERSIAL 2018]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[73]]></cell><cell><![CDATA[HONORIS INDUSTRY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[74]]></cell><cell><![CDATA[H-TECH OILFIELD EQUIPMENT]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[75]]></cell><cell><![CDATA[HUTAMA MANGGALA PERSADA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[76]]></cell><cell><![CDATA[IMECO INTER SARANA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[77]]></cell><cell><![CDATA[INDO STRAITS]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[78]]></cell><cell><![CDATA[INDOBARA BAHANA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[79]]></cell><cell><![CDATA[INDONESIA POWER]]></cell><cell><![CDATA[Pekerjaan Jasa Verifikasi Tingkat Komponen Dalam Negeri (TKDN) Proyek EPC MPP DFE Tersebar Papua (Paket 1)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[80]]></cell><cell><![CDATA[INDUSTRI KERETA API (PERSERO)]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[81]]></cell><cell><![CDATA[INSINDO INTI ABADI]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[82]]></cell><cell><![CDATA[INTEGRITAS SELARAS ABADI]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[83]]></cell><cell><![CDATA[INTI BANGUN SEJAHTERA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[84]]></cell><cell><![CDATA[JAKARTA INTILAND]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[85]]></cell><cell><![CDATA[JAKARTA INTILAND]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[86]]></cell><cell><![CDATA[JASUINDO HID SECURITY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[87]]></cell><cell><![CDATA[JAYA BETON]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[88]]></cell><cell><![CDATA[JAYA SENTRIKON INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[89]]></cell><cell><![CDATA[JAYA SMART CONSULTANT]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[90]]></cell><cell><![CDATA[JEMBO CABLE COMPANY TBK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[91]]></cell><cell><![CDATA[JEMBO CABLE COMPANY TBK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[92]]></cell><cell><![CDATA[JEMBO ENERGINDO]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[93]]></cell><cell><![CDATA[JOB PERTAMINA - TALISMAN (JAMBI MERANG)]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[94]]></cell><cell><![CDATA[JUSTUS SAKTI RAYA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[95]]></cell><cell><![CDATA[KARILLA BERKAT ABADI]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[96]]></cell><cell><![CDATA[KARTINI UTAMA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[97]]></cell><cell><![CDATA[KARYA MEGA SARANA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[98]]></cell><cell><![CDATA[KEMENTERIAN KOMUNIKASI DAN INFORMATIKA]]></cell><cell><![CDATA[PENGADAAN JASA LAINNYA PEMETAAN SUPPLY DAN DEMAND DALAM RANGKA PERCEPATAN AKSES TETAP PITALEBAR DI YOGYAKARTA]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[99]]></cell><cell><![CDATA[KEMENTERIAN KOMUNIKASI DAN INFORMATIKA]]></cell><cell><![CDATA[PENGADAAN JASA LAINNYA PEMETAAN SUPPLY DAN DEMAND DALAM RANGKA PERCEPATAN AKSES TETAP PITALEBAR DI JAWA TENGAH]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[100]]></cell><cell><![CDATA[KENCANA GRAHA OPTIMA]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[101]]></cell><cell><![CDATA[KENCANA TEKNIKATAMA SENTOSA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[102]]></cell><cell><![CDATA[KHARISMA CIPTA LUGAS]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[103]]></cell><cell><![CDATA[KHI PIPE INDUSTRIES]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[104]]></cell><cell><![CDATA[KMI WIRE AND CABLE TBK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[105]]></cell><cell><![CDATA[KOMATSU INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[106]]></cell><cell><![CDATA[KOMATSU INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[107]]></cell><cell><![CDATA[KOPSURINDO NIAGA UTAMA]]></cell><cell><![CDATA[SEWA TENANT 2018]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[108]]></cell><cell><![CDATA[KRAKATAU STEEL (PERSERO) TBK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[55,000,000]]></cell></row>
+<row><cell><![CDATA[109]]></cell><cell><![CDATA[KUBOTA INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[110]]></cell><cell><![CDATA[KUNINGAN NUSAJAYA]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[111]]></cell><cell><![CDATA[LANGGENG GEMILANG SEJAHTERA]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[112]]></cell><cell><![CDATA[LEN TELEKOMUNIKASI INDONESIA]]></cell><cell><![CDATA[PALAPA RING TENGAH_FASE DRM & KONSTRUKSI]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[113]]></cell><cell><![CDATA[LEN TELEKOMUNIKASI INDONESIA]]></cell><cell><![CDATA[PALAPA RING TENGAH_FASE DRM & KONSTRUKSI]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[114]]></cell><cell><![CDATA[LEN TELEKOMUNIKASI INDONESIA]]></cell><cell><![CDATA[PENGADAAN JASA KONSULTAN PENGAWAS INDEPENDEN 
+PALAPA RING PAKET TENGAH, TAHAP OM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[115]]></cell><cell><![CDATA[MAJU MANDIRI UTAMA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[116]]></cell><cell><![CDATA[MANDIRI DINAMIKA SEJAHTERA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[117]]></cell><cell><![CDATA[MAXI TIGA INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[118]]></cell><cell><![CDATA[MAXI TIGA INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[119]]></cell><cell><![CDATA[MEGA KARYA PERKASA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[120]]></cell><cell><![CDATA[MENARA CAPITAL INDONUSA]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[121]]></cell><cell><![CDATA[MITRA GALPERTI]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[122]]></cell><cell><![CDATA[MITRA RAJAWALI BANJARAN]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[123]]></cell><cell><![CDATA[MITRA UTAMA SERTIFIKASI]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[124]]></cell><cell><![CDATA[MITS DUTA UTAMA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[125]]></cell><cell><![CDATA[MITSUBISHI CORPORATION]]></cell><cell><![CDATA[TKDN IPP MHPS JAWA 2_MITSUBISHI CORP.]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[126]]></cell><cell><![CDATA[MORAWA ELECTRIC TRANSBUANA MEDAN]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[127]]></cell><cell><![CDATA[MULCINDO]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[128]]></cell><cell><![CDATA[MUSTIKA INDAH PERMAI]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[129]]></cell><cell><![CDATA[MUTIARA INDAH PURNAMA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[130]]></cell><cell><![CDATA[NIPRESS TBK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[22,000,000]]></cell></row>
+<row><cell><![CDATA[131]]></cell><cell><![CDATA[NIPRO INDONESIA JAYA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[132]]></cell><cell><![CDATA[NORDEX LIGHTING INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[21,450,000]]></cell></row>
+<row><cell><![CDATA[133]]></cell><cell><![CDATA[NS BLUESCOPE LYSAGHT INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[134]]></cell><cell><![CDATA[NS BLUESCOPE STEEL INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[135]]></cell><cell><![CDATA[NUSANTARA ELETRIK]]></cell><cell><![CDATA[TKDN KOMERSIAL 2018]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[136]]></cell><cell><![CDATA[PALAPA RING BARAT]]></cell><cell><![CDATA[PELAKSANAAN PEKERJAAN KONSULTAN PENGAWAS INDEPENDEN, TAHAP OPERATION DAN MAINTENANCE]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[137]]></cell><cell><![CDATA[PALAPA RING BARAT]]></cell><cell><![CDATA[PELAKSANAAN PEKERJAAN KONSULTAN PENGAWAS INDEPENDEN, TAHAP OPERATION DAN MAINTENANCE]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[138]]></cell><cell><![CDATA[PALAPA RING BARAT]]></cell><cell><![CDATA[PELAKSANAAN PEKERJAAN KONSULTAN PENGAWAS INDEPENDEN, TAHAP OPERATION DAN MAINTENANCE]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[139]]></cell><cell><![CDATA[PALAPA RING BARAT]]></cell><cell><![CDATA[PELAKSANAAN PEKERJAAN KONSULTAN PENGAWAS INDEPENDEN, TAHAP OPERATION DAN MAINTENANCE]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[140]]></cell><cell><![CDATA[PANGLIMA SIAGA BANGSA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[141]]></cell><cell><![CDATA[PARAMITRA MULTI PRAKASA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[142]]></cell><cell><![CDATA[PELABUHAN PENAJAM BANUA TAKA]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[143]]></cell><cell><![CDATA[PERIKANAN NUSANTARA (PERSERO)]]></cell><cell><![CDATA[ Pekerjaan Jasa KJA PT. Perinus]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[144]]></cell><cell><![CDATA[PERIKANAN NUSANTARA (PERSERO)]]></cell><cell><![CDATA[Jasa Konsultan Managemen Konstruksi atas Perubahan Petunjuk Operasi Pemanfaatan Dana PMN-2015]]></cell><cell><![CDATA[301,903,800]]></cell></row>
+<row><cell><![CDATA[145]]></cell><cell><![CDATA[PERIKANAN NUSANTARA (PERSERO)]]></cell><cell><![CDATA[Jasa Konsultan Managemen Konstruksi atas Perubahan Petunjuk Operasi Pemanfaatan Dana PMN-2015]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[146]]></cell><cell><![CDATA[PERIKANAN NUSANTARA (PERSERO)]]></cell><cell><![CDATA[Jasa Konsultan Managemen Konstruksi atas Perubahan Petunjuk Operasi Pemanfaatan Dana PMN-2015]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[147]]></cell><cell><![CDATA[PERTAMINA HULU MAHAKAM]]></cell><cell><![CDATA[Provision of Monitoring And Post Audit TKDN Verification]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[148]]></cell><cell><![CDATA[PETROCHINA INTERNATIONAL JABUNG LTD]]></cell><cell><![CDATA[TKDN KKKS Retail]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[149]]></cell><cell><![CDATA[PETRONAS]]></cell><cell><![CDATA[TKDN PC MURIAH_PETRONAS_2017-2022]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[150]]></cell><cell><![CDATA[PETRONAS]]></cell><cell><![CDATA[TKDN PC MURIAH_PETRONAS_2017-2022]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[151]]></cell><cell><![CDATA[PETROSEA TBK]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[152]]></cell><cell><![CDATA[PHE ONWJ]]></cell><cell><![CDATA[Provision of Monitoring And Post Audit TKDN Verification]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[153]]></cell><cell><![CDATA[PLN (PERSERO)]]></cell><cell><![CDATA[Design Review PLTMG Jayapura, Bau Bau, Ambon]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[154]]></cell><cell><![CDATA[PLN (PERSERO)]]></cell><cell><![CDATA[Design Review PLTMG Jayapura, Bau Bau, Ambon]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[155]]></cell><cell><![CDATA[PLN (PERSERO)]]></cell><cell><![CDATA[Design Review PLTMG Jayapura, Bau Bau, Ambon]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[156]]></cell><cell><![CDATA[PLN (PERSERO)]]></cell><cell><![CDATA[Design Review PLTMG Jayapura, Bau Bau, Ambon]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[157]]></cell><cell><![CDATA[PLN (PERSERO)]]></cell><cell><![CDATA[Design Review PLTMG Jayapura, Bau Bau, Ambon]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[158]]></cell><cell><![CDATA[PLN (PERSERO)]]></cell><cell><![CDATA[Counterpart Konsultan Supervisi Desain Review Fixed Type Gas Engine Power Plant Package II PLTMG Alor (10 MW), PLTMG Waingapu (10 MW), PLTMG Nunukan 2 (10 MW), PLTMG Namlea (10 MW), PLTMG Dobo (10 MW), PLTMG Saumlaki (10 MW) dan PLTMG Serui (10 MW)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[159]]></cell><cell><![CDATA[PLN (PERSERO)]]></cell><cell><![CDATA[Counterpart Konsultan Supervisi Desain Review Fixed Type Gas Engine Power Plant Package II PLTMG Alor (10 MW), PLTMG Waingapu (10 MW), PLTMG Nunukan 2 (10 MW), PLTMG Namlea (10 MW), PLTMG Dobo (10 MW), PLTMG Saumlaki (10 MW) dan PLTMG Serui (10 MW)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[160]]></cell><cell><![CDATA[PLN (PERSERO)]]></cell><cell><![CDATA[Counterpart Konsultan Supervisi Desain Review Fixed Type Gas Engine Power Plant Package II PLTMG Alor (10 MW), PLTMG Waingapu (10 MW), PLTMG Nunukan 2 (10 MW), PLTMG Namlea (10 MW), PLTMG Dobo (10 MW), PLTMG Saumlaki (10 MW) dan PLTMG Serui (10 MW)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[161]]></cell><cell><![CDATA[PLN (PERSERO)]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[162]]></cell><cell><![CDATA[POWERINDO PRIMA PERKASA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[163]]></cell><cell><![CDATA[PPPSRS APARTEMEN SAUTAMA]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[1,010,455]]></cell></row>
+<row><cell><![CDATA[164]]></cell><cell><![CDATA[PRISLED INNOVATIVE LIGHTING INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[165]]></cell><cell><![CDATA[PUMPA CAKRAWALA MULIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[29,700,000]]></cell></row>
+<row><cell><![CDATA[166]]></cell><cell><![CDATA[PURA MAYUNGAN]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[167]]></cell><cell><![CDATA[PUTERA KENCANA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[168]]></cell><cell><![CDATA[QIARA UTAMA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[169]]></cell><cell><![CDATA[RAHMAT KURNIA ABADI]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[170]]></cell><cell><![CDATA[RAMAYANA LESTARI SENTOSA TBK]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[171]]></cell><cell><![CDATA[RAMAYANA LESTARI SENTOSA TBK]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[172]]></cell><cell><![CDATA[RANGGALANGI CIPTA SARANA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[173]]></cell><cell><![CDATA[ROTEQ]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[60,000,000]]></cell></row>
+<row><cell><![CDATA[174]]></cell><cell><![CDATA[ROTEQ]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[175]]></cell><cell><![CDATA[SAKA TEHNIK UTAMA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[176]]></cell><cell><![CDATA[SANKEINDO]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[177]]></cell><cell><![CDATA[SANTINILESTARI ENERGI INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[178]]></cell><cell><![CDATA[SANWA PEFAB TECHNOLOGY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[179]]></cell><cell><![CDATA[SCHNEIDER ELECTRIC]]></cell><cell><![CDATA[TKDN KOMERSIAL 2018]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[180]]></cell><cell><![CDATA[SCHNEIDER ELECTRIC]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[181]]></cell><cell><![CDATA[SEGITIGA PLAZA HOTEL (LUMIRE HOTEL & CC)]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[182]]></cell><cell><![CDATA[SEMANGAT SEMESTA MARINE SAFETY]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[183]]></cell><cell><![CDATA[SEMBADA ARTA ENERGY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[184]]></cell><cell><![CDATA[SEMBADA ARTA ENERGY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[185]]></cell><cell><![CDATA[SEMBADA ARTA ENERGY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[186]]></cell><cell><![CDATA[SEMBADA ARTA ENERGY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[187]]></cell><cell><![CDATA[SEMBADA ARTA ENERGY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[188]]></cell><cell><![CDATA[SENATAMA LABORANUSA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[27,500,000]]></cell></row>
+<row><cell><![CDATA[189]]></cell><cell><![CDATA[SENTOSA SAKTI MAKMUR]]></cell><cell><![CDATA[TKDN KOMERSIAL 2018]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[190]]></cell><cell><![CDATA[SENTOSA SAKTI MAKMUR]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[191]]></cell><cell><![CDATA[SHELL INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[192]]></cell><cell><![CDATA[SIERAD PRODUCE TBK]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[193]]></cell><cell><![CDATA[SIERAD PRODUCE TBK]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[194]]></cell><cell><![CDATA[SINARINDO WIRANUSA ELEKTRIK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[195]]></cell><cell><![CDATA[SINARINDO WIRANUSA ELEKTRIK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[196]]></cell><cell><![CDATA[SINTRA SINARINDO ELEKTRIK]]></cell><cell><![CDATA[TKDN KOMERSIAL 2018]]></cell><cell><![CDATA[54,450,000]]></cell></row>
+<row><cell><![CDATA[197]]></cell><cell><![CDATA[SINTRA SINARINDO ELEKTRIK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[198]]></cell><cell><![CDATA[SINTRA SINARINDO ELEKTRIK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[199]]></cell><cell><![CDATA[SRIKANDI BERKAH UTAMA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[200]]></cell><cell><![CDATA[SRIWIJAYA MEKANIKA INDOTEKNIK]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[201]]></cell><cell><![CDATA[STAINLESS STEEL PRIMAVALVE]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[27,500,000]]></cell></row>
+<row><cell><![CDATA[202]]></cell><cell><![CDATA[STEEL PIPE INDUSTRY OF INDONESIA TBK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[203]]></cell><cell><![CDATA[SUCACO]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[204]]></cell><cell><![CDATA[SUMBER ENERGI TERBARUKAN INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[55,000,000]]></cell></row>
+<row><cell><![CDATA[205]]></cell><cell><![CDATA[SUMITOMO CORPORATION]]></cell><cell><![CDATA[Local Content TKDN Monitoring & Consultancy]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[206]]></cell><cell><![CDATA[SUNDAYA INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[207]]></cell><cell><![CDATA[SUPERTONE]]></cell><cell><![CDATA[TKDN KOMERSIAL 2018]]></cell><cell><![CDATA[33,000,000]]></cell></row>
+<row><cell><![CDATA[208]]></cell><cell><![CDATA[SURYA SUMEBAR]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[209]]></cell><cell><![CDATA[SYMPHOS ELECTRIC]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[210]]></cell><cell><![CDATA[TAC PERTAMINA EP - PT PRAKARSA BETUNG MERUO SENAMI JAMBI]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[211]]></cell><cell><![CDATA[TARUNA PUTRA PERTIWI]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[212]]></cell><cell><![CDATA[TELEHOUSE ENGINEERING]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[213]]></cell><cell><![CDATA[TERNARY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[214]]></cell><cell><![CDATA[TIANG BETON BRM]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[215]]></cell><cell><![CDATA[TIGA INSAN SEJAHTERA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[216]]></cell><cell><![CDATA[TIGA PILAR SEJAHTERA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[217]]></cell><cell><![CDATA[TIMUR MEGAH STEEL]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[218]]></cell><cell><![CDATA[TIMURAYA TUNGGAL]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[44,000,000]]></cell></row>
+<row><cell><![CDATA[219]]></cell><cell><![CDATA[TJAKRINDO MAS]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[220]]></cell><cell><![CDATA[TORISHIMA GUNA ENGINEERING]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[221]]></cell><cell><![CDATA[TOTALINDO EKA PERSADA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[222]]></cell><cell><![CDATA[TRAFOINDO PRIMA PERKASA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[223]]></cell><cell><![CDATA[TRANS RETAIL INDONESIA]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[224]]></cell><cell><![CDATA[TRIMANUNGGAL KARYATAMA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[225]]></cell><cell><![CDATA[TRIPUTRA ELECTRIC ABADI]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[226]]></cell><cell><![CDATA[TRIPUTRA ELECTRIC ABADI]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[227]]></cell><cell><![CDATA[TUNAS MAKMUR JAYA ABADI]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[228]]></cell><cell><![CDATA[VORTEX CONVEYOR INTERNATIONAL]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[229]]></cell><cell><![CDATA[WANAMITRA PERMAI]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[230]]></cell><cell><![CDATA[WASKITA JAYA PURNAMA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[231]]></cell><cell><![CDATA[WIJAYA KARYA (PERSERO) TBK]]></cell><cell><![CDATA[Inland Transport Cargo Engine MAN & Transport_WIKA]]></cell><cell><![CDATA[41,789,000]]></cell></row>
+<row><cell><![CDATA[232]]></cell><cell><![CDATA[WIJAYA KARYA (PERSERO) TBK]]></cell><cell><![CDATA[Internal Kalibrasi 3 Unit Tangki di Sumbawa, Maumere, Bima]]></cell><cell><![CDATA[70,376,900]]></cell></row>
+<row><cell><![CDATA[233]]></cell><cell><![CDATA[WIJAYA KARYA (PERSERO) TBK]]></cell><cell><![CDATA[Monitoring TKDN Proyek Pembangunan Pabrik Halmahera Timur  (P3FH) EPC antara PT. Antam (Persero) TBK dan Konsorsium antara PT. Wijaya Karya (Persero) TBK dan Kawasaki Heavy Industries, LTD]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[234]]></cell><cell><![CDATA[WIJAYA KARYA (PERSERO) TBK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[235]]></cell><cell><![CDATA[WINGTECH TECHNOLOGY INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[236]]></cell><cell><![CDATA[XIAOMI TECHNOLOGY INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[237]]></cell><cell><![CDATA[YANG MANDIRI UTAMA SUKSES]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[238]]></cell><cell><![CDATA[YUASA BATTERY INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[239]]></cell><cell><![CDATA[ZEUS KIMIATAMA INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row></rows><rows profile='color'><head><columns><column  width='50' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[No.]]></column><column  width='220' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Klien]]></column><column  width='320' align='left' type='ron' hidden='false' sort='int' color=''><![CDATA[ Nama Proyek]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[ Piutang]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='3' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[1,634,782,205]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[ABADI HARUMAN JAYA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[AGRINDO]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[AGRINDO MANUFACTURING FACTORY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[AGUNG NAMASKARA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[ALFA RETAILINDO]]></cell><cell><![CDATA[SERTIFIKASI LAIK OPERASI(SLO)KETENAGALISTRIKAN_18]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[ANAYA GLOBAL INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[ANEKA GAS INDUSTRI]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[ANEKA GAS INDUSTRI]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[ANGKASA PURA II (PERSERO)]]></cell><cell><![CDATA[Standarisasi Harga Satuan Di Lingkungan PT Angkasa Pura II (Persero)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[ANGKASA PURA PROPERTI]]></cell><cell><![CDATA[Pekerjaan Pengadaan Jasa Konsultansi dan Pendampingan Pemilihan Mitra Pengadaan dan Pemasangan 14 Unit PMS di Bandara Syamsuddin Noor]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[ANUGERAH INTI MULIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[ANUGRAH DIPTA SEMESTA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[APPLE INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[ASATA UTAMA ELECTRICAL INDUSTR]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[ASDP INDONESIA FERRY (PERSERO)]]></cell><cell><![CDATA[Studi Kelayakan Pengadaan dan Penggunaan Lahan Untuk Kantong Parkir dan Peningkatan Operasional Pelabuhan Merak]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[ASSET PACIFIC]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[17]]></cell><cell><![CDATA[AUSTINDO AUFWIND NEW ENERGY]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[18]]></cell><cell><![CDATA[BAKRIE PIPE INDUSTRIES]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[19]]></cell><cell><![CDATA[BALABATU]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[20]]></cell><cell><![CDATA[BANGKIT BERKAH PERKASA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[21]]></cell><cell><![CDATA[BANGUN GRAHA PUTRA JAYA]]></cell><cell><![CDATA[TKDN KOMERSIAL 2018]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[22]]></cell><cell><![CDATA[BANK DKI]]></cell><cell><![CDATA[Pekerjaan Pengadaan Jasa Konsultan Manajemen Konstruksi untuk Fitout, Interior, Façade, Arsitekturatl/Struktural Proyek Gedung Juanda dan Matraman PT. Bank DKI]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[23]]></cell><cell><![CDATA[BANK DKI]]></cell><cell><![CDATA[Pekerjaan Pengadaan Jasa Konsultan Manajemen Konstruksi untuk Fitout, Interior, Façade, Arsitekturatl/Struktural Proyek Gedung Juanda dan Matraman PT. Bank DKI]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[24]]></cell><cell><![CDATA[BANK DKI]]></cell><cell><![CDATA[Manajemen Konstruksi Pekerjaan Renovasi Kantor PT Bank DKI Periode April 2019 s/d Desember 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[25]]></cell><cell><![CDATA[BARATA INDONESIA (PERSERO)]]></cell><cell><![CDATA[TKDN KOMERSIAL 2018]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[26]]></cell><cell><![CDATA[BARATA LESTARI]]></cell><cell><![CDATA[AUDIT SMK3 & LSUP 2018]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[27]]></cell><cell><![CDATA[BARINDO ANGGUN INDUSTRI]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[28]]></cell><cell><![CDATA[BERTIE SUKSES MAKMUR]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[29]]></cell><cell><![CDATA[BERTIE SUKSES MAKMUR]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[30]]></cell><cell><![CDATA[BINA USAHA SEJAHTERA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[31]]></cell><cell><![CDATA[BINTANG SURYA TUNAS MANDIRI]]></cell><cell><![CDATA[AUDIT SMK3 & LSUP 2018]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[32]]></cell><cell><![CDATA[BOJONG WESTPLAS]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[33]]></cell><cell><![CDATA[BP BERAU LTD]]></cell><cell><![CDATA[TKDN TANGGUH PROJECT_BP BERAU 2014-2021]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[34]]></cell><cell><![CDATA[BP BERAU LTD]]></cell><cell><![CDATA[TKDN TANGGUH PROJECT_BP BERAU 2014-2021]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[35]]></cell><cell><![CDATA[BP BERAU LTD]]></cell><cell><![CDATA[VERIFIKASI TKDN TANGGUH CONTRACTS 4420001603_BP BERAU_2017-2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[36]]></cell><cell><![CDATA[BP BERAU LTD]]></cell><cell><![CDATA[VERIFIKASI TKDN TANGGUH CONTRACTS 4420001603_BP BERAU_2017-2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[37]]></cell><cell><![CDATA[BPJS KETENAGAKERJAAN]]></cell><cell><![CDATA[Pekerjaan Jasa Konsultan Pengecekan Struktur Gedung Learning Center BPJS Ketenagakerjaan Di Bogor]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[38]]></cell><cell><![CDATA[BUKIT BAJA NUSANTARA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[39]]></cell><cell><![CDATA[BUMI STEEL INDONESIA]]></cell><cell><![CDATA[TKDN KOMERSIAL 2018]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[40]]></cell><cell><![CDATA[BUMIJAWA SENTOSA]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[41]]></cell><cell><![CDATA[CENTURY BATTERIES INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[42]]></cell><cell><![CDATA[CGGC - PRABA CONSORTIUM]]></cell><cell><![CDATA[TKDN IPP CGGC-PRABA_TAKALAR]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[43]]></cell><cell><![CDATA[CHITOSE INTERNASIONALTBK ]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[44]]></cell><cell><![CDATA[CIPTA CAHAYA AQILLA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[45]]></cell><cell><![CDATA[CITRA MAHASURYA INDUSTRIES]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[46]]></cell><cell><![CDATA[CITRA MEDIA PRISMA]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[47]]></cell><cell><![CDATA[CITRA MEDIA PRISMA]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[48]]></cell><cell><![CDATA[CT ADVANCED TECHNOLOGY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[49]]></cell><cell><![CDATA[DUTA HITA JAYA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[50]]></cell><cell><![CDATA[DUTA HITA JAYA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[51]]></cell><cell><![CDATA[DWI SUMBER ARCA WAJA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[25,000,000]]></cell></row>
+<row><cell><![CDATA[52]]></cell><cell><![CDATA[DWI SUMBER ARCA WAJA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[53]]></cell><cell><![CDATA[ELIA PRATAMA]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[54]]></cell><cell><![CDATA[ENVIRO PRIMA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[55]]></cell><cell><![CDATA[ERA ASTA MARIN NUSANTARA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[33,000,000]]></cell></row>
+<row><cell><![CDATA[56]]></cell><cell><![CDATA[ERA ASTA MARIN NUSANTARA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[57]]></cell><cell><![CDATA[ERAS PUTRA MANDIRI]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[58]]></cell><cell><![CDATA[ERICSSON INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[59]]></cell><cell><![CDATA[ERIJO BERSAUDARA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[60]]></cell><cell><![CDATA[EXPERTEST KALIPER NUSANTARA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[61]]></cell><cell><![CDATA[FARCA RISA SEJAHTERA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[38,500,000]]></cell></row>
+<row><cell><![CDATA[62]]></cell><cell><![CDATA[FUTURE PIPE INDUSTRIES]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[63]]></cell><cell><![CDATA[GARAM (PERSERO)]]></cell><cell><![CDATA[Pengukuran dan Pembangunan Sistem Informasi Geografis (GIS) Aset lahan PT Garam (Persero)]]></cell><cell><![CDATA[637,852,050]]></cell></row>
+<row><cell><![CDATA[64]]></cell><cell><![CDATA[GARAM (PERSERO)]]></cell><cell><![CDATA[Pengukuran dan Pembangunan Sistem Informasi Geografis (GIS) Aset lahan PT Garam (Persero)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[65]]></cell><cell><![CDATA[GARAM (PERSERO)]]></cell><cell><![CDATA[Pengukuran dan Pembangunan Sistem Informasi Geografis (GIS) Aset lahan PT Garam (Persero)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[66]]></cell><cell><![CDATA[GARAM (PERSERO)]]></cell><cell><![CDATA[Pengukuran dan Pembangunan Sistem Informasi Geografis (GIS) Aset lahan PT Garam (Persero)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[67]]></cell><cell><![CDATA[GARIS LINI]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[68]]></cell><cell><![CDATA[GENTING OIL KASURI PTE. LTD.]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[69]]></cell><cell><![CDATA[GRAND KARTECH TBK]]></cell><cell><![CDATA[TKDN KKKS Retail]]></cell><cell><![CDATA[52,250,000]]></cell></row>
+<row><cell><![CDATA[70]]></cell><cell><![CDATA[GUMILANG BAYU PERSADA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[3,500,000]]></cell></row>
+<row><cell><![CDATA[71]]></cell><cell><![CDATA[HALIBER JAYA]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[72]]></cell><cell><![CDATA[HEXING TECHNOLOGY]]></cell><cell><![CDATA[TKDN KOMERSIAL 2018]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[73]]></cell><cell><![CDATA[HONORIS INDUSTRY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[74]]></cell><cell><![CDATA[H-TECH OILFIELD EQUIPMENT]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[75]]></cell><cell><![CDATA[HUTAMA MANGGALA PERSADA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[76]]></cell><cell><![CDATA[IMECO INTER SARANA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[77]]></cell><cell><![CDATA[INDO STRAITS]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[78]]></cell><cell><![CDATA[INDOBARA BAHANA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[79]]></cell><cell><![CDATA[INDONESIA POWER]]></cell><cell><![CDATA[Pekerjaan Jasa Verifikasi Tingkat Komponen Dalam Negeri (TKDN) Proyek EPC MPP DFE Tersebar Papua (Paket 1)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[80]]></cell><cell><![CDATA[INDUSTRI KERETA API (PERSERO)]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[81]]></cell><cell><![CDATA[INSINDO INTI ABADI]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[82]]></cell><cell><![CDATA[INTEGRITAS SELARAS ABADI]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[83]]></cell><cell><![CDATA[INTI BANGUN SEJAHTERA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[84]]></cell><cell><![CDATA[JAKARTA INTILAND]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[85]]></cell><cell><![CDATA[JAKARTA INTILAND]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[86]]></cell><cell><![CDATA[JASUINDO HID SECURITY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[87]]></cell><cell><![CDATA[JAYA BETON]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[88]]></cell><cell><![CDATA[JAYA SENTRIKON INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[89]]></cell><cell><![CDATA[JAYA SMART CONSULTANT]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[90]]></cell><cell><![CDATA[JEMBO CABLE COMPANY TBK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[91]]></cell><cell><![CDATA[JEMBO CABLE COMPANY TBK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[92]]></cell><cell><![CDATA[JEMBO ENERGINDO]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[93]]></cell><cell><![CDATA[JOB PERTAMINA - TALISMAN (JAMBI MERANG)]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[94]]></cell><cell><![CDATA[JUSTUS SAKTI RAYA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[95]]></cell><cell><![CDATA[KARILLA BERKAT ABADI]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[96]]></cell><cell><![CDATA[KARTINI UTAMA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[97]]></cell><cell><![CDATA[KARYA MEGA SARANA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[98]]></cell><cell><![CDATA[KEMENTERIAN KOMUNIKASI DAN INFORMATIKA]]></cell><cell><![CDATA[PENGADAAN JASA LAINNYA PEMETAAN SUPPLY DAN DEMAND DALAM RANGKA PERCEPATAN AKSES TETAP PITALEBAR DI YOGYAKARTA]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[99]]></cell><cell><![CDATA[KEMENTERIAN KOMUNIKASI DAN INFORMATIKA]]></cell><cell><![CDATA[PENGADAAN JASA LAINNYA PEMETAAN SUPPLY DAN DEMAND DALAM RANGKA PERCEPATAN AKSES TETAP PITALEBAR DI JAWA TENGAH]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[100]]></cell><cell><![CDATA[KENCANA GRAHA OPTIMA]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[101]]></cell><cell><![CDATA[KENCANA TEKNIKATAMA SENTOSA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[102]]></cell><cell><![CDATA[KHARISMA CIPTA LUGAS]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[103]]></cell><cell><![CDATA[KHI PIPE INDUSTRIES]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[104]]></cell><cell><![CDATA[KMI WIRE AND CABLE TBK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[105]]></cell><cell><![CDATA[KOMATSU INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[106]]></cell><cell><![CDATA[KOMATSU INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[107]]></cell><cell><![CDATA[KOPSURINDO NIAGA UTAMA]]></cell><cell><![CDATA[SEWA TENANT 2018]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[108]]></cell><cell><![CDATA[KRAKATAU STEEL (PERSERO) TBK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[55,000,000]]></cell></row>
+<row><cell><![CDATA[109]]></cell><cell><![CDATA[KUBOTA INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[110]]></cell><cell><![CDATA[KUNINGAN NUSAJAYA]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[111]]></cell><cell><![CDATA[LANGGENG GEMILANG SEJAHTERA]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[112]]></cell><cell><![CDATA[LEN TELEKOMUNIKASI INDONESIA]]></cell><cell><![CDATA[PALAPA RING TENGAH_FASE DRM & KONSTRUKSI]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[113]]></cell><cell><![CDATA[LEN TELEKOMUNIKASI INDONESIA]]></cell><cell><![CDATA[PALAPA RING TENGAH_FASE DRM & KONSTRUKSI]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[114]]></cell><cell><![CDATA[LEN TELEKOMUNIKASI INDONESIA]]></cell><cell><![CDATA[PENGADAAN JASA KONSULTAN PENGAWAS INDEPENDEN 
+PALAPA RING PAKET TENGAH, TAHAP OM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[115]]></cell><cell><![CDATA[MAJU MANDIRI UTAMA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[116]]></cell><cell><![CDATA[MANDIRI DINAMIKA SEJAHTERA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[117]]></cell><cell><![CDATA[MAXI TIGA INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[118]]></cell><cell><![CDATA[MAXI TIGA INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[119]]></cell><cell><![CDATA[MEGA KARYA PERKASA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[120]]></cell><cell><![CDATA[MENARA CAPITAL INDONUSA]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[121]]></cell><cell><![CDATA[MITRA GALPERTI]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[122]]></cell><cell><![CDATA[MITRA RAJAWALI BANJARAN]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[123]]></cell><cell><![CDATA[MITRA UTAMA SERTIFIKASI]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[124]]></cell><cell><![CDATA[MITS DUTA UTAMA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[125]]></cell><cell><![CDATA[MITSUBISHI CORPORATION]]></cell><cell><![CDATA[TKDN IPP MHPS JAWA 2_MITSUBISHI CORP.]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[126]]></cell><cell><![CDATA[MORAWA ELECTRIC TRANSBUANA MEDAN]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[127]]></cell><cell><![CDATA[MULCINDO]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[128]]></cell><cell><![CDATA[MUSTIKA INDAH PERMAI]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[129]]></cell><cell><![CDATA[MUTIARA INDAH PURNAMA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[130]]></cell><cell><![CDATA[NIPRESS TBK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[22,000,000]]></cell></row>
+<row><cell><![CDATA[131]]></cell><cell><![CDATA[NIPRO INDONESIA JAYA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[132]]></cell><cell><![CDATA[NORDEX LIGHTING INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[21,450,000]]></cell></row>
+<row><cell><![CDATA[133]]></cell><cell><![CDATA[NS BLUESCOPE LYSAGHT INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[134]]></cell><cell><![CDATA[NS BLUESCOPE STEEL INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[135]]></cell><cell><![CDATA[NUSANTARA ELETRIK]]></cell><cell><![CDATA[TKDN KOMERSIAL 2018]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[136]]></cell><cell><![CDATA[PALAPA RING BARAT]]></cell><cell><![CDATA[PELAKSANAAN PEKERJAAN KONSULTAN PENGAWAS INDEPENDEN, TAHAP OPERATION DAN MAINTENANCE]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[137]]></cell><cell><![CDATA[PALAPA RING BARAT]]></cell><cell><![CDATA[PELAKSANAAN PEKERJAAN KONSULTAN PENGAWAS INDEPENDEN, TAHAP OPERATION DAN MAINTENANCE]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[138]]></cell><cell><![CDATA[PALAPA RING BARAT]]></cell><cell><![CDATA[PELAKSANAAN PEKERJAAN KONSULTAN PENGAWAS INDEPENDEN, TAHAP OPERATION DAN MAINTENANCE]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[139]]></cell><cell><![CDATA[PALAPA RING BARAT]]></cell><cell><![CDATA[PELAKSANAAN PEKERJAAN KONSULTAN PENGAWAS INDEPENDEN, TAHAP OPERATION DAN MAINTENANCE]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[140]]></cell><cell><![CDATA[PANGLIMA SIAGA BANGSA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[141]]></cell><cell><![CDATA[PARAMITRA MULTI PRAKASA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[142]]></cell><cell><![CDATA[PELABUHAN PENAJAM BANUA TAKA]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[143]]></cell><cell><![CDATA[PERIKANAN NUSANTARA (PERSERO)]]></cell><cell><![CDATA[ Pekerjaan Jasa KJA PT. Perinus]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[144]]></cell><cell><![CDATA[PERIKANAN NUSANTARA (PERSERO)]]></cell><cell><![CDATA[Jasa Konsultan Managemen Konstruksi atas Perubahan Petunjuk Operasi Pemanfaatan Dana PMN-2015]]></cell><cell><![CDATA[301,903,800]]></cell></row>
+<row><cell><![CDATA[145]]></cell><cell><![CDATA[PERIKANAN NUSANTARA (PERSERO)]]></cell><cell><![CDATA[Jasa Konsultan Managemen Konstruksi atas Perubahan Petunjuk Operasi Pemanfaatan Dana PMN-2015]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[146]]></cell><cell><![CDATA[PERIKANAN NUSANTARA (PERSERO)]]></cell><cell><![CDATA[Jasa Konsultan Managemen Konstruksi atas Perubahan Petunjuk Operasi Pemanfaatan Dana PMN-2015]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[147]]></cell><cell><![CDATA[PERTAMINA HULU MAHAKAM]]></cell><cell><![CDATA[Provision of Monitoring And Post Audit TKDN Verification]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[148]]></cell><cell><![CDATA[PETROCHINA INTERNATIONAL JABUNG LTD]]></cell><cell><![CDATA[TKDN KKKS Retail]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[149]]></cell><cell><![CDATA[PETRONAS]]></cell><cell><![CDATA[TKDN PC MURIAH_PETRONAS_2017-2022]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[150]]></cell><cell><![CDATA[PETRONAS]]></cell><cell><![CDATA[TKDN PC MURIAH_PETRONAS_2017-2022]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[151]]></cell><cell><![CDATA[PETROSEA TBK]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[152]]></cell><cell><![CDATA[PHE ONWJ]]></cell><cell><![CDATA[Provision of Monitoring And Post Audit TKDN Verification]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[153]]></cell><cell><![CDATA[PLN (PERSERO)]]></cell><cell><![CDATA[Design Review PLTMG Jayapura, Bau Bau, Ambon]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[154]]></cell><cell><![CDATA[PLN (PERSERO)]]></cell><cell><![CDATA[Design Review PLTMG Jayapura, Bau Bau, Ambon]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[155]]></cell><cell><![CDATA[PLN (PERSERO)]]></cell><cell><![CDATA[Design Review PLTMG Jayapura, Bau Bau, Ambon]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[156]]></cell><cell><![CDATA[PLN (PERSERO)]]></cell><cell><![CDATA[Design Review PLTMG Jayapura, Bau Bau, Ambon]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[157]]></cell><cell><![CDATA[PLN (PERSERO)]]></cell><cell><![CDATA[Design Review PLTMG Jayapura, Bau Bau, Ambon]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[158]]></cell><cell><![CDATA[PLN (PERSERO)]]></cell><cell><![CDATA[Counterpart Konsultan Supervisi Desain Review Fixed Type Gas Engine Power Plant Package II PLTMG Alor (10 MW), PLTMG Waingapu (10 MW), PLTMG Nunukan 2 (10 MW), PLTMG Namlea (10 MW), PLTMG Dobo (10 MW), PLTMG Saumlaki (10 MW) dan PLTMG Serui (10 MW)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[159]]></cell><cell><![CDATA[PLN (PERSERO)]]></cell><cell><![CDATA[Counterpart Konsultan Supervisi Desain Review Fixed Type Gas Engine Power Plant Package II PLTMG Alor (10 MW), PLTMG Waingapu (10 MW), PLTMG Nunukan 2 (10 MW), PLTMG Namlea (10 MW), PLTMG Dobo (10 MW), PLTMG Saumlaki (10 MW) dan PLTMG Serui (10 MW)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[160]]></cell><cell><![CDATA[PLN (PERSERO)]]></cell><cell><![CDATA[Counterpart Konsultan Supervisi Desain Review Fixed Type Gas Engine Power Plant Package II PLTMG Alor (10 MW), PLTMG Waingapu (10 MW), PLTMG Nunukan 2 (10 MW), PLTMG Namlea (10 MW), PLTMG Dobo (10 MW), PLTMG Saumlaki (10 MW) dan PLTMG Serui (10 MW)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[161]]></cell><cell><![CDATA[PLN (PERSERO)]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[162]]></cell><cell><![CDATA[POWERINDO PRIMA PERKASA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[163]]></cell><cell><![CDATA[PPPSRS APARTEMEN SAUTAMA]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[1,010,455]]></cell></row>
+<row><cell><![CDATA[164]]></cell><cell><![CDATA[PRISLED INNOVATIVE LIGHTING INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[165]]></cell><cell><![CDATA[PUMPA CAKRAWALA MULIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[29,700,000]]></cell></row>
+<row><cell><![CDATA[166]]></cell><cell><![CDATA[PURA MAYUNGAN]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[167]]></cell><cell><![CDATA[PUTERA KENCANA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[168]]></cell><cell><![CDATA[QIARA UTAMA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[169]]></cell><cell><![CDATA[RAHMAT KURNIA ABADI]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[170]]></cell><cell><![CDATA[RAMAYANA LESTARI SENTOSA TBK]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[171]]></cell><cell><![CDATA[RAMAYANA LESTARI SENTOSA TBK]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[172]]></cell><cell><![CDATA[RANGGALANGI CIPTA SARANA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[173]]></cell><cell><![CDATA[ROTEQ]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[60,000,000]]></cell></row>
+<row><cell><![CDATA[174]]></cell><cell><![CDATA[ROTEQ]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[175]]></cell><cell><![CDATA[SAKA TEHNIK UTAMA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[176]]></cell><cell><![CDATA[SANKEINDO]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[177]]></cell><cell><![CDATA[SANTINILESTARI ENERGI INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[178]]></cell><cell><![CDATA[SANWA PEFAB TECHNOLOGY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[179]]></cell><cell><![CDATA[SCHNEIDER ELECTRIC]]></cell><cell><![CDATA[TKDN KOMERSIAL 2018]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[180]]></cell><cell><![CDATA[SCHNEIDER ELECTRIC]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[181]]></cell><cell><![CDATA[SEGITIGA PLAZA HOTEL (LUMIRE HOTEL & CC)]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[182]]></cell><cell><![CDATA[SEMANGAT SEMESTA MARINE SAFETY]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[183]]></cell><cell><![CDATA[SEMBADA ARTA ENERGY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[184]]></cell><cell><![CDATA[SEMBADA ARTA ENERGY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[185]]></cell><cell><![CDATA[SEMBADA ARTA ENERGY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[186]]></cell><cell><![CDATA[SEMBADA ARTA ENERGY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[187]]></cell><cell><![CDATA[SEMBADA ARTA ENERGY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[188]]></cell><cell><![CDATA[SENATAMA LABORANUSA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[27,500,000]]></cell></row>
+<row><cell><![CDATA[189]]></cell><cell><![CDATA[SENTOSA SAKTI MAKMUR]]></cell><cell><![CDATA[TKDN KOMERSIAL 2018]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[190]]></cell><cell><![CDATA[SENTOSA SAKTI MAKMUR]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[191]]></cell><cell><![CDATA[SHELL INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[192]]></cell><cell><![CDATA[SIERAD PRODUCE TBK]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[193]]></cell><cell><![CDATA[SIERAD PRODUCE TBK]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[194]]></cell><cell><![CDATA[SINARINDO WIRANUSA ELEKTRIK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[195]]></cell><cell><![CDATA[SINARINDO WIRANUSA ELEKTRIK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[196]]></cell><cell><![CDATA[SINTRA SINARINDO ELEKTRIK]]></cell><cell><![CDATA[TKDN KOMERSIAL 2018]]></cell><cell><![CDATA[54,450,000]]></cell></row>
+<row><cell><![CDATA[197]]></cell><cell><![CDATA[SINTRA SINARINDO ELEKTRIK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[198]]></cell><cell><![CDATA[SINTRA SINARINDO ELEKTRIK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[199]]></cell><cell><![CDATA[SRIKANDI BERKAH UTAMA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[200]]></cell><cell><![CDATA[SRIWIJAYA MEKANIKA INDOTEKNIK]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[201]]></cell><cell><![CDATA[STAINLESS STEEL PRIMAVALVE]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[27,500,000]]></cell></row>
+<row><cell><![CDATA[202]]></cell><cell><![CDATA[STEEL PIPE INDUSTRY OF INDONESIA TBK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[203]]></cell><cell><![CDATA[SUCACO]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[204]]></cell><cell><![CDATA[SUMBER ENERGI TERBARUKAN INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[55,000,000]]></cell></row>
+<row><cell><![CDATA[205]]></cell><cell><![CDATA[SUMITOMO CORPORATION]]></cell><cell><![CDATA[Local Content TKDN Monitoring & Consultancy]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[206]]></cell><cell><![CDATA[SUNDAYA INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[207]]></cell><cell><![CDATA[SUPERTONE]]></cell><cell><![CDATA[TKDN KOMERSIAL 2018]]></cell><cell><![CDATA[33,000,000]]></cell></row>
+<row><cell><![CDATA[208]]></cell><cell><![CDATA[SURYA SUMEBAR]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[209]]></cell><cell><![CDATA[SYMPHOS ELECTRIC]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[210]]></cell><cell><![CDATA[TAC PERTAMINA EP - PT PRAKARSA BETUNG MERUO SENAMI JAMBI]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[211]]></cell><cell><![CDATA[TARUNA PUTRA PERTIWI]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[212]]></cell><cell><![CDATA[TELEHOUSE ENGINEERING]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[213]]></cell><cell><![CDATA[TERNARY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[214]]></cell><cell><![CDATA[TIANG BETON BRM]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[215]]></cell><cell><![CDATA[TIGA INSAN SEJAHTERA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[216]]></cell><cell><![CDATA[TIGA PILAR SEJAHTERA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[217]]></cell><cell><![CDATA[TIMUR MEGAH STEEL]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[218]]></cell><cell><![CDATA[TIMURAYA TUNGGAL]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[44,000,000]]></cell></row>
+<row><cell><![CDATA[219]]></cell><cell><![CDATA[TJAKRINDO MAS]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[220]]></cell><cell><![CDATA[TORISHIMA GUNA ENGINEERING]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[221]]></cell><cell><![CDATA[TOTALINDO EKA PERSADA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[222]]></cell><cell><![CDATA[TRAFOINDO PRIMA PERKASA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[223]]></cell><cell><![CDATA[TRANS RETAIL INDONESIA]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[224]]></cell><cell><![CDATA[TRIMANUNGGAL KARYATAMA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[225]]></cell><cell><![CDATA[TRIPUTRA ELECTRIC ABADI]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[226]]></cell><cell><![CDATA[TRIPUTRA ELECTRIC ABADI]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[227]]></cell><cell><![CDATA[TUNAS MAKMUR JAYA ABADI]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[228]]></cell><cell><![CDATA[VORTEX CONVEYOR INTERNATIONAL]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[229]]></cell><cell><![CDATA[WANAMITRA PERMAI]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[230]]></cell><cell><![CDATA[WASKITA JAYA PURNAMA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[231]]></cell><cell><![CDATA[WIJAYA KARYA (PERSERO) TBK]]></cell><cell><![CDATA[Inland Transport Cargo Engine MAN & Transport_WIKA]]></cell><cell><![CDATA[41,789,000]]></cell></row>
+<row><cell><![CDATA[232]]></cell><cell><![CDATA[WIJAYA KARYA (PERSERO) TBK]]></cell><cell><![CDATA[Internal Kalibrasi 3 Unit Tangki di Sumbawa, Maumere, Bima]]></cell><cell><![CDATA[70,376,900]]></cell></row>
+<row><cell><![CDATA[233]]></cell><cell><![CDATA[WIJAYA KARYA (PERSERO) TBK]]></cell><cell><![CDATA[Monitoring TKDN Proyek Pembangunan Pabrik Halmahera Timur  (P3FH) EPC antara PT. Antam (Persero) TBK dan Konsorsium antara PT. Wijaya Karya (Persero) TBK dan Kawasaki Heavy Industries, LTD]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[234]]></cell><cell><![CDATA[WIJAYA KARYA (PERSERO) TBK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[235]]></cell><cell><![CDATA[WINGTECH TECHNOLOGY INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[236]]></cell><cell><![CDATA[XIAOMI TECHNOLOGY INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[237]]></cell><cell><![CDATA[YANG MANDIRI UTAMA SUKSES]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[238]]></cell><cell><![CDATA[YUASA BATTERY INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[239]]></cell><cell><![CDATA[ZEUS KIMIATAMA INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row></rows><rows profile='color'><head><columns><column  width='50' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[No.]]></column><column  width='220' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Klien]]></column><column  width='320' align='left' type='ron' hidden='false' sort='int' color=''><![CDATA[ Nama Proyek]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[ Piutang]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='3' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[1,634,782,205]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[ABADI HARUMAN JAYA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[AGRINDO]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[AGRINDO MANUFACTURING FACTORY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[AGUNG NAMASKARA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[ALFA RETAILINDO]]></cell><cell><![CDATA[SERTIFIKASI LAIK OPERASI(SLO)KETENAGALISTRIKAN_18]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[ANAYA GLOBAL INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[ANEKA GAS INDUSTRI]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[ANEKA GAS INDUSTRI]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[ANGKASA PURA II (PERSERO)]]></cell><cell><![CDATA[Standarisasi Harga Satuan Di Lingkungan PT Angkasa Pura II (Persero)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[ANGKASA PURA PROPERTI]]></cell><cell><![CDATA[Pekerjaan Pengadaan Jasa Konsultansi dan Pendampingan Pemilihan Mitra Pengadaan dan Pemasangan 14 Unit PMS di Bandara Syamsuddin Noor]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[ANUGERAH INTI MULIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[ANUGRAH DIPTA SEMESTA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[APPLE INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[ASATA UTAMA ELECTRICAL INDUSTR]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[ASDP INDONESIA FERRY (PERSERO)]]></cell><cell><![CDATA[Studi Kelayakan Pengadaan dan Penggunaan Lahan Untuk Kantong Parkir dan Peningkatan Operasional Pelabuhan Merak]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[ASSET PACIFIC]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[17]]></cell><cell><![CDATA[AUSTINDO AUFWIND NEW ENERGY]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[18]]></cell><cell><![CDATA[BAKRIE PIPE INDUSTRIES]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[19]]></cell><cell><![CDATA[BALABATU]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[20]]></cell><cell><![CDATA[BANGKIT BERKAH PERKASA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[21]]></cell><cell><![CDATA[BANGUN GRAHA PUTRA JAYA]]></cell><cell><![CDATA[TKDN KOMERSIAL 2018]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[22]]></cell><cell><![CDATA[BANK DKI]]></cell><cell><![CDATA[Pekerjaan Pengadaan Jasa Konsultan Manajemen Konstruksi untuk Fitout, Interior, Façade, Arsitekturatl/Struktural Proyek Gedung Juanda dan Matraman PT. Bank DKI]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[23]]></cell><cell><![CDATA[BANK DKI]]></cell><cell><![CDATA[Pekerjaan Pengadaan Jasa Konsultan Manajemen Konstruksi untuk Fitout, Interior, Façade, Arsitekturatl/Struktural Proyek Gedung Juanda dan Matraman PT. Bank DKI]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[24]]></cell><cell><![CDATA[BANK DKI]]></cell><cell><![CDATA[Manajemen Konstruksi Pekerjaan Renovasi Kantor PT Bank DKI Periode April 2019 s/d Desember 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[25]]></cell><cell><![CDATA[BARATA INDONESIA (PERSERO)]]></cell><cell><![CDATA[TKDN KOMERSIAL 2018]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[26]]></cell><cell><![CDATA[BARATA LESTARI]]></cell><cell><![CDATA[AUDIT SMK3 & LSUP 2018]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[27]]></cell><cell><![CDATA[BARINDO ANGGUN INDUSTRI]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[28]]></cell><cell><![CDATA[BERTIE SUKSES MAKMUR]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[29]]></cell><cell><![CDATA[BERTIE SUKSES MAKMUR]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[30]]></cell><cell><![CDATA[BINA USAHA SEJAHTERA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[31]]></cell><cell><![CDATA[BINTANG SURYA TUNAS MANDIRI]]></cell><cell><![CDATA[AUDIT SMK3 & LSUP 2018]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[32]]></cell><cell><![CDATA[BOJONG WESTPLAS]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[33]]></cell><cell><![CDATA[BP BERAU LTD]]></cell><cell><![CDATA[TKDN TANGGUH PROJECT_BP BERAU 2014-2021]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[34]]></cell><cell><![CDATA[BP BERAU LTD]]></cell><cell><![CDATA[TKDN TANGGUH PROJECT_BP BERAU 2014-2021]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[35]]></cell><cell><![CDATA[BP BERAU LTD]]></cell><cell><![CDATA[VERIFIKASI TKDN TANGGUH CONTRACTS 4420001603_BP BERAU_2017-2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[36]]></cell><cell><![CDATA[BP BERAU LTD]]></cell><cell><![CDATA[VERIFIKASI TKDN TANGGUH CONTRACTS 4420001603_BP BERAU_2017-2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[37]]></cell><cell><![CDATA[BPJS KETENAGAKERJAAN]]></cell><cell><![CDATA[Pekerjaan Jasa Konsultan Pengecekan Struktur Gedung Learning Center BPJS Ketenagakerjaan Di Bogor]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[38]]></cell><cell><![CDATA[BUKIT BAJA NUSANTARA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[39]]></cell><cell><![CDATA[BUMI STEEL INDONESIA]]></cell><cell><![CDATA[TKDN KOMERSIAL 2018]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[40]]></cell><cell><![CDATA[BUMIJAWA SENTOSA]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[41]]></cell><cell><![CDATA[CENTURY BATTERIES INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[42]]></cell><cell><![CDATA[CGGC - PRABA CONSORTIUM]]></cell><cell><![CDATA[TKDN IPP CGGC-PRABA_TAKALAR]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[43]]></cell><cell><![CDATA[CHITOSE INTERNASIONALTBK ]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[44]]></cell><cell><![CDATA[CIPTA CAHAYA AQILLA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[45]]></cell><cell><![CDATA[CITRA MAHASURYA INDUSTRIES]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[46]]></cell><cell><![CDATA[CITRA MEDIA PRISMA]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[47]]></cell><cell><![CDATA[CITRA MEDIA PRISMA]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[48]]></cell><cell><![CDATA[CT ADVANCED TECHNOLOGY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[49]]></cell><cell><![CDATA[DUTA HITA JAYA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[50]]></cell><cell><![CDATA[DUTA HITA JAYA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[51]]></cell><cell><![CDATA[DWI SUMBER ARCA WAJA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[25,000,000]]></cell></row>
+<row><cell><![CDATA[52]]></cell><cell><![CDATA[DWI SUMBER ARCA WAJA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[53]]></cell><cell><![CDATA[ELIA PRATAMA]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[54]]></cell><cell><![CDATA[ENVIRO PRIMA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[55]]></cell><cell><![CDATA[ERA ASTA MARIN NUSANTARA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[33,000,000]]></cell></row>
+<row><cell><![CDATA[56]]></cell><cell><![CDATA[ERA ASTA MARIN NUSANTARA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[57]]></cell><cell><![CDATA[ERAS PUTRA MANDIRI]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[58]]></cell><cell><![CDATA[ERICSSON INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[59]]></cell><cell><![CDATA[ERIJO BERSAUDARA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[60]]></cell><cell><![CDATA[EXPERTEST KALIPER NUSANTARA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[61]]></cell><cell><![CDATA[FARCA RISA SEJAHTERA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[38,500,000]]></cell></row>
+<row><cell><![CDATA[62]]></cell><cell><![CDATA[FUTURE PIPE INDUSTRIES]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[63]]></cell><cell><![CDATA[GARAM (PERSERO)]]></cell><cell><![CDATA[Pengukuran dan Pembangunan Sistem Informasi Geografis (GIS) Aset lahan PT Garam (Persero)]]></cell><cell><![CDATA[637,852,050]]></cell></row>
+<row><cell><![CDATA[64]]></cell><cell><![CDATA[GARAM (PERSERO)]]></cell><cell><![CDATA[Pengukuran dan Pembangunan Sistem Informasi Geografis (GIS) Aset lahan PT Garam (Persero)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[65]]></cell><cell><![CDATA[GARAM (PERSERO)]]></cell><cell><![CDATA[Pengukuran dan Pembangunan Sistem Informasi Geografis (GIS) Aset lahan PT Garam (Persero)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[66]]></cell><cell><![CDATA[GARAM (PERSERO)]]></cell><cell><![CDATA[Pengukuran dan Pembangunan Sistem Informasi Geografis (GIS) Aset lahan PT Garam (Persero)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[67]]></cell><cell><![CDATA[GARIS LINI]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[68]]></cell><cell><![CDATA[GENTING OIL KASURI PTE. LTD.]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[69]]></cell><cell><![CDATA[GRAND KARTECH TBK]]></cell><cell><![CDATA[TKDN KKKS Retail]]></cell><cell><![CDATA[52,250,000]]></cell></row>
+<row><cell><![CDATA[70]]></cell><cell><![CDATA[GUMILANG BAYU PERSADA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[3,500,000]]></cell></row>
+<row><cell><![CDATA[71]]></cell><cell><![CDATA[HALIBER JAYA]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[72]]></cell><cell><![CDATA[HEXING TECHNOLOGY]]></cell><cell><![CDATA[TKDN KOMERSIAL 2018]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[73]]></cell><cell><![CDATA[HONORIS INDUSTRY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[74]]></cell><cell><![CDATA[H-TECH OILFIELD EQUIPMENT]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[75]]></cell><cell><![CDATA[HUTAMA MANGGALA PERSADA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[76]]></cell><cell><![CDATA[IMECO INTER SARANA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[77]]></cell><cell><![CDATA[INDO STRAITS]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[78]]></cell><cell><![CDATA[INDOBARA BAHANA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[79]]></cell><cell><![CDATA[INDONESIA POWER]]></cell><cell><![CDATA[Pekerjaan Jasa Verifikasi Tingkat Komponen Dalam Negeri (TKDN) Proyek EPC MPP DFE Tersebar Papua (Paket 1)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[80]]></cell><cell><![CDATA[INDUSTRI KERETA API (PERSERO)]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[81]]></cell><cell><![CDATA[INSINDO INTI ABADI]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[82]]></cell><cell><![CDATA[INTEGRITAS SELARAS ABADI]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[83]]></cell><cell><![CDATA[INTI BANGUN SEJAHTERA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[84]]></cell><cell><![CDATA[JAKARTA INTILAND]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[85]]></cell><cell><![CDATA[JAKARTA INTILAND]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[86]]></cell><cell><![CDATA[JASUINDO HID SECURITY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[87]]></cell><cell><![CDATA[JAYA BETON]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[88]]></cell><cell><![CDATA[JAYA SENTRIKON INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[89]]></cell><cell><![CDATA[JAYA SMART CONSULTANT]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[90]]></cell><cell><![CDATA[JEMBO CABLE COMPANY TBK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[91]]></cell><cell><![CDATA[JEMBO CABLE COMPANY TBK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[92]]></cell><cell><![CDATA[JEMBO ENERGINDO]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[93]]></cell><cell><![CDATA[JOB PERTAMINA - TALISMAN (JAMBI MERANG)]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[94]]></cell><cell><![CDATA[JUSTUS SAKTI RAYA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[95]]></cell><cell><![CDATA[KARILLA BERKAT ABADI]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[96]]></cell><cell><![CDATA[KARTINI UTAMA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[97]]></cell><cell><![CDATA[KARYA MEGA SARANA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[98]]></cell><cell><![CDATA[KEMENTERIAN KOMUNIKASI DAN INFORMATIKA]]></cell><cell><![CDATA[PENGADAAN JASA LAINNYA PEMETAAN SUPPLY DAN DEMAND DALAM RANGKA PERCEPATAN AKSES TETAP PITALEBAR DI YOGYAKARTA]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[99]]></cell><cell><![CDATA[KEMENTERIAN KOMUNIKASI DAN INFORMATIKA]]></cell><cell><![CDATA[PENGADAAN JASA LAINNYA PEMETAAN SUPPLY DAN DEMAND DALAM RANGKA PERCEPATAN AKSES TETAP PITALEBAR DI JAWA TENGAH]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[100]]></cell><cell><![CDATA[KENCANA GRAHA OPTIMA]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[101]]></cell><cell><![CDATA[KENCANA TEKNIKATAMA SENTOSA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[102]]></cell><cell><![CDATA[KHARISMA CIPTA LUGAS]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[103]]></cell><cell><![CDATA[KHI PIPE INDUSTRIES]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[104]]></cell><cell><![CDATA[KMI WIRE AND CABLE TBK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[105]]></cell><cell><![CDATA[KOMATSU INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[106]]></cell><cell><![CDATA[KOMATSU INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[107]]></cell><cell><![CDATA[KOPSURINDO NIAGA UTAMA]]></cell><cell><![CDATA[SEWA TENANT 2018]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[108]]></cell><cell><![CDATA[KRAKATAU STEEL (PERSERO) TBK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[55,000,000]]></cell></row>
+<row><cell><![CDATA[109]]></cell><cell><![CDATA[KUBOTA INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[110]]></cell><cell><![CDATA[KUNINGAN NUSAJAYA]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[111]]></cell><cell><![CDATA[LANGGENG GEMILANG SEJAHTERA]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[112]]></cell><cell><![CDATA[LEN TELEKOMUNIKASI INDONESIA]]></cell><cell><![CDATA[PALAPA RING TENGAH_FASE DRM & KONSTRUKSI]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[113]]></cell><cell><![CDATA[LEN TELEKOMUNIKASI INDONESIA]]></cell><cell><![CDATA[PALAPA RING TENGAH_FASE DRM & KONSTRUKSI]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[114]]></cell><cell><![CDATA[LEN TELEKOMUNIKASI INDONESIA]]></cell><cell><![CDATA[PENGADAAN JASA KONSULTAN PENGAWAS INDEPENDEN 
+PALAPA RING PAKET TENGAH, TAHAP OM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[115]]></cell><cell><![CDATA[MAJU MANDIRI UTAMA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[116]]></cell><cell><![CDATA[MANDIRI DINAMIKA SEJAHTERA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[117]]></cell><cell><![CDATA[MAXI TIGA INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[118]]></cell><cell><![CDATA[MAXI TIGA INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[119]]></cell><cell><![CDATA[MEGA KARYA PERKASA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[120]]></cell><cell><![CDATA[MENARA CAPITAL INDONUSA]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[121]]></cell><cell><![CDATA[MITRA GALPERTI]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[122]]></cell><cell><![CDATA[MITRA RAJAWALI BANJARAN]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[123]]></cell><cell><![CDATA[MITRA UTAMA SERTIFIKASI]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[124]]></cell><cell><![CDATA[MITS DUTA UTAMA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[125]]></cell><cell><![CDATA[MITSUBISHI CORPORATION]]></cell><cell><![CDATA[TKDN IPP MHPS JAWA 2_MITSUBISHI CORP.]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[126]]></cell><cell><![CDATA[MORAWA ELECTRIC TRANSBUANA MEDAN]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[127]]></cell><cell><![CDATA[MULCINDO]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[128]]></cell><cell><![CDATA[MUSTIKA INDAH PERMAI]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[129]]></cell><cell><![CDATA[MUTIARA INDAH PURNAMA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[130]]></cell><cell><![CDATA[NIPRESS TBK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[22,000,000]]></cell></row>
+<row><cell><![CDATA[131]]></cell><cell><![CDATA[NIPRO INDONESIA JAYA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[132]]></cell><cell><![CDATA[NORDEX LIGHTING INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[21,450,000]]></cell></row>
+<row><cell><![CDATA[133]]></cell><cell><![CDATA[NS BLUESCOPE LYSAGHT INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[134]]></cell><cell><![CDATA[NS BLUESCOPE STEEL INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[135]]></cell><cell><![CDATA[NUSANTARA ELETRIK]]></cell><cell><![CDATA[TKDN KOMERSIAL 2018]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[136]]></cell><cell><![CDATA[PALAPA RING BARAT]]></cell><cell><![CDATA[PELAKSANAAN PEKERJAAN KONSULTAN PENGAWAS INDEPENDEN, TAHAP OPERATION DAN MAINTENANCE]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[137]]></cell><cell><![CDATA[PALAPA RING BARAT]]></cell><cell><![CDATA[PELAKSANAAN PEKERJAAN KONSULTAN PENGAWAS INDEPENDEN, TAHAP OPERATION DAN MAINTENANCE]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[138]]></cell><cell><![CDATA[PALAPA RING BARAT]]></cell><cell><![CDATA[PELAKSANAAN PEKERJAAN KONSULTAN PENGAWAS INDEPENDEN, TAHAP OPERATION DAN MAINTENANCE]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[139]]></cell><cell><![CDATA[PALAPA RING BARAT]]></cell><cell><![CDATA[PELAKSANAAN PEKERJAAN KONSULTAN PENGAWAS INDEPENDEN, TAHAP OPERATION DAN MAINTENANCE]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[140]]></cell><cell><![CDATA[PANGLIMA SIAGA BANGSA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[141]]></cell><cell><![CDATA[PARAMITRA MULTI PRAKASA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[142]]></cell><cell><![CDATA[PELABUHAN PENAJAM BANUA TAKA]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[143]]></cell><cell><![CDATA[PERIKANAN NUSANTARA (PERSERO)]]></cell><cell><![CDATA[ Pekerjaan Jasa KJA PT. Perinus]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[144]]></cell><cell><![CDATA[PERIKANAN NUSANTARA (PERSERO)]]></cell><cell><![CDATA[Jasa Konsultan Managemen Konstruksi atas Perubahan Petunjuk Operasi Pemanfaatan Dana PMN-2015]]></cell><cell><![CDATA[301,903,800]]></cell></row>
+<row><cell><![CDATA[145]]></cell><cell><![CDATA[PERIKANAN NUSANTARA (PERSERO)]]></cell><cell><![CDATA[Jasa Konsultan Managemen Konstruksi atas Perubahan Petunjuk Operasi Pemanfaatan Dana PMN-2015]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[146]]></cell><cell><![CDATA[PERIKANAN NUSANTARA (PERSERO)]]></cell><cell><![CDATA[Jasa Konsultan Managemen Konstruksi atas Perubahan Petunjuk Operasi Pemanfaatan Dana PMN-2015]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[147]]></cell><cell><![CDATA[PERTAMINA HULU MAHAKAM]]></cell><cell><![CDATA[Provision of Monitoring And Post Audit TKDN Verification]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[148]]></cell><cell><![CDATA[PETROCHINA INTERNATIONAL JABUNG LTD]]></cell><cell><![CDATA[TKDN KKKS Retail]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[149]]></cell><cell><![CDATA[PETRONAS]]></cell><cell><![CDATA[TKDN PC MURIAH_PETRONAS_2017-2022]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[150]]></cell><cell><![CDATA[PETRONAS]]></cell><cell><![CDATA[TKDN PC MURIAH_PETRONAS_2017-2022]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[151]]></cell><cell><![CDATA[PETROSEA TBK]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[152]]></cell><cell><![CDATA[PHE ONWJ]]></cell><cell><![CDATA[Provision of Monitoring And Post Audit TKDN Verification]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[153]]></cell><cell><![CDATA[PLN (PERSERO)]]></cell><cell><![CDATA[Design Review PLTMG Jayapura, Bau Bau, Ambon]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[154]]></cell><cell><![CDATA[PLN (PERSERO)]]></cell><cell><![CDATA[Design Review PLTMG Jayapura, Bau Bau, Ambon]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[155]]></cell><cell><![CDATA[PLN (PERSERO)]]></cell><cell><![CDATA[Design Review PLTMG Jayapura, Bau Bau, Ambon]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[156]]></cell><cell><![CDATA[PLN (PERSERO)]]></cell><cell><![CDATA[Design Review PLTMG Jayapura, Bau Bau, Ambon]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[157]]></cell><cell><![CDATA[PLN (PERSERO)]]></cell><cell><![CDATA[Design Review PLTMG Jayapura, Bau Bau, Ambon]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[158]]></cell><cell><![CDATA[PLN (PERSERO)]]></cell><cell><![CDATA[Counterpart Konsultan Supervisi Desain Review Fixed Type Gas Engine Power Plant Package II PLTMG Alor (10 MW), PLTMG Waingapu (10 MW), PLTMG Nunukan 2 (10 MW), PLTMG Namlea (10 MW), PLTMG Dobo (10 MW), PLTMG Saumlaki (10 MW) dan PLTMG Serui (10 MW)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[159]]></cell><cell><![CDATA[PLN (PERSERO)]]></cell><cell><![CDATA[Counterpart Konsultan Supervisi Desain Review Fixed Type Gas Engine Power Plant Package II PLTMG Alor (10 MW), PLTMG Waingapu (10 MW), PLTMG Nunukan 2 (10 MW), PLTMG Namlea (10 MW), PLTMG Dobo (10 MW), PLTMG Saumlaki (10 MW) dan PLTMG Serui (10 MW)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[160]]></cell><cell><![CDATA[PLN (PERSERO)]]></cell><cell><![CDATA[Counterpart Konsultan Supervisi Desain Review Fixed Type Gas Engine Power Plant Package II PLTMG Alor (10 MW), PLTMG Waingapu (10 MW), PLTMG Nunukan 2 (10 MW), PLTMG Namlea (10 MW), PLTMG Dobo (10 MW), PLTMG Saumlaki (10 MW) dan PLTMG Serui (10 MW)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[161]]></cell><cell><![CDATA[PLN (PERSERO)]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[162]]></cell><cell><![CDATA[POWERINDO PRIMA PERKASA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[163]]></cell><cell><![CDATA[PPPSRS APARTEMEN SAUTAMA]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[1,010,455]]></cell></row>
+<row><cell><![CDATA[164]]></cell><cell><![CDATA[PRISLED INNOVATIVE LIGHTING INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[165]]></cell><cell><![CDATA[PUMPA CAKRAWALA MULIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[29,700,000]]></cell></row>
+<row><cell><![CDATA[166]]></cell><cell><![CDATA[PURA MAYUNGAN]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[167]]></cell><cell><![CDATA[PUTERA KENCANA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[168]]></cell><cell><![CDATA[QIARA UTAMA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[169]]></cell><cell><![CDATA[RAHMAT KURNIA ABADI]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[170]]></cell><cell><![CDATA[RAMAYANA LESTARI SENTOSA TBK]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[171]]></cell><cell><![CDATA[RAMAYANA LESTARI SENTOSA TBK]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[172]]></cell><cell><![CDATA[RANGGALANGI CIPTA SARANA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[173]]></cell><cell><![CDATA[ROTEQ]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[60,000,000]]></cell></row>
+<row><cell><![CDATA[174]]></cell><cell><![CDATA[ROTEQ]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[175]]></cell><cell><![CDATA[SAKA TEHNIK UTAMA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[176]]></cell><cell><![CDATA[SANKEINDO]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[177]]></cell><cell><![CDATA[SANTINILESTARI ENERGI INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[178]]></cell><cell><![CDATA[SANWA PEFAB TECHNOLOGY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[179]]></cell><cell><![CDATA[SCHNEIDER ELECTRIC]]></cell><cell><![CDATA[TKDN KOMERSIAL 2018]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[180]]></cell><cell><![CDATA[SCHNEIDER ELECTRIC]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[181]]></cell><cell><![CDATA[SEGITIGA PLAZA HOTEL (LUMIRE HOTEL & CC)]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[182]]></cell><cell><![CDATA[SEMANGAT SEMESTA MARINE SAFETY]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[183]]></cell><cell><![CDATA[SEMBADA ARTA ENERGY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[184]]></cell><cell><![CDATA[SEMBADA ARTA ENERGY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[185]]></cell><cell><![CDATA[SEMBADA ARTA ENERGY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[186]]></cell><cell><![CDATA[SEMBADA ARTA ENERGY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[187]]></cell><cell><![CDATA[SEMBADA ARTA ENERGY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[188]]></cell><cell><![CDATA[SENATAMA LABORANUSA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[27,500,000]]></cell></row>
+<row><cell><![CDATA[189]]></cell><cell><![CDATA[SENTOSA SAKTI MAKMUR]]></cell><cell><![CDATA[TKDN KOMERSIAL 2018]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[190]]></cell><cell><![CDATA[SENTOSA SAKTI MAKMUR]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[191]]></cell><cell><![CDATA[SHELL INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[192]]></cell><cell><![CDATA[SIERAD PRODUCE TBK]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[193]]></cell><cell><![CDATA[SIERAD PRODUCE TBK]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[194]]></cell><cell><![CDATA[SINARINDO WIRANUSA ELEKTRIK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[195]]></cell><cell><![CDATA[SINARINDO WIRANUSA ELEKTRIK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[196]]></cell><cell><![CDATA[SINTRA SINARINDO ELEKTRIK]]></cell><cell><![CDATA[TKDN KOMERSIAL 2018]]></cell><cell><![CDATA[54,450,000]]></cell></row>
+<row><cell><![CDATA[197]]></cell><cell><![CDATA[SINTRA SINARINDO ELEKTRIK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[198]]></cell><cell><![CDATA[SINTRA SINARINDO ELEKTRIK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[199]]></cell><cell><![CDATA[SRIKANDI BERKAH UTAMA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[200]]></cell><cell><![CDATA[SRIWIJAYA MEKANIKA INDOTEKNIK]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[201]]></cell><cell><![CDATA[STAINLESS STEEL PRIMAVALVE]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[27,500,000]]></cell></row>
+<row><cell><![CDATA[202]]></cell><cell><![CDATA[STEEL PIPE INDUSTRY OF INDONESIA TBK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[203]]></cell><cell><![CDATA[SUCACO]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[204]]></cell><cell><![CDATA[SUMBER ENERGI TERBARUKAN INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[55,000,000]]></cell></row>
+<row><cell><![CDATA[205]]></cell><cell><![CDATA[SUMITOMO CORPORATION]]></cell><cell><![CDATA[Local Content TKDN Monitoring & Consultancy]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[206]]></cell><cell><![CDATA[SUNDAYA INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[207]]></cell><cell><![CDATA[SUPERTONE]]></cell><cell><![CDATA[TKDN KOMERSIAL 2018]]></cell><cell><![CDATA[33,000,000]]></cell></row>
+<row><cell><![CDATA[208]]></cell><cell><![CDATA[SURYA SUMEBAR]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[209]]></cell><cell><![CDATA[SYMPHOS ELECTRIC]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[210]]></cell><cell><![CDATA[TAC PERTAMINA EP - PT PRAKARSA BETUNG MERUO SENAMI JAMBI]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[211]]></cell><cell><![CDATA[TARUNA PUTRA PERTIWI]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[212]]></cell><cell><![CDATA[TELEHOUSE ENGINEERING]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[213]]></cell><cell><![CDATA[TERNARY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[214]]></cell><cell><![CDATA[TIANG BETON BRM]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[215]]></cell><cell><![CDATA[TIGA INSAN SEJAHTERA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[216]]></cell><cell><![CDATA[TIGA PILAR SEJAHTERA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[217]]></cell><cell><![CDATA[TIMUR MEGAH STEEL]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[218]]></cell><cell><![CDATA[TIMURAYA TUNGGAL]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[44,000,000]]></cell></row>
+<row><cell><![CDATA[219]]></cell><cell><![CDATA[TJAKRINDO MAS]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[220]]></cell><cell><![CDATA[TORISHIMA GUNA ENGINEERING]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[221]]></cell><cell><![CDATA[TOTALINDO EKA PERSADA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[222]]></cell><cell><![CDATA[TRAFOINDO PRIMA PERKASA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[223]]></cell><cell><![CDATA[TRANS RETAIL INDONESIA]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[224]]></cell><cell><![CDATA[TRIMANUNGGAL KARYATAMA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[225]]></cell><cell><![CDATA[TRIPUTRA ELECTRIC ABADI]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[226]]></cell><cell><![CDATA[TRIPUTRA ELECTRIC ABADI]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[227]]></cell><cell><![CDATA[TUNAS MAKMUR JAYA ABADI]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[228]]></cell><cell><![CDATA[VORTEX CONVEYOR INTERNATIONAL]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[229]]></cell><cell><![CDATA[WANAMITRA PERMAI]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[230]]></cell><cell><![CDATA[WASKITA JAYA PURNAMA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[231]]></cell><cell><![CDATA[WIJAYA KARYA (PERSERO) TBK]]></cell><cell><![CDATA[Inland Transport Cargo Engine MAN & Transport_WIKA]]></cell><cell><![CDATA[41,789,000]]></cell></row>
+<row><cell><![CDATA[232]]></cell><cell><![CDATA[WIJAYA KARYA (PERSERO) TBK]]></cell><cell><![CDATA[Internal Kalibrasi 3 Unit Tangki di Sumbawa, Maumere, Bima]]></cell><cell><![CDATA[70,376,900]]></cell></row>
+<row><cell><![CDATA[233]]></cell><cell><![CDATA[WIJAYA KARYA (PERSERO) TBK]]></cell><cell><![CDATA[Monitoring TKDN Proyek Pembangunan Pabrik Halmahera Timur  (P3FH) EPC antara PT. Antam (Persero) TBK dan Konsorsium antara PT. Wijaya Karya (Persero) TBK dan Kawasaki Heavy Industries, LTD]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[234]]></cell><cell><![CDATA[WIJAYA KARYA (PERSERO) TBK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[235]]></cell><cell><![CDATA[WINGTECH TECHNOLOGY INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[236]]></cell><cell><![CDATA[XIAOMI TECHNOLOGY INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[237]]></cell><cell><![CDATA[YANG MANDIRI UTAMA SUKSES]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[238]]></cell><cell><![CDATA[YUASA BATTERY INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[239]]></cell><cell><![CDATA[ZEUS KIMIATAMA INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row></rows><rows profile='color'><head><columns><column  width='50' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[No.]]></column><column  width='220' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Klien]]></column><column  width='320' align='left' type='ron' hidden='false' sort='int' color=''><![CDATA[ Nama Proyek]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[ Piutang]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='3' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[1,634,782,205]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[ABADI HARUMAN JAYA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[AGRINDO]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[AGRINDO MANUFACTURING FACTORY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[AGUNG NAMASKARA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[ALFA RETAILINDO]]></cell><cell><![CDATA[SERTIFIKASI LAIK OPERASI(SLO)KETENAGALISTRIKAN_18]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[ANAYA GLOBAL INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[ANEKA GAS INDUSTRI]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[ANEKA GAS INDUSTRI]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[ANGKASA PURA II (PERSERO)]]></cell><cell><![CDATA[Standarisasi Harga Satuan Di Lingkungan PT Angkasa Pura II (Persero)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[ANGKASA PURA PROPERTI]]></cell><cell><![CDATA[Pekerjaan Pengadaan Jasa Konsultansi dan Pendampingan Pemilihan Mitra Pengadaan dan Pemasangan 14 Unit PMS di Bandara Syamsuddin Noor]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[ANUGERAH INTI MULIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[ANUGRAH DIPTA SEMESTA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[APPLE INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[ASATA UTAMA ELECTRICAL INDUSTR]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[ASDP INDONESIA FERRY (PERSERO)]]></cell><cell><![CDATA[Studi Kelayakan Pengadaan dan Penggunaan Lahan Untuk Kantong Parkir dan Peningkatan Operasional Pelabuhan Merak]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[ASSET PACIFIC]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[17]]></cell><cell><![CDATA[AUSTINDO AUFWIND NEW ENERGY]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[18]]></cell><cell><![CDATA[BAKRIE PIPE INDUSTRIES]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[19]]></cell><cell><![CDATA[BALABATU]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[20]]></cell><cell><![CDATA[BANGKIT BERKAH PERKASA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[21]]></cell><cell><![CDATA[BANGUN GRAHA PUTRA JAYA]]></cell><cell><![CDATA[TKDN KOMERSIAL 2018]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[22]]></cell><cell><![CDATA[BANK DKI]]></cell><cell><![CDATA[Pekerjaan Pengadaan Jasa Konsultan Manajemen Konstruksi untuk Fitout, Interior, Façade, Arsitekturatl/Struktural Proyek Gedung Juanda dan Matraman PT. Bank DKI]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[23]]></cell><cell><![CDATA[BANK DKI]]></cell><cell><![CDATA[Pekerjaan Pengadaan Jasa Konsultan Manajemen Konstruksi untuk Fitout, Interior, Façade, Arsitekturatl/Struktural Proyek Gedung Juanda dan Matraman PT. Bank DKI]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[24]]></cell><cell><![CDATA[BANK DKI]]></cell><cell><![CDATA[Manajemen Konstruksi Pekerjaan Renovasi Kantor PT Bank DKI Periode April 2019 s/d Desember 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[25]]></cell><cell><![CDATA[BARATA INDONESIA (PERSERO)]]></cell><cell><![CDATA[TKDN KOMERSIAL 2018]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[26]]></cell><cell><![CDATA[BARATA LESTARI]]></cell><cell><![CDATA[AUDIT SMK3 & LSUP 2018]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[27]]></cell><cell><![CDATA[BARINDO ANGGUN INDUSTRI]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[28]]></cell><cell><![CDATA[BERTIE SUKSES MAKMUR]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[29]]></cell><cell><![CDATA[BERTIE SUKSES MAKMUR]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[30]]></cell><cell><![CDATA[BINA USAHA SEJAHTERA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[31]]></cell><cell><![CDATA[BINTANG SURYA TUNAS MANDIRI]]></cell><cell><![CDATA[AUDIT SMK3 & LSUP 2018]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[32]]></cell><cell><![CDATA[BOJONG WESTPLAS]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[33]]></cell><cell><![CDATA[BP BERAU LTD]]></cell><cell><![CDATA[TKDN TANGGUH PROJECT_BP BERAU 2014-2021]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[34]]></cell><cell><![CDATA[BP BERAU LTD]]></cell><cell><![CDATA[TKDN TANGGUH PROJECT_BP BERAU 2014-2021]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[35]]></cell><cell><![CDATA[BP BERAU LTD]]></cell><cell><![CDATA[VERIFIKASI TKDN TANGGUH CONTRACTS 4420001603_BP BERAU_2017-2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[36]]></cell><cell><![CDATA[BP BERAU LTD]]></cell><cell><![CDATA[VERIFIKASI TKDN TANGGUH CONTRACTS 4420001603_BP BERAU_2017-2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[37]]></cell><cell><![CDATA[BPJS KETENAGAKERJAAN]]></cell><cell><![CDATA[Pekerjaan Jasa Konsultan Pengecekan Struktur Gedung Learning Center BPJS Ketenagakerjaan Di Bogor]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[38]]></cell><cell><![CDATA[BUKIT BAJA NUSANTARA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[39]]></cell><cell><![CDATA[BUMI STEEL INDONESIA]]></cell><cell><![CDATA[TKDN KOMERSIAL 2018]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[40]]></cell><cell><![CDATA[BUMIJAWA SENTOSA]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[41]]></cell><cell><![CDATA[CENTURY BATTERIES INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[42]]></cell><cell><![CDATA[CGGC - PRABA CONSORTIUM]]></cell><cell><![CDATA[TKDN IPP CGGC-PRABA_TAKALAR]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[43]]></cell><cell><![CDATA[CHITOSE INTERNASIONALTBK ]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[44]]></cell><cell><![CDATA[CIPTA CAHAYA AQILLA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[45]]></cell><cell><![CDATA[CITRA MAHASURYA INDUSTRIES]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[46]]></cell><cell><![CDATA[CITRA MEDIA PRISMA]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[47]]></cell><cell><![CDATA[CITRA MEDIA PRISMA]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[48]]></cell><cell><![CDATA[CT ADVANCED TECHNOLOGY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[49]]></cell><cell><![CDATA[DUTA HITA JAYA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[50]]></cell><cell><![CDATA[DUTA HITA JAYA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[51]]></cell><cell><![CDATA[DWI SUMBER ARCA WAJA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[25,000,000]]></cell></row>
+<row><cell><![CDATA[52]]></cell><cell><![CDATA[DWI SUMBER ARCA WAJA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[53]]></cell><cell><![CDATA[ELIA PRATAMA]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[54]]></cell><cell><![CDATA[ENVIRO PRIMA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[55]]></cell><cell><![CDATA[ERA ASTA MARIN NUSANTARA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[33,000,000]]></cell></row>
+<row><cell><![CDATA[56]]></cell><cell><![CDATA[ERA ASTA MARIN NUSANTARA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[57]]></cell><cell><![CDATA[ERAS PUTRA MANDIRI]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[58]]></cell><cell><![CDATA[ERICSSON INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[59]]></cell><cell><![CDATA[ERIJO BERSAUDARA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[60]]></cell><cell><![CDATA[EXPERTEST KALIPER NUSANTARA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[61]]></cell><cell><![CDATA[FARCA RISA SEJAHTERA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[38,500,000]]></cell></row>
+<row><cell><![CDATA[62]]></cell><cell><![CDATA[FUTURE PIPE INDUSTRIES]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[63]]></cell><cell><![CDATA[GARAM (PERSERO)]]></cell><cell><![CDATA[Pengukuran dan Pembangunan Sistem Informasi Geografis (GIS) Aset lahan PT Garam (Persero)]]></cell><cell><![CDATA[637,852,050]]></cell></row>
+<row><cell><![CDATA[64]]></cell><cell><![CDATA[GARAM (PERSERO)]]></cell><cell><![CDATA[Pengukuran dan Pembangunan Sistem Informasi Geografis (GIS) Aset lahan PT Garam (Persero)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[65]]></cell><cell><![CDATA[GARAM (PERSERO)]]></cell><cell><![CDATA[Pengukuran dan Pembangunan Sistem Informasi Geografis (GIS) Aset lahan PT Garam (Persero)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[66]]></cell><cell><![CDATA[GARAM (PERSERO)]]></cell><cell><![CDATA[Pengukuran dan Pembangunan Sistem Informasi Geografis (GIS) Aset lahan PT Garam (Persero)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[67]]></cell><cell><![CDATA[GARIS LINI]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[68]]></cell><cell><![CDATA[GENTING OIL KASURI PTE. LTD.]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[69]]></cell><cell><![CDATA[GRAND KARTECH TBK]]></cell><cell><![CDATA[TKDN KKKS Retail]]></cell><cell><![CDATA[52,250,000]]></cell></row>
+<row><cell><![CDATA[70]]></cell><cell><![CDATA[GUMILANG BAYU PERSADA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[3,500,000]]></cell></row>
+<row><cell><![CDATA[71]]></cell><cell><![CDATA[HALIBER JAYA]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[72]]></cell><cell><![CDATA[HEXING TECHNOLOGY]]></cell><cell><![CDATA[TKDN KOMERSIAL 2018]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[73]]></cell><cell><![CDATA[HONORIS INDUSTRY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[74]]></cell><cell><![CDATA[H-TECH OILFIELD EQUIPMENT]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[75]]></cell><cell><![CDATA[HUTAMA MANGGALA PERSADA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[76]]></cell><cell><![CDATA[IMECO INTER SARANA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[77]]></cell><cell><![CDATA[INDO STRAITS]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[78]]></cell><cell><![CDATA[INDOBARA BAHANA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[79]]></cell><cell><![CDATA[INDONESIA POWER]]></cell><cell><![CDATA[Pekerjaan Jasa Verifikasi Tingkat Komponen Dalam Negeri (TKDN) Proyek EPC MPP DFE Tersebar Papua (Paket 1)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[80]]></cell><cell><![CDATA[INDUSTRI KERETA API (PERSERO)]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[81]]></cell><cell><![CDATA[INSINDO INTI ABADI]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[82]]></cell><cell><![CDATA[INTEGRITAS SELARAS ABADI]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[83]]></cell><cell><![CDATA[INTI BANGUN SEJAHTERA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[84]]></cell><cell><![CDATA[JAKARTA INTILAND]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[85]]></cell><cell><![CDATA[JAKARTA INTILAND]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[86]]></cell><cell><![CDATA[JASUINDO HID SECURITY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[87]]></cell><cell><![CDATA[JAYA BETON]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[88]]></cell><cell><![CDATA[JAYA SENTRIKON INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[89]]></cell><cell><![CDATA[JAYA SMART CONSULTANT]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[90]]></cell><cell><![CDATA[JEMBO CABLE COMPANY TBK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[91]]></cell><cell><![CDATA[JEMBO CABLE COMPANY TBK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[92]]></cell><cell><![CDATA[JEMBO ENERGINDO]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[93]]></cell><cell><![CDATA[JOB PERTAMINA - TALISMAN (JAMBI MERANG)]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[94]]></cell><cell><![CDATA[JUSTUS SAKTI RAYA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[95]]></cell><cell><![CDATA[KARILLA BERKAT ABADI]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[96]]></cell><cell><![CDATA[KARTINI UTAMA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[97]]></cell><cell><![CDATA[KARYA MEGA SARANA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[98]]></cell><cell><![CDATA[KEMENTERIAN KOMUNIKASI DAN INFORMATIKA]]></cell><cell><![CDATA[PENGADAAN JASA LAINNYA PEMETAAN SUPPLY DAN DEMAND DALAM RANGKA PERCEPATAN AKSES TETAP PITALEBAR DI YOGYAKARTA]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[99]]></cell><cell><![CDATA[KEMENTERIAN KOMUNIKASI DAN INFORMATIKA]]></cell><cell><![CDATA[PENGADAAN JASA LAINNYA PEMETAAN SUPPLY DAN DEMAND DALAM RANGKA PERCEPATAN AKSES TETAP PITALEBAR DI JAWA TENGAH]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[100]]></cell><cell><![CDATA[KENCANA GRAHA OPTIMA]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[101]]></cell><cell><![CDATA[KENCANA TEKNIKATAMA SENTOSA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[102]]></cell><cell><![CDATA[KHARISMA CIPTA LUGAS]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[103]]></cell><cell><![CDATA[KHI PIPE INDUSTRIES]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[104]]></cell><cell><![CDATA[KMI WIRE AND CABLE TBK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[105]]></cell><cell><![CDATA[KOMATSU INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[106]]></cell><cell><![CDATA[KOMATSU INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[107]]></cell><cell><![CDATA[KOPSURINDO NIAGA UTAMA]]></cell><cell><![CDATA[SEWA TENANT 2018]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[108]]></cell><cell><![CDATA[KRAKATAU STEEL (PERSERO) TBK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[55,000,000]]></cell></row>
+<row><cell><![CDATA[109]]></cell><cell><![CDATA[KUBOTA INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[110]]></cell><cell><![CDATA[KUNINGAN NUSAJAYA]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[111]]></cell><cell><![CDATA[LANGGENG GEMILANG SEJAHTERA]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[112]]></cell><cell><![CDATA[LEN TELEKOMUNIKASI INDONESIA]]></cell><cell><![CDATA[PALAPA RING TENGAH_FASE DRM & KONSTRUKSI]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[113]]></cell><cell><![CDATA[LEN TELEKOMUNIKASI INDONESIA]]></cell><cell><![CDATA[PALAPA RING TENGAH_FASE DRM & KONSTRUKSI]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[114]]></cell><cell><![CDATA[LEN TELEKOMUNIKASI INDONESIA]]></cell><cell><![CDATA[PENGADAAN JASA KONSULTAN PENGAWAS INDEPENDEN 
+PALAPA RING PAKET TENGAH, TAHAP OM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[115]]></cell><cell><![CDATA[MAJU MANDIRI UTAMA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[116]]></cell><cell><![CDATA[MANDIRI DINAMIKA SEJAHTERA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[117]]></cell><cell><![CDATA[MAXI TIGA INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[118]]></cell><cell><![CDATA[MAXI TIGA INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[119]]></cell><cell><![CDATA[MEGA KARYA PERKASA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[120]]></cell><cell><![CDATA[MENARA CAPITAL INDONUSA]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[121]]></cell><cell><![CDATA[MITRA GALPERTI]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[122]]></cell><cell><![CDATA[MITRA RAJAWALI BANJARAN]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[123]]></cell><cell><![CDATA[MITRA UTAMA SERTIFIKASI]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[124]]></cell><cell><![CDATA[MITS DUTA UTAMA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[125]]></cell><cell><![CDATA[MITSUBISHI CORPORATION]]></cell><cell><![CDATA[TKDN IPP MHPS JAWA 2_MITSUBISHI CORP.]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[126]]></cell><cell><![CDATA[MORAWA ELECTRIC TRANSBUANA MEDAN]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[127]]></cell><cell><![CDATA[MULCINDO]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[128]]></cell><cell><![CDATA[MUSTIKA INDAH PERMAI]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[129]]></cell><cell><![CDATA[MUTIARA INDAH PURNAMA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[130]]></cell><cell><![CDATA[NIPRESS TBK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[22,000,000]]></cell></row>
+<row><cell><![CDATA[131]]></cell><cell><![CDATA[NIPRO INDONESIA JAYA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[132]]></cell><cell><![CDATA[NORDEX LIGHTING INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[21,450,000]]></cell></row>
+<row><cell><![CDATA[133]]></cell><cell><![CDATA[NS BLUESCOPE LYSAGHT INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[134]]></cell><cell><![CDATA[NS BLUESCOPE STEEL INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[135]]></cell><cell><![CDATA[NUSANTARA ELETRIK]]></cell><cell><![CDATA[TKDN KOMERSIAL 2018]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[136]]></cell><cell><![CDATA[PALAPA RING BARAT]]></cell><cell><![CDATA[PELAKSANAAN PEKERJAAN KONSULTAN PENGAWAS INDEPENDEN, TAHAP OPERATION DAN MAINTENANCE]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[137]]></cell><cell><![CDATA[PALAPA RING BARAT]]></cell><cell><![CDATA[PELAKSANAAN PEKERJAAN KONSULTAN PENGAWAS INDEPENDEN, TAHAP OPERATION DAN MAINTENANCE]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[138]]></cell><cell><![CDATA[PALAPA RING BARAT]]></cell><cell><![CDATA[PELAKSANAAN PEKERJAAN KONSULTAN PENGAWAS INDEPENDEN, TAHAP OPERATION DAN MAINTENANCE]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[139]]></cell><cell><![CDATA[PALAPA RING BARAT]]></cell><cell><![CDATA[PELAKSANAAN PEKERJAAN KONSULTAN PENGAWAS INDEPENDEN, TAHAP OPERATION DAN MAINTENANCE]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[140]]></cell><cell><![CDATA[PANGLIMA SIAGA BANGSA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[141]]></cell><cell><![CDATA[PARAMITRA MULTI PRAKASA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[142]]></cell><cell><![CDATA[PELABUHAN PENAJAM BANUA TAKA]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[143]]></cell><cell><![CDATA[PERIKANAN NUSANTARA (PERSERO)]]></cell><cell><![CDATA[ Pekerjaan Jasa KJA PT. Perinus]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[144]]></cell><cell><![CDATA[PERIKANAN NUSANTARA (PERSERO)]]></cell><cell><![CDATA[Jasa Konsultan Managemen Konstruksi atas Perubahan Petunjuk Operasi Pemanfaatan Dana PMN-2015]]></cell><cell><![CDATA[301,903,800]]></cell></row>
+<row><cell><![CDATA[145]]></cell><cell><![CDATA[PERIKANAN NUSANTARA (PERSERO)]]></cell><cell><![CDATA[Jasa Konsultan Managemen Konstruksi atas Perubahan Petunjuk Operasi Pemanfaatan Dana PMN-2015]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[146]]></cell><cell><![CDATA[PERIKANAN NUSANTARA (PERSERO)]]></cell><cell><![CDATA[Jasa Konsultan Managemen Konstruksi atas Perubahan Petunjuk Operasi Pemanfaatan Dana PMN-2015]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[147]]></cell><cell><![CDATA[PERTAMINA HULU MAHAKAM]]></cell><cell><![CDATA[Provision of Monitoring And Post Audit TKDN Verification]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[148]]></cell><cell><![CDATA[PETROCHINA INTERNATIONAL JABUNG LTD]]></cell><cell><![CDATA[TKDN KKKS Retail]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[149]]></cell><cell><![CDATA[PETRONAS]]></cell><cell><![CDATA[TKDN PC MURIAH_PETRONAS_2017-2022]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[150]]></cell><cell><![CDATA[PETRONAS]]></cell><cell><![CDATA[TKDN PC MURIAH_PETRONAS_2017-2022]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[151]]></cell><cell><![CDATA[PETROSEA TBK]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[152]]></cell><cell><![CDATA[PHE ONWJ]]></cell><cell><![CDATA[Provision of Monitoring And Post Audit TKDN Verification]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[153]]></cell><cell><![CDATA[PLN (PERSERO)]]></cell><cell><![CDATA[Design Review PLTMG Jayapura, Bau Bau, Ambon]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[154]]></cell><cell><![CDATA[PLN (PERSERO)]]></cell><cell><![CDATA[Design Review PLTMG Jayapura, Bau Bau, Ambon]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[155]]></cell><cell><![CDATA[PLN (PERSERO)]]></cell><cell><![CDATA[Design Review PLTMG Jayapura, Bau Bau, Ambon]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[156]]></cell><cell><![CDATA[PLN (PERSERO)]]></cell><cell><![CDATA[Design Review PLTMG Jayapura, Bau Bau, Ambon]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[157]]></cell><cell><![CDATA[PLN (PERSERO)]]></cell><cell><![CDATA[Design Review PLTMG Jayapura, Bau Bau, Ambon]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[158]]></cell><cell><![CDATA[PLN (PERSERO)]]></cell><cell><![CDATA[Counterpart Konsultan Supervisi Desain Review Fixed Type Gas Engine Power Plant Package II PLTMG Alor (10 MW), PLTMG Waingapu (10 MW), PLTMG Nunukan 2 (10 MW), PLTMG Namlea (10 MW), PLTMG Dobo (10 MW), PLTMG Saumlaki (10 MW) dan PLTMG Serui (10 MW)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[159]]></cell><cell><![CDATA[PLN (PERSERO)]]></cell><cell><![CDATA[Counterpart Konsultan Supervisi Desain Review Fixed Type Gas Engine Power Plant Package II PLTMG Alor (10 MW), PLTMG Waingapu (10 MW), PLTMG Nunukan 2 (10 MW), PLTMG Namlea (10 MW), PLTMG Dobo (10 MW), PLTMG Saumlaki (10 MW) dan PLTMG Serui (10 MW)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[160]]></cell><cell><![CDATA[PLN (PERSERO)]]></cell><cell><![CDATA[Counterpart Konsultan Supervisi Desain Review Fixed Type Gas Engine Power Plant Package II PLTMG Alor (10 MW), PLTMG Waingapu (10 MW), PLTMG Nunukan 2 (10 MW), PLTMG Namlea (10 MW), PLTMG Dobo (10 MW), PLTMG Saumlaki (10 MW) dan PLTMG Serui (10 MW)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[161]]></cell><cell><![CDATA[PLN (PERSERO)]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[162]]></cell><cell><![CDATA[POWERINDO PRIMA PERKASA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[163]]></cell><cell><![CDATA[PPPSRS APARTEMEN SAUTAMA]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[1,010,455]]></cell></row>
+<row><cell><![CDATA[164]]></cell><cell><![CDATA[PRISLED INNOVATIVE LIGHTING INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[165]]></cell><cell><![CDATA[PUMPA CAKRAWALA MULIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[29,700,000]]></cell></row>
+<row><cell><![CDATA[166]]></cell><cell><![CDATA[PURA MAYUNGAN]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[167]]></cell><cell><![CDATA[PUTERA KENCANA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[168]]></cell><cell><![CDATA[QIARA UTAMA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[169]]></cell><cell><![CDATA[RAHMAT KURNIA ABADI]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[170]]></cell><cell><![CDATA[RAMAYANA LESTARI SENTOSA TBK]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[171]]></cell><cell><![CDATA[RAMAYANA LESTARI SENTOSA TBK]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[172]]></cell><cell><![CDATA[RANGGALANGI CIPTA SARANA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[173]]></cell><cell><![CDATA[ROTEQ]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[60,000,000]]></cell></row>
+<row><cell><![CDATA[174]]></cell><cell><![CDATA[ROTEQ]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[175]]></cell><cell><![CDATA[SAKA TEHNIK UTAMA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[176]]></cell><cell><![CDATA[SANKEINDO]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[177]]></cell><cell><![CDATA[SANTINILESTARI ENERGI INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[178]]></cell><cell><![CDATA[SANWA PEFAB TECHNOLOGY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[179]]></cell><cell><![CDATA[SCHNEIDER ELECTRIC]]></cell><cell><![CDATA[TKDN KOMERSIAL 2018]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[180]]></cell><cell><![CDATA[SCHNEIDER ELECTRIC]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[181]]></cell><cell><![CDATA[SEGITIGA PLAZA HOTEL (LUMIRE HOTEL & CC)]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[182]]></cell><cell><![CDATA[SEMANGAT SEMESTA MARINE SAFETY]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[183]]></cell><cell><![CDATA[SEMBADA ARTA ENERGY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[184]]></cell><cell><![CDATA[SEMBADA ARTA ENERGY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[185]]></cell><cell><![CDATA[SEMBADA ARTA ENERGY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[186]]></cell><cell><![CDATA[SEMBADA ARTA ENERGY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[187]]></cell><cell><![CDATA[SEMBADA ARTA ENERGY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[188]]></cell><cell><![CDATA[SENATAMA LABORANUSA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[27,500,000]]></cell></row>
+<row><cell><![CDATA[189]]></cell><cell><![CDATA[SENTOSA SAKTI MAKMUR]]></cell><cell><![CDATA[TKDN KOMERSIAL 2018]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[190]]></cell><cell><![CDATA[SENTOSA SAKTI MAKMUR]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[191]]></cell><cell><![CDATA[SHELL INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[192]]></cell><cell><![CDATA[SIERAD PRODUCE TBK]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[193]]></cell><cell><![CDATA[SIERAD PRODUCE TBK]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[194]]></cell><cell><![CDATA[SINARINDO WIRANUSA ELEKTRIK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[195]]></cell><cell><![CDATA[SINARINDO WIRANUSA ELEKTRIK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[196]]></cell><cell><![CDATA[SINTRA SINARINDO ELEKTRIK]]></cell><cell><![CDATA[TKDN KOMERSIAL 2018]]></cell><cell><![CDATA[54,450,000]]></cell></row>
+<row><cell><![CDATA[197]]></cell><cell><![CDATA[SINTRA SINARINDO ELEKTRIK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[198]]></cell><cell><![CDATA[SINTRA SINARINDO ELEKTRIK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[199]]></cell><cell><![CDATA[SRIKANDI BERKAH UTAMA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[200]]></cell><cell><![CDATA[SRIWIJAYA MEKANIKA INDOTEKNIK]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[201]]></cell><cell><![CDATA[STAINLESS STEEL PRIMAVALVE]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[27,500,000]]></cell></row>
+<row><cell><![CDATA[202]]></cell><cell><![CDATA[STEEL PIPE INDUSTRY OF INDONESIA TBK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[203]]></cell><cell><![CDATA[SUCACO]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[204]]></cell><cell><![CDATA[SUMBER ENERGI TERBARUKAN INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[55,000,000]]></cell></row>
+<row><cell><![CDATA[205]]></cell><cell><![CDATA[SUMITOMO CORPORATION]]></cell><cell><![CDATA[Local Content TKDN Monitoring & Consultancy]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[206]]></cell><cell><![CDATA[SUNDAYA INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[207]]></cell><cell><![CDATA[SUPERTONE]]></cell><cell><![CDATA[TKDN KOMERSIAL 2018]]></cell><cell><![CDATA[33,000,000]]></cell></row>
+<row><cell><![CDATA[208]]></cell><cell><![CDATA[SURYA SUMEBAR]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[209]]></cell><cell><![CDATA[SYMPHOS ELECTRIC]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[210]]></cell><cell><![CDATA[TAC PERTAMINA EP - PT PRAKARSA BETUNG MERUO SENAMI JAMBI]]></cell><cell><![CDATA[TKDN KKKS - Retail 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[211]]></cell><cell><![CDATA[TARUNA PUTRA PERTIWI]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[212]]></cell><cell><![CDATA[TELEHOUSE ENGINEERING]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[213]]></cell><cell><![CDATA[TERNARY]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[214]]></cell><cell><![CDATA[TIANG BETON BRM]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[215]]></cell><cell><![CDATA[TIGA INSAN SEJAHTERA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[216]]></cell><cell><![CDATA[TIGA PILAR SEJAHTERA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[217]]></cell><cell><![CDATA[TIMUR MEGAH STEEL]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[218]]></cell><cell><![CDATA[TIMURAYA TUNGGAL]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[44,000,000]]></cell></row>
+<row><cell><![CDATA[219]]></cell><cell><![CDATA[TJAKRINDO MAS]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[220]]></cell><cell><![CDATA[TORISHIMA GUNA ENGINEERING]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[221]]></cell><cell><![CDATA[TOTALINDO EKA PERSADA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[222]]></cell><cell><![CDATA[TRAFOINDO PRIMA PERKASA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[223]]></cell><cell><![CDATA[TRANS RETAIL INDONESIA]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[224]]></cell><cell><![CDATA[TRIMANUNGGAL KARYATAMA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[225]]></cell><cell><![CDATA[TRIPUTRA ELECTRIC ABADI]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[226]]></cell><cell><![CDATA[TRIPUTRA ELECTRIC ABADI]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[227]]></cell><cell><![CDATA[TUNAS MAKMUR JAYA ABADI]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[228]]></cell><cell><![CDATA[VORTEX CONVEYOR INTERNATIONAL]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[229]]></cell><cell><![CDATA[WANAMITRA PERMAI]]></cell><cell><![CDATA[SLO (SERTIFIKASI)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[230]]></cell><cell><![CDATA[WASKITA JAYA PURNAMA]]></cell><cell><![CDATA[SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[231]]></cell><cell><![CDATA[WIJAYA KARYA (PERSERO) TBK]]></cell><cell><![CDATA[Inland Transport Cargo Engine MAN & Transport_WIKA]]></cell><cell><![CDATA[41,789,000]]></cell></row>
+<row><cell><![CDATA[232]]></cell><cell><![CDATA[WIJAYA KARYA (PERSERO) TBK]]></cell><cell><![CDATA[Internal Kalibrasi 3 Unit Tangki di Sumbawa, Maumere, Bima]]></cell><cell><![CDATA[70,376,900]]></cell></row>
+<row><cell><![CDATA[233]]></cell><cell><![CDATA[WIJAYA KARYA (PERSERO) TBK]]></cell><cell><![CDATA[Monitoring TKDN Proyek Pembangunan Pabrik Halmahera Timur  (P3FH) EPC antara PT. Antam (Persero) TBK dan Konsorsium antara PT. Wijaya Karya (Persero) TBK dan Kawasaki Heavy Industries, LTD]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[234]]></cell><cell><![CDATA[WIJAYA KARYA (PERSERO) TBK]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[235]]></cell><cell><![CDATA[WINGTECH TECHNOLOGY INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[236]]></cell><cell><![CDATA[XIAOMI TECHNOLOGY INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[237]]></cell><cell><![CDATA[YANG MANDIRI UTAMA SUKSES]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[238]]></cell><cell><![CDATA[YUASA BATTERY INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[239]]></cell><cell><![CDATA[ZEUS KIMIATAMA INDONESIA]]></cell><cell><![CDATA[TKDN RETAIL]]></cell><cell><![CDATA[0]]></cell></row></rows>

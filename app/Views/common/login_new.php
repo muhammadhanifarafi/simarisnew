@@ -7,13 +7,16 @@
       <div class="col-12 col-md-6 col-xl-7">
         <div class="d-flex justify-content-center text-bg-primary">
           <div class="col-12 col-xl-9">
-            <img class="img-fluid rounded mb-4" loading="lazy" src="/images/login/logo_risk_management.png" width="245" height="80" alt="Sistem Manajemen Risiko Logo">
+            <div class="d-flex">
+              <img class="img-fluid rounded me-3 mb-4" loading="lazy" src="/images/login/risk_management.png" width="245" height="80" alt="Sistem Manajemen Risiko Logo">
+              <img class="img-fluid rounded mb-4" loading="lazy" src="/images/login/logo_ptsi.png" width="300" height="300" alt="Surveyor Indonesia Logo">
+            </div>
             <hr class="border-primary-subtle mb-4">
             <h2 class="h1 mb-4">SIMARIS</h2>
             <p class="lead mb-5">Sistem Manajemen Risiko yang dirancang untuk meningkatkan kejelasan dan efektivitas dalam mengelola risiko. Dikembangkan oleh PT. Surveyor Indonesia, bersama anak perusahaan SCCI dan SINERGA, untuk menyediakan solusi terbaik dalam pengelolaan risiko yang terintegrasi dan berkualitas tinggi.</p>
             <div class="text-endx">
               <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" fill="currentColor" class="bi bi-grip-horizontal" viewBox="0 0 16 16">
-                <path d="M2 8a1 1 0 1 1 0 2 1 1 0 0 1 0-2zm0-3a1 1 0 1 1 0 2 1 1 0 0 1 0-2zm3 3a1 1 0 1 1 0 2 1 1 0 0 1 0-2zm0-3a1 1 0 1 1 0 2 1 1 0 0 1 0-2zm3 3a1 1 0 1 1 0 2 1 1 0 0 1 0-2zm0-3a1 1 0 1 1 0 2 1 1 0 0 1 0-2zm3 3a1 1 0 1 1 0 2 1 1 0 0 1 0-2zm0-3a1 1 0 1 1 0 2 1 1 0 0 1 0-2zm3 3a1 1 0 1 1 0 2 1 1 0 0 1 0-2zm0-3a1 1 0 1 1 0 2 1 1 0 0 1 0-2z" />
+                <path d="M2 8a1 1 0 1 1 0 2 1 1 0 0 1 0-2zm0-3a1 1 0 1 1 0 2 1 1 0 0 1 0-2zm3 3a1 1 0 1 1 0 2 1 1 0 0 1 0-2zm0-3a1 1 0 1 1 0 2 1 1 0 0 1 0-2zm3 3a1 1 0 1 1 0 2 1 1 0 0 1 0-2zm0-3a1 1 0 1 1 0 2 1 1 0 0 1 0-2zm3 3a1 1 0 1 1 0 2 1 1 0 0 1 0-2zm0-3a1 1 0 1 1 0 2 1 1 0 0 1 0-2zm3 3a1 1 0 1 1 0 2 1 1 0 0 1 0-2zm0-3a1 1 0 1 1 0 2 1 1 0 0 1 0-2zm3 3a1 1 0 1 1 0 2 1 1 0 0 1 0-2zm0-3a1 1 0 1 1 0 2 1 1 0 0 1 0-2z" />
               </svg>
             </div>
           </div>

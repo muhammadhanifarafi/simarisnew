@@ -1,0 +1,166 @@
+<rows profile='color'><head><columns><column  width='50' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[No]]></column><column  width='90' align='center' type='ron' hidden='false' sort='int' color=''><![CDATA[Kode Proyek]]></column><column  width='250' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Proyek]]></column><column  width='190' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[Klien]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[Nilai Kontrak]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[RealisasiPendapatan]]></column><column  width='110' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[ RABLaba/Rugi(A)]]></column><column  width='100' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[RealisasiLaba/Rugi(B)]]></column><column  width='0' align='right' type='ron' hidden='false' sort='str' color=''><![CDATA[(B)/(A) %]]></column><column  width='80' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[Cetak]]></column><column  width='0' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='4' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[2,729,178,621,872]]></column>
+<column><![CDATA[118,342,588,475]]></column>
+<column><![CDATA[218,466,127,414]]></column>
+<column><![CDATA[33,256,527,815]]></column>
+<column colspan='3' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+</columns>
+</foot></rows><rows profile='color'><head><columns><column  width='50' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[No]]></column><column  width='90' align='center' type='ron' hidden='false' sort='int' color=''><![CDATA[Kode Proyek]]></column><column  width='250' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Proyek]]></column><column  width='190' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[Klien]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[Nilai Kontrak]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[RealisasiPendapatan]]></column><column  width='110' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[ RABLaba/Rugi(A)]]></column><column  width='100' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[RealisasiLaba/Rugi(B)]]></column><column  width='0' align='right' type='ron' hidden='false' sort='str' color=''><![CDATA[(B)/(A) %]]></column><column  width='80' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[Cetak]]></column><column  width='0' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='4' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[2,729,178,621,872]]></column>
+<column><![CDATA[118,342,588,475]]></column>
+<column><![CDATA[218,466,127,414]]></column>
+<column><![CDATA[33,256,527,815]]></column>
+<column colspan='3' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+</columns>
+</foot></rows><rows profile='color'><head><columns><column  width='50' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[No]]></column><column  width='90' align='center' type='ron' hidden='false' sort='int' color=''><![CDATA[Kode Proyek]]></column><column  width='250' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Proyek]]></column><column  width='190' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[Klien]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[Nilai Kontrak]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[RealisasiPendapatan]]></column><column  width='110' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[ RABLaba/Rugi(A)]]></column><column  width='100' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[RealisasiLaba/Rugi(B)]]></column><column  width='0' align='right' type='ron' hidden='false' sort='str' color=''><![CDATA[(B)/(A) %]]></column><column  width='80' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[Cetak]]></column><column  width='0' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='4' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[2,729,178,621,872]]></column>
+<column><![CDATA[118,342,588,475]]></column>
+<column><![CDATA[218,466,127,414]]></column>
+<column><![CDATA[33,256,527,815]]></column>
+<column colspan='3' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+</columns>
+</foot></rows><rows profile='color'><head><columns><column  width='50' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[No]]></column><column  width='90' align='center' type='ron' hidden='false' sort='int' color=''><![CDATA[Kode Proyek]]></column><column  width='250' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Proyek]]></column><column  width='190' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[Klien]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[Nilai Kontrak]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[RealisasiPendapatan]]></column><column  width='110' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[ RABLaba/Rugi(A)]]></column><column  width='100' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[RealisasiLaba/Rugi(B)]]></column><column  width='0' align='right' type='ron' hidden='false' sort='str' color=''><![CDATA[(B)/(A) %]]></column><column  width='80' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[Cetak]]></column><column  width='0' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='4' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[2,729,178,621,872]]></column>
+<column><![CDATA[118,342,588,475]]></column>
+<column><![CDATA[218,466,127,414]]></column>
+<column><![CDATA[33,256,527,815]]></column>
+<column colspan='3' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+</columns>
+</foot></rows><rows profile='color'><head><columns><column  width='50' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[No]]></column><column  width='90' align='center' type='ron' hidden='false' sort='int' color=''><![CDATA[Kode Proyek]]></column><column  width='250' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Proyek]]></column><column  width='190' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[Klien]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[Nilai Kontrak]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[RealisasiPendapatan]]></column><column  width='110' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[ RABLaba/Rugi(A)]]></column><column  width='100' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[RealisasiLaba/Rugi(B)]]></column><column  width='0' align='right' type='ron' hidden='false' sort='str' color=''><![CDATA[(B)/(A) %]]></column><column  width='80' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[Cetak]]></column><column  width='0' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='4' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[2,729,178,621,872]]></column>
+<column><![CDATA[118,342,588,475]]></column>
+<column><![CDATA[218,466,127,414]]></column>
+<column><![CDATA[33,256,527,815]]></column>
+<column colspan='3' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+</columns>
+</foot></rows><rows profile='color'><head><columns><column  width='50' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[No]]></column><column  width='90' align='center' type='ron' hidden='false' sort='int' color=''><![CDATA[Kode Proyek]]></column><column  width='250' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Proyek]]></column><column  width='190' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[Klien]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[Nilai Kontrak]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[RealisasiPendapatan]]></column><column  width='110' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[ RABLaba/Rugi(A)]]></column><column  width='100' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[RealisasiLaba/Rugi(B)]]></column><column  width='0' align='right' type='ron' hidden='false' sort='str' color=''><![CDATA[(B)/(A) %]]></column><column  width='80' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[Cetak]]></column><column  width='0' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='4' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[2,729,178,621,872]]></column>
+<column><![CDATA[118,342,588,475]]></column>
+<column><![CDATA[218,466,127,414]]></column>
+<column><![CDATA[33,256,527,815]]></column>
+<column colspan='3' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+</columns>
+</foot></rows><rows profile='color'><head><columns><column  width='50' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[No]]></column><column  width='90' align='center' type='ron' hidden='false' sort='int' color=''><![CDATA[Kode Proyek]]></column><column  width='250' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Proyek]]></column><column  width='190' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[Klien]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[Nilai Kontrak]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[RealisasiPendapatan]]></column><column  width='110' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[ RABLaba/Rugi(A)]]></column><column  width='100' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[RealisasiLaba/Rugi(B)]]></column><column  width='0' align='right' type='ron' hidden='false' sort='str' color=''><![CDATA[(B)/(A) %]]></column><column  width='80' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[Cetak]]></column><column  width='0' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='4' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[2,729,178,621,872]]></column>
+<column><![CDATA[118,342,588,475]]></column>
+<column><![CDATA[218,466,127,414]]></column>
+<column><![CDATA[33,256,527,815]]></column>
+<column colspan='3' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+</columns>
+</foot></rows><rows profile='color'><head><columns><column  width='50' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[No]]></column><column  width='90' align='center' type='ron' hidden='false' sort='int' color=''><![CDATA[Kode Proyek]]></column><column  width='250' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Proyek]]></column><column  width='190' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[Klien]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[Nilai Kontrak]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[RealisasiPendapatan]]></column><column  width='110' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[ RABLaba/Rugi(A)]]></column><column  width='100' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[RealisasiLaba/Rugi(B)]]></column><column  width='0' align='right' type='ron' hidden='false' sort='str' color=''><![CDATA[(B)/(A) %]]></column><column  width='80' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[Cetak]]></column><column  width='0' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='4' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[2,729,178,621,872]]></column>
+<column><![CDATA[118,342,588,475]]></column>
+<column><![CDATA[218,466,127,414]]></column>
+<column><![CDATA[33,256,527,815]]></column>
+<column colspan='3' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+</columns>
+</foot></rows><rows profile='color'><head><columns><column  width='50' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[No]]></column><column  width='90' align='center' type='ron' hidden='false' sort='int' color=''><![CDATA[Kode Proyek]]></column><column  width='250' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Proyek]]></column><column  width='190' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[Klien]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[Nilai Kontrak]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[RealisasiPendapatan]]></column><column  width='110' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[ RABLaba/Rugi(A)]]></column><column  width='100' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[RealisasiLaba/Rugi(B)]]></column><column  width='0' align='right' type='ron' hidden='false' sort='str' color=''><![CDATA[(B)/(A) %]]></column><column  width='80' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[Cetak]]></column><column  width='0' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='4' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[2,729,178,621,872]]></column>
+<column><![CDATA[118,342,588,475]]></column>
+<column><![CDATA[218,466,127,414]]></column>
+<column><![CDATA[33,256,527,815]]></column>
+<column colspan='3' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+</columns>
+</foot></rows><rows profile='color'><head><columns><column  width='50' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[No]]></column><column  width='90' align='center' type='ron' hidden='false' sort='int' color=''><![CDATA[Kode Proyek]]></column><column  width='250' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Proyek]]></column><column  width='190' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[Klien]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[Nilai Kontrak]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[RealisasiPendapatan]]></column><column  width='110' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[ RABLaba/Rugi(A)]]></column><column  width='100' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[RealisasiLaba/Rugi(B)]]></column><column  width='0' align='right' type='ron' hidden='false' sort='str' color=''><![CDATA[(B)/(A) %]]></column><column  width='80' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[Cetak]]></column><column  width='0' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='4' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[2,729,178,621,872]]></column>
+<column><![CDATA[118,342,588,475]]></column>
+<column><![CDATA[218,466,127,414]]></column>
+<column><![CDATA[33,256,527,815]]></column>
+<column colspan='3' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+</columns>
+</foot></rows><rows profile='color'><head><columns><column  width='50' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[No]]></column><column  width='90' align='center' type='ron' hidden='false' sort='int' color=''><![CDATA[Kode Proyek]]></column><column  width='250' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Proyek]]></column><column  width='190' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[Klien]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[Nilai Kontrak]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[RealisasiPendapatan]]></column><column  width='110' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[ RABLaba/Rugi(A)]]></column><column  width='100' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[RealisasiLaba/Rugi(B)]]></column><column  width='0' align='right' type='ron' hidden='false' sort='str' color=''><![CDATA[(B)/(A) %]]></column><column  width='80' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[Cetak]]></column><column  width='0' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='4' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[2,729,178,621,872]]></column>
+<column><![CDATA[118,342,588,475]]></column>
+<column><![CDATA[218,466,127,414]]></column>
+<column><![CDATA[33,256,527,815]]></column>
+<column colspan='3' ><![CDATA[ ]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+</columns>
+</foot></rows>

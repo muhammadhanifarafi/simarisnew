@@ -143,7 +143,7 @@
                         "ordering": true,
                         "bDestroy": true,
                         "ajax": {
-                            "url": "<?php echo base_url() . 'master_profil_sasaran/data' ?>",
+                            "url": "<?php echo base_url() . 'master/master_profil_sasaran/data' ?>",
                             "type": "GET",
                             "dataSrc": "data"
                         },
@@ -186,7 +186,7 @@
             $('#saveDataBtn').click(function() {
                 var formData = $('#addDataForm').serialize();
                 $.ajax({
-                    url: '<?= base_url('master_profil_sasaran/save') ?>',
+                    url: '<?= base_url('master/master_profil_sasaran/save') ?>',
                     type: 'POST',
                     data: formData,
                     success: function(response) {
@@ -225,7 +225,7 @@
             $(document).on('click', '.edit-btn', function() {
                 var id = $(this).data('id');
                 $.ajax({
-                    url: '<?= base_url('master_profil_sasaran/edit') ?>/' + id,
+                    url: '<?= base_url('master/master_profil_sasaran/edit') ?>/' + id,
                     type: 'GET',
                     success: function(response) {
                         var data = response.data;
@@ -254,7 +254,7 @@
                     if (result.isConfirmed) {
                         // Melakukan penghapusan jika user mengonfirmasi
                         $.ajax({
-                            url: '<?= site_url('master_profil_sasaran/delete') ?>/' + id,
+                            url: '<?= site_url('master/master_profil_sasaran/delete') ?>/' + id,
                             type: 'POST',
                             success: function(response) {
                                 if (response.status === 'success') {

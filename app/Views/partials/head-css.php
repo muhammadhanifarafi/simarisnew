@@ -9,3 +9,6 @@
 
 <!-- Icons css -->
 <link href="/css/icons.min.css" rel="stylesheet" type="text/css" />
+
+<!-- Dhtmlx -->
+<link rel="stylesheet" type="text/css" href="/assets/codebase/dhtmlx.css"/>

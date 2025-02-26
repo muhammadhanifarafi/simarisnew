@@ -1,0 +1,2809 @@
+<rows profile='color'><head><columns><column  rowspan="2"  width='30' align='center' type='ron' hidden='false' sort='int' color=''><![CDATA[No.]]></column><column  rowspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[ Kode Proyek ]]></column><column  rowspan="2"  width='200' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[Waktu Proyek ]]></column><column  rowspan="2"  width='200' align='center' type='ron' hidden='false' sort='int' color=''><![CDATA[Nama Proyek (Nilai Kontrak dalam ribuan)]]><option value='1'><![CDATA[I]]></option><option value='2'><![CDATA[II]]></option><option value='3'><![CDATA[III]]></option><option value='4'><![CDATA[IV]]></option><option value='5'><![CDATA[V]]></option></column><column  rowspan="2"  width='150' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Klien]]></column><column  rowspan="2"  width='100' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[Risiko]]></column><column  colspan="2"  width='60' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[Persiapan]]></column><column  width='100' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[]]></column><column  rowspan="2"  width='90' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[ QC Pelaksanaan]]></column><column  colspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[QA Pelaksanaan]]></column><column  width='60' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[]]></column><column  colspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[QA Pra BA]]></column><column  width='60' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[]]></column><column  rowspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[Cetak]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[QA]]></column><column><![CDATA[Rekomendasi]]></column><column><![CDATA[]]></column><column><![CDATA[QA]]></column><column><![CDATA[Rekomendasi]]></column><column><![CDATA[QA]]></column><column><![CDATA[Rekomendasi]]></column><column><![CDATA[]]></column></columns></head>
+<row><cell><![CDATA[26]]></cell><cell><![CDATA[0920020013]]></cell><cell><![CDATA[27 Feb 2020 s/d 26 Aug 2020]]></cell><cell><![CDATA[JASA KONSULTANSI PENYELIDIDKAN TANAH PADA PENGEMBANGAN PELABUHAN DI WILAYAH REGIONAL KALIMANTAN PT PELABUHAN INDONESIA III (PERSERO) Rp.544,000]]></cell><cell><![CDATA[PELABUHAN INDONESIA III (PERSERO)]]></cell><cell><![CDATA[M (5 H)]]></cell><cell><![CDATA[
+					75%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[0919020095]]></cell><cell><![CDATA[04 Nov 2019 s/d 03 Mar 2020]]></cell><cell><![CDATA[PENGADAAN PENYUSUNAN STUDI KELAYAKAN RENCANA PEMBANGUNAN SUTT 150 KV GI ANGKASA - GI SENTANI BARU Rp.593,983]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN PAPUA (UIP XIV)]]></cell><cell><![CDATA[M (5 H)]]></cell><cell><![CDATA[
+					87.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[0919020068]]></cell><cell><![CDATA[01 Aug 2019 s/d 31 Jul 2020]]></cell><cell><![CDATA[PENGADAAN PEMBORONGAN PEKERJAAN JASA KONSULTANSI SUPERVISI KONSTRUKSI DAN QA/QC PROYEK PEMBANGKIT DAN JARINGAN WILAYAH KERJA UPMK II Rp.56,618,302]]></cell><cell><![CDATA[PLN (PERSERO) PUSAT MANAJEMEN PROYEK]]></cell><cell><![CDATA[M (2 H)]]></cell><cell><![CDATA[
+					75%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[2
+					]]></cell><cell><![CDATA[71.4%
+
+					]]></cell><cell><![CDATA[0% 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[0918020070]]></cell><cell><![CDATA[01 Jan 2019 s/d 28 Feb 2020]]></cell><cell><![CDATA[Pemetaan, Sosialisasi, Inventarisasi, Identifikasi Tanaman, Tanah dan Bangunan Jalur ROW untuk pembangunan SUTT 150 Kv Malingping - Bayah Rp.3,260,576]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[M (10 H)]]></cell><cell><![CDATA[
+					81.3%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[0918020069]]></cell><cell><![CDATA[03 Sep 2018 s/d 28 Feb 2020]]></cell><cell><![CDATA[Pemetaan, Sosialisasi, Inventarisasi, Identifikasi Tanah, Tanaman, dan Bangunan pada Tapak Tower Eksisting Beserta ROW untuk Pembangunan SUTET 500 kV Cikupa - Kembangan Rp.4,249,892]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[M (10 H)]]></cell><cell><![CDATA[
+					81.3%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[0918020068]]></cell><cell><![CDATA[03 Sep 2018 s/d 28 Feb 2020]]></cell><cell><![CDATA[Pemetaan, Sosialisasi, Inventarisasi, Identifikasi  Tanah, Tanaman,  dan Bangunan pada Pembebasan Lahan Tapak Tower Beserta ROW untuk Pembangunan SUTT 150 kV Tangerang Baru III - Tangerang Baru II,  SUTT 150 kV Tangerang Baru II - Incomer (Balaraja - Rp.4,443,547]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[M (11 H)]]></cell><cell><![CDATA[
+					75%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[0918020051]]></cell><cell><![CDATA[26 Mar 2018 s/d 19 Apr 2020]]></cell><cell><![CDATA[Jasa Konsultan Manajemen Konstruksi Pekerjaan Design & Build Pembuatan Apron 2 parking Stand, Exit taxiway, Dan penyempurnaan Fasilitas Airside terkait Beserta Fasilitas penunjangnya Di Bandara Internasional Lombok Rp.1,018,255]]></cell><cell><![CDATA[ANGKASA PURA I (PERSERO)]]></cell><cell><![CDATA[M (6 H)]]></cell><cell><![CDATA[
+					100%]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[0918020030]]></cell><cell><![CDATA[14 Feb 2018 s/d 13 Jan 2020]]></cell><cell><![CDATA[Pemborongan Pekerjaan Jasa Konsultansi Supervisi Konstruksi PLTMG Bangkanai 140 MW Rp.6,837,232]]></cell><cell><![CDATA[PLN (PERSERO) PUSAT MANAJEMEN PROYEK]]></cell><cell><![CDATA[M (2 H)]]></cell><cell><![CDATA[
+					87.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[2
+					]]></cell><cell><![CDATA[100%
+
+					]]></cell><cell><![CDATA[0% 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[24]]></cell><cell><![CDATA[0920020008]]></cell><cell><![CDATA[14 Jan 2020 s/d 13 Apr 2020]]></cell><cell><![CDATA[PEKERJAAN STUDY PENGEMBANGAN KELISTRIKAN KALIMANTAN BARAT Rp.773,085]]></cell><cell><![CDATA[PLN (PERSERO) UIP KALIMANTAN BAGIAN BARAT]]></cell><cell><![CDATA[L (4 H)]]></cell><cell><![CDATA[
+					62.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[0919020094]]></cell><cell><![CDATA[04 Nov 2019 s/d 03 Mar 2020]]></cell><cell><![CDATA[JASA KONSULTAN SURVEY TOPOGRAFI DAN SOIL INVESTIGATION PLTD SARMI 5 MW Rp.991,094]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN PAPUA (UIP XIV)]]></cell><cell><![CDATA[L (4 H)]]></cell><cell><![CDATA[
+					87.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[0917010011]]></cell><cell><![CDATA[06 Jan 2017 s/d 06 Sep 2020]]></cell><cell><![CDATA[Facilitator Administration Services (FAS-14) Provinsi Jawa Tengah Rp.7,902,913]]></cell><cell><![CDATA[KEMENTERIAN PEKERJAAN UMUM & PERUMAHAN RAKYAT]]></cell><cell><![CDATA[L (3 H)]]></cell><cell><![CDATA[
+					100%]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[1
+					]]></cell><cell><![CDATA[100%
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[35]]></cell><cell><![CDATA[0920990007]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Secondhand Goods Inspection Rp.2,750,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[34]]></cell><cell><![CDATA[0920990006]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Sertifikasi Layak Operasi Rp.2,000,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[33]]></cell><cell><![CDATA[0920990005]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Integrated Management System Rp.500,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[32]]></cell><cell><![CDATA[0920990004]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Lab Lingkungan & Public Training Rp.1,200,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[31]]></cell><cell><![CDATA[0920990003]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[K3 & Pengendalian Potensi Bahaya Besar Rp.1,000,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell>%2<rows profile='color'><head><columns><column  rowspan="2"  width='30' align='center' type='ron' hidden='false' sort='int' color=''><![CDATA[No.]]></column><column  rowspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[ Kode Proyek ]]></column><column  rowspan="2"  width='200' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[Waktu Proyek ]]></column><column  rowspan="2"  width='200' align='center' type='ron' hidden='false' sort='int' color=''><![CDATA[Nama Proyek (Nilai Kontrak dalam ribuan)]]><option value='1'><![CDATA[I]]></option><option value='2'><![CDATA[II]]></option><option value='3'><![CDATA[III]]></option><option value='4'><![CDATA[IV]]></option><option value='5'><![CDATA[V]]></option></column><column  rowspan="2"  width='150' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Klien]]></column><column  rowspan="2"  width='100' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[Risiko]]></column><column  colspan="2"  width='60' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[Persiapan]]></column><column  width='100' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[]]></column><column  rowspan="2"  width='90' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[ QC Pelaksanaan]]></column><column  colspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[QA Pelaksanaan]]></column><column  width='60' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[]]></column><column  colspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[QA Pra BA]]></column><column  width='60' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[]]></column><column  rowspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[Cetak]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[QA]]></column><column><![CDATA[Rekomendasi]]></column><column><![CDATA[]]></column><column><![CDATA[QA]]></column><column><![CDATA[Rekomendasi]]></column><column><![CDATA[QA]]></column><column><![CDATA[Rekomendasi]]></column><column><![CDATA[]]></column></columns></head>
+<row><cell><![CDATA[26]]></cell><cell><![CDATA[0920020013]]></cell><cell><![CDATA[27 Feb 2020 s/d 26 Aug 2020]]></cell><cell><![CDATA[JASA KONSULTANSI PENYELIDIDKAN TANAH PADA PENGEMBANGAN PELABUHAN DI WILAYAH REGIONAL KALIMANTAN PT PELABUHAN INDONESIA III (PERSERO) Rp.544,000]]></cell><cell><![CDATA[PELABUHAN INDONESIA III (PERSERO)]]></cell><cell><![CDATA[M (5 H)]]></cell><cell><![CDATA[
+					75%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[0919020095]]></cell><cell><![CDATA[04 Nov 2019 s/d 03 Mar 2020]]></cell><cell><![CDATA[PENGADAAN PENYUSUNAN STUDI KELAYAKAN RENCANA PEMBANGUNAN SUTT 150 KV GI ANGKASA - GI SENTANI BARU Rp.593,983]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN PAPUA (UIP XIV)]]></cell><cell><![CDATA[M (5 H)]]></cell><cell><![CDATA[
+					87.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[0919020068]]></cell><cell><![CDATA[01 Aug 2019 s/d 31 Jul 2020]]></cell><cell><![CDATA[PENGADAAN PEMBORONGAN PEKERJAAN JASA KONSULTANSI SUPERVISI KONSTRUKSI DAN QA/QC PROYEK PEMBANGKIT DAN JARINGAN WILAYAH KERJA UPMK II Rp.56,618,302]]></cell><cell><![CDATA[PLN (PERSERO) PUSAT MANAJEMEN PROYEK]]></cell><cell><![CDATA[M (2 H)]]></cell><cell><![CDATA[
+					75%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[2
+					]]></cell><cell><![CDATA[71.4%
+
+					]]></cell><cell><![CDATA[0% 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[0918020070]]></cell><cell><![CDATA[01 Jan 2019 s/d 28 Feb 2020]]></cell><cell><![CDATA[Pemetaan, Sosialisasi, Inventarisasi, Identifikasi Tanaman, Tanah dan Bangunan Jalur ROW untuk pembangunan SUTT 150 Kv Malingping - Bayah Rp.3,260,576]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[M (10 H)]]></cell><cell><![CDATA[
+					81.3%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[0918020069]]></cell><cell><![CDATA[03 Sep 2018 s/d 28 Feb 2020]]></cell><cell><![CDATA[Pemetaan, Sosialisasi, Inventarisasi, Identifikasi Tanah, Tanaman, dan Bangunan pada Tapak Tower Eksisting Beserta ROW untuk Pembangunan SUTET 500 kV Cikupa - Kembangan Rp.4,249,892]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[M (10 H)]]></cell><cell><![CDATA[
+					81.3%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[0918020068]]></cell><cell><![CDATA[03 Sep 2018 s/d 28 Feb 2020]]></cell><cell><![CDATA[Pemetaan, Sosialisasi, Inventarisasi, Identifikasi  Tanah, Tanaman,  dan Bangunan pada Pembebasan Lahan Tapak Tower Beserta ROW untuk Pembangunan SUTT 150 kV Tangerang Baru III - Tangerang Baru II,  SUTT 150 kV Tangerang Baru II - Incomer (Balaraja - Rp.4,443,547]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[M (11 H)]]></cell><cell><![CDATA[
+					75%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[0918020051]]></cell><cell><![CDATA[26 Mar 2018 s/d 19 Apr 2020]]></cell><cell><![CDATA[Jasa Konsultan Manajemen Konstruksi Pekerjaan Design & Build Pembuatan Apron 2 parking Stand, Exit taxiway, Dan penyempurnaan Fasilitas Airside terkait Beserta Fasilitas penunjangnya Di Bandara Internasional Lombok Rp.1,018,255]]></cell><cell><![CDATA[ANGKASA PURA I (PERSERO)]]></cell><cell><![CDATA[M (6 H)]]></cell><cell><![CDATA[
+					100%]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[0918020030]]></cell><cell><![CDATA[14 Feb 2018 s/d 13 Jan 2020]]></cell><cell><![CDATA[Pemborongan Pekerjaan Jasa Konsultansi Supervisi Konstruksi PLTMG Bangkanai 140 MW Rp.6,837,232]]></cell><cell><![CDATA[PLN (PERSERO) PUSAT MANAJEMEN PROYEK]]></cell><cell><![CDATA[M (2 H)]]></cell><cell><![CDATA[
+					87.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[2
+					]]></cell><cell><![CDATA[100%
+
+					]]></cell><cell><![CDATA[0% 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[24]]></cell><cell><![CDATA[0920020008]]></cell><cell><![CDATA[14 Jan 2020 s/d 13 Apr 2020]]></cell><cell><![CDATA[PEKERJAAN STUDY PENGEMBANGAN KELISTRIKAN KALIMANTAN BARAT Rp.773,085]]></cell><cell><![CDATA[PLN (PERSERO) UIP KALIMANTAN BAGIAN BARAT]]></cell><cell><![CDATA[L (4 H)]]></cell><cell><![CDATA[
+					62.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[0919020094]]></cell><cell><![CDATA[04 Nov 2019 s/d 03 Mar 2020]]></cell><cell><![CDATA[JASA KONSULTAN SURVEY TOPOGRAFI DAN SOIL INVESTIGATION PLTD SARMI 5 MW Rp.991,094]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN PAPUA (UIP XIV)]]></cell><cell><![CDATA[L (4 H)]]></cell><cell><![CDATA[
+					87.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[0917010011]]></cell><cell><![CDATA[06 Jan 2017 s/d 06 Sep 2020]]></cell><cell><![CDATA[Facilitator Administration Services (FAS-14) Provinsi Jawa Tengah Rp.7,902,913]]></cell><cell><![CDATA[KEMENTERIAN PEKERJAAN UMUM & PERUMAHAN RAKYAT]]></cell><cell><![CDATA[L (3 H)]]></cell><cell><![CDATA[
+					100%]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[1
+					]]></cell><cell><![CDATA[100%
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[35]]></cell><cell><![CDATA[0920990007]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Secondhand Goods Inspection Rp.2,750,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[34]]></cell><cell><![CDATA[0920990006]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Sertifikasi Layak Operasi Rp.2,000,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[33]]></cell><cell><![CDATA[0920990005]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Integrated Management System Rp.500,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[32]]></cell><cell><![CDATA[0920990004]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Lab Lingkungan & Public Training Rp.1,200,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[31]]></cell><cell><![CDATA[0920990003]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[K3 & Pengendalian Potensi Bahaya Besar Rp.1,000,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell>%2<rows profile='color'><head><columns><column  rowspan="2"  width='30' align='center' type='ron' hidden='false' sort='int' color=''><![CDATA[No.]]></column><column  rowspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[ Kode Proyek ]]></column><column  rowspan="2"  width='200' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[Waktu Proyek ]]></column><column  rowspan="2"  width='200' align='center' type='ron' hidden='false' sort='int' color=''><![CDATA[Nama Proyek (Nilai Kontrak dalam ribuan)]]><option value='1'><![CDATA[I]]></option><option value='2'><![CDATA[II]]></option><option value='3'><![CDATA[III]]></option><option value='4'><![CDATA[IV]]></option><option value='5'><![CDATA[V]]></option></column><column  rowspan="2"  width='150' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Klien]]></column><column  rowspan="2"  width='100' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[Risiko]]></column><column  colspan="2"  width='60' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[Persiapan]]></column><column  width='100' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[]]></column><column  rowspan="2"  width='90' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[ QC Pelaksanaan]]></column><column  colspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[QA Pelaksanaan]]></column><column  width='60' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[]]></column><column  colspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[QA Pra BA]]></column><column  width='60' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[]]></column><column  rowspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[Cetak]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[QA]]></column><column><![CDATA[Rekomendasi]]></column><column><![CDATA[]]></column><column><![CDATA[QA]]></column><column><![CDATA[Rekomendasi]]></column><column><![CDATA[QA]]></column><column><![CDATA[Rekomendasi]]></column><column><![CDATA[]]></column></columns></head>
+<row><cell><![CDATA[26]]></cell><cell><![CDATA[0920020013]]></cell><cell><![CDATA[27 Feb 2020 s/d 26 Aug 2020]]></cell><cell><![CDATA[JASA KONSULTANSI PENYELIDIDKAN TANAH PADA PENGEMBANGAN PELABUHAN DI WILAYAH REGIONAL KALIMANTAN PT PELABUHAN INDONESIA III (PERSERO) Rp.544,000]]></cell><cell><![CDATA[PELABUHAN INDONESIA III (PERSERO)]]></cell><cell><![CDATA[M (5 H)]]></cell><cell><![CDATA[
+					75%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[0919020095]]></cell><cell><![CDATA[04 Nov 2019 s/d 03 Mar 2020]]></cell><cell><![CDATA[PENGADAAN PENYUSUNAN STUDI KELAYAKAN RENCANA PEMBANGUNAN SUTT 150 KV GI ANGKASA - GI SENTANI BARU Rp.593,983]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN PAPUA (UIP XIV)]]></cell><cell><![CDATA[M (5 H)]]></cell><cell><![CDATA[
+					87.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[0919020068]]></cell><cell><![CDATA[01 Aug 2019 s/d 31 Jul 2020]]></cell><cell><![CDATA[PENGADAAN PEMBORONGAN PEKERJAAN JASA KONSULTANSI SUPERVISI KONSTRUKSI DAN QA/QC PROYEK PEMBANGKIT DAN JARINGAN WILAYAH KERJA UPMK II Rp.56,618,302]]></cell><cell><![CDATA[PLN (PERSERO) PUSAT MANAJEMEN PROYEK]]></cell><cell><![CDATA[M (2 H)]]></cell><cell><![CDATA[
+					75%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[2
+					]]></cell><cell><![CDATA[71.4%
+
+					]]></cell><cell><![CDATA[0% 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[0918020070]]></cell><cell><![CDATA[01 Jan 2019 s/d 28 Feb 2020]]></cell><cell><![CDATA[Pemetaan, Sosialisasi, Inventarisasi, Identifikasi Tanaman, Tanah dan Bangunan Jalur ROW untuk pembangunan SUTT 150 Kv Malingping - Bayah Rp.3,260,576]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[M (10 H)]]></cell><cell><![CDATA[
+					81.3%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[0918020069]]></cell><cell><![CDATA[03 Sep 2018 s/d 28 Feb 2020]]></cell><cell><![CDATA[Pemetaan, Sosialisasi, Inventarisasi, Identifikasi Tanah, Tanaman, dan Bangunan pada Tapak Tower Eksisting Beserta ROW untuk Pembangunan SUTET 500 kV Cikupa - Kembangan Rp.4,249,892]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[M (10 H)]]></cell><cell><![CDATA[
+					81.3%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[0918020068]]></cell><cell><![CDATA[03 Sep 2018 s/d 28 Feb 2020]]></cell><cell><![CDATA[Pemetaan, Sosialisasi, Inventarisasi, Identifikasi  Tanah, Tanaman,  dan Bangunan pada Pembebasan Lahan Tapak Tower Beserta ROW untuk Pembangunan SUTT 150 kV Tangerang Baru III - Tangerang Baru II,  SUTT 150 kV Tangerang Baru II - Incomer (Balaraja - Rp.4,443,547]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[M (11 H)]]></cell><cell><![CDATA[
+					75%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[0918020051]]></cell><cell><![CDATA[26 Mar 2018 s/d 19 Apr 2020]]></cell><cell><![CDATA[Jasa Konsultan Manajemen Konstruksi Pekerjaan Design & Build Pembuatan Apron 2 parking Stand, Exit taxiway, Dan penyempurnaan Fasilitas Airside terkait Beserta Fasilitas penunjangnya Di Bandara Internasional Lombok Rp.1,018,255]]></cell><cell><![CDATA[ANGKASA PURA I (PERSERO)]]></cell><cell><![CDATA[M (6 H)]]></cell><cell><![CDATA[
+					100%]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[0918020030]]></cell><cell><![CDATA[14 Feb 2018 s/d 13 Jan 2020]]></cell><cell><![CDATA[Pemborongan Pekerjaan Jasa Konsultansi Supervisi Konstruksi PLTMG Bangkanai 140 MW Rp.6,837,232]]></cell><cell><![CDATA[PLN (PERSERO) PUSAT MANAJEMEN PROYEK]]></cell><cell><![CDATA[M (2 H)]]></cell><cell><![CDATA[
+					87.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[2
+					]]></cell><cell><![CDATA[100%
+
+					]]></cell><cell><![CDATA[0% 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[24]]></cell><cell><![CDATA[0920020008]]></cell><cell><![CDATA[14 Jan 2020 s/d 13 Apr 2020]]></cell><cell><![CDATA[PEKERJAAN STUDY PENGEMBANGAN KELISTRIKAN KALIMANTAN BARAT Rp.773,085]]></cell><cell><![CDATA[PLN (PERSERO) UIP KALIMANTAN BAGIAN BARAT]]></cell><cell><![CDATA[L (4 H)]]></cell><cell><![CDATA[
+					62.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[0919020094]]></cell><cell><![CDATA[04 Nov 2019 s/d 03 Mar 2020]]></cell><cell><![CDATA[JASA KONSULTAN SURVEY TOPOGRAFI DAN SOIL INVESTIGATION PLTD SARMI 5 MW Rp.991,094]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN PAPUA (UIP XIV)]]></cell><cell><![CDATA[L (4 H)]]></cell><cell><![CDATA[
+					87.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[0917010011]]></cell><cell><![CDATA[06 Jan 2017 s/d 06 Sep 2020]]></cell><cell><![CDATA[Facilitator Administration Services (FAS-14) Provinsi Jawa Tengah Rp.7,902,913]]></cell><cell><![CDATA[KEMENTERIAN PEKERJAAN UMUM & PERUMAHAN RAKYAT]]></cell><cell><![CDATA[L (3 H)]]></cell><cell><![CDATA[
+					100%]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[1
+					]]></cell><cell><![CDATA[100%
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[35]]></cell><cell><![CDATA[0920990007]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Secondhand Goods Inspection Rp.2,750,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[34]]></cell><cell><![CDATA[0920990006]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Sertifikasi Layak Operasi Rp.2,000,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[33]]></cell><cell><![CDATA[0920990005]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Integrated Management System Rp.500,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[32]]></cell><cell><![CDATA[0920990004]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Lab Lingkungan & Public Training Rp.1,200,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[31]]></cell><cell><![CDATA[0920990003]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[K3 & Pengendalian Potensi Bahaya Besar Rp.1,000,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell>%2<rows profile='color'><head><columns><column  rowspan="2"  width='30' align='center' type='ron' hidden='false' sort='int' color=''><![CDATA[No.]]></column><column  rowspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[ Kode Proyek ]]></column><column  rowspan="2"  width='200' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[Waktu Proyek ]]></column><column  rowspan="2"  width='200' align='center' type='ron' hidden='false' sort='int' color=''><![CDATA[Nama Proyek (Nilai Kontrak dalam ribuan)]]><option value='1'><![CDATA[I]]></option><option value='2'><![CDATA[II]]></option><option value='3'><![CDATA[III]]></option><option value='4'><![CDATA[IV]]></option><option value='5'><![CDATA[V]]></option></column><column  rowspan="2"  width='150' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Klien]]></column><column  rowspan="2"  width='100' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[Risiko]]></column><column  colspan="2"  width='60' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[Persiapan]]></column><column  width='100' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[]]></column><column  rowspan="2"  width='90' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[ QC Pelaksanaan]]></column><column  colspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[QA Pelaksanaan]]></column><column  width='60' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[]]></column><column  colspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[QA Pra BA]]></column><column  width='60' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[]]></column><column  rowspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[Cetak]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[QA]]></column><column><![CDATA[Rekomendasi]]></column><column><![CDATA[]]></column><column><![CDATA[QA]]></column><column><![CDATA[Rekomendasi]]></column><column><![CDATA[QA]]></column><column><![CDATA[Rekomendasi]]></column><column><![CDATA[]]></column></columns></head>
+<row><cell><![CDATA[26]]></cell><cell><![CDATA[0920020013]]></cell><cell><![CDATA[27 Feb 2020 s/d 26 Aug 2020]]></cell><cell><![CDATA[JASA KONSULTANSI PENYELIDIDKAN TANAH PADA PENGEMBANGAN PELABUHAN DI WILAYAH REGIONAL KALIMANTAN PT PELABUHAN INDONESIA III (PERSERO) Rp.544,000]]></cell><cell><![CDATA[PELABUHAN INDONESIA III (PERSERO)]]></cell><cell><![CDATA[M (5 H)]]></cell><cell><![CDATA[
+					75%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[0919020095]]></cell><cell><![CDATA[04 Nov 2019 s/d 03 Mar 2020]]></cell><cell><![CDATA[PENGADAAN PENYUSUNAN STUDI KELAYAKAN RENCANA PEMBANGUNAN SUTT 150 KV GI ANGKASA - GI SENTANI BARU Rp.593,983]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN PAPUA (UIP XIV)]]></cell><cell><![CDATA[M (5 H)]]></cell><cell><![CDATA[
+					87.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[0919020068]]></cell><cell><![CDATA[01 Aug 2019 s/d 31 Jul 2020]]></cell><cell><![CDATA[PENGADAAN PEMBORONGAN PEKERJAAN JASA KONSULTANSI SUPERVISI KONSTRUKSI DAN QA/QC PROYEK PEMBANGKIT DAN JARINGAN WILAYAH KERJA UPMK II Rp.56,618,302]]></cell><cell><![CDATA[PLN (PERSERO) PUSAT MANAJEMEN PROYEK]]></cell><cell><![CDATA[M (2 H)]]></cell><cell><![CDATA[
+					75%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[2
+					]]></cell><cell><![CDATA[71.4%
+
+					]]></cell><cell><![CDATA[0% 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[0918020070]]></cell><cell><![CDATA[01 Jan 2019 s/d 28 Feb 2020]]></cell><cell><![CDATA[Pemetaan, Sosialisasi, Inventarisasi, Identifikasi Tanaman, Tanah dan Bangunan Jalur ROW untuk pembangunan SUTT 150 Kv Malingping - Bayah Rp.3,260,576]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[M (10 H)]]></cell><cell><![CDATA[
+					81.3%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[0918020069]]></cell><cell><![CDATA[03 Sep 2018 s/d 28 Feb 2020]]></cell><cell><![CDATA[Pemetaan, Sosialisasi, Inventarisasi, Identifikasi Tanah, Tanaman, dan Bangunan pada Tapak Tower Eksisting Beserta ROW untuk Pembangunan SUTET 500 kV Cikupa - Kembangan Rp.4,249,892]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[M (10 H)]]></cell><cell><![CDATA[
+					81.3%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[0918020068]]></cell><cell><![CDATA[03 Sep 2018 s/d 28 Feb 2020]]></cell><cell><![CDATA[Pemetaan, Sosialisasi, Inventarisasi, Identifikasi  Tanah, Tanaman,  dan Bangunan pada Pembebasan Lahan Tapak Tower Beserta ROW untuk Pembangunan SUTT 150 kV Tangerang Baru III - Tangerang Baru II,  SUTT 150 kV Tangerang Baru II - Incomer (Balaraja - Rp.4,443,547]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[M (11 H)]]></cell><cell><![CDATA[
+					75%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[0918020051]]></cell><cell><![CDATA[26 Mar 2018 s/d 19 Apr 2020]]></cell><cell><![CDATA[Jasa Konsultan Manajemen Konstruksi Pekerjaan Design & Build Pembuatan Apron 2 parking Stand, Exit taxiway, Dan penyempurnaan Fasilitas Airside terkait Beserta Fasilitas penunjangnya Di Bandara Internasional Lombok Rp.1,018,255]]></cell><cell><![CDATA[ANGKASA PURA I (PERSERO)]]></cell><cell><![CDATA[M (6 H)]]></cell><cell><![CDATA[
+					100%]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[0918020030]]></cell><cell><![CDATA[14 Feb 2018 s/d 13 Jan 2020]]></cell><cell><![CDATA[Pemborongan Pekerjaan Jasa Konsultansi Supervisi Konstruksi PLTMG Bangkanai 140 MW Rp.6,837,232]]></cell><cell><![CDATA[PLN (PERSERO) PUSAT MANAJEMEN PROYEK]]></cell><cell><![CDATA[M (2 H)]]></cell><cell><![CDATA[
+					87.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[2
+					]]></cell><cell><![CDATA[100%
+
+					]]></cell><cell><![CDATA[0% 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[24]]></cell><cell><![CDATA[0920020008]]></cell><cell><![CDATA[14 Jan 2020 s/d 13 Apr 2020]]></cell><cell><![CDATA[PEKERJAAN STUDY PENGEMBANGAN KELISTRIKAN KALIMANTAN BARAT Rp.773,085]]></cell><cell><![CDATA[PLN (PERSERO) UIP KALIMANTAN BAGIAN BARAT]]></cell><cell><![CDATA[L (4 H)]]></cell><cell><![CDATA[
+					62.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[0919020094]]></cell><cell><![CDATA[04 Nov 2019 s/d 03 Mar 2020]]></cell><cell><![CDATA[JASA KONSULTAN SURVEY TOPOGRAFI DAN SOIL INVESTIGATION PLTD SARMI 5 MW Rp.991,094]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN PAPUA (UIP XIV)]]></cell><cell><![CDATA[L (4 H)]]></cell><cell><![CDATA[
+					87.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[0917010011]]></cell><cell><![CDATA[06 Jan 2017 s/d 06 Sep 2020]]></cell><cell><![CDATA[Facilitator Administration Services (FAS-14) Provinsi Jawa Tengah Rp.7,902,913]]></cell><cell><![CDATA[KEMENTERIAN PEKERJAAN UMUM & PERUMAHAN RAKYAT]]></cell><cell><![CDATA[L (3 H)]]></cell><cell><![CDATA[
+					100%]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[1
+					]]></cell><cell><![CDATA[100%
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[35]]></cell><cell><![CDATA[0920990007]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Secondhand Goods Inspection Rp.2,750,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[34]]></cell><cell><![CDATA[0920990006]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Sertifikasi Layak Operasi Rp.2,000,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[33]]></cell><cell><![CDATA[0920990005]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Integrated Management System Rp.500,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[32]]></cell><cell><![CDATA[0920990004]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Lab Lingkungan & Public Training Rp.1,200,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[31]]></cell><cell><![CDATA[0920990003]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[K3 & Pengendalian Potensi Bahaya Besar Rp.1,000,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell>%2<rows profile='color'><head><columns><column  rowspan="2"  width='30' align='center' type='ron' hidden='false' sort='int' color=''><![CDATA[No.]]></column><column  rowspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[ Kode Proyek ]]></column><column  rowspan="2"  width='200' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[Waktu Proyek ]]></column><column  rowspan="2"  width='200' align='center' type='ron' hidden='false' sort='int' color=''><![CDATA[Nama Proyek (Nilai Kontrak dalam ribuan)]]><option value='1'><![CDATA[I]]></option><option value='2'><![CDATA[II]]></option><option value='3'><![CDATA[III]]></option><option value='4'><![CDATA[IV]]></option><option value='5'><![CDATA[V]]></option></column><column  rowspan="2"  width='150' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Klien]]></column><column  rowspan="2"  width='100' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[Risiko]]></column><column  colspan="2"  width='60' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[Persiapan]]></column><column  width='100' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[]]></column><column  rowspan="2"  width='90' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[ QC Pelaksanaan]]></column><column  colspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[QA Pelaksanaan]]></column><column  width='60' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[]]></column><column  colspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[QA Pra BA]]></column><column  width='60' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[]]></column><column  rowspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[Cetak]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[QA]]></column><column><![CDATA[Rekomendasi]]></column><column><![CDATA[]]></column><column><![CDATA[QA]]></column><column><![CDATA[Rekomendasi]]></column><column><![CDATA[QA]]></column><column><![CDATA[Rekomendasi]]></column><column><![CDATA[]]></column></columns></head>
+<row><cell><![CDATA[26]]></cell><cell><![CDATA[0920020013]]></cell><cell><![CDATA[27 Feb 2020 s/d 26 Aug 2020]]></cell><cell><![CDATA[JASA KONSULTANSI PENYELIDIDKAN TANAH PADA PENGEMBANGAN PELABUHAN DI WILAYAH REGIONAL KALIMANTAN PT PELABUHAN INDONESIA III (PERSERO) Rp.544,000]]></cell><cell><![CDATA[PELABUHAN INDONESIA III (PERSERO)]]></cell><cell><![CDATA[M (5 H)]]></cell><cell><![CDATA[
+					75%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[0919020095]]></cell><cell><![CDATA[04 Nov 2019 s/d 03 Mar 2020]]></cell><cell><![CDATA[PENGADAAN PENYUSUNAN STUDI KELAYAKAN RENCANA PEMBANGUNAN SUTT 150 KV GI ANGKASA - GI SENTANI BARU Rp.593,983]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN PAPUA (UIP XIV)]]></cell><cell><![CDATA[M (5 H)]]></cell><cell><![CDATA[
+					87.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[0919020068]]></cell><cell><![CDATA[01 Aug 2019 s/d 31 Jul 2020]]></cell><cell><![CDATA[PENGADAAN PEMBORONGAN PEKERJAAN JASA KONSULTANSI SUPERVISI KONSTRUKSI DAN QA/QC PROYEK PEMBANGKIT DAN JARINGAN WILAYAH KERJA UPMK II Rp.56,618,302]]></cell><cell><![CDATA[PLN (PERSERO) PUSAT MANAJEMEN PROYEK]]></cell><cell><![CDATA[M (2 H)]]></cell><cell><![CDATA[
+					75%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[2
+					]]></cell><cell><![CDATA[71.4%
+
+					]]></cell><cell><![CDATA[0% 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[0918020070]]></cell><cell><![CDATA[01 Jan 2019 s/d 28 Feb 2020]]></cell><cell><![CDATA[Pemetaan, Sosialisasi, Inventarisasi, Identifikasi Tanaman, Tanah dan Bangunan Jalur ROW untuk pembangunan SUTT 150 Kv Malingping - Bayah Rp.3,260,576]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[M (10 H)]]></cell><cell><![CDATA[
+					81.3%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[0918020069]]></cell><cell><![CDATA[03 Sep 2018 s/d 28 Feb 2020]]></cell><cell><![CDATA[Pemetaan, Sosialisasi, Inventarisasi, Identifikasi Tanah, Tanaman, dan Bangunan pada Tapak Tower Eksisting Beserta ROW untuk Pembangunan SUTET 500 kV Cikupa - Kembangan Rp.4,249,892]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[M (10 H)]]></cell><cell><![CDATA[
+					81.3%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[0918020068]]></cell><cell><![CDATA[03 Sep 2018 s/d 28 Feb 2020]]></cell><cell><![CDATA[Pemetaan, Sosialisasi, Inventarisasi, Identifikasi  Tanah, Tanaman,  dan Bangunan pada Pembebasan Lahan Tapak Tower Beserta ROW untuk Pembangunan SUTT 150 kV Tangerang Baru III - Tangerang Baru II,  SUTT 150 kV Tangerang Baru II - Incomer (Balaraja - Rp.4,443,547]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[M (11 H)]]></cell><cell><![CDATA[
+					75%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[0918020051]]></cell><cell><![CDATA[26 Mar 2018 s/d 19 Apr 2020]]></cell><cell><![CDATA[Jasa Konsultan Manajemen Konstruksi Pekerjaan Design & Build Pembuatan Apron 2 parking Stand, Exit taxiway, Dan penyempurnaan Fasilitas Airside terkait Beserta Fasilitas penunjangnya Di Bandara Internasional Lombok Rp.1,018,255]]></cell><cell><![CDATA[ANGKASA PURA I (PERSERO)]]></cell><cell><![CDATA[M (6 H)]]></cell><cell><![CDATA[
+					100%]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[0918020030]]></cell><cell><![CDATA[14 Feb 2018 s/d 13 Jan 2020]]></cell><cell><![CDATA[Pemborongan Pekerjaan Jasa Konsultansi Supervisi Konstruksi PLTMG Bangkanai 140 MW Rp.6,837,232]]></cell><cell><![CDATA[PLN (PERSERO) PUSAT MANAJEMEN PROYEK]]></cell><cell><![CDATA[M (2 H)]]></cell><cell><![CDATA[
+					87.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[2
+					]]></cell><cell><![CDATA[100%
+
+					]]></cell><cell><![CDATA[0% 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[24]]></cell><cell><![CDATA[0920020008]]></cell><cell><![CDATA[14 Jan 2020 s/d 13 Apr 2020]]></cell><cell><![CDATA[PEKERJAAN STUDY PENGEMBANGAN KELISTRIKAN KALIMANTAN BARAT Rp.773,085]]></cell><cell><![CDATA[PLN (PERSERO) UIP KALIMANTAN BAGIAN BARAT]]></cell><cell><![CDATA[L (4 H)]]></cell><cell><![CDATA[
+					62.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[0919020094]]></cell><cell><![CDATA[04 Nov 2019 s/d 03 Mar 2020]]></cell><cell><![CDATA[JASA KONSULTAN SURVEY TOPOGRAFI DAN SOIL INVESTIGATION PLTD SARMI 5 MW Rp.991,094]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN PAPUA (UIP XIV)]]></cell><cell><![CDATA[L (4 H)]]></cell><cell><![CDATA[
+					87.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[0917010011]]></cell><cell><![CDATA[06 Jan 2017 s/d 06 Sep 2020]]></cell><cell><![CDATA[Facilitator Administration Services (FAS-14) Provinsi Jawa Tengah Rp.7,902,913]]></cell><cell><![CDATA[KEMENTERIAN PEKERJAAN UMUM & PERUMAHAN RAKYAT]]></cell><cell><![CDATA[L (3 H)]]></cell><cell><![CDATA[
+					100%]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[1
+					]]></cell><cell><![CDATA[100%
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[35]]></cell><cell><![CDATA[0920990007]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Secondhand Goods Inspection Rp.2,750,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[34]]></cell><cell><![CDATA[0920990006]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Sertifikasi Layak Operasi Rp.2,000,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[33]]></cell><cell><![CDATA[0920990005]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Integrated Management System Rp.500,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[32]]></cell><cell><![CDATA[0920990004]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Lab Lingkungan & Public Training Rp.1,200,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[31]]></cell><cell><![CDATA[0920990003]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[K3 & Pengendalian Potensi Bahaya Besar Rp.1,000,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell>%2<rows profile='color'><head><columns><column  rowspan="2"  width='30' align='center' type='ron' hidden='false' sort='int' color=''><![CDATA[No.]]></column><column  rowspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[ Kode Proyek ]]></column><column  rowspan="2"  width='200' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[Waktu Proyek ]]></column><column  rowspan="2"  width='200' align='center' type='ron' hidden='false' sort='int' color=''><![CDATA[Nama Proyek (Nilai Kontrak dalam ribuan)]]><option value='1'><![CDATA[I]]></option><option value='2'><![CDATA[II]]></option><option value='3'><![CDATA[III]]></option><option value='4'><![CDATA[IV]]></option><option value='5'><![CDATA[V]]></option></column><column  rowspan="2"  width='150' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Klien]]></column><column  rowspan="2"  width='100' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[Risiko]]></column><column  colspan="2"  width='60' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[Persiapan]]></column><column  width='100' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[]]></column><column  rowspan="2"  width='90' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[ QC Pelaksanaan]]></column><column  colspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[QA Pelaksanaan]]></column><column  width='60' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[]]></column><column  colspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[QA Pra BA]]></column><column  width='60' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[]]></column><column  rowspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[Cetak]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[QA]]></column><column><![CDATA[Rekomendasi]]></column><column><![CDATA[]]></column><column><![CDATA[QA]]></column><column><![CDATA[Rekomendasi]]></column><column><![CDATA[QA]]></column><column><![CDATA[Rekomendasi]]></column><column><![CDATA[]]></column></columns></head>
+<row><cell><![CDATA[26]]></cell><cell><![CDATA[0920020013]]></cell><cell><![CDATA[27 Feb 2020 s/d 26 Aug 2020]]></cell><cell><![CDATA[JASA KONSULTANSI PENYELIDIDKAN TANAH PADA PENGEMBANGAN PELABUHAN DI WILAYAH REGIONAL KALIMANTAN PT PELABUHAN INDONESIA III (PERSERO) Rp.544,000]]></cell><cell><![CDATA[PELABUHAN INDONESIA III (PERSERO)]]></cell><cell><![CDATA[M (5 H)]]></cell><cell><![CDATA[
+					75%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[0919020095]]></cell><cell><![CDATA[04 Nov 2019 s/d 03 Mar 2020]]></cell><cell><![CDATA[PENGADAAN PENYUSUNAN STUDI KELAYAKAN RENCANA PEMBANGUNAN SUTT 150 KV GI ANGKASA - GI SENTANI BARU Rp.593,983]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN PAPUA (UIP XIV)]]></cell><cell><![CDATA[M (5 H)]]></cell><cell><![CDATA[
+					87.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[0919020068]]></cell><cell><![CDATA[01 Aug 2019 s/d 31 Jul 2020]]></cell><cell><![CDATA[PENGADAAN PEMBORONGAN PEKERJAAN JASA KONSULTANSI SUPERVISI KONSTRUKSI DAN QA/QC PROYEK PEMBANGKIT DAN JARINGAN WILAYAH KERJA UPMK II Rp.56,618,302]]></cell><cell><![CDATA[PLN (PERSERO) PUSAT MANAJEMEN PROYEK]]></cell><cell><![CDATA[M (2 H)]]></cell><cell><![CDATA[
+					75%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[2
+					]]></cell><cell><![CDATA[71.4%
+
+					]]></cell><cell><![CDATA[0% 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[0918020070]]></cell><cell><![CDATA[01 Jan 2019 s/d 28 Feb 2020]]></cell><cell><![CDATA[Pemetaan, Sosialisasi, Inventarisasi, Identifikasi Tanaman, Tanah dan Bangunan Jalur ROW untuk pembangunan SUTT 150 Kv Malingping - Bayah Rp.3,260,576]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[M (10 H)]]></cell><cell><![CDATA[
+					81.3%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[0918020069]]></cell><cell><![CDATA[03 Sep 2018 s/d 28 Feb 2020]]></cell><cell><![CDATA[Pemetaan, Sosialisasi, Inventarisasi, Identifikasi Tanah, Tanaman, dan Bangunan pada Tapak Tower Eksisting Beserta ROW untuk Pembangunan SUTET 500 kV Cikupa - Kembangan Rp.4,249,892]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[M (10 H)]]></cell><cell><![CDATA[
+					81.3%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[0918020068]]></cell><cell><![CDATA[03 Sep 2018 s/d 28 Feb 2020]]></cell><cell><![CDATA[Pemetaan, Sosialisasi, Inventarisasi, Identifikasi  Tanah, Tanaman,  dan Bangunan pada Pembebasan Lahan Tapak Tower Beserta ROW untuk Pembangunan SUTT 150 kV Tangerang Baru III - Tangerang Baru II,  SUTT 150 kV Tangerang Baru II - Incomer (Balaraja - Rp.4,443,547]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[M (11 H)]]></cell><cell><![CDATA[
+					75%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[0918020051]]></cell><cell><![CDATA[26 Mar 2018 s/d 19 Apr 2020]]></cell><cell><![CDATA[Jasa Konsultan Manajemen Konstruksi Pekerjaan Design & Build Pembuatan Apron 2 parking Stand, Exit taxiway, Dan penyempurnaan Fasilitas Airside terkait Beserta Fasilitas penunjangnya Di Bandara Internasional Lombok Rp.1,018,255]]></cell><cell><![CDATA[ANGKASA PURA I (PERSERO)]]></cell><cell><![CDATA[M (6 H)]]></cell><cell><![CDATA[
+					100%]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[0918020030]]></cell><cell><![CDATA[14 Feb 2018 s/d 13 Jan 2020]]></cell><cell><![CDATA[Pemborongan Pekerjaan Jasa Konsultansi Supervisi Konstruksi PLTMG Bangkanai 140 MW Rp.6,837,232]]></cell><cell><![CDATA[PLN (PERSERO) PUSAT MANAJEMEN PROYEK]]></cell><cell><![CDATA[M (2 H)]]></cell><cell><![CDATA[
+					87.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[2
+					]]></cell><cell><![CDATA[100%
+
+					]]></cell><cell><![CDATA[0% 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[24]]></cell><cell><![CDATA[0920020008]]></cell><cell><![CDATA[14 Jan 2020 s/d 13 Apr 2020]]></cell><cell><![CDATA[PEKERJAAN STUDY PENGEMBANGAN KELISTRIKAN KALIMANTAN BARAT Rp.773,085]]></cell><cell><![CDATA[PLN (PERSERO) UIP KALIMANTAN BAGIAN BARAT]]></cell><cell><![CDATA[L (4 H)]]></cell><cell><![CDATA[
+					62.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[0919020094]]></cell><cell><![CDATA[04 Nov 2019 s/d 03 Mar 2020]]></cell><cell><![CDATA[JASA KONSULTAN SURVEY TOPOGRAFI DAN SOIL INVESTIGATION PLTD SARMI 5 MW Rp.991,094]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN PAPUA (UIP XIV)]]></cell><cell><![CDATA[L (4 H)]]></cell><cell><![CDATA[
+					87.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[0917010011]]></cell><cell><![CDATA[06 Jan 2017 s/d 06 Sep 2020]]></cell><cell><![CDATA[Facilitator Administration Services (FAS-14) Provinsi Jawa Tengah Rp.7,902,913]]></cell><cell><![CDATA[KEMENTERIAN PEKERJAAN UMUM & PERUMAHAN RAKYAT]]></cell><cell><![CDATA[L (3 H)]]></cell><cell><![CDATA[
+					100%]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[1
+					]]></cell><cell><![CDATA[100%
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[35]]></cell><cell><![CDATA[0920990007]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Secondhand Goods Inspection Rp.2,750,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[34]]></cell><cell><![CDATA[0920990006]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Sertifikasi Layak Operasi Rp.2,000,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[33]]></cell><cell><![CDATA[0920990005]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Integrated Management System Rp.500,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[32]]></cell><cell><![CDATA[0920990004]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Lab Lingkungan & Public Training Rp.1,200,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[31]]></cell><cell><![CDATA[0920990003]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[K3 & Pengendalian Potensi Bahaya Besar Rp.1,000,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell>%2<rows profile='color'><head><columns><column  rowspan="2"  width='30' align='center' type='ron' hidden='false' sort='int' color=''><![CDATA[No.]]></column><column  rowspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[ Kode Proyek ]]></column><column  rowspan="2"  width='200' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[Waktu Proyek ]]></column><column  rowspan="2"  width='200' align='center' type='ron' hidden='false' sort='int' color=''><![CDATA[Nama Proyek (Nilai Kontrak dalam ribuan)]]><option value='1'><![CDATA[I]]></option><option value='2'><![CDATA[II]]></option><option value='3'><![CDATA[III]]></option><option value='4'><![CDATA[IV]]></option><option value='5'><![CDATA[V]]></option></column><column  rowspan="2"  width='150' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Klien]]></column><column  rowspan="2"  width='100' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[Risiko]]></column><column  colspan="2"  width='60' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[Persiapan]]></column><column  width='100' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[]]></column><column  rowspan="2"  width='90' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[ QC Pelaksanaan]]></column><column  colspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[QA Pelaksanaan]]></column><column  width='60' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[]]></column><column  colspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[QA Pra BA]]></column><column  width='60' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[]]></column><column  rowspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[Cetak]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[QA]]></column><column><![CDATA[Rekomendasi]]></column><column><![CDATA[]]></column><column><![CDATA[QA]]></column><column><![CDATA[Rekomendasi]]></column><column><![CDATA[QA]]></column><column><![CDATA[Rekomendasi]]></column><column><![CDATA[]]></column></columns></head>
+<row><cell><![CDATA[26]]></cell><cell><![CDATA[0920020013]]></cell><cell><![CDATA[27 Feb 2020 s/d 26 Aug 2020]]></cell><cell><![CDATA[JASA KONSULTANSI PENYELIDIDKAN TANAH PADA PENGEMBANGAN PELABUHAN DI WILAYAH REGIONAL KALIMANTAN PT PELABUHAN INDONESIA III (PERSERO) Rp.544,000]]></cell><cell><![CDATA[PELABUHAN INDONESIA III (PERSERO)]]></cell><cell><![CDATA[M (5 H)]]></cell><cell><![CDATA[
+					75%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[0919020095]]></cell><cell><![CDATA[04 Nov 2019 s/d 03 Mar 2020]]></cell><cell><![CDATA[PENGADAAN PENYUSUNAN STUDI KELAYAKAN RENCANA PEMBANGUNAN SUTT 150 KV GI ANGKASA - GI SENTANI BARU Rp.593,983]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN PAPUA (UIP XIV)]]></cell><cell><![CDATA[M (5 H)]]></cell><cell><![CDATA[
+					87.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[0919020068]]></cell><cell><![CDATA[01 Aug 2019 s/d 31 Jul 2020]]></cell><cell><![CDATA[PENGADAAN PEMBORONGAN PEKERJAAN JASA KONSULTANSI SUPERVISI KONSTRUKSI DAN QA/QC PROYEK PEMBANGKIT DAN JARINGAN WILAYAH KERJA UPMK II Rp.56,618,302]]></cell><cell><![CDATA[PLN (PERSERO) PUSAT MANAJEMEN PROYEK]]></cell><cell><![CDATA[M (2 H)]]></cell><cell><![CDATA[
+					75%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[2
+					]]></cell><cell><![CDATA[71.4%
+
+					]]></cell><cell><![CDATA[0% 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[0918020070]]></cell><cell><![CDATA[01 Jan 2019 s/d 28 Feb 2020]]></cell><cell><![CDATA[Pemetaan, Sosialisasi, Inventarisasi, Identifikasi Tanaman, Tanah dan Bangunan Jalur ROW untuk pembangunan SUTT 150 Kv Malingping - Bayah Rp.3,260,576]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[M (10 H)]]></cell><cell><![CDATA[
+					81.3%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[0918020069]]></cell><cell><![CDATA[03 Sep 2018 s/d 28 Feb 2020]]></cell><cell><![CDATA[Pemetaan, Sosialisasi, Inventarisasi, Identifikasi Tanah, Tanaman, dan Bangunan pada Tapak Tower Eksisting Beserta ROW untuk Pembangunan SUTET 500 kV Cikupa - Kembangan Rp.4,249,892]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[M (10 H)]]></cell><cell><![CDATA[
+					81.3%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[0918020068]]></cell><cell><![CDATA[03 Sep 2018 s/d 28 Feb 2020]]></cell><cell><![CDATA[Pemetaan, Sosialisasi, Inventarisasi, Identifikasi  Tanah, Tanaman,  dan Bangunan pada Pembebasan Lahan Tapak Tower Beserta ROW untuk Pembangunan SUTT 150 kV Tangerang Baru III - Tangerang Baru II,  SUTT 150 kV Tangerang Baru II - Incomer (Balaraja - Rp.4,443,547]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[M (11 H)]]></cell><cell><![CDATA[
+					75%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[0918020051]]></cell><cell><![CDATA[26 Mar 2018 s/d 19 Apr 2020]]></cell><cell><![CDATA[Jasa Konsultan Manajemen Konstruksi Pekerjaan Design & Build Pembuatan Apron 2 parking Stand, Exit taxiway, Dan penyempurnaan Fasilitas Airside terkait Beserta Fasilitas penunjangnya Di Bandara Internasional Lombok Rp.1,018,255]]></cell><cell><![CDATA[ANGKASA PURA I (PERSERO)]]></cell><cell><![CDATA[M (6 H)]]></cell><cell><![CDATA[
+					100%]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[0918020030]]></cell><cell><![CDATA[14 Feb 2018 s/d 13 Jan 2020]]></cell><cell><![CDATA[Pemborongan Pekerjaan Jasa Konsultansi Supervisi Konstruksi PLTMG Bangkanai 140 MW Rp.6,837,232]]></cell><cell><![CDATA[PLN (PERSERO) PUSAT MANAJEMEN PROYEK]]></cell><cell><![CDATA[M (2 H)]]></cell><cell><![CDATA[
+					87.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[2
+					]]></cell><cell><![CDATA[100%
+
+					]]></cell><cell><![CDATA[0% 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[24]]></cell><cell><![CDATA[0920020008]]></cell><cell><![CDATA[14 Jan 2020 s/d 13 Apr 2020]]></cell><cell><![CDATA[PEKERJAAN STUDY PENGEMBANGAN KELISTRIKAN KALIMANTAN BARAT Rp.773,085]]></cell><cell><![CDATA[PLN (PERSERO) UIP KALIMANTAN BAGIAN BARAT]]></cell><cell><![CDATA[L (4 H)]]></cell><cell><![CDATA[
+					62.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[0919020094]]></cell><cell><![CDATA[04 Nov 2019 s/d 03 Mar 2020]]></cell><cell><![CDATA[JASA KONSULTAN SURVEY TOPOGRAFI DAN SOIL INVESTIGATION PLTD SARMI 5 MW Rp.991,094]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN PAPUA (UIP XIV)]]></cell><cell><![CDATA[L (4 H)]]></cell><cell><![CDATA[
+					87.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[0917010011]]></cell><cell><![CDATA[06 Jan 2017 s/d 06 Sep 2020]]></cell><cell><![CDATA[Facilitator Administration Services (FAS-14) Provinsi Jawa Tengah Rp.7,902,913]]></cell><cell><![CDATA[KEMENTERIAN PEKERJAAN UMUM & PERUMAHAN RAKYAT]]></cell><cell><![CDATA[L (3 H)]]></cell><cell><![CDATA[
+					100%]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[1
+					]]></cell><cell><![CDATA[100%
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[35]]></cell><cell><![CDATA[0920990007]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Secondhand Goods Inspection Rp.2,750,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[34]]></cell><cell><![CDATA[0920990006]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Sertifikasi Layak Operasi Rp.2,000,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[33]]></cell><cell><![CDATA[0920990005]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Integrated Management System Rp.500,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[32]]></cell><cell><![CDATA[0920990004]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Lab Lingkungan & Public Training Rp.1,200,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[31]]></cell><cell><![CDATA[0920990003]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[K3 & Pengendalian Potensi Bahaya Besar Rp.1,000,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell>%2<rows profile='color'><head><columns><column  rowspan="2"  width='30' align='center' type='ron' hidden='false' sort='int' color=''><![CDATA[No.]]></column><column  rowspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[ Kode Proyek ]]></column><column  rowspan="2"  width='200' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[Waktu Proyek ]]></column><column  rowspan="2"  width='200' align='center' type='ron' hidden='false' sort='int' color=''><![CDATA[Nama Proyek (Nilai Kontrak dalam ribuan)]]><option value='1'><![CDATA[I]]></option><option value='2'><![CDATA[II]]></option><option value='3'><![CDATA[III]]></option><option value='4'><![CDATA[IV]]></option><option value='5'><![CDATA[V]]></option></column><column  rowspan="2"  width='150' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Klien]]></column><column  rowspan="2"  width='100' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[Risiko]]></column><column  colspan="2"  width='60' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[Persiapan]]></column><column  width='100' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[]]></column><column  rowspan="2"  width='90' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[ QC Pelaksanaan]]></column><column  colspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[QA Pelaksanaan]]></column><column  width='60' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[]]></column><column  colspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[QA Pra BA]]></column><column  width='60' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[]]></column><column  rowspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[Cetak]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[QA]]></column><column><![CDATA[Rekomendasi]]></column><column><![CDATA[]]></column><column><![CDATA[QA]]></column><column><![CDATA[Rekomendasi]]></column><column><![CDATA[QA]]></column><column><![CDATA[Rekomendasi]]></column><column><![CDATA[]]></column></columns></head>
+<row><cell><![CDATA[26]]></cell><cell><![CDATA[0920020013]]></cell><cell><![CDATA[27 Feb 2020 s/d 26 Aug 2020]]></cell><cell><![CDATA[JASA KONSULTANSI PENYELIDIDKAN TANAH PADA PENGEMBANGAN PELABUHAN DI WILAYAH REGIONAL KALIMANTAN PT PELABUHAN INDONESIA III (PERSERO) Rp.544,000]]></cell><cell><![CDATA[PELABUHAN INDONESIA III (PERSERO)]]></cell><cell><![CDATA[M (5 H)]]></cell><cell><![CDATA[
+					75%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[0919020095]]></cell><cell><![CDATA[04 Nov 2019 s/d 03 Mar 2020]]></cell><cell><![CDATA[PENGADAAN PENYUSUNAN STUDI KELAYAKAN RENCANA PEMBANGUNAN SUTT 150 KV GI ANGKASA - GI SENTANI BARU Rp.593,983]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN PAPUA (UIP XIV)]]></cell><cell><![CDATA[M (5 H)]]></cell><cell><![CDATA[
+					87.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[0919020068]]></cell><cell><![CDATA[01 Aug 2019 s/d 31 Jul 2020]]></cell><cell><![CDATA[PENGADAAN PEMBORONGAN PEKERJAAN JASA KONSULTANSI SUPERVISI KONSTRUKSI DAN QA/QC PROYEK PEMBANGKIT DAN JARINGAN WILAYAH KERJA UPMK II Rp.56,618,302]]></cell><cell><![CDATA[PLN (PERSERO) PUSAT MANAJEMEN PROYEK]]></cell><cell><![CDATA[M (2 H)]]></cell><cell><![CDATA[
+					75%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[2
+					]]></cell><cell><![CDATA[71.4%
+
+					]]></cell><cell><![CDATA[0% 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[0918020070]]></cell><cell><![CDATA[01 Jan 2019 s/d 28 Feb 2020]]></cell><cell><![CDATA[Pemetaan, Sosialisasi, Inventarisasi, Identifikasi Tanaman, Tanah dan Bangunan Jalur ROW untuk pembangunan SUTT 150 Kv Malingping - Bayah Rp.3,260,576]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[M (10 H)]]></cell><cell><![CDATA[
+					81.3%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[0918020069]]></cell><cell><![CDATA[03 Sep 2018 s/d 28 Feb 2020]]></cell><cell><![CDATA[Pemetaan, Sosialisasi, Inventarisasi, Identifikasi Tanah, Tanaman, dan Bangunan pada Tapak Tower Eksisting Beserta ROW untuk Pembangunan SUTET 500 kV Cikupa - Kembangan Rp.4,249,892]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[M (10 H)]]></cell><cell><![CDATA[
+					81.3%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[0918020068]]></cell><cell><![CDATA[03 Sep 2018 s/d 28 Feb 2020]]></cell><cell><![CDATA[Pemetaan, Sosialisasi, Inventarisasi, Identifikasi  Tanah, Tanaman,  dan Bangunan pada Pembebasan Lahan Tapak Tower Beserta ROW untuk Pembangunan SUTT 150 kV Tangerang Baru III - Tangerang Baru II,  SUTT 150 kV Tangerang Baru II - Incomer (Balaraja - Rp.4,443,547]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[M (11 H)]]></cell><cell><![CDATA[
+					75%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[0918020051]]></cell><cell><![CDATA[26 Mar 2018 s/d 19 Apr 2020]]></cell><cell><![CDATA[Jasa Konsultan Manajemen Konstruksi Pekerjaan Design & Build Pembuatan Apron 2 parking Stand, Exit taxiway, Dan penyempurnaan Fasilitas Airside terkait Beserta Fasilitas penunjangnya Di Bandara Internasional Lombok Rp.1,018,255]]></cell><cell><![CDATA[ANGKASA PURA I (PERSERO)]]></cell><cell><![CDATA[M (6 H)]]></cell><cell><![CDATA[
+					100%]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[0918020030]]></cell><cell><![CDATA[14 Feb 2018 s/d 13 Jan 2020]]></cell><cell><![CDATA[Pemborongan Pekerjaan Jasa Konsultansi Supervisi Konstruksi PLTMG Bangkanai 140 MW Rp.6,837,232]]></cell><cell><![CDATA[PLN (PERSERO) PUSAT MANAJEMEN PROYEK]]></cell><cell><![CDATA[M (2 H)]]></cell><cell><![CDATA[
+					87.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[2
+					]]></cell><cell><![CDATA[100%
+
+					]]></cell><cell><![CDATA[0% 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[24]]></cell><cell><![CDATA[0920020008]]></cell><cell><![CDATA[14 Jan 2020 s/d 13 Apr 2020]]></cell><cell><![CDATA[PEKERJAAN STUDY PENGEMBANGAN KELISTRIKAN KALIMANTAN BARAT Rp.773,085]]></cell><cell><![CDATA[PLN (PERSERO) UIP KALIMANTAN BAGIAN BARAT]]></cell><cell><![CDATA[L (4 H)]]></cell><cell><![CDATA[
+					62.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[0919020094]]></cell><cell><![CDATA[04 Nov 2019 s/d 03 Mar 2020]]></cell><cell><![CDATA[JASA KONSULTAN SURVEY TOPOGRAFI DAN SOIL INVESTIGATION PLTD SARMI 5 MW Rp.991,094]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN PAPUA (UIP XIV)]]></cell><cell><![CDATA[L (4 H)]]></cell><cell><![CDATA[
+					87.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[0917010011]]></cell><cell><![CDATA[06 Jan 2017 s/d 06 Sep 2020]]></cell><cell><![CDATA[Facilitator Administration Services (FAS-14) Provinsi Jawa Tengah Rp.7,902,913]]></cell><cell><![CDATA[KEMENTERIAN PEKERJAAN UMUM & PERUMAHAN RAKYAT]]></cell><cell><![CDATA[L (3 H)]]></cell><cell><![CDATA[
+					100%]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[1
+					]]></cell><cell><![CDATA[100%
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[35]]></cell><cell><![CDATA[0920990007]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Secondhand Goods Inspection Rp.2,750,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[34]]></cell><cell><![CDATA[0920990006]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Sertifikasi Layak Operasi Rp.2,000,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[33]]></cell><cell><![CDATA[0920990005]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Integrated Management System Rp.500,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[32]]></cell><cell><![CDATA[0920990004]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Lab Lingkungan & Public Training Rp.1,200,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[31]]></cell><cell><![CDATA[0920990003]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[K3 & Pengendalian Potensi Bahaya Besar Rp.1,000,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell>%2<rows profile='color'><head><columns><column  rowspan="2"  width='30' align='center' type='ron' hidden='false' sort='int' color=''><![CDATA[No.]]></column><column  rowspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[ Kode Proyek ]]></column><column  rowspan="2"  width='200' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[Waktu Proyek ]]></column><column  rowspan="2"  width='200' align='center' type='ron' hidden='false' sort='int' color=''><![CDATA[Nama Proyek (Nilai Kontrak dalam ribuan)]]><option value='1'><![CDATA[I]]></option><option value='2'><![CDATA[II]]></option><option value='3'><![CDATA[III]]></option><option value='4'><![CDATA[IV]]></option><option value='5'><![CDATA[V]]></option></column><column  rowspan="2"  width='150' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Klien]]></column><column  rowspan="2"  width='100' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[Risiko]]></column><column  colspan="2"  width='60' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[Persiapan]]></column><column  width='100' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[]]></column><column  rowspan="2"  width='90' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[ QC Pelaksanaan]]></column><column  colspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[QA Pelaksanaan]]></column><column  width='60' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[]]></column><column  colspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[QA Pra BA]]></column><column  width='60' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[]]></column><column  rowspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[Cetak]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[QA]]></column><column><![CDATA[Rekomendasi]]></column><column><![CDATA[]]></column><column><![CDATA[QA]]></column><column><![CDATA[Rekomendasi]]></column><column><![CDATA[QA]]></column><column><![CDATA[Rekomendasi]]></column><column><![CDATA[]]></column></columns></head>
+<row><cell><![CDATA[26]]></cell><cell><![CDATA[0920020013]]></cell><cell><![CDATA[27 Feb 2020 s/d 26 Aug 2020]]></cell><cell><![CDATA[JASA KONSULTANSI PENYELIDIDKAN TANAH PADA PENGEMBANGAN PELABUHAN DI WILAYAH REGIONAL KALIMANTAN PT PELABUHAN INDONESIA III (PERSERO) Rp.544,000]]></cell><cell><![CDATA[PELABUHAN INDONESIA III (PERSERO)]]></cell><cell><![CDATA[M (5 H)]]></cell><cell><![CDATA[
+					75%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[0919020095]]></cell><cell><![CDATA[04 Nov 2019 s/d 03 Mar 2020]]></cell><cell><![CDATA[PENGADAAN PENYUSUNAN STUDI KELAYAKAN RENCANA PEMBANGUNAN SUTT 150 KV GI ANGKASA - GI SENTANI BARU Rp.593,983]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN PAPUA (UIP XIV)]]></cell><cell><![CDATA[M (5 H)]]></cell><cell><![CDATA[
+					87.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[0919020068]]></cell><cell><![CDATA[01 Aug 2019 s/d 31 Jul 2020]]></cell><cell><![CDATA[PENGADAAN PEMBORONGAN PEKERJAAN JASA KONSULTANSI SUPERVISI KONSTRUKSI DAN QA/QC PROYEK PEMBANGKIT DAN JARINGAN WILAYAH KERJA UPMK II Rp.56,618,302]]></cell><cell><![CDATA[PLN (PERSERO) PUSAT MANAJEMEN PROYEK]]></cell><cell><![CDATA[M (2 H)]]></cell><cell><![CDATA[
+					75%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[2
+					]]></cell><cell><![CDATA[71.4%
+
+					]]></cell><cell><![CDATA[0% 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[0918020070]]></cell><cell><![CDATA[01 Jan 2019 s/d 28 Feb 2020]]></cell><cell><![CDATA[Pemetaan, Sosialisasi, Inventarisasi, Identifikasi Tanaman, Tanah dan Bangunan Jalur ROW untuk pembangunan SUTT 150 Kv Malingping - Bayah Rp.3,260,576]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[M (10 H)]]></cell><cell><![CDATA[
+					81.3%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[0918020069]]></cell><cell><![CDATA[03 Sep 2018 s/d 28 Feb 2020]]></cell><cell><![CDATA[Pemetaan, Sosialisasi, Inventarisasi, Identifikasi Tanah, Tanaman, dan Bangunan pada Tapak Tower Eksisting Beserta ROW untuk Pembangunan SUTET 500 kV Cikupa - Kembangan Rp.4,249,892]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[M (10 H)]]></cell><cell><![CDATA[
+					81.3%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[0918020068]]></cell><cell><![CDATA[03 Sep 2018 s/d 28 Feb 2020]]></cell><cell><![CDATA[Pemetaan, Sosialisasi, Inventarisasi, Identifikasi  Tanah, Tanaman,  dan Bangunan pada Pembebasan Lahan Tapak Tower Beserta ROW untuk Pembangunan SUTT 150 kV Tangerang Baru III - Tangerang Baru II,  SUTT 150 kV Tangerang Baru II - Incomer (Balaraja - Rp.4,443,547]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[M (11 H)]]></cell><cell><![CDATA[
+					75%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[0918020051]]></cell><cell><![CDATA[26 Mar 2018 s/d 19 Apr 2020]]></cell><cell><![CDATA[Jasa Konsultan Manajemen Konstruksi Pekerjaan Design & Build Pembuatan Apron 2 parking Stand, Exit taxiway, Dan penyempurnaan Fasilitas Airside terkait Beserta Fasilitas penunjangnya Di Bandara Internasional Lombok Rp.1,018,255]]></cell><cell><![CDATA[ANGKASA PURA I (PERSERO)]]></cell><cell><![CDATA[M (6 H)]]></cell><cell><![CDATA[
+					100%]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[0918020030]]></cell><cell><![CDATA[14 Feb 2018 s/d 13 Jan 2020]]></cell><cell><![CDATA[Pemborongan Pekerjaan Jasa Konsultansi Supervisi Konstruksi PLTMG Bangkanai 140 MW Rp.6,837,232]]></cell><cell><![CDATA[PLN (PERSERO) PUSAT MANAJEMEN PROYEK]]></cell><cell><![CDATA[M (2 H)]]></cell><cell><![CDATA[
+					87.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[2
+					]]></cell><cell><![CDATA[100%
+
+					]]></cell><cell><![CDATA[0% 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[24]]></cell><cell><![CDATA[0920020008]]></cell><cell><![CDATA[14 Jan 2020 s/d 13 Apr 2020]]></cell><cell><![CDATA[PEKERJAAN STUDY PENGEMBANGAN KELISTRIKAN KALIMANTAN BARAT Rp.773,085]]></cell><cell><![CDATA[PLN (PERSERO) UIP KALIMANTAN BAGIAN BARAT]]></cell><cell><![CDATA[L (4 H)]]></cell><cell><![CDATA[
+					62.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[0919020094]]></cell><cell><![CDATA[04 Nov 2019 s/d 03 Mar 2020]]></cell><cell><![CDATA[JASA KONSULTAN SURVEY TOPOGRAFI DAN SOIL INVESTIGATION PLTD SARMI 5 MW Rp.991,094]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN PAPUA (UIP XIV)]]></cell><cell><![CDATA[L (4 H)]]></cell><cell><![CDATA[
+					87.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[0917010011]]></cell><cell><![CDATA[06 Jan 2017 s/d 06 Sep 2020]]></cell><cell><![CDATA[Facilitator Administration Services (FAS-14) Provinsi Jawa Tengah Rp.7,902,913]]></cell><cell><![CDATA[KEMENTERIAN PEKERJAAN UMUM & PERUMAHAN RAKYAT]]></cell><cell><![CDATA[L (3 H)]]></cell><cell><![CDATA[
+					100%]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[1
+					]]></cell><cell><![CDATA[100%
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[35]]></cell><cell><![CDATA[0920990007]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Secondhand Goods Inspection Rp.2,750,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[34]]></cell><cell><![CDATA[0920990006]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Sertifikasi Layak Operasi Rp.2,000,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[33]]></cell><cell><![CDATA[0920990005]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Integrated Management System Rp.500,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[32]]></cell><cell><![CDATA[0920990004]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Lab Lingkungan & Public Training Rp.1,200,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[31]]></cell><cell><![CDATA[0920990003]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[K3 & Pengendalian Potensi Bahaya Besar Rp.1,000,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell>%2<rows profile='color'><head><columns><column  rowspan="2"  width='30' align='center' type='ron' hidden='false' sort='int' color=''><![CDATA[No.]]></column><column  rowspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[ Kode Proyek ]]></column><column  rowspan="2"  width='200' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[Waktu Proyek ]]></column><column  rowspan="2"  width='200' align='center' type='ron' hidden='false' sort='int' color=''><![CDATA[Nama Proyek (Nilai Kontrak dalam ribuan)]]><option value='1'><![CDATA[I]]></option><option value='2'><![CDATA[II]]></option><option value='3'><![CDATA[III]]></option><option value='4'><![CDATA[IV]]></option><option value='5'><![CDATA[V]]></option></column><column  rowspan="2"  width='150' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Klien]]></column><column  rowspan="2"  width='100' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[Risiko]]></column><column  colspan="2"  width='60' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[Persiapan]]></column><column  width='100' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[]]></column><column  rowspan="2"  width='90' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[ QC Pelaksanaan]]></column><column  colspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[QA Pelaksanaan]]></column><column  width='60' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[]]></column><column  colspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[QA Pra BA]]></column><column  width='60' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[]]></column><column  rowspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[Cetak]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[QA]]></column><column><![CDATA[Rekomendasi]]></column><column><![CDATA[]]></column><column><![CDATA[QA]]></column><column><![CDATA[Rekomendasi]]></column><column><![CDATA[QA]]></column><column><![CDATA[Rekomendasi]]></column><column><![CDATA[]]></column></columns></head>
+<row><cell><![CDATA[26]]></cell><cell><![CDATA[0920020013]]></cell><cell><![CDATA[27 Feb 2020 s/d 26 Aug 2020]]></cell><cell><![CDATA[JASA KONSULTANSI PENYELIDIDKAN TANAH PADA PENGEMBANGAN PELABUHAN DI WILAYAH REGIONAL KALIMANTAN PT PELABUHAN INDONESIA III (PERSERO) Rp.544,000]]></cell><cell><![CDATA[PELABUHAN INDONESIA III (PERSERO)]]></cell><cell><![CDATA[M (5 H)]]></cell><cell><![CDATA[
+					75%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[0919020095]]></cell><cell><![CDATA[04 Nov 2019 s/d 03 Mar 2020]]></cell><cell><![CDATA[PENGADAAN PENYUSUNAN STUDI KELAYAKAN RENCANA PEMBANGUNAN SUTT 150 KV GI ANGKASA - GI SENTANI BARU Rp.593,983]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN PAPUA (UIP XIV)]]></cell><cell><![CDATA[M (5 H)]]></cell><cell><![CDATA[
+					87.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[0919020068]]></cell><cell><![CDATA[01 Aug 2019 s/d 31 Jul 2020]]></cell><cell><![CDATA[PENGADAAN PEMBORONGAN PEKERJAAN JASA KONSULTANSI SUPERVISI KONSTRUKSI DAN QA/QC PROYEK PEMBANGKIT DAN JARINGAN WILAYAH KERJA UPMK II Rp.56,618,302]]></cell><cell><![CDATA[PLN (PERSERO) PUSAT MANAJEMEN PROYEK]]></cell><cell><![CDATA[M (2 H)]]></cell><cell><![CDATA[
+					75%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[2
+					]]></cell><cell><![CDATA[71.4%
+
+					]]></cell><cell><![CDATA[0% 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[0918020070]]></cell><cell><![CDATA[01 Jan 2019 s/d 28 Feb 2020]]></cell><cell><![CDATA[Pemetaan, Sosialisasi, Inventarisasi, Identifikasi Tanaman, Tanah dan Bangunan Jalur ROW untuk pembangunan SUTT 150 Kv Malingping - Bayah Rp.3,260,576]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[M (10 H)]]></cell><cell><![CDATA[
+					81.3%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[0918020069]]></cell><cell><![CDATA[03 Sep 2018 s/d 28 Feb 2020]]></cell><cell><![CDATA[Pemetaan, Sosialisasi, Inventarisasi, Identifikasi Tanah, Tanaman, dan Bangunan pada Tapak Tower Eksisting Beserta ROW untuk Pembangunan SUTET 500 kV Cikupa - Kembangan Rp.4,249,892]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[M (10 H)]]></cell><cell><![CDATA[
+					81.3%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[0918020068]]></cell><cell><![CDATA[03 Sep 2018 s/d 28 Feb 2020]]></cell><cell><![CDATA[Pemetaan, Sosialisasi, Inventarisasi, Identifikasi  Tanah, Tanaman,  dan Bangunan pada Pembebasan Lahan Tapak Tower Beserta ROW untuk Pembangunan SUTT 150 kV Tangerang Baru III - Tangerang Baru II,  SUTT 150 kV Tangerang Baru II - Incomer (Balaraja - Rp.4,443,547]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[M (11 H)]]></cell><cell><![CDATA[
+					75%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[0918020051]]></cell><cell><![CDATA[26 Mar 2018 s/d 19 Apr 2020]]></cell><cell><![CDATA[Jasa Konsultan Manajemen Konstruksi Pekerjaan Design & Build Pembuatan Apron 2 parking Stand, Exit taxiway, Dan penyempurnaan Fasilitas Airside terkait Beserta Fasilitas penunjangnya Di Bandara Internasional Lombok Rp.1,018,255]]></cell><cell><![CDATA[ANGKASA PURA I (PERSERO)]]></cell><cell><![CDATA[M (6 H)]]></cell><cell><![CDATA[
+					100%]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[0918020030]]></cell><cell><![CDATA[14 Feb 2018 s/d 13 Jan 2020]]></cell><cell><![CDATA[Pemborongan Pekerjaan Jasa Konsultansi Supervisi Konstruksi PLTMG Bangkanai 140 MW Rp.6,837,232]]></cell><cell><![CDATA[PLN (PERSERO) PUSAT MANAJEMEN PROYEK]]></cell><cell><![CDATA[M (2 H)]]></cell><cell><![CDATA[
+					87.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[2
+					]]></cell><cell><![CDATA[100%
+
+					]]></cell><cell><![CDATA[0% 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[24]]></cell><cell><![CDATA[0920020008]]></cell><cell><![CDATA[14 Jan 2020 s/d 13 Apr 2020]]></cell><cell><![CDATA[PEKERJAAN STUDY PENGEMBANGAN KELISTRIKAN KALIMANTAN BARAT Rp.773,085]]></cell><cell><![CDATA[PLN (PERSERO) UIP KALIMANTAN BAGIAN BARAT]]></cell><cell><![CDATA[L (4 H)]]></cell><cell><![CDATA[
+					62.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[0919020094]]></cell><cell><![CDATA[04 Nov 2019 s/d 03 Mar 2020]]></cell><cell><![CDATA[JASA KONSULTAN SURVEY TOPOGRAFI DAN SOIL INVESTIGATION PLTD SARMI 5 MW Rp.991,094]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN PAPUA (UIP XIV)]]></cell><cell><![CDATA[L (4 H)]]></cell><cell><![CDATA[
+					87.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[0917010011]]></cell><cell><![CDATA[06 Jan 2017 s/d 06 Sep 2020]]></cell><cell><![CDATA[Facilitator Administration Services (FAS-14) Provinsi Jawa Tengah Rp.7,902,913]]></cell><cell><![CDATA[KEMENTERIAN PEKERJAAN UMUM & PERUMAHAN RAKYAT]]></cell><cell><![CDATA[L (3 H)]]></cell><cell><![CDATA[
+					100%]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[1
+					]]></cell><cell><![CDATA[100%
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[35]]></cell><cell><![CDATA[0920990007]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Secondhand Goods Inspection Rp.2,750,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[34]]></cell><cell><![CDATA[0920990006]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Sertifikasi Layak Operasi Rp.2,000,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[33]]></cell><cell><![CDATA[0920990005]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Integrated Management System Rp.500,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[32]]></cell><cell><![CDATA[0920990004]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Lab Lingkungan & Public Training Rp.1,200,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[31]]></cell><cell><![CDATA[0920990003]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[K3 & Pengendalian Potensi Bahaya Besar Rp.1,000,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell>%2<rows profile='color'><head><columns><column  rowspan="2"  width='30' align='center' type='ron' hidden='false' sort='int' color=''><![CDATA[No.]]></column><column  rowspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[ Kode Proyek ]]></column><column  rowspan="2"  width='200' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[Waktu Proyek ]]></column><column  rowspan="2"  width='200' align='center' type='ron' hidden='false' sort='int' color=''><![CDATA[Nama Proyek (Nilai Kontrak dalam ribuan)]]><option value='1'><![CDATA[I]]></option><option value='2'><![CDATA[II]]></option><option value='3'><![CDATA[III]]></option><option value='4'><![CDATA[IV]]></option><option value='5'><![CDATA[V]]></option></column><column  rowspan="2"  width='150' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Klien]]></column><column  rowspan="2"  width='100' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[Risiko]]></column><column  colspan="2"  width='60' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[Persiapan]]></column><column  width='100' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[]]></column><column  rowspan="2"  width='90' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[ QC Pelaksanaan]]></column><column  colspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[QA Pelaksanaan]]></column><column  width='60' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[]]></column><column  colspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[QA Pra BA]]></column><column  width='60' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[]]></column><column  rowspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[Cetak]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[QA]]></column><column><![CDATA[Rekomendasi]]></column><column><![CDATA[]]></column><column><![CDATA[QA]]></column><column><![CDATA[Rekomendasi]]></column><column><![CDATA[QA]]></column><column><![CDATA[Rekomendasi]]></column><column><![CDATA[]]></column></columns></head>
+<row><cell><![CDATA[26]]></cell><cell><![CDATA[0920020013]]></cell><cell><![CDATA[27 Feb 2020 s/d 26 Aug 2020]]></cell><cell><![CDATA[JASA KONSULTANSI PENYELIDIDKAN TANAH PADA PENGEMBANGAN PELABUHAN DI WILAYAH REGIONAL KALIMANTAN PT PELABUHAN INDONESIA III (PERSERO) Rp.544,000]]></cell><cell><![CDATA[PELABUHAN INDONESIA III (PERSERO)]]></cell><cell><![CDATA[M (5 H)]]></cell><cell><![CDATA[
+					75%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[0919020095]]></cell><cell><![CDATA[04 Nov 2019 s/d 03 Mar 2020]]></cell><cell><![CDATA[PENGADAAN PENYUSUNAN STUDI KELAYAKAN RENCANA PEMBANGUNAN SUTT 150 KV GI ANGKASA - GI SENTANI BARU Rp.593,983]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN PAPUA (UIP XIV)]]></cell><cell><![CDATA[M (5 H)]]></cell><cell><![CDATA[
+					87.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[0919020068]]></cell><cell><![CDATA[01 Aug 2019 s/d 31 Jul 2020]]></cell><cell><![CDATA[PENGADAAN PEMBORONGAN PEKERJAAN JASA KONSULTANSI SUPERVISI KONSTRUKSI DAN QA/QC PROYEK PEMBANGKIT DAN JARINGAN WILAYAH KERJA UPMK II Rp.56,618,302]]></cell><cell><![CDATA[PLN (PERSERO) PUSAT MANAJEMEN PROYEK]]></cell><cell><![CDATA[M (2 H)]]></cell><cell><![CDATA[
+					75%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[2
+					]]></cell><cell><![CDATA[71.4%
+
+					]]></cell><cell><![CDATA[0% 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[0918020070]]></cell><cell><![CDATA[01 Jan 2019 s/d 28 Feb 2020]]></cell><cell><![CDATA[Pemetaan, Sosialisasi, Inventarisasi, Identifikasi Tanaman, Tanah dan Bangunan Jalur ROW untuk pembangunan SUTT 150 Kv Malingping - Bayah Rp.3,260,576]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[M (10 H)]]></cell><cell><![CDATA[
+					81.3%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[0918020069]]></cell><cell><![CDATA[03 Sep 2018 s/d 28 Feb 2020]]></cell><cell><![CDATA[Pemetaan, Sosialisasi, Inventarisasi, Identifikasi Tanah, Tanaman, dan Bangunan pada Tapak Tower Eksisting Beserta ROW untuk Pembangunan SUTET 500 kV Cikupa - Kembangan Rp.4,249,892]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[M (10 H)]]></cell><cell><![CDATA[
+					81.3%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[0918020068]]></cell><cell><![CDATA[03 Sep 2018 s/d 28 Feb 2020]]></cell><cell><![CDATA[Pemetaan, Sosialisasi, Inventarisasi, Identifikasi  Tanah, Tanaman,  dan Bangunan pada Pembebasan Lahan Tapak Tower Beserta ROW untuk Pembangunan SUTT 150 kV Tangerang Baru III - Tangerang Baru II,  SUTT 150 kV Tangerang Baru II - Incomer (Balaraja - Rp.4,443,547]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[M (11 H)]]></cell><cell><![CDATA[
+					75%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[0918020051]]></cell><cell><![CDATA[26 Mar 2018 s/d 19 Apr 2020]]></cell><cell><![CDATA[Jasa Konsultan Manajemen Konstruksi Pekerjaan Design & Build Pembuatan Apron 2 parking Stand, Exit taxiway, Dan penyempurnaan Fasilitas Airside terkait Beserta Fasilitas penunjangnya Di Bandara Internasional Lombok Rp.1,018,255]]></cell><cell><![CDATA[ANGKASA PURA I (PERSERO)]]></cell><cell><![CDATA[M (6 H)]]></cell><cell><![CDATA[
+					100%]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[0918020030]]></cell><cell><![CDATA[14 Feb 2018 s/d 13 Jan 2020]]></cell><cell><![CDATA[Pemborongan Pekerjaan Jasa Konsultansi Supervisi Konstruksi PLTMG Bangkanai 140 MW Rp.6,837,232]]></cell><cell><![CDATA[PLN (PERSERO) PUSAT MANAJEMEN PROYEK]]></cell><cell><![CDATA[M (2 H)]]></cell><cell><![CDATA[
+					87.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[2
+					]]></cell><cell><![CDATA[100%
+
+					]]></cell><cell><![CDATA[0% 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[24]]></cell><cell><![CDATA[0920020008]]></cell><cell><![CDATA[14 Jan 2020 s/d 13 Apr 2020]]></cell><cell><![CDATA[PEKERJAAN STUDY PENGEMBANGAN KELISTRIKAN KALIMANTAN BARAT Rp.773,085]]></cell><cell><![CDATA[PLN (PERSERO) UIP KALIMANTAN BAGIAN BARAT]]></cell><cell><![CDATA[L (4 H)]]></cell><cell><![CDATA[
+					62.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[0919020094]]></cell><cell><![CDATA[04 Nov 2019 s/d 03 Mar 2020]]></cell><cell><![CDATA[JASA KONSULTAN SURVEY TOPOGRAFI DAN SOIL INVESTIGATION PLTD SARMI 5 MW Rp.991,094]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN PAPUA (UIP XIV)]]></cell><cell><![CDATA[L (4 H)]]></cell><cell><![CDATA[
+					87.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[0917010011]]></cell><cell><![CDATA[06 Jan 2017 s/d 06 Sep 2020]]></cell><cell><![CDATA[Facilitator Administration Services (FAS-14) Provinsi Jawa Tengah Rp.7,902,913]]></cell><cell><![CDATA[KEMENTERIAN PEKERJAAN UMUM & PERUMAHAN RAKYAT]]></cell><cell><![CDATA[L (3 H)]]></cell><cell><![CDATA[
+					100%]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[1
+					]]></cell><cell><![CDATA[100%
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[35]]></cell><cell><![CDATA[0920990007]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Secondhand Goods Inspection Rp.2,750,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[34]]></cell><cell><![CDATA[0920990006]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Sertifikasi Layak Operasi Rp.2,000,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[33]]></cell><cell><![CDATA[0920990005]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Integrated Management System Rp.500,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[32]]></cell><cell><![CDATA[0920990004]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Lab Lingkungan & Public Training Rp.1,200,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[31]]></cell><cell><![CDATA[0920990003]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[K3 & Pengendalian Potensi Bahaya Besar Rp.1,000,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell>%2<rows profile='color'><head><columns><column  rowspan="2"  width='30' align='center' type='ron' hidden='false' sort='int' color=''><![CDATA[No.]]></column><column  rowspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[ Kode Proyek ]]></column><column  rowspan="2"  width='200' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[Waktu Proyek ]]></column><column  rowspan="2"  width='200' align='center' type='ron' hidden='false' sort='int' color=''><![CDATA[Nama Proyek (Nilai Kontrak dalam ribuan)]]><option value='1'><![CDATA[I]]></option><option value='2'><![CDATA[II]]></option><option value='3'><![CDATA[III]]></option><option value='4'><![CDATA[IV]]></option><option value='5'><![CDATA[V]]></option></column><column  rowspan="2"  width='150' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Klien]]></column><column  rowspan="2"  width='100' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[Risiko]]></column><column  colspan="2"  width='60' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[Persiapan]]></column><column  width='100' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[]]></column><column  rowspan="2"  width='90' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[ QC Pelaksanaan]]></column><column  colspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[QA Pelaksanaan]]></column><column  width='60' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[]]></column><column  colspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[QA Pra BA]]></column><column  width='60' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[]]></column><column  rowspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[Cetak]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[QA]]></column><column><![CDATA[Rekomendasi]]></column><column><![CDATA[]]></column><column><![CDATA[QA]]></column><column><![CDATA[Rekomendasi]]></column><column><![CDATA[QA]]></column><column><![CDATA[Rekomendasi]]></column><column><![CDATA[]]></column></columns></head>
+<row><cell><![CDATA[26]]></cell><cell><![CDATA[0920020013]]></cell><cell><![CDATA[27 Feb 2020 s/d 26 Aug 2020]]></cell><cell><![CDATA[JASA KONSULTANSI PENYELIDIDKAN TANAH PADA PENGEMBANGAN PELABUHAN DI WILAYAH REGIONAL KALIMANTAN PT PELABUHAN INDONESIA III (PERSERO) Rp.544,000]]></cell><cell><![CDATA[PELABUHAN INDONESIA III (PERSERO)]]></cell><cell><![CDATA[M (5 H)]]></cell><cell><![CDATA[
+					75%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[0919020095]]></cell><cell><![CDATA[04 Nov 2019 s/d 03 Mar 2020]]></cell><cell><![CDATA[PENGADAAN PENYUSUNAN STUDI KELAYAKAN RENCANA PEMBANGUNAN SUTT 150 KV GI ANGKASA - GI SENTANI BARU Rp.593,983]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN PAPUA (UIP XIV)]]></cell><cell><![CDATA[M (5 H)]]></cell><cell><![CDATA[
+					87.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[0919020068]]></cell><cell><![CDATA[01 Aug 2019 s/d 31 Jul 2020]]></cell><cell><![CDATA[PENGADAAN PEMBORONGAN PEKERJAAN JASA KONSULTANSI SUPERVISI KONSTRUKSI DAN QA/QC PROYEK PEMBANGKIT DAN JARINGAN WILAYAH KERJA UPMK II Rp.56,618,302]]></cell><cell><![CDATA[PLN (PERSERO) PUSAT MANAJEMEN PROYEK]]></cell><cell><![CDATA[M (2 H)]]></cell><cell><![CDATA[
+					75%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[2
+					]]></cell><cell><![CDATA[71.4%
+
+					]]></cell><cell><![CDATA[0% 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[0918020070]]></cell><cell><![CDATA[01 Jan 2019 s/d 28 Feb 2020]]></cell><cell><![CDATA[Pemetaan, Sosialisasi, Inventarisasi, Identifikasi Tanaman, Tanah dan Bangunan Jalur ROW untuk pembangunan SUTT 150 Kv Malingping - Bayah Rp.3,260,576]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[M (10 H)]]></cell><cell><![CDATA[
+					81.3%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[0918020069]]></cell><cell><![CDATA[03 Sep 2018 s/d 28 Feb 2020]]></cell><cell><![CDATA[Pemetaan, Sosialisasi, Inventarisasi, Identifikasi Tanah, Tanaman, dan Bangunan pada Tapak Tower Eksisting Beserta ROW untuk Pembangunan SUTET 500 kV Cikupa - Kembangan Rp.4,249,892]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[M (10 H)]]></cell><cell><![CDATA[
+					81.3%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[0918020068]]></cell><cell><![CDATA[03 Sep 2018 s/d 28 Feb 2020]]></cell><cell><![CDATA[Pemetaan, Sosialisasi, Inventarisasi, Identifikasi  Tanah, Tanaman,  dan Bangunan pada Pembebasan Lahan Tapak Tower Beserta ROW untuk Pembangunan SUTT 150 kV Tangerang Baru III - Tangerang Baru II,  SUTT 150 kV Tangerang Baru II - Incomer (Balaraja - Rp.4,443,547]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[M (11 H)]]></cell><cell><![CDATA[
+					75%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[0918020051]]></cell><cell><![CDATA[26 Mar 2018 s/d 19 Apr 2020]]></cell><cell><![CDATA[Jasa Konsultan Manajemen Konstruksi Pekerjaan Design & Build Pembuatan Apron 2 parking Stand, Exit taxiway, Dan penyempurnaan Fasilitas Airside terkait Beserta Fasilitas penunjangnya Di Bandara Internasional Lombok Rp.1,018,255]]></cell><cell><![CDATA[ANGKASA PURA I (PERSERO)]]></cell><cell><![CDATA[M (6 H)]]></cell><cell><![CDATA[
+					100%]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[0918020030]]></cell><cell><![CDATA[14 Feb 2018 s/d 13 Jan 2020]]></cell><cell><![CDATA[Pemborongan Pekerjaan Jasa Konsultansi Supervisi Konstruksi PLTMG Bangkanai 140 MW Rp.6,837,232]]></cell><cell><![CDATA[PLN (PERSERO) PUSAT MANAJEMEN PROYEK]]></cell><cell><![CDATA[M (2 H)]]></cell><cell><![CDATA[
+					87.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[2
+					]]></cell><cell><![CDATA[100%
+
+					]]></cell><cell><![CDATA[0% 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[24]]></cell><cell><![CDATA[0920020008]]></cell><cell><![CDATA[14 Jan 2020 s/d 13 Apr 2020]]></cell><cell><![CDATA[PEKERJAAN STUDY PENGEMBANGAN KELISTRIKAN KALIMANTAN BARAT Rp.773,085]]></cell><cell><![CDATA[PLN (PERSERO) UIP KALIMANTAN BAGIAN BARAT]]></cell><cell><![CDATA[L (4 H)]]></cell><cell><![CDATA[
+					62.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[0919020094]]></cell><cell><![CDATA[04 Nov 2019 s/d 03 Mar 2020]]></cell><cell><![CDATA[JASA KONSULTAN SURVEY TOPOGRAFI DAN SOIL INVESTIGATION PLTD SARMI 5 MW Rp.991,094]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN PAPUA (UIP XIV)]]></cell><cell><![CDATA[L (4 H)]]></cell><cell><![CDATA[
+					87.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[0917010011]]></cell><cell><![CDATA[06 Jan 2017 s/d 06 Sep 2020]]></cell><cell><![CDATA[Facilitator Administration Services (FAS-14) Provinsi Jawa Tengah Rp.7,902,913]]></cell><cell><![CDATA[KEMENTERIAN PEKERJAAN UMUM & PERUMAHAN RAKYAT]]></cell><cell><![CDATA[L (3 H)]]></cell><cell><![CDATA[
+					100%]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[1
+					]]></cell><cell><![CDATA[100%
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[35]]></cell><cell><![CDATA[0920990007]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Secondhand Goods Inspection Rp.2,750,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[34]]></cell><cell><![CDATA[0920990006]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Sertifikasi Layak Operasi Rp.2,000,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[33]]></cell><cell><![CDATA[0920990005]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Integrated Management System Rp.500,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[32]]></cell><cell><![CDATA[0920990004]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Lab Lingkungan & Public Training Rp.1,200,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[31]]></cell><cell><![CDATA[0920990003]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[K3 & Pengendalian Potensi Bahaya Besar Rp.1,000,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell>%2<rows profile='color'><head><columns><column  rowspan="2"  width='30' align='center' type='ron' hidden='false' sort='int' color=''><![CDATA[No.]]></column><column  rowspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[ Kode Proyek ]]></column><column  rowspan="2"  width='200' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[Waktu Proyek ]]></column><column  rowspan="2"  width='200' align='center' type='ron' hidden='false' sort='int' color=''><![CDATA[Nama Proyek (Nilai Kontrak dalam ribuan)]]><option value='1'><![CDATA[I]]></option><option value='2'><![CDATA[II]]></option><option value='3'><![CDATA[III]]></option><option value='4'><![CDATA[IV]]></option><option value='5'><![CDATA[V]]></option></column><column  rowspan="2"  width='150' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Klien]]></column><column  rowspan="2"  width='100' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[Risiko]]></column><column  colspan="2"  width='60' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[Persiapan]]></column><column  width='100' align='center' type='ro' hidden='false' sort='str' color=''><![CDATA[]]></column><column  rowspan="2"  width='90' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[ QC Pelaksanaan]]></column><column  colspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[QA Pelaksanaan]]></column><column  width='60' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[]]></column><column  colspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[QA Pra BA]]></column><column  width='60' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[]]></column><column  rowspan="2"  width='100' align='center' type='ro' hidden='false' sort='int' color=''><![CDATA[Cetak]]></column></columns>
+<columns><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[]]></column><column><![CDATA[QA]]></column><column><![CDATA[Rekomendasi]]></column><column><![CDATA[]]></column><column><![CDATA[QA]]></column><column><![CDATA[Rekomendasi]]></column><column><![CDATA[QA]]></column><column><![CDATA[Rekomendasi]]></column><column><![CDATA[]]></column></columns></head>
+<row><cell><![CDATA[26]]></cell><cell><![CDATA[0920020013]]></cell><cell><![CDATA[27 Feb 2020 s/d 26 Aug 2020]]></cell><cell><![CDATA[JASA KONSULTANSI PENYELIDIDKAN TANAH PADA PENGEMBANGAN PELABUHAN DI WILAYAH REGIONAL KALIMANTAN PT PELABUHAN INDONESIA III (PERSERO) Rp.544,000]]></cell><cell><![CDATA[PELABUHAN INDONESIA III (PERSERO)]]></cell><cell><![CDATA[M (5 H)]]></cell><cell><![CDATA[
+					75%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[0919020095]]></cell><cell><![CDATA[04 Nov 2019 s/d 03 Mar 2020]]></cell><cell><![CDATA[PENGADAAN PENYUSUNAN STUDI KELAYAKAN RENCANA PEMBANGUNAN SUTT 150 KV GI ANGKASA - GI SENTANI BARU Rp.593,983]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN PAPUA (UIP XIV)]]></cell><cell><![CDATA[M (5 H)]]></cell><cell><![CDATA[
+					87.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[0919020068]]></cell><cell><![CDATA[01 Aug 2019 s/d 31 Jul 2020]]></cell><cell><![CDATA[PENGADAAN PEMBORONGAN PEKERJAAN JASA KONSULTANSI SUPERVISI KONSTRUKSI DAN QA/QC PROYEK PEMBANGKIT DAN JARINGAN WILAYAH KERJA UPMK II Rp.56,618,302]]></cell><cell><![CDATA[PLN (PERSERO) PUSAT MANAJEMEN PROYEK]]></cell><cell><![CDATA[M (2 H)]]></cell><cell><![CDATA[
+					75%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[2
+					]]></cell><cell><![CDATA[71.4%
+
+					]]></cell><cell><![CDATA[0% 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[0918020070]]></cell><cell><![CDATA[01 Jan 2019 s/d 28 Feb 2020]]></cell><cell><![CDATA[Pemetaan, Sosialisasi, Inventarisasi, Identifikasi Tanaman, Tanah dan Bangunan Jalur ROW untuk pembangunan SUTT 150 Kv Malingping - Bayah Rp.3,260,576]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[M (10 H)]]></cell><cell><![CDATA[
+					81.3%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[0918020069]]></cell><cell><![CDATA[03 Sep 2018 s/d 28 Feb 2020]]></cell><cell><![CDATA[Pemetaan, Sosialisasi, Inventarisasi, Identifikasi Tanah, Tanaman, dan Bangunan pada Tapak Tower Eksisting Beserta ROW untuk Pembangunan SUTET 500 kV Cikupa - Kembangan Rp.4,249,892]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[M (10 H)]]></cell><cell><![CDATA[
+					81.3%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[0918020068]]></cell><cell><![CDATA[03 Sep 2018 s/d 28 Feb 2020]]></cell><cell><![CDATA[Pemetaan, Sosialisasi, Inventarisasi, Identifikasi  Tanah, Tanaman,  dan Bangunan pada Pembebasan Lahan Tapak Tower Beserta ROW untuk Pembangunan SUTT 150 kV Tangerang Baru III - Tangerang Baru II,  SUTT 150 kV Tangerang Baru II - Incomer (Balaraja - Rp.4,443,547]]></cell><cell><![CDATA[PLN (PERSERO) UIP INTERKONEKSI SUMATERA JAWA (UIP IV)]]></cell><cell><![CDATA[M (11 H)]]></cell><cell><![CDATA[
+					75%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[0918020051]]></cell><cell><![CDATA[26 Mar 2018 s/d 19 Apr 2020]]></cell><cell><![CDATA[Jasa Konsultan Manajemen Konstruksi Pekerjaan Design & Build Pembuatan Apron 2 parking Stand, Exit taxiway, Dan penyempurnaan Fasilitas Airside terkait Beserta Fasilitas penunjangnya Di Bandara Internasional Lombok Rp.1,018,255]]></cell><cell><![CDATA[ANGKASA PURA I (PERSERO)]]></cell><cell><![CDATA[M (6 H)]]></cell><cell><![CDATA[
+					100%]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[0918020030]]></cell><cell><![CDATA[14 Feb 2018 s/d 13 Jan 2020]]></cell><cell><![CDATA[Pemborongan Pekerjaan Jasa Konsultansi Supervisi Konstruksi PLTMG Bangkanai 140 MW Rp.6,837,232]]></cell><cell><![CDATA[PLN (PERSERO) PUSAT MANAJEMEN PROYEK]]></cell><cell><![CDATA[M (2 H)]]></cell><cell><![CDATA[
+					87.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[2
+					]]></cell><cell><![CDATA[100%
+
+					]]></cell><cell><![CDATA[0% 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[24]]></cell><cell><![CDATA[0920020008]]></cell><cell><![CDATA[14 Jan 2020 s/d 13 Apr 2020]]></cell><cell><![CDATA[PEKERJAAN STUDY PENGEMBANGAN KELISTRIKAN KALIMANTAN BARAT Rp.773,085]]></cell><cell><![CDATA[PLN (PERSERO) UIP KALIMANTAN BAGIAN BARAT]]></cell><cell><![CDATA[L (4 H)]]></cell><cell><![CDATA[
+					62.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[0919020094]]></cell><cell><![CDATA[04 Nov 2019 s/d 03 Mar 2020]]></cell><cell><![CDATA[JASA KONSULTAN SURVEY TOPOGRAFI DAN SOIL INVESTIGATION PLTD SARMI 5 MW Rp.991,094]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN PAPUA (UIP XIV)]]></cell><cell><![CDATA[L (4 H)]]></cell><cell><![CDATA[
+					87.5%]]></cell><cell><![CDATA[0%]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[0917010011]]></cell><cell><![CDATA[06 Jan 2017 s/d 06 Sep 2020]]></cell><cell><![CDATA[Facilitator Administration Services (FAS-14) Provinsi Jawa Tengah Rp.7,902,913]]></cell><cell><![CDATA[KEMENTERIAN PEKERJAAN UMUM & PERUMAHAN RAKYAT]]></cell><cell><![CDATA[L (3 H)]]></cell><cell><![CDATA[
+					100%]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[1
+					]]></cell><cell><![CDATA[100%
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[35]]></cell><cell><![CDATA[0920990007]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Secondhand Goods Inspection Rp.2,750,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[34]]></cell><cell><![CDATA[0920990006]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Sertifikasi Layak Operasi Rp.2,000,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[33]]></cell><cell><![CDATA[0920990005]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Integrated Management System Rp.500,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[32]]></cell><cell><![CDATA[0920990004]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[Lab Lingkungan & Public Training Rp.1,200,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell><![CDATA[... 
+					]]></cell><cell><![CDATA[...
+					
+					
+					
+					
+					]]></cell><cell><![CDATA[
+					... 
+					
+					]]></cell><cell><![CDATA[]]></cell></row>
+<row><cell><![CDATA[31]]></cell><cell><![CDATA[0920990003]]></cell><cell><![CDATA[01 Jan 2020 s/d 31 Dec 2020]]></cell><cell><![CDATA[K3 & Pengendalian Potensi Bahaya Besar Rp.1,000,000]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[... ( H)]]></cell><cell><![CDATA[
+					...]]></cell><cell><![CDATA[...]]></cell><cell><![CDATA[0
+					]]></cell><cell><![CDATA[...
+
+					]]></cell><cell>%2

@@ -1,0 +1,453 @@
+<rows profile='color'><head><columns><column  width='50' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[No.]]></column><column  width='220' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Klien]]></column><column  width='320' align='left' type='ron' hidden='false' sort='int' color=''><![CDATA[ Nama Proyek]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[ Piutang]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='3' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[1,131,969,509]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[APPIPA INDONESIA MANUFACTURING]]></cell><cell><![CDATA[PROYEK KSO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[ASDP INDONESIA FERRY (PERSERO)]]></cell><cell><![CDATA[PROYEK AMDAL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[ASDP INDONESIA FERRY (PERSERO)]]></cell><cell><![CDATA[PROYEK TIS (INSPEKSI,SURVEY,SLO,HP NOKIA)]]></cell><cell><![CDATA[25,850,000]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[ASIA PAPERINDO PERKASA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[1,750,000]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[BANGUN MEGAH SEMESTA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[750,000]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[BATAM JAYA PROPERTINDO]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[BENGINT NUSANTARA INDUSTRIES]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[1,050,000]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[BERKAH BERSAMA]]></cell><cell><![CDATA[PROYEK KSO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[BINTAN BERSATU APPAREL]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[BUDI PERKASA ALAM]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[BUDI PERKASA ALAM]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[BUKIT ALAM PERSADA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[18,500,000]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[BUKIT GRANIT MINING MANDIRI]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[CCI BINTAN]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[CIBA VISION BATAM]]></cell><cell><![CDATA[PROYEK TIS (INSPEKSI,SURVEY,SLO,HP NOKIA)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[CITRA TUBINDO TBK]]></cell><cell><![CDATA[PROYEK KSO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[17]]></cell><cell><![CDATA[CITRA TUBINDO TBK]]></cell><cell><![CDATA[PROYEK KSO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[18]]></cell><cell><![CDATA[CITRA TUBINDO TBK]]></cell><cell><![CDATA[PROYEK KSO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[19]]></cell><cell><![CDATA[CLADTEK BI METAL MANUFACTURING]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[1,100,000]]></cell></row>
+<row><cell><![CDATA[20]]></cell><cell><![CDATA[CLADTEK BI METAL MANUFACTURING]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[1,000,000]]></cell></row>
+<row><cell><![CDATA[21]]></cell><cell><![CDATA[COCA COLA AMATIL INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[61,728,750]]></cell></row>
+<row><cell><![CDATA[22]]></cell><cell><![CDATA[COCA COLA AMATIL INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[76,630,000]]></cell></row>
+<row><cell><![CDATA[23]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[62,500,000]]></cell></row>
+<row><cell><![CDATA[24]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[15,000,000]]></cell></row>
+<row><cell><![CDATA[25]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[26]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[37,500,000]]></cell></row>
+<row><cell><![CDATA[27]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[28]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[15,000,000]]></cell></row>
+<row><cell><![CDATA[29]]></cell><cell><![CDATA[DIMAS PRATAMA INDAH]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[30]]></cell><cell><![CDATA[DINAS LINGKUNGAN HIDUP KOTA TANJUNG PINANG]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[31]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[7,500,000]]></cell></row>
+<row><cell><![CDATA[32]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[33]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[7,500,000]]></cell></row>
+<row><cell><![CDATA[34]]></cell><cell><![CDATA[ENERGY LOGISTICS (BALIKPAPAN)]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[35]]></cell><cell><![CDATA[EXCELITAS TECHNOLOGIES BATAM INDIRECT]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[7,500,000]]></cell></row>
+<row><cell><![CDATA[36]]></cell><cell><![CDATA[FLEMINGS INDO BATAM]]></cell><cell><![CDATA[PROYEK KSO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[37]]></cell><cell><![CDATA[FLEMINGS INDO BATAM]]></cell><cell><![CDATA[PROYEK KSO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[38]]></cell><cell><![CDATA[GENIUS MOTOR]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[39]]></cell><cell><![CDATA[GHIM LI INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[1,100,000]]></cell></row>
+<row><cell><![CDATA[40]]></cell><cell><![CDATA[HAIKKI GREEN]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[41]]></cell><cell><![CDATA[HANGGA PUTRA ABADI]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[42]]></cell><cell><![CDATA[HANGGA PUTRA ABADI]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[8,000,000]]></cell></row>
+<row><cell><![CDATA[43]]></cell><cell><![CDATA[HANGGA PUTRA ABADI]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[44]]></cell><cell><![CDATA[HANSULINDO & JO]]></cell><cell><![CDATA[TIS (Inspeksi, Survey, SLO)]]></cell><cell><![CDATA[20,000,000]]></cell></row>
+<row><cell><![CDATA[45]]></cell><cell><![CDATA[HONFOONG PLASTIC INDUSTRIES]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[8,900,000]]></cell></row>
+<row><cell><![CDATA[46]]></cell><cell><![CDATA[HOTEL CITRA BATAM INVESTAMA (SWISSBELL HOTEL)]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[47]]></cell><cell><![CDATA[H-TECH OILFIELD EQUIPMENT]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[48]]></cell><cell><![CDATA[HYDRILL INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[42,500,000]]></cell></row>
+<row><cell><![CDATA[49]]></cell><cell><![CDATA[INDONESIA POWER]]></cell><cell><![CDATA[Survey Soil Investigation Rencana Pembangunan Jetty/Dermaga Untuk Penempatan BMPP 30 MW Sambelia]]></cell><cell><![CDATA[12,809,850]]></cell></row>
+<row><cell><![CDATA[50]]></cell><cell><![CDATA[INDOTIRTA SUAKA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[51]]></cell><cell><![CDATA[INFINEON TECHNOLOGIES BATAM]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[52]]></cell><cell><![CDATA[INSAN MANDIRI]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[53]]></cell><cell><![CDATA[INTERPAK INDUSTRIES BATAM]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[2,900,000]]></cell></row>
+<row><cell><![CDATA[54]]></cell><cell><![CDATA[INTI PRESISI TOOLSINDO]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[55]]></cell><cell><![CDATA[IOL INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[89,800,000]]></cell></row>
+<row><cell><![CDATA[56]]></cell><cell><![CDATA[IOL INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[251,900,000]]></cell></row>
+<row><cell><![CDATA[57]]></cell><cell><![CDATA[JAGADDITHA KARYA SARANA]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[58]]></cell><cell><![CDATA[JMS BATAM]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[20,375,000]]></cell></row>
+<row><cell><![CDATA[59]]></cell><cell><![CDATA[KABIL INDONUSA ESTATE]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[13,550,000]]></cell></row>
+<row><cell><![CDATA[60]]></cell><cell><![CDATA[KSO SUCOFINDO - SURVEYOR INDONESIA]]></cell><cell><![CDATA[PROYEK KSO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[61]]></cell><cell><![CDATA[KSO SUCOFINDO - SURVEYOR INDONESIA]]></cell><cell><![CDATA[PROYEK KSO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[62]]></cell><cell><![CDATA[KUNDUR PRIMA KARYA]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[63]]></cell><cell><![CDATA[LABTECH PENTA INTERNATIONAL]]></cell><cell><![CDATA[TIS (Inspeksi, Survey, SLO)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[64]]></cell><cell><![CDATA[LB TECHNOLOGIES BATAM]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[700,000]]></cell></row>
+<row><cell><![CDATA[65]]></cell><cell><![CDATA[M-I INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[8,800,000]]></cell></row>
+<row><cell><![CDATA[66]]></cell><cell><![CDATA[NEJILOCK TECHNOLOGYNDO]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[67]]></cell><cell><![CDATA[NONGSA POINT MARINA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[3,900,000]]></cell></row>
+<row><cell><![CDATA[68]]></cell><cell><![CDATA[PACIFIC FEDERAL FACTORY]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[69]]></cell><cell><![CDATA[PACIFIC GRANITAMA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[70]]></cell><cell><![CDATA[PACIFIC PALACE HOTEL]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[71]]></cell><cell><![CDATA[PERTAMA PACIFIC SHIPYARD]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[72]]></cell><cell><![CDATA[PERTAMINA (PERSERO) REGION I P. SAMBU]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[73]]></cell><cell><![CDATA[PERTAMINA (PERSERO) TBBM NATUNA GROUP]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[48,696,000]]></cell></row>
+<row><cell><![CDATA[74]]></cell><cell><![CDATA[PERTAMINA (PERSERO)AVIASI REGION I DPPU HANG NADIM]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[75]]></cell><cell><![CDATA[PHILIPS INDUSTRIES BATAM]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[76]]></cell><cell><![CDATA[PLASMOTECH BATAM]]></cell><cell><![CDATA[PROYEK TIS (INSPEKSI,SURVEY,SLO,HP NOKIA)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[77]]></cell><cell><![CDATA[PLN (PERSERO) WILAYAH RIAU DAN KEPULAUAN RIAU UPK KEPULAUAN RIAU]]></cell><cell><![CDATA[PLN KEPRI - Q & Q - STOCKPILE BATU BARA]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[78]]></cell><cell><![CDATA[PLN BATAM]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[26,400,000]]></cell></row>
+<row><cell><![CDATA[79]]></cell><cell><![CDATA[PNBC INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[80]]></cell><cell><![CDATA[PRIMO MICROPHONE INDONESIA]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[81]]></cell><cell><![CDATA[PULAU BAWAH]]></cell><cell><![CDATA[TIS (Inspeksi, Survey, SLO)]]></cell><cell><![CDATA[12,837,500]]></cell></row>
+<row><cell><![CDATA[82]]></cell><cell><![CDATA[RAFLESIA NUSANTARA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[700,000]]></cell></row>
+<row><cell><![CDATA[83]]></cell><cell><![CDATA[RUMAH SAKIT BUDI KEMULIAAN]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[84]]></cell><cell><![CDATA[RUMAH SAKIT OTORITA BATAM]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[85]]></cell><cell><![CDATA[SAAINTI KREASI TEKNIK]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[86]]></cell><cell><![CDATA[SAAINTI KREASI TEKNIK]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[87]]></cell><cell><![CDATA[SAAINTI KREASI TEKNIK]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[88]]></cell><cell><![CDATA[SAIPEM INDONESIA]]></cell><cell><![CDATA[MAN POWER SUPPLY FOR KARIMUN YARD]]></cell><cell><![CDATA[97,062,409]]></cell></row>
+<row><cell><![CDATA[89]]></cell><cell><![CDATA[SAIPEM INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[1,000,000]]></cell></row>
+<row><cell><![CDATA[90]]></cell><cell><![CDATA[SAIPEM INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[3,450,000]]></cell></row>
+<row><cell><![CDATA[91]]></cell><cell><![CDATA[SARANABAJA PERKASA]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[92]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[93]]></cell><cell><![CDATA[SEKUPANG MAKMUR ABADI]]></cell><cell><![CDATA[TIS (Inspeksi, Survey, SLO)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[94]]></cell><cell><![CDATA[SIIX ELECTRONICS INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[95]]></cell><cell><![CDATA[SINDO MEGAH LESTARI]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[1,000,000]]></cell></row>
+<row><cell><![CDATA[96]]></cell><cell><![CDATA[SMOE INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[7,180,000]]></cell></row>
+<row><cell><![CDATA[97]]></cell><cell><![CDATA[SYNERGY OIL NUSANTARA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[26,900,000]]></cell></row>
+<row><cell><![CDATA[98]]></cell><cell><![CDATA[TJK POWER]]></cell><cell><![CDATA[Pengujian & Pembuatan Laporan Performance Test Pada Pembangkit Unit #1 dan unit #2 PLTU Tanjung Kasam]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[99]]></cell><cell><![CDATA[TURI BEACH RESORT]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[100]]></cell><cell><![CDATA[TURI BEACH RESORT]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[101]]></cell><cell><![CDATA[UNISEM]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[1,050,000]]></cell></row>
+<row><cell><![CDATA[102]]></cell><cell><![CDATA[VETCO GRAY INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[15,000,000]]></cell></row>
+<row><cell><![CDATA[103]]></cell><cell><![CDATA[WAP LOGISTIKINDO]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[22,000,000]]></cell></row>
+<row><cell><![CDATA[104]]></cell><cell><![CDATA[WAP LOGISTIKINDO]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[105]]></cell><cell><![CDATA[WEIR PRESSURE CONTROL INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[2,600,000]]></cell></row>
+<row><cell><![CDATA[106]]></cell><cell><![CDATA[YEAKIN PLASTIC INDUSTRY]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[15,500,000]]></cell></row></rows><rows profile='color'><head><columns><column  width='50' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[No.]]></column><column  width='220' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Klien]]></column><column  width='320' align='left' type='ron' hidden='false' sort='int' color=''><![CDATA[ Nama Proyek]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[ Piutang]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='3' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[1,131,969,509]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[APPIPA INDONESIA MANUFACTURING]]></cell><cell><![CDATA[PROYEK KSO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[ASDP INDONESIA FERRY (PERSERO)]]></cell><cell><![CDATA[PROYEK AMDAL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[ASDP INDONESIA FERRY (PERSERO)]]></cell><cell><![CDATA[PROYEK TIS (INSPEKSI,SURVEY,SLO,HP NOKIA)]]></cell><cell><![CDATA[25,850,000]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[ASIA PAPERINDO PERKASA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[1,750,000]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[BANGUN MEGAH SEMESTA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[750,000]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[BATAM JAYA PROPERTINDO]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[BENGINT NUSANTARA INDUSTRIES]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[1,050,000]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[BERKAH BERSAMA]]></cell><cell><![CDATA[PROYEK KSO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[BINTAN BERSATU APPAREL]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[BUDI PERKASA ALAM]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[BUDI PERKASA ALAM]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[BUKIT ALAM PERSADA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[18,500,000]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[BUKIT GRANIT MINING MANDIRI]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[CCI BINTAN]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[CIBA VISION BATAM]]></cell><cell><![CDATA[PROYEK TIS (INSPEKSI,SURVEY,SLO,HP NOKIA)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[CITRA TUBINDO TBK]]></cell><cell><![CDATA[PROYEK KSO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[17]]></cell><cell><![CDATA[CITRA TUBINDO TBK]]></cell><cell><![CDATA[PROYEK KSO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[18]]></cell><cell><![CDATA[CITRA TUBINDO TBK]]></cell><cell><![CDATA[PROYEK KSO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[19]]></cell><cell><![CDATA[CLADTEK BI METAL MANUFACTURING]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[1,100,000]]></cell></row>
+<row><cell><![CDATA[20]]></cell><cell><![CDATA[CLADTEK BI METAL MANUFACTURING]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[1,000,000]]></cell></row>
+<row><cell><![CDATA[21]]></cell><cell><![CDATA[COCA COLA AMATIL INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[61,728,750]]></cell></row>
+<row><cell><![CDATA[22]]></cell><cell><![CDATA[COCA COLA AMATIL INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[76,630,000]]></cell></row>
+<row><cell><![CDATA[23]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[62,500,000]]></cell></row>
+<row><cell><![CDATA[24]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[15,000,000]]></cell></row>
+<row><cell><![CDATA[25]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[26]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[37,500,000]]></cell></row>
+<row><cell><![CDATA[27]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[28]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[15,000,000]]></cell></row>
+<row><cell><![CDATA[29]]></cell><cell><![CDATA[DIMAS PRATAMA INDAH]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[30]]></cell><cell><![CDATA[DINAS LINGKUNGAN HIDUP KOTA TANJUNG PINANG]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[31]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[7,500,000]]></cell></row>
+<row><cell><![CDATA[32]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[33]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[7,500,000]]></cell></row>
+<row><cell><![CDATA[34]]></cell><cell><![CDATA[ENERGY LOGISTICS (BALIKPAPAN)]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[35]]></cell><cell><![CDATA[EXCELITAS TECHNOLOGIES BATAM INDIRECT]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[7,500,000]]></cell></row>
+<row><cell><![CDATA[36]]></cell><cell><![CDATA[FLEMINGS INDO BATAM]]></cell><cell><![CDATA[PROYEK KSO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[37]]></cell><cell><![CDATA[FLEMINGS INDO BATAM]]></cell><cell><![CDATA[PROYEK KSO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[38]]></cell><cell><![CDATA[GENIUS MOTOR]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[39]]></cell><cell><![CDATA[GHIM LI INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[1,100,000]]></cell></row>
+<row><cell><![CDATA[40]]></cell><cell><![CDATA[HAIKKI GREEN]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[41]]></cell><cell><![CDATA[HANGGA PUTRA ABADI]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[42]]></cell><cell><![CDATA[HANGGA PUTRA ABADI]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[8,000,000]]></cell></row>
+<row><cell><![CDATA[43]]></cell><cell><![CDATA[HANGGA PUTRA ABADI]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[44]]></cell><cell><![CDATA[HANSULINDO & JO]]></cell><cell><![CDATA[TIS (Inspeksi, Survey, SLO)]]></cell><cell><![CDATA[20,000,000]]></cell></row>
+<row><cell><![CDATA[45]]></cell><cell><![CDATA[HONFOONG PLASTIC INDUSTRIES]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[8,900,000]]></cell></row>
+<row><cell><![CDATA[46]]></cell><cell><![CDATA[HOTEL CITRA BATAM INVESTAMA (SWISSBELL HOTEL)]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[47]]></cell><cell><![CDATA[H-TECH OILFIELD EQUIPMENT]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[48]]></cell><cell><![CDATA[HYDRILL INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[42,500,000]]></cell></row>
+<row><cell><![CDATA[49]]></cell><cell><![CDATA[INDONESIA POWER]]></cell><cell><![CDATA[Survey Soil Investigation Rencana Pembangunan Jetty/Dermaga Untuk Penempatan BMPP 30 MW Sambelia]]></cell><cell><![CDATA[12,809,850]]></cell></row>
+<row><cell><![CDATA[50]]></cell><cell><![CDATA[INDOTIRTA SUAKA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[51]]></cell><cell><![CDATA[INFINEON TECHNOLOGIES BATAM]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[52]]></cell><cell><![CDATA[INSAN MANDIRI]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[53]]></cell><cell><![CDATA[INTERPAK INDUSTRIES BATAM]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[2,900,000]]></cell></row>
+<row><cell><![CDATA[54]]></cell><cell><![CDATA[INTI PRESISI TOOLSINDO]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[55]]></cell><cell><![CDATA[IOL INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[89,800,000]]></cell></row>
+<row><cell><![CDATA[56]]></cell><cell><![CDATA[IOL INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[251,900,000]]></cell></row>
+<row><cell><![CDATA[57]]></cell><cell><![CDATA[JAGADDITHA KARYA SARANA]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[58]]></cell><cell><![CDATA[JMS BATAM]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[20,375,000]]></cell></row>
+<row><cell><![CDATA[59]]></cell><cell><![CDATA[KABIL INDONUSA ESTATE]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[13,550,000]]></cell></row>
+<row><cell><![CDATA[60]]></cell><cell><![CDATA[KSO SUCOFINDO - SURVEYOR INDONESIA]]></cell><cell><![CDATA[PROYEK KSO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[61]]></cell><cell><![CDATA[KSO SUCOFINDO - SURVEYOR INDONESIA]]></cell><cell><![CDATA[PROYEK KSO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[62]]></cell><cell><![CDATA[KUNDUR PRIMA KARYA]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[63]]></cell><cell><![CDATA[LABTECH PENTA INTERNATIONAL]]></cell><cell><![CDATA[TIS (Inspeksi, Survey, SLO)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[64]]></cell><cell><![CDATA[LB TECHNOLOGIES BATAM]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[700,000]]></cell></row>
+<row><cell><![CDATA[65]]></cell><cell><![CDATA[M-I INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[8,800,000]]></cell></row>
+<row><cell><![CDATA[66]]></cell><cell><![CDATA[NEJILOCK TECHNOLOGYNDO]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[67]]></cell><cell><![CDATA[NONGSA POINT MARINA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[3,900,000]]></cell></row>
+<row><cell><![CDATA[68]]></cell><cell><![CDATA[PACIFIC FEDERAL FACTORY]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[69]]></cell><cell><![CDATA[PACIFIC GRANITAMA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[70]]></cell><cell><![CDATA[PACIFIC PALACE HOTEL]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[71]]></cell><cell><![CDATA[PERTAMA PACIFIC SHIPYARD]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[72]]></cell><cell><![CDATA[PERTAMINA (PERSERO) REGION I P. SAMBU]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[73]]></cell><cell><![CDATA[PERTAMINA (PERSERO) TBBM NATUNA GROUP]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[48,696,000]]></cell></row>
+<row><cell><![CDATA[74]]></cell><cell><![CDATA[PERTAMINA (PERSERO)AVIASI REGION I DPPU HANG NADIM]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[75]]></cell><cell><![CDATA[PHILIPS INDUSTRIES BATAM]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[76]]></cell><cell><![CDATA[PLASMOTECH BATAM]]></cell><cell><![CDATA[PROYEK TIS (INSPEKSI,SURVEY,SLO,HP NOKIA)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[77]]></cell><cell><![CDATA[PLN (PERSERO) WILAYAH RIAU DAN KEPULAUAN RIAU UPK KEPULAUAN RIAU]]></cell><cell><![CDATA[PLN KEPRI - Q & Q - STOCKPILE BATU BARA]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[78]]></cell><cell><![CDATA[PLN BATAM]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[26,400,000]]></cell></row>
+<row><cell><![CDATA[79]]></cell><cell><![CDATA[PNBC INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[80]]></cell><cell><![CDATA[PRIMO MICROPHONE INDONESIA]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[81]]></cell><cell><![CDATA[PULAU BAWAH]]></cell><cell><![CDATA[TIS (Inspeksi, Survey, SLO)]]></cell><cell><![CDATA[12,837,500]]></cell></row>
+<row><cell><![CDATA[82]]></cell><cell><![CDATA[RAFLESIA NUSANTARA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[700,000]]></cell></row>
+<row><cell><![CDATA[83]]></cell><cell><![CDATA[RUMAH SAKIT BUDI KEMULIAAN]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[84]]></cell><cell><![CDATA[RUMAH SAKIT OTORITA BATAM]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[85]]></cell><cell><![CDATA[SAAINTI KREASI TEKNIK]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[86]]></cell><cell><![CDATA[SAAINTI KREASI TEKNIK]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[87]]></cell><cell><![CDATA[SAAINTI KREASI TEKNIK]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[88]]></cell><cell><![CDATA[SAIPEM INDONESIA]]></cell><cell><![CDATA[MAN POWER SUPPLY FOR KARIMUN YARD]]></cell><cell><![CDATA[97,062,409]]></cell></row>
+<row><cell><![CDATA[89]]></cell><cell><![CDATA[SAIPEM INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[1,000,000]]></cell></row>
+<row><cell><![CDATA[90]]></cell><cell><![CDATA[SAIPEM INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[3,450,000]]></cell></row>
+<row><cell><![CDATA[91]]></cell><cell><![CDATA[SARANABAJA PERKASA]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[92]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[93]]></cell><cell><![CDATA[SEKUPANG MAKMUR ABADI]]></cell><cell><![CDATA[TIS (Inspeksi, Survey, SLO)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[94]]></cell><cell><![CDATA[SIIX ELECTRONICS INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[95]]></cell><cell><![CDATA[SINDO MEGAH LESTARI]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[1,000,000]]></cell></row>
+<row><cell><![CDATA[96]]></cell><cell><![CDATA[SMOE INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[7,180,000]]></cell></row>
+<row><cell><![CDATA[97]]></cell><cell><![CDATA[SYNERGY OIL NUSANTARA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[26,900,000]]></cell></row>
+<row><cell><![CDATA[98]]></cell><cell><![CDATA[TJK POWER]]></cell><cell><![CDATA[Pengujian & Pembuatan Laporan Performance Test Pada Pembangkit Unit #1 dan unit #2 PLTU Tanjung Kasam]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[99]]></cell><cell><![CDATA[TURI BEACH RESORT]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[100]]></cell><cell><![CDATA[TURI BEACH RESORT]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[101]]></cell><cell><![CDATA[UNISEM]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[1,050,000]]></cell></row>
+<row><cell><![CDATA[102]]></cell><cell><![CDATA[VETCO GRAY INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[15,000,000]]></cell></row>
+<row><cell><![CDATA[103]]></cell><cell><![CDATA[WAP LOGISTIKINDO]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[22,000,000]]></cell></row>
+<row><cell><![CDATA[104]]></cell><cell><![CDATA[WAP LOGISTIKINDO]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[105]]></cell><cell><![CDATA[WEIR PRESSURE CONTROL INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[2,600,000]]></cell></row>
+<row><cell><![CDATA[106]]></cell><cell><![CDATA[YEAKIN PLASTIC INDUSTRY]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[15,500,000]]></cell></row></rows><rows profile='color'><head><columns><column  width='50' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[No.]]></column><column  width='220' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Klien]]></column><column  width='320' align='left' type='ron' hidden='false' sort='int' color=''><![CDATA[ Nama Proyek]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[ Piutang]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='3' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[1,131,969,509]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[APPIPA INDONESIA MANUFACTURING]]></cell><cell><![CDATA[PROYEK KSO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[ASDP INDONESIA FERRY (PERSERO)]]></cell><cell><![CDATA[PROYEK AMDAL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[ASDP INDONESIA FERRY (PERSERO)]]></cell><cell><![CDATA[PROYEK TIS (INSPEKSI,SURVEY,SLO,HP NOKIA)]]></cell><cell><![CDATA[25,850,000]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[ASIA PAPERINDO PERKASA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[1,750,000]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[BANGUN MEGAH SEMESTA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[750,000]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[BATAM JAYA PROPERTINDO]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[BENGINT NUSANTARA INDUSTRIES]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[1,050,000]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[BERKAH BERSAMA]]></cell><cell><![CDATA[PROYEK KSO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[BINTAN BERSATU APPAREL]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[BUDI PERKASA ALAM]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[BUDI PERKASA ALAM]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[BUKIT ALAM PERSADA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[18,500,000]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[BUKIT GRANIT MINING MANDIRI]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[CCI BINTAN]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[CIBA VISION BATAM]]></cell><cell><![CDATA[PROYEK TIS (INSPEKSI,SURVEY,SLO,HP NOKIA)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[CITRA TUBINDO TBK]]></cell><cell><![CDATA[PROYEK KSO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[17]]></cell><cell><![CDATA[CITRA TUBINDO TBK]]></cell><cell><![CDATA[PROYEK KSO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[18]]></cell><cell><![CDATA[CITRA TUBINDO TBK]]></cell><cell><![CDATA[PROYEK KSO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[19]]></cell><cell><![CDATA[CLADTEK BI METAL MANUFACTURING]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[1,100,000]]></cell></row>
+<row><cell><![CDATA[20]]></cell><cell><![CDATA[CLADTEK BI METAL MANUFACTURING]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[1,000,000]]></cell></row>
+<row><cell><![CDATA[21]]></cell><cell><![CDATA[COCA COLA AMATIL INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[61,728,750]]></cell></row>
+<row><cell><![CDATA[22]]></cell><cell><![CDATA[COCA COLA AMATIL INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[76,630,000]]></cell></row>
+<row><cell><![CDATA[23]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[62,500,000]]></cell></row>
+<row><cell><![CDATA[24]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[15,000,000]]></cell></row>
+<row><cell><![CDATA[25]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[26]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[37,500,000]]></cell></row>
+<row><cell><![CDATA[27]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[28]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[15,000,000]]></cell></row>
+<row><cell><![CDATA[29]]></cell><cell><![CDATA[DIMAS PRATAMA INDAH]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[30]]></cell><cell><![CDATA[DINAS LINGKUNGAN HIDUP KOTA TANJUNG PINANG]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[31]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[7,500,000]]></cell></row>
+<row><cell><![CDATA[32]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[33]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[7,500,000]]></cell></row>
+<row><cell><![CDATA[34]]></cell><cell><![CDATA[ENERGY LOGISTICS (BALIKPAPAN)]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[35]]></cell><cell><![CDATA[EXCELITAS TECHNOLOGIES BATAM INDIRECT]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[7,500,000]]></cell></row>
+<row><cell><![CDATA[36]]></cell><cell><![CDATA[FLEMINGS INDO BATAM]]></cell><cell><![CDATA[PROYEK KSO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[37]]></cell><cell><![CDATA[FLEMINGS INDO BATAM]]></cell><cell><![CDATA[PROYEK KSO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[38]]></cell><cell><![CDATA[GENIUS MOTOR]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[39]]></cell><cell><![CDATA[GHIM LI INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[1,100,000]]></cell></row>
+<row><cell><![CDATA[40]]></cell><cell><![CDATA[HAIKKI GREEN]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[41]]></cell><cell><![CDATA[HANGGA PUTRA ABADI]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[42]]></cell><cell><![CDATA[HANGGA PUTRA ABADI]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[8,000,000]]></cell></row>
+<row><cell><![CDATA[43]]></cell><cell><![CDATA[HANGGA PUTRA ABADI]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[44]]></cell><cell><![CDATA[HANSULINDO & JO]]></cell><cell><![CDATA[TIS (Inspeksi, Survey, SLO)]]></cell><cell><![CDATA[20,000,000]]></cell></row>
+<row><cell><![CDATA[45]]></cell><cell><![CDATA[HONFOONG PLASTIC INDUSTRIES]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[8,900,000]]></cell></row>
+<row><cell><![CDATA[46]]></cell><cell><![CDATA[HOTEL CITRA BATAM INVESTAMA (SWISSBELL HOTEL)]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[47]]></cell><cell><![CDATA[H-TECH OILFIELD EQUIPMENT]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[48]]></cell><cell><![CDATA[HYDRILL INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[42,500,000]]></cell></row>
+<row><cell><![CDATA[49]]></cell><cell><![CDATA[INDONESIA POWER]]></cell><cell><![CDATA[Survey Soil Investigation Rencana Pembangunan Jetty/Dermaga Untuk Penempatan BMPP 30 MW Sambelia]]></cell><cell><![CDATA[12,809,850]]></cell></row>
+<row><cell><![CDATA[50]]></cell><cell><![CDATA[INDOTIRTA SUAKA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[51]]></cell><cell><![CDATA[INFINEON TECHNOLOGIES BATAM]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[52]]></cell><cell><![CDATA[INSAN MANDIRI]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[53]]></cell><cell><![CDATA[INTERPAK INDUSTRIES BATAM]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[2,900,000]]></cell></row>
+<row><cell><![CDATA[54]]></cell><cell><![CDATA[INTI PRESISI TOOLSINDO]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[55]]></cell><cell><![CDATA[IOL INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[89,800,000]]></cell></row>
+<row><cell><![CDATA[56]]></cell><cell><![CDATA[IOL INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[251,900,000]]></cell></row>
+<row><cell><![CDATA[57]]></cell><cell><![CDATA[JAGADDITHA KARYA SARANA]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[58]]></cell><cell><![CDATA[JMS BATAM]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[20,375,000]]></cell></row>
+<row><cell><![CDATA[59]]></cell><cell><![CDATA[KABIL INDONUSA ESTATE]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[13,550,000]]></cell></row>
+<row><cell><![CDATA[60]]></cell><cell><![CDATA[KSO SUCOFINDO - SURVEYOR INDONESIA]]></cell><cell><![CDATA[PROYEK KSO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[61]]></cell><cell><![CDATA[KSO SUCOFINDO - SURVEYOR INDONESIA]]></cell><cell><![CDATA[PROYEK KSO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[62]]></cell><cell><![CDATA[KUNDUR PRIMA KARYA]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[63]]></cell><cell><![CDATA[LABTECH PENTA INTERNATIONAL]]></cell><cell><![CDATA[TIS (Inspeksi, Survey, SLO)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[64]]></cell><cell><![CDATA[LB TECHNOLOGIES BATAM]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[700,000]]></cell></row>
+<row><cell><![CDATA[65]]></cell><cell><![CDATA[M-I INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[8,800,000]]></cell></row>
+<row><cell><![CDATA[66]]></cell><cell><![CDATA[NEJILOCK TECHNOLOGYNDO]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[67]]></cell><cell><![CDATA[NONGSA POINT MARINA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[3,900,000]]></cell></row>
+<row><cell><![CDATA[68]]></cell><cell><![CDATA[PACIFIC FEDERAL FACTORY]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[69]]></cell><cell><![CDATA[PACIFIC GRANITAMA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[70]]></cell><cell><![CDATA[PACIFIC PALACE HOTEL]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[71]]></cell><cell><![CDATA[PERTAMA PACIFIC SHIPYARD]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[72]]></cell><cell><![CDATA[PERTAMINA (PERSERO) REGION I P. SAMBU]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[73]]></cell><cell><![CDATA[PERTAMINA (PERSERO) TBBM NATUNA GROUP]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[48,696,000]]></cell></row>
+<row><cell><![CDATA[74]]></cell><cell><![CDATA[PERTAMINA (PERSERO)AVIASI REGION I DPPU HANG NADIM]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[75]]></cell><cell><![CDATA[PHILIPS INDUSTRIES BATAM]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[76]]></cell><cell><![CDATA[PLASMOTECH BATAM]]></cell><cell><![CDATA[PROYEK TIS (INSPEKSI,SURVEY,SLO,HP NOKIA)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[77]]></cell><cell><![CDATA[PLN (PERSERO) WILAYAH RIAU DAN KEPULAUAN RIAU UPK KEPULAUAN RIAU]]></cell><cell><![CDATA[PLN KEPRI - Q & Q - STOCKPILE BATU BARA]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[78]]></cell><cell><![CDATA[PLN BATAM]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[26,400,000]]></cell></row>
+<row><cell><![CDATA[79]]></cell><cell><![CDATA[PNBC INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[80]]></cell><cell><![CDATA[PRIMO MICROPHONE INDONESIA]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[81]]></cell><cell><![CDATA[PULAU BAWAH]]></cell><cell><![CDATA[TIS (Inspeksi, Survey, SLO)]]></cell><cell><![CDATA[12,837,500]]></cell></row>
+<row><cell><![CDATA[82]]></cell><cell><![CDATA[RAFLESIA NUSANTARA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[700,000]]></cell></row>
+<row><cell><![CDATA[83]]></cell><cell><![CDATA[RUMAH SAKIT BUDI KEMULIAAN]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[84]]></cell><cell><![CDATA[RUMAH SAKIT OTORITA BATAM]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[85]]></cell><cell><![CDATA[SAAINTI KREASI TEKNIK]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[86]]></cell><cell><![CDATA[SAAINTI KREASI TEKNIK]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[87]]></cell><cell><![CDATA[SAAINTI KREASI TEKNIK]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[88]]></cell><cell><![CDATA[SAIPEM INDONESIA]]></cell><cell><![CDATA[MAN POWER SUPPLY FOR KARIMUN YARD]]></cell><cell><![CDATA[97,062,409]]></cell></row>
+<row><cell><![CDATA[89]]></cell><cell><![CDATA[SAIPEM INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[1,000,000]]></cell></row>
+<row><cell><![CDATA[90]]></cell><cell><![CDATA[SAIPEM INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[3,450,000]]></cell></row>
+<row><cell><![CDATA[91]]></cell><cell><![CDATA[SARANABAJA PERKASA]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[92]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[93]]></cell><cell><![CDATA[SEKUPANG MAKMUR ABADI]]></cell><cell><![CDATA[TIS (Inspeksi, Survey, SLO)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[94]]></cell><cell><![CDATA[SIIX ELECTRONICS INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[95]]></cell><cell><![CDATA[SINDO MEGAH LESTARI]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[1,000,000]]></cell></row>
+<row><cell><![CDATA[96]]></cell><cell><![CDATA[SMOE INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[7,180,000]]></cell></row>
+<row><cell><![CDATA[97]]></cell><cell><![CDATA[SYNERGY OIL NUSANTARA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[26,900,000]]></cell></row>
+<row><cell><![CDATA[98]]></cell><cell><![CDATA[TJK POWER]]></cell><cell><![CDATA[Pengujian & Pembuatan Laporan Performance Test Pada Pembangkit Unit #1 dan unit #2 PLTU Tanjung Kasam]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[99]]></cell><cell><![CDATA[TURI BEACH RESORT]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[100]]></cell><cell><![CDATA[TURI BEACH RESORT]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[101]]></cell><cell><![CDATA[UNISEM]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[1,050,000]]></cell></row>
+<row><cell><![CDATA[102]]></cell><cell><![CDATA[VETCO GRAY INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[15,000,000]]></cell></row>
+<row><cell><![CDATA[103]]></cell><cell><![CDATA[WAP LOGISTIKINDO]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[22,000,000]]></cell></row>
+<row><cell><![CDATA[104]]></cell><cell><![CDATA[WAP LOGISTIKINDO]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[105]]></cell><cell><![CDATA[WEIR PRESSURE CONTROL INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[2,600,000]]></cell></row>
+<row><cell><![CDATA[106]]></cell><cell><![CDATA[YEAKIN PLASTIC INDUSTRY]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[15,500,000]]></cell></row></rows><rows profile='color'><head><columns><column  width='50' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[No.]]></column><column  width='220' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Klien]]></column><column  width='320' align='left' type='ron' hidden='false' sort='int' color=''><![CDATA[ Nama Proyek]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[ Piutang]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='3' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[1,131,969,509]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[APPIPA INDONESIA MANUFACTURING]]></cell><cell><![CDATA[PROYEK KSO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[ASDP INDONESIA FERRY (PERSERO)]]></cell><cell><![CDATA[PROYEK AMDAL]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[ASDP INDONESIA FERRY (PERSERO)]]></cell><cell><![CDATA[PROYEK TIS (INSPEKSI,SURVEY,SLO,HP NOKIA)]]></cell><cell><![CDATA[25,850,000]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[ASIA PAPERINDO PERKASA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[1,750,000]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[BANGUN MEGAH SEMESTA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[750,000]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[BATAM JAYA PROPERTINDO]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[BENGINT NUSANTARA INDUSTRIES]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[1,050,000]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[BERKAH BERSAMA]]></cell><cell><![CDATA[PROYEK KSO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[BINTAN BERSATU APPAREL]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[BUDI PERKASA ALAM]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[BUDI PERKASA ALAM]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[BUKIT ALAM PERSADA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[18,500,000]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[BUKIT GRANIT MINING MANDIRI]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[CCI BINTAN]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[CIBA VISION BATAM]]></cell><cell><![CDATA[PROYEK TIS (INSPEKSI,SURVEY,SLO,HP NOKIA)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[CITRA TUBINDO TBK]]></cell><cell><![CDATA[PROYEK KSO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[17]]></cell><cell><![CDATA[CITRA TUBINDO TBK]]></cell><cell><![CDATA[PROYEK KSO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[18]]></cell><cell><![CDATA[CITRA TUBINDO TBK]]></cell><cell><![CDATA[PROYEK KSO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[19]]></cell><cell><![CDATA[CLADTEK BI METAL MANUFACTURING]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[1,100,000]]></cell></row>
+<row><cell><![CDATA[20]]></cell><cell><![CDATA[CLADTEK BI METAL MANUFACTURING]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[1,000,000]]></cell></row>
+<row><cell><![CDATA[21]]></cell><cell><![CDATA[COCA COLA AMATIL INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[61,728,750]]></cell></row>
+<row><cell><![CDATA[22]]></cell><cell><![CDATA[COCA COLA AMATIL INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[76,630,000]]></cell></row>
+<row><cell><![CDATA[23]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[62,500,000]]></cell></row>
+<row><cell><![CDATA[24]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[15,000,000]]></cell></row>
+<row><cell><![CDATA[25]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[26]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[37,500,000]]></cell></row>
+<row><cell><![CDATA[27]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[28]]></cell><cell><![CDATA[DHL GLOBAL FORWARDING INDONESIA]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[15,000,000]]></cell></row>
+<row><cell><![CDATA[29]]></cell><cell><![CDATA[DIMAS PRATAMA INDAH]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[30]]></cell><cell><![CDATA[DINAS LINGKUNGAN HIDUP KOTA TANJUNG PINANG]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[31]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[7,500,000]]></cell></row>
+<row><cell><![CDATA[32]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[33]]></cell><cell><![CDATA[ENERGY LOGISTICS]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[7,500,000]]></cell></row>
+<row><cell><![CDATA[34]]></cell><cell><![CDATA[ENERGY LOGISTICS (BALIKPAPAN)]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[35]]></cell><cell><![CDATA[EXCELITAS TECHNOLOGIES BATAM INDIRECT]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[7,500,000]]></cell></row>
+<row><cell><![CDATA[36]]></cell><cell><![CDATA[FLEMINGS INDO BATAM]]></cell><cell><![CDATA[PROYEK KSO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[37]]></cell><cell><![CDATA[FLEMINGS INDO BATAM]]></cell><cell><![CDATA[PROYEK KSO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[38]]></cell><cell><![CDATA[GENIUS MOTOR]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[39]]></cell><cell><![CDATA[GHIM LI INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[1,100,000]]></cell></row>
+<row><cell><![CDATA[40]]></cell><cell><![CDATA[HAIKKI GREEN]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[41]]></cell><cell><![CDATA[HANGGA PUTRA ABADI]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[5,000,000]]></cell></row>
+<row><cell><![CDATA[42]]></cell><cell><![CDATA[HANGGA PUTRA ABADI]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[8,000,000]]></cell></row>
+<row><cell><![CDATA[43]]></cell><cell><![CDATA[HANGGA PUTRA ABADI]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[44]]></cell><cell><![CDATA[HANSULINDO & JO]]></cell><cell><![CDATA[TIS (Inspeksi, Survey, SLO)]]></cell><cell><![CDATA[20,000,000]]></cell></row>
+<row><cell><![CDATA[45]]></cell><cell><![CDATA[HONFOONG PLASTIC INDUSTRIES]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[8,900,000]]></cell></row>
+<row><cell><![CDATA[46]]></cell><cell><![CDATA[HOTEL CITRA BATAM INVESTAMA (SWISSBELL HOTEL)]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[47]]></cell><cell><![CDATA[H-TECH OILFIELD EQUIPMENT]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[48]]></cell><cell><![CDATA[HYDRILL INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[42,500,000]]></cell></row>
+<row><cell><![CDATA[49]]></cell><cell><![CDATA[INDONESIA POWER]]></cell><cell><![CDATA[Survey Soil Investigation Rencana Pembangunan Jetty/Dermaga Untuk Penempatan BMPP 30 MW Sambelia]]></cell><cell><![CDATA[12,809,850]]></cell></row>
+<row><cell><![CDATA[50]]></cell><cell><![CDATA[INDOTIRTA SUAKA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[51]]></cell><cell><![CDATA[INFINEON TECHNOLOGIES BATAM]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[52]]></cell><cell><![CDATA[INSAN MANDIRI]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[53]]></cell><cell><![CDATA[INTERPAK INDUSTRIES BATAM]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[2,900,000]]></cell></row>
+<row><cell><![CDATA[54]]></cell><cell><![CDATA[INTI PRESISI TOOLSINDO]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[55]]></cell><cell><![CDATA[IOL INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[89,800,000]]></cell></row>
+<row><cell><![CDATA[56]]></cell><cell><![CDATA[IOL INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[251,900,000]]></cell></row>
+<row><cell><![CDATA[57]]></cell><cell><![CDATA[JAGADDITHA KARYA SARANA]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[58]]></cell><cell><![CDATA[JMS BATAM]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[20,375,000]]></cell></row>
+<row><cell><![CDATA[59]]></cell><cell><![CDATA[KABIL INDONUSA ESTATE]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[13,550,000]]></cell></row>
+<row><cell><![CDATA[60]]></cell><cell><![CDATA[KSO SUCOFINDO - SURVEYOR INDONESIA]]></cell><cell><![CDATA[PROYEK KSO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[61]]></cell><cell><![CDATA[KSO SUCOFINDO - SURVEYOR INDONESIA]]></cell><cell><![CDATA[PROYEK KSO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[62]]></cell><cell><![CDATA[KUNDUR PRIMA KARYA]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[63]]></cell><cell><![CDATA[LABTECH PENTA INTERNATIONAL]]></cell><cell><![CDATA[TIS (Inspeksi, Survey, SLO)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[64]]></cell><cell><![CDATA[LB TECHNOLOGIES BATAM]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[700,000]]></cell></row>
+<row><cell><![CDATA[65]]></cell><cell><![CDATA[M-I INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[8,800,000]]></cell></row>
+<row><cell><![CDATA[66]]></cell><cell><![CDATA[NEJILOCK TECHNOLOGYNDO]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[67]]></cell><cell><![CDATA[NONGSA POINT MARINA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[3,900,000]]></cell></row>
+<row><cell><![CDATA[68]]></cell><cell><![CDATA[PACIFIC FEDERAL FACTORY]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[69]]></cell><cell><![CDATA[PACIFIC GRANITAMA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[70]]></cell><cell><![CDATA[PACIFIC PALACE HOTEL]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[71]]></cell><cell><![CDATA[PERTAMA PACIFIC SHIPYARD]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[72]]></cell><cell><![CDATA[PERTAMINA (PERSERO) REGION I P. SAMBU]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[73]]></cell><cell><![CDATA[PERTAMINA (PERSERO) TBBM NATUNA GROUP]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[48,696,000]]></cell></row>
+<row><cell><![CDATA[74]]></cell><cell><![CDATA[PERTAMINA (PERSERO)AVIASI REGION I DPPU HANG NADIM]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[75]]></cell><cell><![CDATA[PHILIPS INDUSTRIES BATAM]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[76]]></cell><cell><![CDATA[PLASMOTECH BATAM]]></cell><cell><![CDATA[PROYEK TIS (INSPEKSI,SURVEY,SLO,HP NOKIA)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[77]]></cell><cell><![CDATA[PLN (PERSERO) WILAYAH RIAU DAN KEPULAUAN RIAU UPK KEPULAUAN RIAU]]></cell><cell><![CDATA[PLN KEPRI - Q & Q - STOCKPILE BATU BARA]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[78]]></cell><cell><![CDATA[PLN BATAM]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[26,400,000]]></cell></row>
+<row><cell><![CDATA[79]]></cell><cell><![CDATA[PNBC INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[80]]></cell><cell><![CDATA[PRIMO MICROPHONE INDONESIA]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[81]]></cell><cell><![CDATA[PULAU BAWAH]]></cell><cell><![CDATA[TIS (Inspeksi, Survey, SLO)]]></cell><cell><![CDATA[12,837,500]]></cell></row>
+<row><cell><![CDATA[82]]></cell><cell><![CDATA[RAFLESIA NUSANTARA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[700,000]]></cell></row>
+<row><cell><![CDATA[83]]></cell><cell><![CDATA[RUMAH SAKIT BUDI KEMULIAAN]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[84]]></cell><cell><![CDATA[RUMAH SAKIT OTORITA BATAM]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[85]]></cell><cell><![CDATA[SAAINTI KREASI TEKNIK]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[86]]></cell><cell><![CDATA[SAAINTI KREASI TEKNIK]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[87]]></cell><cell><![CDATA[SAAINTI KREASI TEKNIK]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[88]]></cell><cell><![CDATA[SAIPEM INDONESIA]]></cell><cell><![CDATA[MAN POWER SUPPLY FOR KARIMUN YARD]]></cell><cell><![CDATA[97,062,409]]></cell></row>
+<row><cell><![CDATA[89]]></cell><cell><![CDATA[SAIPEM INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[1,000,000]]></cell></row>
+<row><cell><![CDATA[90]]></cell><cell><![CDATA[SAIPEM INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[3,450,000]]></cell></row>
+<row><cell><![CDATA[91]]></cell><cell><![CDATA[SARANABAJA PERKASA]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[92]]></cell><cell><![CDATA[SCHENKER PETROLOG UTAMA]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[93]]></cell><cell><![CDATA[SEKUPANG MAKMUR ABADI]]></cell><cell><![CDATA[TIS (Inspeksi, Survey, SLO)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[94]]></cell><cell><![CDATA[SIIX ELECTRONICS INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[95]]></cell><cell><![CDATA[SINDO MEGAH LESTARI]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[1,000,000]]></cell></row>
+<row><cell><![CDATA[96]]></cell><cell><![CDATA[SMOE INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[7,180,000]]></cell></row>
+<row><cell><![CDATA[97]]></cell><cell><![CDATA[SYNERGY OIL NUSANTARA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[26,900,000]]></cell></row>
+<row><cell><![CDATA[98]]></cell><cell><![CDATA[TJK POWER]]></cell><cell><![CDATA[Pengujian & Pembuatan Laporan Performance Test Pada Pembangkit Unit #1 dan unit #2 PLTU Tanjung Kasam]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[99]]></cell><cell><![CDATA[TURI BEACH RESORT]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[100]]></cell><cell><![CDATA[TURI BEACH RESORT]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[101]]></cell><cell><![CDATA[UNISEM]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[1,050,000]]></cell></row>
+<row><cell><![CDATA[102]]></cell><cell><![CDATA[VETCO GRAY INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[15,000,000]]></cell></row>
+<row><cell><![CDATA[103]]></cell><cell><![CDATA[WAP LOGISTIKINDO]]></cell><cell><![CDATA[PROYEK BMTB]]></cell><cell><![CDATA[22,000,000]]></cell></row>
+<row><cell><![CDATA[104]]></cell><cell><![CDATA[WAP LOGISTIKINDO]]></cell><cell><![CDATA[BMTB CERTIFICATION]]></cell><cell><![CDATA[9,500,000]]></cell></row>
+<row><cell><![CDATA[105]]></cell><cell><![CDATA[WEIR PRESSURE CONTROL INDONESIA]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[2,600,000]]></cell></row>
+<row><cell><![CDATA[106]]></cell><cell><![CDATA[YEAKIN PLASTIC INDUSTRY]]></cell><cell><![CDATA[LAB UMUM]]></cell><cell><![CDATA[15,500,000]]></cell></row></rows>

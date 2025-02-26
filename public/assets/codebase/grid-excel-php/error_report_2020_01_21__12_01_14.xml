@@ -1,0 +1,413 @@
+<rows profile='color'><head><columns><column  width='50' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[No.]]></column><column  width='220' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Klien]]></column><column  width='320' align='left' type='ron' hidden='false' sort='int' color=''><![CDATA[ Nama Proyek]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[ Piutang]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='3' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[1,165,034,497]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[ANGKASA PURA II (PERSERO) CABANG PALEMBANG]]></cell><cell><![CDATA[Jasa Pengukuran/Pemantauan Lingkungan Semester I Tahun 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[ANGSO DUO SAWIT]]></cell><cell><![CDATA[SLO PT Angso Duo Sawit]]></cell><cell><![CDATA[33,440,000]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[ANGSO DUO SAWIT]]></cell><cell><![CDATA[SLO PT Angso Duo Sawit]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[BANK PEMBANGUNAN DAERAH SUMATERA SELATAN DAN BANGKA BELITUNG]]></cell><cell><![CDATA[Jas Konsultansi Pengelolaan Gedung Bank Sumsel Babel Jakabaring]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[BARA ALAM UTAMA]]></cell><cell><![CDATA[Jasa SLO 5 Unit PLTD/Genset PT. Bara Alam Utama]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[BINTANG AGUNG PERSADA]]></cell><cell><![CDATA[ANALISA AIR LIMBAH]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[BINTANG GASING PERSADA]]></cell><cell><![CDATA[Jasa SLO 2 unit PLTD/Genset PT Bintang Gasing Persada]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[BUKIT ASAM (PERSERO) TBK]]></cell><cell><![CDATA[JASA KONSULTAN MANAJEMEN BUKIT ASAM ADD III]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[BUKIT ASAM (PERSERO) TBK]]></cell><cell><![CDATA[JASA KONSULTAN MANAJEMEN BUKIT ASAM ADD III]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[CAHAYA ABADI HOTELINDO]]></cell><cell><![CDATA[SLO CAHAYA ABADI HOTELINDO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[CAHAYA MURNI ANGSO DUO]]></cell><cell><![CDATA[Sertifikasi Laik Operasi CAHAYA MURNI ANGSO DUO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[CATURADILUHUR SENTOSA]]></cell><cell><![CDATA[SLO Caturadiluhur Sentosa]]></cell><cell><![CDATA[6,600,000]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[CERIA HOTELINDO]]></cell><cell><![CDATA[Ssertifikasi Laik Operasi Genset CERIA HOTELINDO]]></cell><cell><![CDATA[1,399,999]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[CITRAKOPRASINDO TANI]]></cell><cell><![CDATA[SLO CITRA KOPRASINDO TANI]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[COSMO JAMBI]]></cell><cell><![CDATA[Sertifikasi Laik Operasi COSMO JAMBI]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[DSSP POWER SUMSEL]]></cell><cell><![CDATA[Jasa Pengujian Emisi PT DSSP Power Sumsel]]></cell><cell><![CDATA[7,150,000]]></cell></row>
+<row><cell><![CDATA[17]]></cell><cell><![CDATA[DSSP POWER SUMSEL]]></cell><cell><![CDATA[Jasa Pengukuran 10 Titik Ergonomi PT DSSP Power Sumsel]]></cell><cell><![CDATA[30,338,000]]></cell></row>
+<row><cell><![CDATA[18]]></cell><cell><![CDATA[DSSP POWER SUMSEL]]></cell><cell><![CDATA[Pengujian Kualitas Air Bersih PT DSSP POwer Sumsel]]></cell><cell><![CDATA[3,850,000]]></cell></row>
+<row><cell><![CDATA[19]]></cell><cell><![CDATA[DSSP POWER SUMSEL]]></cell><cell><![CDATA[Jasa Radiography & UT Thikness PT DSSP Power Sumsel]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[20]]></cell><cell><![CDATA[DSSP POWER SUMSEL]]></cell><cell><![CDATA[Jasa Inspeksi UT Thikness PT DSSP Power Sumsel]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[21]]></cell><cell><![CDATA[DSSP POWER SUMSEL]]></cell><cell><![CDATA[Jasa Inspeksi Radiography PT DSSP Power Sumsel]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[22]]></cell><cell><![CDATA[DUTA REZEKI KENCANA]]></cell><cell><![CDATA[SLO DUTA REZEKI KENCANA]]></cell><cell><![CDATA[1,399,999]]></cell></row>
+<row><cell><![CDATA[23]]></cell><cell><![CDATA[DUTA REZEKI KENCANA]]></cell><cell><![CDATA[SLO SAWIT JAMBI LESTARI]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[24]]></cell><cell><![CDATA[GUTHRIE PECCONINA INDONESIA]]></cell><cell><![CDATA[Jasa SLO PLTD / Genset 1 Unit Genset PT Guthrie Pecconina Indonesia]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[25]]></cell><cell><![CDATA[HOTEL WISATA]]></cell><cell><![CDATA[SLO Hotel Wisata]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[26]]></cell><cell><![CDATA[HOTEL WISATA]]></cell><cell><![CDATA[SLO Hotel Wisata]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[27]]></cell><cell><![CDATA[HUTAMA KARYA (PERSERO)]]></cell><cell><![CDATA[Jas Pelaksanaan Uji Lingkungan di Divisi OPJT Cabang Jalan Tol Palembang - Simpang Indralaya]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[28]]></cell><cell><![CDATA[HUTAMA KARYA (PERSERO)]]></cell><cell><![CDATA[Jas Pelaksanaan Uji Lingkungan di Divisi OPJT Cabang Jalan Tol Palembang - Simpang Indralaya]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[29]]></cell><cell><![CDATA[INTIMEGAH BESTARI MANDIRI]]></cell><cell><![CDATA[Sertifikasi Laik Operasi PLTD 
+PT Intimegah Bestari Mandiri]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[30]]></cell><cell><![CDATA[KIRANA MUSI PERSADA]]></cell><cell><![CDATA[SLO PT Kirana Musi Persada]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[31]]></cell><cell><![CDATA[MANDIANGIN BATUBARA]]></cell><cell><![CDATA[SLO PT Mandiangin Batubara]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[32]]></cell><cell><![CDATA[MANDIANGIN BATUBARA]]></cell><cell><![CDATA[SLO PT Mandiangin Batubara]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[33]]></cell><cell><![CDATA[MENTARI SUBUR ABADI]]></cell><cell><![CDATA[Sertifikasi Laik Operasi PLTD
+PT Mentari Subur Abadi]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[34]]></cell><cell><![CDATA[PELANGI INTI PERTIWI]]></cell><cell><![CDATA[Sertifikasi Laik Operasi PLTD
+PT Pelangi Inti Pertiwi]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[35]]></cell><cell><![CDATA[PERTAMINA (PERSERO)]]></cell><cell><![CDATA[Study Pemetaan Sosial (Social Mapping) Program Proper Hijau untuk Program CSR  DPPU SMB II Tahun 2019 PT Pertamina]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[36]]></cell><cell><![CDATA[PERTAMINA (PERSERO) REFINERY UNIT III]]></cell><cell><![CDATA[Jasa Survey Quantity and Quality Refined Bleached Deodorized Palm Oil (RBDPO) PT Pertamina (Persero)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[37]]></cell><cell><![CDATA[PLN (PERSERO) PLTU BUKIT ASAM]]></cell><cell><![CDATA[STOCKPILE PLN BUKIT ASAM ADD II]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[38]]></cell><cell><![CDATA[PLN (PERSERO) SEKTOR PEMBANGKITAN BUKIT ASAM]]></cell><cell><![CDATA[Stock OPname Fisik Tangki HSD PLTU Bukit Asam]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[39]]></cell><cell><![CDATA[PLN (PERSERO) SEKTOR PEMBANGKITAN BUKIT ASAM]]></cell><cell><![CDATA[Jasa Resertifikasi Pesawat Angkat Angkat Resertifikasi Penyalur Petir PLN (Persero) Unit Pelaksana Bukit Asam]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[40]]></cell><cell><![CDATA[PLN (PERSERO) SEKTOR PEMBANGKITAN BUKIT ASAM]]></cell><cell><![CDATA[Pengadaan Jasa Pelatihan K3 Untuk Karyawan (Pelatihan HIRADC dan Auditor K3) Unit Pelaksana Pembangkitan Bukit Asam]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[41]]></cell><cell><![CDATA[PLN (PERSERO) SEKTOR PEMBANGKITAN TARAHAN]]></cell><cell><![CDATA[KHS Jasa Stock Opname Fisik Batubara dan HSD UPK Tarahan]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[42]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN SELATAN (UIP III)]]></cell><cell><![CDATA[Jasa Penyusunan Laporan Pelaksanaan Izin Lingkungan (UKL-UPL/RKL-UPL)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[43]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN SELATAN (UIP III)]]></cell><cell><![CDATA[SMK3di PT PLN (Persero) UPPJ Sumsel, PT PLN (Persero) UPPJ Bangka Belitung dan PT PLN (Persero) UPPJ lampung & Bengkulu (Paket SMK3)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[44]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN SELATAN (UIP III)]]></cell><cell><![CDATA[Survey Extension GI 150 kV Sukarame]]></cell><cell><![CDATA[76,901,000]]></cell></row>
+<row><cell><![CDATA[45]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN SELATAN (UIP III)]]></cell><cell><![CDATA[Survey GI Ext 150 kV Pagelaran]]></cell><cell><![CDATA[76,901,000]]></cell></row>
+<row><cell><![CDATA[46]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN TENGAH]]></cell><cell><![CDATA[Inventarisasi dan Validasi Tapak Tower Pembangunan SUTT 150 kV Kuala Tungkal Pelabuhan Dagang Sebanyak 95 Tapak Tower]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[47]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN TENGAH]]></cell><cell><![CDATA[Inventarisasi dan Validasi Tapak Tower Pembangunan SUTT 150 kV Kuala Tungkal Pelabuhan Dagang Sebanyak 95 Tapak Tower]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[48]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN TENGAH]]></cell><cell><![CDATA[Jasa Konsultansi Pengurusan Izin Pinjam Pakai Kawasan Hitan (IPPKH) untuk Pembangunan T/L 150 kV di Kabupaten Tanjung Jabung Timur - Tanjung Jabung Barat Prov. Jambi 75 Ha PT PLN (Persero) UIP SUMBAGTENG]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[49]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN III]]></cell><cell><![CDATA[MANAJEMEN JASA INVENTARISASI,IDENTIFIKASI DAN PENGURUSAN PERIJINAN JALUR SUTT,SUTET DAN GARDU INDUK PADA FAS KONSTUKSI (PAKET INV-02)]]></cell><cell><![CDATA[744,282,000]]></cell></row>
+<row><cell><![CDATA[50]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN III]]></cell><cell><![CDATA[MANAJEMEN JASA INVENTARISASI,IDENTIFIKASI DAN PENGURUSAN PERIJINAN JALUR SUTT,SUTET DAN GARDU INDUK PADA FAS KONSTUKSI (PAKET INV-02)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[51]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN III]]></cell><cell><![CDATA[INVENTARISASI ,IDENTIFIKASI (PAKET INV-03) PLN UIP]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[52]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN III]]></cell><cell><![CDATA[INVENTARISASI ,IDENTIFIKASI (PAKET INV-03) PLN UIP]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[53]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN III]]></cell><cell><![CDATA[Pekerjaan Jasa Pengurusan IPPKH SUTT dan USC 150 KV Sumsel - Babel (GI Tanjung Api Api - Landing Point Tanjung Carat) (paket HUT Sumba)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[54]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN III]]></cell><cell><![CDATA[Jasa Inventarisasi dan Pemetaan Tanah, Bangunan dan Tanam Tumbuh Jalur SUTT 150 Kv Bangko - Merangin - Sungai Penuh PT. PLN UIP III (INV-06)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[55]]></cell><cell><![CDATA[PLN (PERSERO) UP3 BENGKULU]]></cell><cell><![CDATA[Jasa Set Up SMK3 Area Bengkulu]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[56]]></cell><cell><![CDATA[PLN (PERSERO) UP3 LAHAT]]></cell><cell><![CDATA[Set Up SMK3 T. PLN (PERSERO) UIWS2JB UP3 LAHAT]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[57]]></cell><cell><![CDATA[PLN (PERSERO) UP3 MUARO BUNGO]]></cell><cell><![CDATA[Set Up SMK3 PLN (PERSERO) UP3 MUARO BUNGO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[58]]></cell><cell><![CDATA[PLN (PERSERO) UP3 PALEMBANG]]></cell><cell><![CDATA[Set Up SMK3 PT. PLN (PERSERO) UP3 PALEMBANG]]></cell><cell><![CDATA[60,527,500]]></cell></row>
+<row><cell><![CDATA[59]]></cell><cell><![CDATA[PLN (PERSERO) WILAYAH SUMSEL, JAMBI & BENGKULU]]></cell><cell><![CDATA[Set Up SMK3 PT. PLN (PERSERO) UIWS2JB]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[60]]></cell><cell><![CDATA[PLN (PERSERO) WILAYAH SUMSEL, JAMBI & BENGKULU]]></cell><cell><![CDATA[Jasa Set Up SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[61]]></cell><cell><![CDATA[PLN (PERSERO) WILAYAH SUMSEL, JAMBI & BENGKULU]]></cell><cell><![CDATA[Jasa Pelatihan Tanggap Darurat PT PLN (Persero) Unit Induk Wilayah S2JB]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[62]]></cell><cell><![CDATA[PUNCAK PRIMA LESTARI]]></cell><cell><![CDATA[Jasa Sertifikasi Laik Operasi 1 Unit (SLO) PLTD / genset PT Puncak Prima Lestari Bangka]]></cell><cell><![CDATA[1,375,000]]></cell></row>
+<row><cell><![CDATA[63]]></cell><cell><![CDATA[PUNDI REZEKI HOTEL]]></cell><cell><![CDATA[SLO PUNDI REZEKI HOTEL]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[64]]></cell><cell><![CDATA[PUPUK SRIWIDJAJA PALEMBANG (PUSRI)]]></cell><cell><![CDATA[Pengawasan Pemuatan Pupuk dan Ammonia ]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[65]]></cell><cell><![CDATA[REKAYASA INDUSTRI (REKIND)]]></cell><cell><![CDATA[SLO STEAM TURBINE GENERATOR]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[66]]></cell><cell><![CDATA[RIGUNAS AGRI UTAMA]]></cell><cell><![CDATA[Sertifikasi Laik Operasi PT Rigunas Agri Utama]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[67]]></cell><cell><![CDATA[ROYAL PRIMA JAMBI]]></cell><cell><![CDATA[SLO ROYAL PRIMA JAMBI]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[68]]></cell><cell><![CDATA[RSUD PROF. DR.HM. CHATIB QUZWAIN]]></cell><cell><![CDATA[SLO RSUD Sarolangun]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[69]]></cell><cell><![CDATA[RSUD PROF. DR.HM. CHATIB QUZWAIN]]></cell><cell><![CDATA[SLO RSUD Sarolangun]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[70]]></cell><cell><![CDATA[SATU SATRIA RAYA]]></cell><cell><![CDATA[Jasa Tes CBR, Sand Cone, DPC PT. Satu Satria Raya]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[71]]></cell><cell><![CDATA[SATU SATRIA RAYA]]></cell><cell><![CDATA[Jasa Tes CBR, Sand Cone, DPC PT. Satu Satria Raya]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[72]]></cell><cell><![CDATA[SAWIT JAMBI LESTARI]]></cell><cell><![CDATA[SLO SAWIT JAMBI LESTARI]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[73]]></cell><cell><![CDATA[SAWIT JUJUHAN ABADI]]></cell><cell><![CDATA[SLO SAWIT JUJUHAN ABADI]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[74]]></cell><cell><![CDATA[SEKAWAN KONTRINDO]]></cell><cell><![CDATA[NDT Pipeline]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[75]]></cell><cell><![CDATA[SEKAWAN KONTRINDO]]></cell><cell><![CDATA[NDT Pipeline]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[76]]></cell><cell><![CDATA[SHENHUA GUOHUA LION POWER INDONESIA]]></cell><cell><![CDATA[Jasa Pemantauan Lingkungan Semester 2]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[77]]></cell><cell><![CDATA[SINAR ALAM PERMAI]]></cell><cell><![CDATA[Jasa Lingkungan Kerja]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[78]]></cell><cell><![CDATA[SUKSES GEMILANG PALEM]]></cell><cell><![CDATA[SLO SUKSES GEMILANG]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[79]]></cell><cell><![CDATA[SURYA INTERNUSA HOTELS]]></cell><cell><![CDATA[SLO SURYA INTERNUSA HOTELS]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[80]]></cell><cell><![CDATA[SURYA UNGGAS MANDIRI]]></cell><cell><![CDATA[SLO PT Surya Unggas Mandiri]]></cell><cell><![CDATA[36,520,000]]></cell></row>
+<row><cell><![CDATA[81]]></cell><cell><![CDATA[SURYA UNGGAS MANDIRI]]></cell><cell><![CDATA[SLO PT Surya Unggas Mandiri]]></cell><cell><![CDATA[45,650,000]]></cell></row>
+<row><cell><![CDATA[82]]></cell><cell><![CDATA[SWADAYA BHAKTI NEGARAMAS]]></cell><cell><![CDATA[Sertifikasi Laik Operasi PLTD
+PT Swadaya Bhakti Negaramas]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[83]]></cell><cell><![CDATA[SWISS BEL HOTEL]]></cell><cell><![CDATA[SLO SELARAS JAYA INDAH HOTELINDO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[84]]></cell><cell><![CDATA[TEBO INDAH]]></cell><cell><![CDATA[SLO Tebo Indah]]></cell><cell><![CDATA[28,600,000]]></cell></row>
+<row><cell><![CDATA[85]]></cell><cell><![CDATA[TIRTA UTAMA JAYA]]></cell><cell><![CDATA[SLO PLTD / Genset PT. Tirta Utama Jaya]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[86]]></cell><cell><![CDATA[UTAMA TEGUH ABADI]]></cell><cell><![CDATA[SLO PT Utama Teguh Abadi (Jambi City Center)]]></cell><cell><![CDATA[4,599,999]]></cell></row>
+<row><cell><![CDATA[87]]></cell><cell><![CDATA[UTAMA TEGUH ABADI]]></cell><cell><![CDATA[SLO PT Utama Teguh Abadi (Jambi City Center)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[88]]></cell><cell><![CDATA[UTAMA TEGUH ABADI]]></cell><cell><![CDATA[SLO PT Utama Teguh Abadi (Jambi City Center)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[89]]></cell><cell><![CDATA[VICTORIA]]></cell><cell><![CDATA[Jasa Sertifikasi Laik Operasi (SLO) 1 Unit PLTD / Genset dan Izin Operasi CV. Victoria]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[90]]></cell><cell><![CDATA[VISTA AGUNG KENCANA]]></cell><cell><![CDATA[Sertifikat Laik Operasi VISTA AGUNG KENCANA]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[91]]></cell><cell><![CDATA[YAY. YK MADIRA]]></cell><cell><![CDATA[Jasa SLO PLTD/Genset RSIA YK Madira Palembang]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[92]]></cell><cell><![CDATA[ZHEJIANG TENAGA PEMBANGUNAN INDONESIA]]></cell><cell><![CDATA[Jasa Pengujian Kualitas Air PT Zhejiang Tenaga Pembangunan Indonesia]]></cell><cell><![CDATA[0]]></cell></row></rows><rows profile='color'><head><columns><column  width='50' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[No.]]></column><column  width='220' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Klien]]></column><column  width='320' align='left' type='ron' hidden='false' sort='int' color=''><![CDATA[ Nama Proyek]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[ Piutang]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='3' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[1,165,034,497]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[ANGKASA PURA II (PERSERO) CABANG PALEMBANG]]></cell><cell><![CDATA[Jasa Pengukuran/Pemantauan Lingkungan Semester I Tahun 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[ANGSO DUO SAWIT]]></cell><cell><![CDATA[SLO PT Angso Duo Sawit]]></cell><cell><![CDATA[33,440,000]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[ANGSO DUO SAWIT]]></cell><cell><![CDATA[SLO PT Angso Duo Sawit]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[BANK PEMBANGUNAN DAERAH SUMATERA SELATAN DAN BANGKA BELITUNG]]></cell><cell><![CDATA[Jas Konsultansi Pengelolaan Gedung Bank Sumsel Babel Jakabaring]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[BARA ALAM UTAMA]]></cell><cell><![CDATA[Jasa SLO 5 Unit PLTD/Genset PT. Bara Alam Utama]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[BINTANG AGUNG PERSADA]]></cell><cell><![CDATA[ANALISA AIR LIMBAH]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[BINTANG GASING PERSADA]]></cell><cell><![CDATA[Jasa SLO 2 unit PLTD/Genset PT Bintang Gasing Persada]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[BUKIT ASAM (PERSERO) TBK]]></cell><cell><![CDATA[JASA KONSULTAN MANAJEMEN BUKIT ASAM ADD III]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[BUKIT ASAM (PERSERO) TBK]]></cell><cell><![CDATA[JASA KONSULTAN MANAJEMEN BUKIT ASAM ADD III]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[CAHAYA ABADI HOTELINDO]]></cell><cell><![CDATA[SLO CAHAYA ABADI HOTELINDO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[CAHAYA MURNI ANGSO DUO]]></cell><cell><![CDATA[Sertifikasi Laik Operasi CAHAYA MURNI ANGSO DUO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[CATURADILUHUR SENTOSA]]></cell><cell><![CDATA[SLO Caturadiluhur Sentosa]]></cell><cell><![CDATA[6,600,000]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[CERIA HOTELINDO]]></cell><cell><![CDATA[Ssertifikasi Laik Operasi Genset CERIA HOTELINDO]]></cell><cell><![CDATA[1,399,999]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[CITRAKOPRASINDO TANI]]></cell><cell><![CDATA[SLO CITRA KOPRASINDO TANI]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[COSMO JAMBI]]></cell><cell><![CDATA[Sertifikasi Laik Operasi COSMO JAMBI]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[DSSP POWER SUMSEL]]></cell><cell><![CDATA[Jasa Pengujian Emisi PT DSSP Power Sumsel]]></cell><cell><![CDATA[7,150,000]]></cell></row>
+<row><cell><![CDATA[17]]></cell><cell><![CDATA[DSSP POWER SUMSEL]]></cell><cell><![CDATA[Jasa Pengukuran 10 Titik Ergonomi PT DSSP Power Sumsel]]></cell><cell><![CDATA[30,338,000]]></cell></row>
+<row><cell><![CDATA[18]]></cell><cell><![CDATA[DSSP POWER SUMSEL]]></cell><cell><![CDATA[Pengujian Kualitas Air Bersih PT DSSP POwer Sumsel]]></cell><cell><![CDATA[3,850,000]]></cell></row>
+<row><cell><![CDATA[19]]></cell><cell><![CDATA[DSSP POWER SUMSEL]]></cell><cell><![CDATA[Jasa Radiography & UT Thikness PT DSSP Power Sumsel]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[20]]></cell><cell><![CDATA[DSSP POWER SUMSEL]]></cell><cell><![CDATA[Jasa Inspeksi UT Thikness PT DSSP Power Sumsel]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[21]]></cell><cell><![CDATA[DSSP POWER SUMSEL]]></cell><cell><![CDATA[Jasa Inspeksi Radiography PT DSSP Power Sumsel]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[22]]></cell><cell><![CDATA[DUTA REZEKI KENCANA]]></cell><cell><![CDATA[SLO DUTA REZEKI KENCANA]]></cell><cell><![CDATA[1,399,999]]></cell></row>
+<row><cell><![CDATA[23]]></cell><cell><![CDATA[DUTA REZEKI KENCANA]]></cell><cell><![CDATA[SLO SAWIT JAMBI LESTARI]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[24]]></cell><cell><![CDATA[GUTHRIE PECCONINA INDONESIA]]></cell><cell><![CDATA[Jasa SLO PLTD / Genset 1 Unit Genset PT Guthrie Pecconina Indonesia]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[25]]></cell><cell><![CDATA[HOTEL WISATA]]></cell><cell><![CDATA[SLO Hotel Wisata]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[26]]></cell><cell><![CDATA[HOTEL WISATA]]></cell><cell><![CDATA[SLO Hotel Wisata]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[27]]></cell><cell><![CDATA[HUTAMA KARYA (PERSERO)]]></cell><cell><![CDATA[Jas Pelaksanaan Uji Lingkungan di Divisi OPJT Cabang Jalan Tol Palembang - Simpang Indralaya]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[28]]></cell><cell><![CDATA[HUTAMA KARYA (PERSERO)]]></cell><cell><![CDATA[Jas Pelaksanaan Uji Lingkungan di Divisi OPJT Cabang Jalan Tol Palembang - Simpang Indralaya]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[29]]></cell><cell><![CDATA[INTIMEGAH BESTARI MANDIRI]]></cell><cell><![CDATA[Sertifikasi Laik Operasi PLTD 
+PT Intimegah Bestari Mandiri]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[30]]></cell><cell><![CDATA[KIRANA MUSI PERSADA]]></cell><cell><![CDATA[SLO PT Kirana Musi Persada]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[31]]></cell><cell><![CDATA[MANDIANGIN BATUBARA]]></cell><cell><![CDATA[SLO PT Mandiangin Batubara]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[32]]></cell><cell><![CDATA[MANDIANGIN BATUBARA]]></cell><cell><![CDATA[SLO PT Mandiangin Batubara]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[33]]></cell><cell><![CDATA[MENTARI SUBUR ABADI]]></cell><cell><![CDATA[Sertifikasi Laik Operasi PLTD
+PT Mentari Subur Abadi]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[34]]></cell><cell><![CDATA[PELANGI INTI PERTIWI]]></cell><cell><![CDATA[Sertifikasi Laik Operasi PLTD
+PT Pelangi Inti Pertiwi]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[35]]></cell><cell><![CDATA[PERTAMINA (PERSERO)]]></cell><cell><![CDATA[Study Pemetaan Sosial (Social Mapping) Program Proper Hijau untuk Program CSR  DPPU SMB II Tahun 2019 PT Pertamina]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[36]]></cell><cell><![CDATA[PERTAMINA (PERSERO) REFINERY UNIT III]]></cell><cell><![CDATA[Jasa Survey Quantity and Quality Refined Bleached Deodorized Palm Oil (RBDPO) PT Pertamina (Persero)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[37]]></cell><cell><![CDATA[PLN (PERSERO) PLTU BUKIT ASAM]]></cell><cell><![CDATA[STOCKPILE PLN BUKIT ASAM ADD II]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[38]]></cell><cell><![CDATA[PLN (PERSERO) SEKTOR PEMBANGKITAN BUKIT ASAM]]></cell><cell><![CDATA[Stock OPname Fisik Tangki HSD PLTU Bukit Asam]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[39]]></cell><cell><![CDATA[PLN (PERSERO) SEKTOR PEMBANGKITAN BUKIT ASAM]]></cell><cell><![CDATA[Jasa Resertifikasi Pesawat Angkat Angkat Resertifikasi Penyalur Petir PLN (Persero) Unit Pelaksana Bukit Asam]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[40]]></cell><cell><![CDATA[PLN (PERSERO) SEKTOR PEMBANGKITAN BUKIT ASAM]]></cell><cell><![CDATA[Pengadaan Jasa Pelatihan K3 Untuk Karyawan (Pelatihan HIRADC dan Auditor K3) Unit Pelaksana Pembangkitan Bukit Asam]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[41]]></cell><cell><![CDATA[PLN (PERSERO) SEKTOR PEMBANGKITAN TARAHAN]]></cell><cell><![CDATA[KHS Jasa Stock Opname Fisik Batubara dan HSD UPK Tarahan]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[42]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN SELATAN (UIP III)]]></cell><cell><![CDATA[Jasa Penyusunan Laporan Pelaksanaan Izin Lingkungan (UKL-UPL/RKL-UPL)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[43]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN SELATAN (UIP III)]]></cell><cell><![CDATA[SMK3di PT PLN (Persero) UPPJ Sumsel, PT PLN (Persero) UPPJ Bangka Belitung dan PT PLN (Persero) UPPJ lampung & Bengkulu (Paket SMK3)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[44]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN SELATAN (UIP III)]]></cell><cell><![CDATA[Survey Extension GI 150 kV Sukarame]]></cell><cell><![CDATA[76,901,000]]></cell></row>
+<row><cell><![CDATA[45]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN SELATAN (UIP III)]]></cell><cell><![CDATA[Survey GI Ext 150 kV Pagelaran]]></cell><cell><![CDATA[76,901,000]]></cell></row>
+<row><cell><![CDATA[46]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN TENGAH]]></cell><cell><![CDATA[Inventarisasi dan Validasi Tapak Tower Pembangunan SUTT 150 kV Kuala Tungkal Pelabuhan Dagang Sebanyak 95 Tapak Tower]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[47]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN TENGAH]]></cell><cell><![CDATA[Inventarisasi dan Validasi Tapak Tower Pembangunan SUTT 150 kV Kuala Tungkal Pelabuhan Dagang Sebanyak 95 Tapak Tower]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[48]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN TENGAH]]></cell><cell><![CDATA[Jasa Konsultansi Pengurusan Izin Pinjam Pakai Kawasan Hitan (IPPKH) untuk Pembangunan T/L 150 kV di Kabupaten Tanjung Jabung Timur - Tanjung Jabung Barat Prov. Jambi 75 Ha PT PLN (Persero) UIP SUMBAGTENG]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[49]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN III]]></cell><cell><![CDATA[MANAJEMEN JASA INVENTARISASI,IDENTIFIKASI DAN PENGURUSAN PERIJINAN JALUR SUTT,SUTET DAN GARDU INDUK PADA FAS KONSTUKSI (PAKET INV-02)]]></cell><cell><![CDATA[744,282,000]]></cell></row>
+<row><cell><![CDATA[50]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN III]]></cell><cell><![CDATA[MANAJEMEN JASA INVENTARISASI,IDENTIFIKASI DAN PENGURUSAN PERIJINAN JALUR SUTT,SUTET DAN GARDU INDUK PADA FAS KONSTUKSI (PAKET INV-02)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[51]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN III]]></cell><cell><![CDATA[INVENTARISASI ,IDENTIFIKASI (PAKET INV-03) PLN UIP]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[52]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN III]]></cell><cell><![CDATA[INVENTARISASI ,IDENTIFIKASI (PAKET INV-03) PLN UIP]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[53]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN III]]></cell><cell><![CDATA[Pekerjaan Jasa Pengurusan IPPKH SUTT dan USC 150 KV Sumsel - Babel (GI Tanjung Api Api - Landing Point Tanjung Carat) (paket HUT Sumba)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[54]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN III]]></cell><cell><![CDATA[Jasa Inventarisasi dan Pemetaan Tanah, Bangunan dan Tanam Tumbuh Jalur SUTT 150 Kv Bangko - Merangin - Sungai Penuh PT. PLN UIP III (INV-06)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[55]]></cell><cell><![CDATA[PLN (PERSERO) UP3 BENGKULU]]></cell><cell><![CDATA[Jasa Set Up SMK3 Area Bengkulu]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[56]]></cell><cell><![CDATA[PLN (PERSERO) UP3 LAHAT]]></cell><cell><![CDATA[Set Up SMK3 T. PLN (PERSERO) UIWS2JB UP3 LAHAT]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[57]]></cell><cell><![CDATA[PLN (PERSERO) UP3 MUARO BUNGO]]></cell><cell><![CDATA[Set Up SMK3 PLN (PERSERO) UP3 MUARO BUNGO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[58]]></cell><cell><![CDATA[PLN (PERSERO) UP3 PALEMBANG]]></cell><cell><![CDATA[Set Up SMK3 PT. PLN (PERSERO) UP3 PALEMBANG]]></cell><cell><![CDATA[60,527,500]]></cell></row>
+<row><cell><![CDATA[59]]></cell><cell><![CDATA[PLN (PERSERO) WILAYAH SUMSEL, JAMBI & BENGKULU]]></cell><cell><![CDATA[Set Up SMK3 PT. PLN (PERSERO) UIWS2JB]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[60]]></cell><cell><![CDATA[PLN (PERSERO) WILAYAH SUMSEL, JAMBI & BENGKULU]]></cell><cell><![CDATA[Jasa Set Up SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[61]]></cell><cell><![CDATA[PLN (PERSERO) WILAYAH SUMSEL, JAMBI & BENGKULU]]></cell><cell><![CDATA[Jasa Pelatihan Tanggap Darurat PT PLN (Persero) Unit Induk Wilayah S2JB]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[62]]></cell><cell><![CDATA[PUNCAK PRIMA LESTARI]]></cell><cell><![CDATA[Jasa Sertifikasi Laik Operasi 1 Unit (SLO) PLTD / genset PT Puncak Prima Lestari Bangka]]></cell><cell><![CDATA[1,375,000]]></cell></row>
+<row><cell><![CDATA[63]]></cell><cell><![CDATA[PUNDI REZEKI HOTEL]]></cell><cell><![CDATA[SLO PUNDI REZEKI HOTEL]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[64]]></cell><cell><![CDATA[PUPUK SRIWIDJAJA PALEMBANG (PUSRI)]]></cell><cell><![CDATA[Pengawasan Pemuatan Pupuk dan Ammonia ]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[65]]></cell><cell><![CDATA[REKAYASA INDUSTRI (REKIND)]]></cell><cell><![CDATA[SLO STEAM TURBINE GENERATOR]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[66]]></cell><cell><![CDATA[RIGUNAS AGRI UTAMA]]></cell><cell><![CDATA[Sertifikasi Laik Operasi PT Rigunas Agri Utama]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[67]]></cell><cell><![CDATA[ROYAL PRIMA JAMBI]]></cell><cell><![CDATA[SLO ROYAL PRIMA JAMBI]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[68]]></cell><cell><![CDATA[RSUD PROF. DR.HM. CHATIB QUZWAIN]]></cell><cell><![CDATA[SLO RSUD Sarolangun]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[69]]></cell><cell><![CDATA[RSUD PROF. DR.HM. CHATIB QUZWAIN]]></cell><cell><![CDATA[SLO RSUD Sarolangun]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[70]]></cell><cell><![CDATA[SATU SATRIA RAYA]]></cell><cell><![CDATA[Jasa Tes CBR, Sand Cone, DPC PT. Satu Satria Raya]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[71]]></cell><cell><![CDATA[SATU SATRIA RAYA]]></cell><cell><![CDATA[Jasa Tes CBR, Sand Cone, DPC PT. Satu Satria Raya]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[72]]></cell><cell><![CDATA[SAWIT JAMBI LESTARI]]></cell><cell><![CDATA[SLO SAWIT JAMBI LESTARI]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[73]]></cell><cell><![CDATA[SAWIT JUJUHAN ABADI]]></cell><cell><![CDATA[SLO SAWIT JUJUHAN ABADI]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[74]]></cell><cell><![CDATA[SEKAWAN KONTRINDO]]></cell><cell><![CDATA[NDT Pipeline]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[75]]></cell><cell><![CDATA[SEKAWAN KONTRINDO]]></cell><cell><![CDATA[NDT Pipeline]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[76]]></cell><cell><![CDATA[SHENHUA GUOHUA LION POWER INDONESIA]]></cell><cell><![CDATA[Jasa Pemantauan Lingkungan Semester 2]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[77]]></cell><cell><![CDATA[SINAR ALAM PERMAI]]></cell><cell><![CDATA[Jasa Lingkungan Kerja]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[78]]></cell><cell><![CDATA[SUKSES GEMILANG PALEM]]></cell><cell><![CDATA[SLO SUKSES GEMILANG]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[79]]></cell><cell><![CDATA[SURYA INTERNUSA HOTELS]]></cell><cell><![CDATA[SLO SURYA INTERNUSA HOTELS]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[80]]></cell><cell><![CDATA[SURYA UNGGAS MANDIRI]]></cell><cell><![CDATA[SLO PT Surya Unggas Mandiri]]></cell><cell><![CDATA[36,520,000]]></cell></row>
+<row><cell><![CDATA[81]]></cell><cell><![CDATA[SURYA UNGGAS MANDIRI]]></cell><cell><![CDATA[SLO PT Surya Unggas Mandiri]]></cell><cell><![CDATA[45,650,000]]></cell></row>
+<row><cell><![CDATA[82]]></cell><cell><![CDATA[SWADAYA BHAKTI NEGARAMAS]]></cell><cell><![CDATA[Sertifikasi Laik Operasi PLTD
+PT Swadaya Bhakti Negaramas]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[83]]></cell><cell><![CDATA[SWISS BEL HOTEL]]></cell><cell><![CDATA[SLO SELARAS JAYA INDAH HOTELINDO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[84]]></cell><cell><![CDATA[TEBO INDAH]]></cell><cell><![CDATA[SLO Tebo Indah]]></cell><cell><![CDATA[28,600,000]]></cell></row>
+<row><cell><![CDATA[85]]></cell><cell><![CDATA[TIRTA UTAMA JAYA]]></cell><cell><![CDATA[SLO PLTD / Genset PT. Tirta Utama Jaya]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[86]]></cell><cell><![CDATA[UTAMA TEGUH ABADI]]></cell><cell><![CDATA[SLO PT Utama Teguh Abadi (Jambi City Center)]]></cell><cell><![CDATA[4,599,999]]></cell></row>
+<row><cell><![CDATA[87]]></cell><cell><![CDATA[UTAMA TEGUH ABADI]]></cell><cell><![CDATA[SLO PT Utama Teguh Abadi (Jambi City Center)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[88]]></cell><cell><![CDATA[UTAMA TEGUH ABADI]]></cell><cell><![CDATA[SLO PT Utama Teguh Abadi (Jambi City Center)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[89]]></cell><cell><![CDATA[VICTORIA]]></cell><cell><![CDATA[Jasa Sertifikasi Laik Operasi (SLO) 1 Unit PLTD / Genset dan Izin Operasi CV. Victoria]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[90]]></cell><cell><![CDATA[VISTA AGUNG KENCANA]]></cell><cell><![CDATA[Sertifikat Laik Operasi VISTA AGUNG KENCANA]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[91]]></cell><cell><![CDATA[YAY. YK MADIRA]]></cell><cell><![CDATA[Jasa SLO PLTD/Genset RSIA YK Madira Palembang]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[92]]></cell><cell><![CDATA[ZHEJIANG TENAGA PEMBANGUNAN INDONESIA]]></cell><cell><![CDATA[Jasa Pengujian Kualitas Air PT Zhejiang Tenaga Pembangunan Indonesia]]></cell><cell><![CDATA[0]]></cell></row></rows><rows profile='color'><head><columns><column  width='50' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[No.]]></column><column  width='220' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Klien]]></column><column  width='320' align='left' type='ron' hidden='false' sort='int' color=''><![CDATA[ Nama Proyek]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[ Piutang]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='3' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[1,165,034,497]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[ANGKASA PURA II (PERSERO) CABANG PALEMBANG]]></cell><cell><![CDATA[Jasa Pengukuran/Pemantauan Lingkungan Semester I Tahun 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[ANGSO DUO SAWIT]]></cell><cell><![CDATA[SLO PT Angso Duo Sawit]]></cell><cell><![CDATA[33,440,000]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[ANGSO DUO SAWIT]]></cell><cell><![CDATA[SLO PT Angso Duo Sawit]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[BANK PEMBANGUNAN DAERAH SUMATERA SELATAN DAN BANGKA BELITUNG]]></cell><cell><![CDATA[Jas Konsultansi Pengelolaan Gedung Bank Sumsel Babel Jakabaring]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[BARA ALAM UTAMA]]></cell><cell><![CDATA[Jasa SLO 5 Unit PLTD/Genset PT. Bara Alam Utama]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[BINTANG AGUNG PERSADA]]></cell><cell><![CDATA[ANALISA AIR LIMBAH]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[BINTANG GASING PERSADA]]></cell><cell><![CDATA[Jasa SLO 2 unit PLTD/Genset PT Bintang Gasing Persada]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[BUKIT ASAM (PERSERO) TBK]]></cell><cell><![CDATA[JASA KONSULTAN MANAJEMEN BUKIT ASAM ADD III]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[BUKIT ASAM (PERSERO) TBK]]></cell><cell><![CDATA[JASA KONSULTAN MANAJEMEN BUKIT ASAM ADD III]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[CAHAYA ABADI HOTELINDO]]></cell><cell><![CDATA[SLO CAHAYA ABADI HOTELINDO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[CAHAYA MURNI ANGSO DUO]]></cell><cell><![CDATA[Sertifikasi Laik Operasi CAHAYA MURNI ANGSO DUO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[CATURADILUHUR SENTOSA]]></cell><cell><![CDATA[SLO Caturadiluhur Sentosa]]></cell><cell><![CDATA[6,600,000]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[CERIA HOTELINDO]]></cell><cell><![CDATA[Ssertifikasi Laik Operasi Genset CERIA HOTELINDO]]></cell><cell><![CDATA[1,399,999]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[CITRAKOPRASINDO TANI]]></cell><cell><![CDATA[SLO CITRA KOPRASINDO TANI]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[COSMO JAMBI]]></cell><cell><![CDATA[Sertifikasi Laik Operasi COSMO JAMBI]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[DSSP POWER SUMSEL]]></cell><cell><![CDATA[Jasa Pengujian Emisi PT DSSP Power Sumsel]]></cell><cell><![CDATA[7,150,000]]></cell></row>
+<row><cell><![CDATA[17]]></cell><cell><![CDATA[DSSP POWER SUMSEL]]></cell><cell><![CDATA[Jasa Pengukuran 10 Titik Ergonomi PT DSSP Power Sumsel]]></cell><cell><![CDATA[30,338,000]]></cell></row>
+<row><cell><![CDATA[18]]></cell><cell><![CDATA[DSSP POWER SUMSEL]]></cell><cell><![CDATA[Pengujian Kualitas Air Bersih PT DSSP POwer Sumsel]]></cell><cell><![CDATA[3,850,000]]></cell></row>
+<row><cell><![CDATA[19]]></cell><cell><![CDATA[DSSP POWER SUMSEL]]></cell><cell><![CDATA[Jasa Radiography & UT Thikness PT DSSP Power Sumsel]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[20]]></cell><cell><![CDATA[DSSP POWER SUMSEL]]></cell><cell><![CDATA[Jasa Inspeksi UT Thikness PT DSSP Power Sumsel]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[21]]></cell><cell><![CDATA[DSSP POWER SUMSEL]]></cell><cell><![CDATA[Jasa Inspeksi Radiography PT DSSP Power Sumsel]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[22]]></cell><cell><![CDATA[DUTA REZEKI KENCANA]]></cell><cell><![CDATA[SLO DUTA REZEKI KENCANA]]></cell><cell><![CDATA[1,399,999]]></cell></row>
+<row><cell><![CDATA[23]]></cell><cell><![CDATA[DUTA REZEKI KENCANA]]></cell><cell><![CDATA[SLO SAWIT JAMBI LESTARI]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[24]]></cell><cell><![CDATA[GUTHRIE PECCONINA INDONESIA]]></cell><cell><![CDATA[Jasa SLO PLTD / Genset 1 Unit Genset PT Guthrie Pecconina Indonesia]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[25]]></cell><cell><![CDATA[HOTEL WISATA]]></cell><cell><![CDATA[SLO Hotel Wisata]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[26]]></cell><cell><![CDATA[HOTEL WISATA]]></cell><cell><![CDATA[SLO Hotel Wisata]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[27]]></cell><cell><![CDATA[HUTAMA KARYA (PERSERO)]]></cell><cell><![CDATA[Jas Pelaksanaan Uji Lingkungan di Divisi OPJT Cabang Jalan Tol Palembang - Simpang Indralaya]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[28]]></cell><cell><![CDATA[HUTAMA KARYA (PERSERO)]]></cell><cell><![CDATA[Jas Pelaksanaan Uji Lingkungan di Divisi OPJT Cabang Jalan Tol Palembang - Simpang Indralaya]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[29]]></cell><cell><![CDATA[INTIMEGAH BESTARI MANDIRI]]></cell><cell><![CDATA[Sertifikasi Laik Operasi PLTD 
+PT Intimegah Bestari Mandiri]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[30]]></cell><cell><![CDATA[KIRANA MUSI PERSADA]]></cell><cell><![CDATA[SLO PT Kirana Musi Persada]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[31]]></cell><cell><![CDATA[MANDIANGIN BATUBARA]]></cell><cell><![CDATA[SLO PT Mandiangin Batubara]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[32]]></cell><cell><![CDATA[MANDIANGIN BATUBARA]]></cell><cell><![CDATA[SLO PT Mandiangin Batubara]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[33]]></cell><cell><![CDATA[MENTARI SUBUR ABADI]]></cell><cell><![CDATA[Sertifikasi Laik Operasi PLTD
+PT Mentari Subur Abadi]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[34]]></cell><cell><![CDATA[PELANGI INTI PERTIWI]]></cell><cell><![CDATA[Sertifikasi Laik Operasi PLTD
+PT Pelangi Inti Pertiwi]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[35]]></cell><cell><![CDATA[PERTAMINA (PERSERO)]]></cell><cell><![CDATA[Study Pemetaan Sosial (Social Mapping) Program Proper Hijau untuk Program CSR  DPPU SMB II Tahun 2019 PT Pertamina]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[36]]></cell><cell><![CDATA[PERTAMINA (PERSERO) REFINERY UNIT III]]></cell><cell><![CDATA[Jasa Survey Quantity and Quality Refined Bleached Deodorized Palm Oil (RBDPO) PT Pertamina (Persero)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[37]]></cell><cell><![CDATA[PLN (PERSERO) PLTU BUKIT ASAM]]></cell><cell><![CDATA[STOCKPILE PLN BUKIT ASAM ADD II]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[38]]></cell><cell><![CDATA[PLN (PERSERO) SEKTOR PEMBANGKITAN BUKIT ASAM]]></cell><cell><![CDATA[Stock OPname Fisik Tangki HSD PLTU Bukit Asam]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[39]]></cell><cell><![CDATA[PLN (PERSERO) SEKTOR PEMBANGKITAN BUKIT ASAM]]></cell><cell><![CDATA[Jasa Resertifikasi Pesawat Angkat Angkat Resertifikasi Penyalur Petir PLN (Persero) Unit Pelaksana Bukit Asam]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[40]]></cell><cell><![CDATA[PLN (PERSERO) SEKTOR PEMBANGKITAN BUKIT ASAM]]></cell><cell><![CDATA[Pengadaan Jasa Pelatihan K3 Untuk Karyawan (Pelatihan HIRADC dan Auditor K3) Unit Pelaksana Pembangkitan Bukit Asam]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[41]]></cell><cell><![CDATA[PLN (PERSERO) SEKTOR PEMBANGKITAN TARAHAN]]></cell><cell><![CDATA[KHS Jasa Stock Opname Fisik Batubara dan HSD UPK Tarahan]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[42]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN SELATAN (UIP III)]]></cell><cell><![CDATA[Jasa Penyusunan Laporan Pelaksanaan Izin Lingkungan (UKL-UPL/RKL-UPL)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[43]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN SELATAN (UIP III)]]></cell><cell><![CDATA[SMK3di PT PLN (Persero) UPPJ Sumsel, PT PLN (Persero) UPPJ Bangka Belitung dan PT PLN (Persero) UPPJ lampung & Bengkulu (Paket SMK3)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[44]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN SELATAN (UIP III)]]></cell><cell><![CDATA[Survey Extension GI 150 kV Sukarame]]></cell><cell><![CDATA[76,901,000]]></cell></row>
+<row><cell><![CDATA[45]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN SELATAN (UIP III)]]></cell><cell><![CDATA[Survey GI Ext 150 kV Pagelaran]]></cell><cell><![CDATA[76,901,000]]></cell></row>
+<row><cell><![CDATA[46]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN TENGAH]]></cell><cell><![CDATA[Inventarisasi dan Validasi Tapak Tower Pembangunan SUTT 150 kV Kuala Tungkal Pelabuhan Dagang Sebanyak 95 Tapak Tower]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[47]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN TENGAH]]></cell><cell><![CDATA[Inventarisasi dan Validasi Tapak Tower Pembangunan SUTT 150 kV Kuala Tungkal Pelabuhan Dagang Sebanyak 95 Tapak Tower]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[48]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN TENGAH]]></cell><cell><![CDATA[Jasa Konsultansi Pengurusan Izin Pinjam Pakai Kawasan Hitan (IPPKH) untuk Pembangunan T/L 150 kV di Kabupaten Tanjung Jabung Timur - Tanjung Jabung Barat Prov. Jambi 75 Ha PT PLN (Persero) UIP SUMBAGTENG]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[49]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN III]]></cell><cell><![CDATA[MANAJEMEN JASA INVENTARISASI,IDENTIFIKASI DAN PENGURUSAN PERIJINAN JALUR SUTT,SUTET DAN GARDU INDUK PADA FAS KONSTUKSI (PAKET INV-02)]]></cell><cell><![CDATA[744,282,000]]></cell></row>
+<row><cell><![CDATA[50]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN III]]></cell><cell><![CDATA[MANAJEMEN JASA INVENTARISASI,IDENTIFIKASI DAN PENGURUSAN PERIJINAN JALUR SUTT,SUTET DAN GARDU INDUK PADA FAS KONSTUKSI (PAKET INV-02)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[51]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN III]]></cell><cell><![CDATA[INVENTARISASI ,IDENTIFIKASI (PAKET INV-03) PLN UIP]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[52]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN III]]></cell><cell><![CDATA[INVENTARISASI ,IDENTIFIKASI (PAKET INV-03) PLN UIP]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[53]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN III]]></cell><cell><![CDATA[Pekerjaan Jasa Pengurusan IPPKH SUTT dan USC 150 KV Sumsel - Babel (GI Tanjung Api Api - Landing Point Tanjung Carat) (paket HUT Sumba)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[54]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN III]]></cell><cell><![CDATA[Jasa Inventarisasi dan Pemetaan Tanah, Bangunan dan Tanam Tumbuh Jalur SUTT 150 Kv Bangko - Merangin - Sungai Penuh PT. PLN UIP III (INV-06)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[55]]></cell><cell><![CDATA[PLN (PERSERO) UP3 BENGKULU]]></cell><cell><![CDATA[Jasa Set Up SMK3 Area Bengkulu]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[56]]></cell><cell><![CDATA[PLN (PERSERO) UP3 LAHAT]]></cell><cell><![CDATA[Set Up SMK3 T. PLN (PERSERO) UIWS2JB UP3 LAHAT]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[57]]></cell><cell><![CDATA[PLN (PERSERO) UP3 MUARO BUNGO]]></cell><cell><![CDATA[Set Up SMK3 PLN (PERSERO) UP3 MUARO BUNGO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[58]]></cell><cell><![CDATA[PLN (PERSERO) UP3 PALEMBANG]]></cell><cell><![CDATA[Set Up SMK3 PT. PLN (PERSERO) UP3 PALEMBANG]]></cell><cell><![CDATA[60,527,500]]></cell></row>
+<row><cell><![CDATA[59]]></cell><cell><![CDATA[PLN (PERSERO) WILAYAH SUMSEL, JAMBI & BENGKULU]]></cell><cell><![CDATA[Set Up SMK3 PT. PLN (PERSERO) UIWS2JB]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[60]]></cell><cell><![CDATA[PLN (PERSERO) WILAYAH SUMSEL, JAMBI & BENGKULU]]></cell><cell><![CDATA[Jasa Set Up SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[61]]></cell><cell><![CDATA[PLN (PERSERO) WILAYAH SUMSEL, JAMBI & BENGKULU]]></cell><cell><![CDATA[Jasa Pelatihan Tanggap Darurat PT PLN (Persero) Unit Induk Wilayah S2JB]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[62]]></cell><cell><![CDATA[PUNCAK PRIMA LESTARI]]></cell><cell><![CDATA[Jasa Sertifikasi Laik Operasi 1 Unit (SLO) PLTD / genset PT Puncak Prima Lestari Bangka]]></cell><cell><![CDATA[1,375,000]]></cell></row>
+<row><cell><![CDATA[63]]></cell><cell><![CDATA[PUNDI REZEKI HOTEL]]></cell><cell><![CDATA[SLO PUNDI REZEKI HOTEL]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[64]]></cell><cell><![CDATA[PUPUK SRIWIDJAJA PALEMBANG (PUSRI)]]></cell><cell><![CDATA[Pengawasan Pemuatan Pupuk dan Ammonia ]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[65]]></cell><cell><![CDATA[REKAYASA INDUSTRI (REKIND)]]></cell><cell><![CDATA[SLO STEAM TURBINE GENERATOR]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[66]]></cell><cell><![CDATA[RIGUNAS AGRI UTAMA]]></cell><cell><![CDATA[Sertifikasi Laik Operasi PT Rigunas Agri Utama]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[67]]></cell><cell><![CDATA[ROYAL PRIMA JAMBI]]></cell><cell><![CDATA[SLO ROYAL PRIMA JAMBI]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[68]]></cell><cell><![CDATA[RSUD PROF. DR.HM. CHATIB QUZWAIN]]></cell><cell><![CDATA[SLO RSUD Sarolangun]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[69]]></cell><cell><![CDATA[RSUD PROF. DR.HM. CHATIB QUZWAIN]]></cell><cell><![CDATA[SLO RSUD Sarolangun]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[70]]></cell><cell><![CDATA[SATU SATRIA RAYA]]></cell><cell><![CDATA[Jasa Tes CBR, Sand Cone, DPC PT. Satu Satria Raya]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[71]]></cell><cell><![CDATA[SATU SATRIA RAYA]]></cell><cell><![CDATA[Jasa Tes CBR, Sand Cone, DPC PT. Satu Satria Raya]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[72]]></cell><cell><![CDATA[SAWIT JAMBI LESTARI]]></cell><cell><![CDATA[SLO SAWIT JAMBI LESTARI]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[73]]></cell><cell><![CDATA[SAWIT JUJUHAN ABADI]]></cell><cell><![CDATA[SLO SAWIT JUJUHAN ABADI]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[74]]></cell><cell><![CDATA[SEKAWAN KONTRINDO]]></cell><cell><![CDATA[NDT Pipeline]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[75]]></cell><cell><![CDATA[SEKAWAN KONTRINDO]]></cell><cell><![CDATA[NDT Pipeline]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[76]]></cell><cell><![CDATA[SHENHUA GUOHUA LION POWER INDONESIA]]></cell><cell><![CDATA[Jasa Pemantauan Lingkungan Semester 2]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[77]]></cell><cell><![CDATA[SINAR ALAM PERMAI]]></cell><cell><![CDATA[Jasa Lingkungan Kerja]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[78]]></cell><cell><![CDATA[SUKSES GEMILANG PALEM]]></cell><cell><![CDATA[SLO SUKSES GEMILANG]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[79]]></cell><cell><![CDATA[SURYA INTERNUSA HOTELS]]></cell><cell><![CDATA[SLO SURYA INTERNUSA HOTELS]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[80]]></cell><cell><![CDATA[SURYA UNGGAS MANDIRI]]></cell><cell><![CDATA[SLO PT Surya Unggas Mandiri]]></cell><cell><![CDATA[36,520,000]]></cell></row>
+<row><cell><![CDATA[81]]></cell><cell><![CDATA[SURYA UNGGAS MANDIRI]]></cell><cell><![CDATA[SLO PT Surya Unggas Mandiri]]></cell><cell><![CDATA[45,650,000]]></cell></row>
+<row><cell><![CDATA[82]]></cell><cell><![CDATA[SWADAYA BHAKTI NEGARAMAS]]></cell><cell><![CDATA[Sertifikasi Laik Operasi PLTD
+PT Swadaya Bhakti Negaramas]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[83]]></cell><cell><![CDATA[SWISS BEL HOTEL]]></cell><cell><![CDATA[SLO SELARAS JAYA INDAH HOTELINDO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[84]]></cell><cell><![CDATA[TEBO INDAH]]></cell><cell><![CDATA[SLO Tebo Indah]]></cell><cell><![CDATA[28,600,000]]></cell></row>
+<row><cell><![CDATA[85]]></cell><cell><![CDATA[TIRTA UTAMA JAYA]]></cell><cell><![CDATA[SLO PLTD / Genset PT. Tirta Utama Jaya]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[86]]></cell><cell><![CDATA[UTAMA TEGUH ABADI]]></cell><cell><![CDATA[SLO PT Utama Teguh Abadi (Jambi City Center)]]></cell><cell><![CDATA[4,599,999]]></cell></row>
+<row><cell><![CDATA[87]]></cell><cell><![CDATA[UTAMA TEGUH ABADI]]></cell><cell><![CDATA[SLO PT Utama Teguh Abadi (Jambi City Center)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[88]]></cell><cell><![CDATA[UTAMA TEGUH ABADI]]></cell><cell><![CDATA[SLO PT Utama Teguh Abadi (Jambi City Center)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[89]]></cell><cell><![CDATA[VICTORIA]]></cell><cell><![CDATA[Jasa Sertifikasi Laik Operasi (SLO) 1 Unit PLTD / Genset dan Izin Operasi CV. Victoria]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[90]]></cell><cell><![CDATA[VISTA AGUNG KENCANA]]></cell><cell><![CDATA[Sertifikat Laik Operasi VISTA AGUNG KENCANA]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[91]]></cell><cell><![CDATA[YAY. YK MADIRA]]></cell><cell><![CDATA[Jasa SLO PLTD/Genset RSIA YK Madira Palembang]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[92]]></cell><cell><![CDATA[ZHEJIANG TENAGA PEMBANGUNAN INDONESIA]]></cell><cell><![CDATA[Jasa Pengujian Kualitas Air PT Zhejiang Tenaga Pembangunan Indonesia]]></cell><cell><![CDATA[0]]></cell></row></rows><rows profile='color'><head><columns><column  width='50' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[No.]]></column><column  width='220' align='left' type='ro' hidden='false' sort='str' color=''><![CDATA[ Nama Klien]]></column><column  width='320' align='left' type='ron' hidden='false' sort='int' color=''><![CDATA[ Nama Proyek]]></column><column  width='120' align='right' type='ron' hidden='false' sort='int' color=''><![CDATA[ Piutang]]></column></columns></head>
+<foot>
+<columns>
+<column colspan='3' ><![CDATA[TOTAL]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[]]></column>
+<column><![CDATA[1,165,034,497]]></column>
+</columns>
+</foot><row><cell><![CDATA[1]]></cell><cell><![CDATA[ANGKASA PURA II (PERSERO) CABANG PALEMBANG]]></cell><cell><![CDATA[Jasa Pengukuran/Pemantauan Lingkungan Semester I Tahun 2019]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[ANGSO DUO SAWIT]]></cell><cell><![CDATA[SLO PT Angso Duo Sawit]]></cell><cell><![CDATA[33,440,000]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[ANGSO DUO SAWIT]]></cell><cell><![CDATA[SLO PT Angso Duo Sawit]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[BANK PEMBANGUNAN DAERAH SUMATERA SELATAN DAN BANGKA BELITUNG]]></cell><cell><![CDATA[Jas Konsultansi Pengelolaan Gedung Bank Sumsel Babel Jakabaring]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[BARA ALAM UTAMA]]></cell><cell><![CDATA[Jasa SLO 5 Unit PLTD/Genset PT. Bara Alam Utama]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[BINTANG AGUNG PERSADA]]></cell><cell><![CDATA[ANALISA AIR LIMBAH]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[BINTANG GASING PERSADA]]></cell><cell><![CDATA[Jasa SLO 2 unit PLTD/Genset PT Bintang Gasing Persada]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[BUKIT ASAM (PERSERO) TBK]]></cell><cell><![CDATA[JASA KONSULTAN MANAJEMEN BUKIT ASAM ADD III]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[BUKIT ASAM (PERSERO) TBK]]></cell><cell><![CDATA[JASA KONSULTAN MANAJEMEN BUKIT ASAM ADD III]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[CAHAYA ABADI HOTELINDO]]></cell><cell><![CDATA[SLO CAHAYA ABADI HOTELINDO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[CAHAYA MURNI ANGSO DUO]]></cell><cell><![CDATA[Sertifikasi Laik Operasi CAHAYA MURNI ANGSO DUO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[CATURADILUHUR SENTOSA]]></cell><cell><![CDATA[SLO Caturadiluhur Sentosa]]></cell><cell><![CDATA[6,600,000]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[CERIA HOTELINDO]]></cell><cell><![CDATA[Ssertifikasi Laik Operasi Genset CERIA HOTELINDO]]></cell><cell><![CDATA[1,399,999]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[CITRAKOPRASINDO TANI]]></cell><cell><![CDATA[SLO CITRA KOPRASINDO TANI]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[COSMO JAMBI]]></cell><cell><![CDATA[Sertifikasi Laik Operasi COSMO JAMBI]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[DSSP POWER SUMSEL]]></cell><cell><![CDATA[Jasa Pengujian Emisi PT DSSP Power Sumsel]]></cell><cell><![CDATA[7,150,000]]></cell></row>
+<row><cell><![CDATA[17]]></cell><cell><![CDATA[DSSP POWER SUMSEL]]></cell><cell><![CDATA[Jasa Pengukuran 10 Titik Ergonomi PT DSSP Power Sumsel]]></cell><cell><![CDATA[30,338,000]]></cell></row>
+<row><cell><![CDATA[18]]></cell><cell><![CDATA[DSSP POWER SUMSEL]]></cell><cell><![CDATA[Pengujian Kualitas Air Bersih PT DSSP POwer Sumsel]]></cell><cell><![CDATA[3,850,000]]></cell></row>
+<row><cell><![CDATA[19]]></cell><cell><![CDATA[DSSP POWER SUMSEL]]></cell><cell><![CDATA[Jasa Radiography & UT Thikness PT DSSP Power Sumsel]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[20]]></cell><cell><![CDATA[DSSP POWER SUMSEL]]></cell><cell><![CDATA[Jasa Inspeksi UT Thikness PT DSSP Power Sumsel]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[21]]></cell><cell><![CDATA[DSSP POWER SUMSEL]]></cell><cell><![CDATA[Jasa Inspeksi Radiography PT DSSP Power Sumsel]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[22]]></cell><cell><![CDATA[DUTA REZEKI KENCANA]]></cell><cell><![CDATA[SLO DUTA REZEKI KENCANA]]></cell><cell><![CDATA[1,399,999]]></cell></row>
+<row><cell><![CDATA[23]]></cell><cell><![CDATA[DUTA REZEKI KENCANA]]></cell><cell><![CDATA[SLO SAWIT JAMBI LESTARI]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[24]]></cell><cell><![CDATA[GUTHRIE PECCONINA INDONESIA]]></cell><cell><![CDATA[Jasa SLO PLTD / Genset 1 Unit Genset PT Guthrie Pecconina Indonesia]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[25]]></cell><cell><![CDATA[HOTEL WISATA]]></cell><cell><![CDATA[SLO Hotel Wisata]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[26]]></cell><cell><![CDATA[HOTEL WISATA]]></cell><cell><![CDATA[SLO Hotel Wisata]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[27]]></cell><cell><![CDATA[HUTAMA KARYA (PERSERO)]]></cell><cell><![CDATA[Jas Pelaksanaan Uji Lingkungan di Divisi OPJT Cabang Jalan Tol Palembang - Simpang Indralaya]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[28]]></cell><cell><![CDATA[HUTAMA KARYA (PERSERO)]]></cell><cell><![CDATA[Jas Pelaksanaan Uji Lingkungan di Divisi OPJT Cabang Jalan Tol Palembang - Simpang Indralaya]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[29]]></cell><cell><![CDATA[INTIMEGAH BESTARI MANDIRI]]></cell><cell><![CDATA[Sertifikasi Laik Operasi PLTD 
+PT Intimegah Bestari Mandiri]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[30]]></cell><cell><![CDATA[KIRANA MUSI PERSADA]]></cell><cell><![CDATA[SLO PT Kirana Musi Persada]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[31]]></cell><cell><![CDATA[MANDIANGIN BATUBARA]]></cell><cell><![CDATA[SLO PT Mandiangin Batubara]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[32]]></cell><cell><![CDATA[MANDIANGIN BATUBARA]]></cell><cell><![CDATA[SLO PT Mandiangin Batubara]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[33]]></cell><cell><![CDATA[MENTARI SUBUR ABADI]]></cell><cell><![CDATA[Sertifikasi Laik Operasi PLTD
+PT Mentari Subur Abadi]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[34]]></cell><cell><![CDATA[PELANGI INTI PERTIWI]]></cell><cell><![CDATA[Sertifikasi Laik Operasi PLTD
+PT Pelangi Inti Pertiwi]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[35]]></cell><cell><![CDATA[PERTAMINA (PERSERO)]]></cell><cell><![CDATA[Study Pemetaan Sosial (Social Mapping) Program Proper Hijau untuk Program CSR  DPPU SMB II Tahun 2019 PT Pertamina]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[36]]></cell><cell><![CDATA[PERTAMINA (PERSERO) REFINERY UNIT III]]></cell><cell><![CDATA[Jasa Survey Quantity and Quality Refined Bleached Deodorized Palm Oil (RBDPO) PT Pertamina (Persero)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[37]]></cell><cell><![CDATA[PLN (PERSERO) PLTU BUKIT ASAM]]></cell><cell><![CDATA[STOCKPILE PLN BUKIT ASAM ADD II]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[38]]></cell><cell><![CDATA[PLN (PERSERO) SEKTOR PEMBANGKITAN BUKIT ASAM]]></cell><cell><![CDATA[Stock OPname Fisik Tangki HSD PLTU Bukit Asam]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[39]]></cell><cell><![CDATA[PLN (PERSERO) SEKTOR PEMBANGKITAN BUKIT ASAM]]></cell><cell><![CDATA[Jasa Resertifikasi Pesawat Angkat Angkat Resertifikasi Penyalur Petir PLN (Persero) Unit Pelaksana Bukit Asam]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[40]]></cell><cell><![CDATA[PLN (PERSERO) SEKTOR PEMBANGKITAN BUKIT ASAM]]></cell><cell><![CDATA[Pengadaan Jasa Pelatihan K3 Untuk Karyawan (Pelatihan HIRADC dan Auditor K3) Unit Pelaksana Pembangkitan Bukit Asam]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[41]]></cell><cell><![CDATA[PLN (PERSERO) SEKTOR PEMBANGKITAN TARAHAN]]></cell><cell><![CDATA[KHS Jasa Stock Opname Fisik Batubara dan HSD UPK Tarahan]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[42]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN SELATAN (UIP III)]]></cell><cell><![CDATA[Jasa Penyusunan Laporan Pelaksanaan Izin Lingkungan (UKL-UPL/RKL-UPL)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[43]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN SELATAN (UIP III)]]></cell><cell><![CDATA[SMK3di PT PLN (Persero) UPPJ Sumsel, PT PLN (Persero) UPPJ Bangka Belitung dan PT PLN (Persero) UPPJ lampung & Bengkulu (Paket SMK3)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[44]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN SELATAN (UIP III)]]></cell><cell><![CDATA[Survey Extension GI 150 kV Sukarame]]></cell><cell><![CDATA[76,901,000]]></cell></row>
+<row><cell><![CDATA[45]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN SELATAN (UIP III)]]></cell><cell><![CDATA[Survey GI Ext 150 kV Pagelaran]]></cell><cell><![CDATA[76,901,000]]></cell></row>
+<row><cell><![CDATA[46]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN TENGAH]]></cell><cell><![CDATA[Inventarisasi dan Validasi Tapak Tower Pembangunan SUTT 150 kV Kuala Tungkal Pelabuhan Dagang Sebanyak 95 Tapak Tower]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[47]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN TENGAH]]></cell><cell><![CDATA[Inventarisasi dan Validasi Tapak Tower Pembangunan SUTT 150 kV Kuala Tungkal Pelabuhan Dagang Sebanyak 95 Tapak Tower]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[48]]></cell><cell><![CDATA[PLN (PERSERO) UIP SUMATERA BAGIAN TENGAH]]></cell><cell><![CDATA[Jasa Konsultansi Pengurusan Izin Pinjam Pakai Kawasan Hitan (IPPKH) untuk Pembangunan T/L 150 kV di Kabupaten Tanjung Jabung Timur - Tanjung Jabung Barat Prov. Jambi 75 Ha PT PLN (Persero) UIP SUMBAGTENG]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[49]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN III]]></cell><cell><![CDATA[MANAJEMEN JASA INVENTARISASI,IDENTIFIKASI DAN PENGURUSAN PERIJINAN JALUR SUTT,SUTET DAN GARDU INDUK PADA FAS KONSTUKSI (PAKET INV-02)]]></cell><cell><![CDATA[744,282,000]]></cell></row>
+<row><cell><![CDATA[50]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN III]]></cell><cell><![CDATA[MANAJEMEN JASA INVENTARISASI,IDENTIFIKASI DAN PENGURUSAN PERIJINAN JALUR SUTT,SUTET DAN GARDU INDUK PADA FAS KONSTUKSI (PAKET INV-02)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[51]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN III]]></cell><cell><![CDATA[INVENTARISASI ,IDENTIFIKASI (PAKET INV-03) PLN UIP]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[52]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN III]]></cell><cell><![CDATA[INVENTARISASI ,IDENTIFIKASI (PAKET INV-03) PLN UIP]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[53]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN III]]></cell><cell><![CDATA[Pekerjaan Jasa Pengurusan IPPKH SUTT dan USC 150 KV Sumsel - Babel (GI Tanjung Api Api - Landing Point Tanjung Carat) (paket HUT Sumba)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[54]]></cell><cell><![CDATA[PLN (PERSERO) UNIT INDUK PEMBANGUNAN III]]></cell><cell><![CDATA[Jasa Inventarisasi dan Pemetaan Tanah, Bangunan dan Tanam Tumbuh Jalur SUTT 150 Kv Bangko - Merangin - Sungai Penuh PT. PLN UIP III (INV-06)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[55]]></cell><cell><![CDATA[PLN (PERSERO) UP3 BENGKULU]]></cell><cell><![CDATA[Jasa Set Up SMK3 Area Bengkulu]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[56]]></cell><cell><![CDATA[PLN (PERSERO) UP3 LAHAT]]></cell><cell><![CDATA[Set Up SMK3 T. PLN (PERSERO) UIWS2JB UP3 LAHAT]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[57]]></cell><cell><![CDATA[PLN (PERSERO) UP3 MUARO BUNGO]]></cell><cell><![CDATA[Set Up SMK3 PLN (PERSERO) UP3 MUARO BUNGO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[58]]></cell><cell><![CDATA[PLN (PERSERO) UP3 PALEMBANG]]></cell><cell><![CDATA[Set Up SMK3 PT. PLN (PERSERO) UP3 PALEMBANG]]></cell><cell><![CDATA[60,527,500]]></cell></row>
+<row><cell><![CDATA[59]]></cell><cell><![CDATA[PLN (PERSERO) WILAYAH SUMSEL, JAMBI & BENGKULU]]></cell><cell><![CDATA[Set Up SMK3 PT. PLN (PERSERO) UIWS2JB]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[60]]></cell><cell><![CDATA[PLN (PERSERO) WILAYAH SUMSEL, JAMBI & BENGKULU]]></cell><cell><![CDATA[Jasa Set Up SMK3]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[61]]></cell><cell><![CDATA[PLN (PERSERO) WILAYAH SUMSEL, JAMBI & BENGKULU]]></cell><cell><![CDATA[Jasa Pelatihan Tanggap Darurat PT PLN (Persero) Unit Induk Wilayah S2JB]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[62]]></cell><cell><![CDATA[PUNCAK PRIMA LESTARI]]></cell><cell><![CDATA[Jasa Sertifikasi Laik Operasi 1 Unit (SLO) PLTD / genset PT Puncak Prima Lestari Bangka]]></cell><cell><![CDATA[1,375,000]]></cell></row>
+<row><cell><![CDATA[63]]></cell><cell><![CDATA[PUNDI REZEKI HOTEL]]></cell><cell><![CDATA[SLO PUNDI REZEKI HOTEL]]></cell><cell><![CDATA[5,500,000]]></cell></row>
+<row><cell><![CDATA[64]]></cell><cell><![CDATA[PUPUK SRIWIDJAJA PALEMBANG (PUSRI)]]></cell><cell><![CDATA[Pengawasan Pemuatan Pupuk dan Ammonia ]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[65]]></cell><cell><![CDATA[REKAYASA INDUSTRI (REKIND)]]></cell><cell><![CDATA[SLO STEAM TURBINE GENERATOR]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[66]]></cell><cell><![CDATA[RIGUNAS AGRI UTAMA]]></cell><cell><![CDATA[Sertifikasi Laik Operasi PT Rigunas Agri Utama]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[67]]></cell><cell><![CDATA[ROYAL PRIMA JAMBI]]></cell><cell><![CDATA[SLO ROYAL PRIMA JAMBI]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[68]]></cell><cell><![CDATA[RSUD PROF. DR.HM. CHATIB QUZWAIN]]></cell><cell><![CDATA[SLO RSUD Sarolangun]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[69]]></cell><cell><![CDATA[RSUD PROF. DR.HM. CHATIB QUZWAIN]]></cell><cell><![CDATA[SLO RSUD Sarolangun]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[70]]></cell><cell><![CDATA[SATU SATRIA RAYA]]></cell><cell><![CDATA[Jasa Tes CBR, Sand Cone, DPC PT. Satu Satria Raya]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[71]]></cell><cell><![CDATA[SATU SATRIA RAYA]]></cell><cell><![CDATA[Jasa Tes CBR, Sand Cone, DPC PT. Satu Satria Raya]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[72]]></cell><cell><![CDATA[SAWIT JAMBI LESTARI]]></cell><cell><![CDATA[SLO SAWIT JAMBI LESTARI]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[73]]></cell><cell><![CDATA[SAWIT JUJUHAN ABADI]]></cell><cell><![CDATA[SLO SAWIT JUJUHAN ABADI]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[74]]></cell><cell><![CDATA[SEKAWAN KONTRINDO]]></cell><cell><![CDATA[NDT Pipeline]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[75]]></cell><cell><![CDATA[SEKAWAN KONTRINDO]]></cell><cell><![CDATA[NDT Pipeline]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[76]]></cell><cell><![CDATA[SHENHUA GUOHUA LION POWER INDONESIA]]></cell><cell><![CDATA[Jasa Pemantauan Lingkungan Semester 2]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[77]]></cell><cell><![CDATA[SINAR ALAM PERMAI]]></cell><cell><![CDATA[Jasa Lingkungan Kerja]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[78]]></cell><cell><![CDATA[SUKSES GEMILANG PALEM]]></cell><cell><![CDATA[SLO SUKSES GEMILANG]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[79]]></cell><cell><![CDATA[SURYA INTERNUSA HOTELS]]></cell><cell><![CDATA[SLO SURYA INTERNUSA HOTELS]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[80]]></cell><cell><![CDATA[SURYA UNGGAS MANDIRI]]></cell><cell><![CDATA[SLO PT Surya Unggas Mandiri]]></cell><cell><![CDATA[36,520,000]]></cell></row>
+<row><cell><![CDATA[81]]></cell><cell><![CDATA[SURYA UNGGAS MANDIRI]]></cell><cell><![CDATA[SLO PT Surya Unggas Mandiri]]></cell><cell><![CDATA[45,650,000]]></cell></row>
+<row><cell><![CDATA[82]]></cell><cell><![CDATA[SWADAYA BHAKTI NEGARAMAS]]></cell><cell><![CDATA[Sertifikasi Laik Operasi PLTD
+PT Swadaya Bhakti Negaramas]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[83]]></cell><cell><![CDATA[SWISS BEL HOTEL]]></cell><cell><![CDATA[SLO SELARAS JAYA INDAH HOTELINDO]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[84]]></cell><cell><![CDATA[TEBO INDAH]]></cell><cell><![CDATA[SLO Tebo Indah]]></cell><cell><![CDATA[28,600,000]]></cell></row>
+<row><cell><![CDATA[85]]></cell><cell><![CDATA[TIRTA UTAMA JAYA]]></cell><cell><![CDATA[SLO PLTD / Genset PT. Tirta Utama Jaya]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[86]]></cell><cell><![CDATA[UTAMA TEGUH ABADI]]></cell><cell><![CDATA[SLO PT Utama Teguh Abadi (Jambi City Center)]]></cell><cell><![CDATA[4,599,999]]></cell></row>
+<row><cell><![CDATA[87]]></cell><cell><![CDATA[UTAMA TEGUH ABADI]]></cell><cell><![CDATA[SLO PT Utama Teguh Abadi (Jambi City Center)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[88]]></cell><cell><![CDATA[UTAMA TEGUH ABADI]]></cell><cell><![CDATA[SLO PT Utama Teguh Abadi (Jambi City Center)]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[89]]></cell><cell><![CDATA[VICTORIA]]></cell><cell><![CDATA[Jasa Sertifikasi Laik Operasi (SLO) 1 Unit PLTD / Genset dan Izin Operasi CV. Victoria]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[90]]></cell><cell><![CDATA[VISTA AGUNG KENCANA]]></cell><cell><![CDATA[Sertifikat Laik Operasi VISTA AGUNG KENCANA]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[91]]></cell><cell><![CDATA[YAY. YK MADIRA]]></cell><cell><![CDATA[Jasa SLO PLTD/Genset RSIA YK Madira Palembang]]></cell><cell><![CDATA[0]]></cell></row>
+<row><cell><![CDATA[92]]></cell><cell><![CDATA[ZHEJIANG TENAGA PEMBANGUNAN INDONESIA]]></cell><cell><![CDATA[Jasa Pengujian Kualitas Air PT Zhejiang Tenaga Pembangunan Indonesia]]></cell><cell><![CDATA[0]]></cell></row></rows>

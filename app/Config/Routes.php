@@ -69,12 +69,38 @@ $routes->post('menuManagement/createSubMenu', 'Developers\MenuManagement::create
 //Developer Routes
 $routes->get('menuManagement', 'Developers\MenuManagement::index');
 $routes->get('crudGenerator', 'Developers\CRUDGenerator::index');
+$routes->get('penilaianRisikoUnit', 'ProfilRisikoUnitController::index');
 
-$routes->get('master_profil_sasaran', 'MasterProfilSasaranController::index');
-$routes->get('master_profil_sasaran/data', 'MasterProfilSasaranController::getData');
-$routes->post('master_profil_sasaran/save', 'MasterProfilSasaranController::saveData');
-$routes->get('master_profil_sasaran/edit/(:num)', 'MasterProfilSasaranController::editData/$1');
-$routes->post('master_profil_sasaran/delete/(:num)', 'MasterProfilSasaranController::deleteData/$1');
+$routes->group('master', function ($routes) {
+    // Sasaran
+    $routes->get('master_profil_sasaran', 'MasterProfilSasaranController::index');
+    $routes->get('master_profil_sasaran/data', 'MasterProfilSasaranController::getData');
+    $routes->post('master_profil_sasaran/save', 'MasterProfilSasaranController::saveData');
+    $routes->get('master_profil_sasaran/edit/(:num)', 'MasterProfilSasaranController::editData/$1');
+    $routes->post('master_profil_sasaran/delete/(:num)', 'MasterProfilSasaranController::deleteData/$1');
+
+    // Peristiwa
+    $routes->get('master_profil_peristiwa', 'MasterProfilPeristiwaController::index');
+    $routes->get('master_profil_peristiwa/data', 'MasterProfilPeristiwaController::getData');
+    $routes->post('master_profil_peristiwa/save', 'MasterProfilPeristiwaController::saveData');
+    $routes->get('master_profil_peristiwa/edit/(:num)', 'MasterProfilPeristiwaController::editData/$1');
+    $routes->post('master_profil_peristiwa/delete/(:num)', 'MasterProfilPeristiwaController::deleteData/$1');
+
+     // Penyebab
+     $routes->get('master_profil_penyebab', 'MasterProfilPenyebabController::index');
+     $routes->get('master_profil_penyebab/data', 'MasterProfilPenyebabController::getData');
+     $routes->post('master_profil_penyebab/save', 'MasterProfilPenyebabController::saveData');
+     $routes->get('master_profil_penyebab/edit/(:num)', 'MasterProfilPenyebabController::editData/$1');
+     $routes->post('master_profil_penyebab/delete/(:num)', 'MasterProfilPenyebabController::deleteData/$1');
+
+    // Mitigasi
+     $routes->get('master_profil_mitigasi', 'MasterProfilMitigasiController::index');
+     $routes->get('master_profil_mitigasi/data', 'MasterProfilMitigasiController::getData');
+     $routes->post('master_profil_mitigasi/save', 'MasterProfilMitigasiController::saveData');
+     $routes->get('master_profil_mitigasi/edit/(:num)', 'MasterProfilMitigasiController::editData/$1');
+     $routes->post('master_profil_mitigasi/delete/(:num)', 'MasterProfilMitigasiController::deleteData/$1');
+});
+
 
 /*
  * --------------------------------------------------------------------
