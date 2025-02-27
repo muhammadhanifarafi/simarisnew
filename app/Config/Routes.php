@@ -48,6 +48,13 @@ $routes->get('blocked', 'Welcome::forbiddenPage');
 $routes->get('register', 'Welcome::register');
 $routes->post('register', 'Welcome::registration');
 $routes->get('home', 'Home::index');
+$routes->get('home/info', 'Home::info');
+$routes->get('home/referensi', 'Home::referensi');
+$routes->get('home/pelaporanrisiko', 'Home::pelaporanrisiko');
+$routes->get('home/getuploadpelaoranrisiko', 'Home::getuploadpelaoranrisiko');
+$routes->get('home/dashboard_korporat', 'Home::dashboard_korporat');
+$routes->get('home/data_monitoringkri_das', 'Home::data_monitoringkri_das');
+
 $routes->get('users', 'Users::index');
 
 // Setting Routes

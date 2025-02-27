@@ -73,30 +73,40 @@
         // Initialize the DHTMLX grid
         var myGrid = new dhtmlXGridObject('grid_container');
 
-        // Define grid columns and headers
-        myGrid.setHeader("No,Level,Unit,Acuan,Status,Penilaian,Mitigasi,Risk Register,Top Risk,Monitoring KRI,History,Persetujuan,Status DPKMR,Monitoring");
-
-        // Set column types
-        myGrid.setColTypes("ed,ed,ed,ed,ed,ed,ed,ed,ed,ed,ed,ed,ed");
-
-        // Set column widths
-        myGrid.setInitWidths("60,100,100,150,100,100,150,150,150,150,150,150,100");
+        // Define grid columns and headers with specific styling
+        myGrid.setHeader("No.,LEVEL,UNIT,ACUAN,STATUS,PENILAIAN,MITIGASI,RISK REGISTER,TOP RISK,MONITORING KRI,HISTORY,PERSETUJUAN,STATUS DPKMR,MONITORING", null,
+            ["text-align:center;vertical-align:middle;font-size:0.8em;font-weight:bold;color:#404040;padding-right:10px;",
+            "text-align:center;vertical-align:middle;font-size:0.8em;font-weight:bold;color:#404040;padding-right:10px;",
+            "text-align:center;vertical-align:middle;font-size:0.8em;font-weight:bold;color:#404040;padding-right:10px;",
+            "text-align:center;vertical-align:middle;font-size:0.8em;font-weight:bold;color:#404040;padding-right:10px;",
+            "text-align:center;vertical-align:middle;font-size:0.8em;font-weight:bold;color:#404040;padding-right:10px;",
+            "text-align:center;vertical-align:middle;font-size:0.8em;font-weight:bold;color:#404040;padding-right:10px;",
+            "text-align:center;vertical-align:middle;font-size:0.8em;font-weight:bold;color:#404040;padding-right:10px;",
+            "text-align:center;vertical-align:middle;font-size:0.8em;font-weight:bold;color:#404040;padding-right:10px;",
+            "text-align:center;vertical-align:middle;font-size:0.8em;font-weight:bold;color:#404040;padding-right:10px;",
+            "text-align:center;vertical-align:middle;font-size:0.8em;font-weight:bold;color:#404040;padding-right:10px;",
+            "text-align:center;vertical-align:middle;font-size:0.8em;font-weight:bold;color:#404040;padding-right:10px;",
+            "text-align:center;vertical-align:middle;font-size:0.8em;font-weight:bold;color:#404040;padding-right:10px;",
+            "text-align:center;vertical-align:middle;font-size:0.8em;font-weight:bold;color:#404040;padding-right:10px;",
+            "text-align:center;vertical-align:middle;font-size:0.8em;font-weight:bold;color:#404040;padding-right:10px;"]);
 
         // Set column alignments
-        myGrid.setColAlign("center,center,center,center,center,center,center,center,center,center,center,center,center");
+        myGrid.setColAlign("center,center,left,left,center,center,center,center,center,center,center,center,center,center");
 
-        // Enable sorting by default (no need for enableSorting)
-        myGrid.setColSorting("int,str,str,str,str,str,str,str,str,str,str,str,str");
+        // Set column types (as in your original script, assuming readonly for this case)
+        myGrid.setColTypes("ron,ron,ron,ron,ron,ron,ron,ron,ron,ron,ron,ron,ron,ron");
 
-        // Enable editing
-        myGrid.setEditable(true);
-
-        // Set data for the grid (just an example of a few rows)
+        // Initialize the grid
         myGrid.init();
+
+        // Data Load
+        myGrid.load("<?php echo base_url()."profilRisikoUnitController/data_penilaian_unit_admin/all/all/all"?>",function(){			
+        });
+
+        // Adding sample rows (for demonstration)
         for (var i = 1; i <= 10; i++) {
             myGrid.addRow(i, [i, "Level " + i, "Unit " + i, "Ref " + i, "Status " + i, "Penilaian " + i, "Mitigasi " + i, "Risk Register " + i, "Top Risk " + i, "Monitoring KRI " + i, "History " + i, "Persetujuan " + i, "Status DPKMR " + i, "Monitoring " + i]);
         }
-
     </script>
 
     <?= $this->include('partials/customizer') ?>
